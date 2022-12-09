@@ -46,3 +46,12 @@ entrySelector = "div.summary-item"
 titleSelector = "a.summary-title-link"
 linkSelector = "a.summary-title-link"
 timeout = 120
+
+
+[cfan]
+title = "电脑爱好者"
+url = "https://www.cfan.com.cn/"
+entrySelector = "div.left-post-info > a"
+titleSelector = "h1.left-post-title"
+linkSelector = "h1.left-post-title"
+timeout = 120
