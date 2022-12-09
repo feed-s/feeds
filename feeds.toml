@@ -1,0 +1,48 @@
+[heartnn]
+title = "heartnn的自留地"
+url = "https://www.heartnn.com/archives/"
+entrySelector = "section > div > ul > li"
+titleSelector = "> a"
+linkSelector = "> a"
+timeout = 120
+
+
+[akarat]
+title = "Tristram"
+url = "https://akarat.xyz/"
+entrySelector = "li.post-item"
+titleSelector = "> span > a"
+linkSelector = "> span > a"
+timeout = 120
+
+[kisnows]
+title = "抹桥的博客"
+url = "https://blog.kisnows.com/archives/"
+entrySelector = "header.post-header"
+titleSelector = "a.post-title-link > span"
+linkSelector = "a.post-title-link > span"
+timeout = 120
+
+[shuxiao]
+title = "流水沉微"
+url = "https://shuxiao.wang/posts/"
+entrySelector = "div.post-item"
+titleSelector = "div"
+linkSelector = "a"
+timeout = 120
+
+[yinwang]
+title = "当然我在扯淡"
+url = "https://www.yinwang.org/"
+entrySelector = "li.list-group-item"
+titleSelector = "> a"
+linkSelector = "a"
+timeout = 120
+
+[chinese-future]
+title = "中国:历史与未来"
+url = "https://www.chinese-future.org/"
+entrySelector = "div.summary-item"
+titleSelector = "a.summary-title-link"
+linkSelector = "a.summary-title-link"
+timeout = 120
