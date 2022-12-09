@@ -47,11 +47,18 @@ titleSelector = "a.summary-title-link"
 linkSelector = "a.summary-title-link"
 timeout = 120
 
-
 [cfan]
 title = "电脑爱好者"
 url = "https://www.cfan.com.cn/"
 entrySelector = "div.left-post-info"
 titleSelector = "h1.left-post-title"
 linkSelector = "a"
+timeout = 120
+
+[melty]
+title = "Home - MeltyLand of geneLocated"
+url = "https://melty.land/"
+entrySelector = "a.mdc-card__primary-action"
+titleSelector = "h6.mdc-typography"
+linkSelector = "h6.mdc-typography"
 timeout = 120
