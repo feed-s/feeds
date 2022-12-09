@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cfan.com.cn/</id>
     <title>电脑爱好者</title>
-    <updated>2022-12-09T04:24:49.475Z</updated>
+    <updated>2022-12-09T04:30:24.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cfan.com.cn/cfan.ico</icon>
     <entry>
         <title type="html"><![CDATA[系统小技巧：文件高级属性&依赖关系看清楚]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.770Z</updated>
+        <updated>2022-12-09T04:30:23.467Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：文件高级属性&amp;依赖关系看清楚</h1>
 <div class="left-post-txt">如果要查看文件的属性，用Windows的文件右键菜单“属性”选项查看不够方便。而要查看文件之间的依赖关系，靠任务管理器本身也比较困难。借助于专用的第三方软件，则可以比...</div>]]></content>
     </entry>
@@ -17,7 +17,7 @@
         <title type="html"><![CDATA[办公小技巧：拒绝臃肿  办公文档瘦身有高招]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.774Z</updated>
+        <updated>2022-12-09T04:30:23.467Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：拒绝臃肿  办公文档瘦身有高招</h1>
 <div class="left-post-txt">一些朋友在办公时生成的文档体积非常大，这样既不方便分享，打开速度也非常慢。下面笔者介绍一些为文档瘦身的方法。</div>]]></content>
     </entry>
@@ -25,7 +25,7 @@
         <title type="html"><![CDATA[系统小技巧：泾渭分明  有线/无线网络选择更方便]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.777Z</updated>
+        <updated>2022-12-09T04:30:23.473Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：泾渭分明  有线/无线网络选择更方便</h1>
 <div class="left-post-txt">很多时候我们需要同时连接有线和无线网络，比如公司封禁了视频网站的访问，笔者需要观看在线视频操作说明、发布会时只能连接手机热点。由于还需要访问公司内网（使用内网打...</div>]]></content>
     </entry>
@@ -33,7 +33,7 @@
         <title type="html"><![CDATA[系统小技巧：从Windows中删除所有网络配置文件]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.778Z</updated>
+        <updated>2022-12-09T04:30:23.473Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：从Windows中删除所有网络配置文件</h1>
 <div class="left-post-txt">在工作中，我们的电脑可能需要连接到不同的网络中。每当我们换插不同的网线，连接到一个新的网络时，就会形成一个新的网络配置名称。这样，久而久之就会形成越来越多的网络...</div>]]></content>
     </entry>
@@ -41,7 +41,7 @@
         <title type="html"><![CDATA[办公小技巧：书写规范有参考  用Word自制英语四线三格范文]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.783Z</updated>
+        <updated>2022-12-09T04:30:23.474Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：书写规范有参考  用Word自制英语四线三格范文</h1>
 <div class="left-post-txt">从小开始就养成规范的书写习惯是孩子学好英语的基础。不过很多家长的英文基础都较差，而且在英文书写中，每个字母的写法都有严格的标准。如何为孩子们做出规范的写作素材，...</div>]]></content>
     </entry>
@@ -49,7 +49,7 @@
         <title type="html"><![CDATA[系统小技巧：用PowerShell脚本  DIY系统监控和管理器]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.784Z</updated>
+        <updated>2022-12-09T04:30:23.474Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：用PowerShell脚本  DIY系统监控和管理器</h1>
 <div class="left-post-txt">孩子一个人在家时，我们总是有些担心电脑的使用情况，希望能查看电脑的开关机时间，或者对孩子玩某个游戏的持续时间进行控制（如果超过设定的时间则强制退出该游戏）。虽然...</div>]]></content>
     </entry>
@@ -57,7 +57,7 @@
         <title type="html"><![CDATA[办公小技巧：巧妙制作客户的动态名片表]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.785Z</updated>
+        <updated>2022-12-09T04:30:23.475Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：巧妙制作客户的动态名片表</h1>
 <div class="left-post-txt">笔者的Excel文档中以便于输入的横排方式保存了很多客户的联系信息，在查找某个客户的信息时直接使用Excel的筛选、查找功能，得到的关联信息为横排显示，看起来不太直观。于...</div>]]></content>
     </entry>
@@ -65,7 +65,7 @@
         <title type="html"><![CDATA[系统小技巧：多种渠道  根据错误代码解决Windows问题]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.795Z</updated>
+        <updated>2022-12-09T04:30:23.478Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：多种渠道  根据错误代码解决Windows问题</h1>
 <div class="left-post-txt">在Windows的日常操作中，如果系统中的软件或者系统本身运行出错时，一般会给出错误代码。那么这些代码表示什么意思？我们如何才能通过这些代码来找到解决问题的方法呢？</div>]]></content>
     </entry>
@@ -73,7 +73,7 @@
         <title type="html"><![CDATA[办公小技巧：简单明了  用Excel补全会计科目编码]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.480Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：简单明了  用Excel补全会计科目编码</h1>
 <div class="left-post-txt">很多公司在使用金蝶、用友等电算化会计软件，但这些软件导出的会计科目为层级显示，有些为左对齐，有些则为段首缩进。为了便于财务人员查看，现在需要将它们转换为“一级科...</div>]]></content>
     </entry>
@@ -81,7 +81,7 @@
         <title type="html"><![CDATA[办公小技巧：另辟蹊径  Word数字批量设置更高效]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.482Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：另辟蹊径  Word数字批量设置更高效</h1>
 <div class="left-post-txt">我们有时需要在Word中针对数字做一些批量操作，比如将序号批量替换为带圈的数字、将文档中的数字加粗、将错误的上下标数字替换为正确的标注等。手动更改费时费力，效率很低...</div>]]></content>
     </entry>
@@ -89,7 +89,7 @@
         <title type="html"><![CDATA[网络速度为何达不到标准？这些技术要搞清！]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.485Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">网络速度为何达不到标准？这些技术要搞清！</h1>
 <div class="left-post-txt">网络已经成为很多人完全无法离开的生活必需品，但很多用户也发现，在强大的路由器支持下，电脑、手机等设备的实际网络速度似乎没有标称的那么高。这是怎么回事呢？它难道虚...</div>]]></content>
     </entry>
@@ -97,7 +97,7 @@
         <title type="html"><![CDATA[办公小技巧：无惧混排  在Word中插入不同尺寸或版式的页面]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.488Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：无惧混排  在Word中插入不同尺寸或版式的页面</h1>
 <div class="left-post-txt">在日常工作中，有时需要在同一个Word文档中使用不同尺寸或版式的页面。比如再文档中插入的一些图片，有的需要使用A3竖版幅面，有的则需要A4横版幅面，而Word中默认使用的都...</div>]]></content>
     </entry>
@@ -105,7 +105,7 @@
         <title type="html"><![CDATA[系统小技巧：这样解决Windows“自动修复”失败的问题]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.492Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：这样解决Windows“自动修复”失败的问题</h1>
 <div class="left-post-txt">Windows 10/11电脑在连续三次无法正常启动系统时，Windows会自动在后台检测，并进入WinRE使用内置的命令来修复问题（图1）。不过有时会遇到“自动修复”无法解决问题的情形...</div>]]></content>
     </entry>
@@ -113,7 +113,7 @@
         <title type="html"><![CDATA[办公小技巧：彩色箭头做标识   巧用条形图对比]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.493Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：彩色箭头做标识   巧用条形图对比</h1>
 <div class="left-post-txt">单位开业绩总结会时，需要用条形图表对近两年的业务进行对比并标出差额，上升用绿色箭头标记，下降用红色箭头标记（图1）。这样的图表如何制作呢？其实，只要把条形图、散...</div>]]></content>
     </entry>
@@ -121,7 +121,7 @@
         <title type="html"><![CDATA[系统小技巧：对症下药  解决文件无法删除的难题]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.495Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：对症下药  解决文件无法删除的难题</h1>
 <div class="left-post-txt">当我们要删除一些文件时，系统有时会提示文件正被另一程序打开无法删除，但是很多时候又没有提示文件具体被哪个程序占用。下面笔者介绍查看占用文件的程序并将其彻底删除的...</div>]]></content>
     </entry>
@@ -129,7 +129,7 @@
         <title type="html"><![CDATA[方便实用又有趣 这几个【命令行】可以学一学]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.497Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">方便实用又有趣 这几个【命令行】可以学一学</h1>
 <div class="left-post-txt">比较年轻的用户在接触电脑的时候就已经是鼠标指指点点的Windows系统了，对于如今的系统里还保留着“命令提示符”这种命令行界面可能有点不理解，也基本没用过。其实它可不...</div>]]></content>
     </entry>
@@ -137,7 +137,7 @@
         <title type="html"><![CDATA[办公小技巧：各取所需  Excel数据取舍有高招]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.802Z</updated>
+        <updated>2022-12-09T04:30:23.499Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">办公小技巧：各取所需  Excel数据取舍有高招</h1>
 <div class="left-post-txt">在处理一些包含小数的数据时，我们经常会根据实际需要进行取舍操作。比如超市商品的价格一般仅保留两位数，对于小数的第三位数字则使用四舍五入的方法进行取舍；而在计算一...</div>]]></content>
     </entry>
@@ -145,7 +145,7 @@
         <title type="html"><![CDATA[系统小技巧：为Windows添加仿苹果的Dock图标栏]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.803Z</updated>
+        <updated>2022-12-09T04:30:23.501Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：为Windows添加仿苹果的Dock图标栏</h1>
 <div class="left-post-txt">Dock图标栏是苹果操作系统的一个特色，不仅操作简单而且非常个性化，因此有很多使用Windows系统的用户也想进行模仿。如果你也有这方面的需求，那么借助BitDock这款软件就能...</div>]]></content>
     </entry>
@@ -153,7 +153,7 @@
         <title type="html"><![CDATA[只为好手感！笔记本自带的机械键盘到底怎么样？]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.803Z</updated>
+        <updated>2022-12-09T04:30:23.502Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">只为好手感！笔记本自带的机械键盘到底怎么样？</h1>
 <div class="left-post-txt">对很多游戏玩家、工程师或文字工作者来说，键盘手感的好坏对工作（操控）效率的影响极大，因此更青睐专业的机械键盘。为了满足这部分不差钱的高质量用户群体，笔记本领域出...</div>]]></content>
     </entry>
@@ -161,7 +161,7 @@
         <title type="html"><![CDATA[系统小技巧：用活资源监视器  系统资源尽在掌控]]></title>
         <id>https://www.cfan.com.cn/</id>
         <link href="https://www.cfan.com.cn/"/>
-        <updated>2022-12-09T04:24:48.803Z</updated>
+        <updated>2022-12-09T04:30:23.505Z</updated>
         <content type="html"><![CDATA[<h1 class="left-post-title">系统小技巧：用活资源监视器  系统资源尽在掌控</h1>
 <div class="left-post-txt">在日常使用电脑的过程中，我们经常会遇到一些异常的情况：比如无法删除某文件（系统提示文件正在被XX程序使用），或者电脑的网速突然变得很慢，怀疑自己的电脑有异常程序联...</div>]]></content>
     </entry>
