@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://shuxiao.wang/posts/</id>
+    <title>流水沉微</title>
+    <updated>2022-12-09T00:59:36.271Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://shuxiao.wang/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022-10-19]]></title>
+        <id>https://shuxiao.wang/posts/duolingo-refugee/</id>
+        <link href="https://shuxiao.wang/posts/duolingo-refugee/"/>
+        <updated>2022-12-09T00:59:25.821Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2022-10-19. Published at: 2022-10-19.">
+            2022-10-19
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/duolingo-refugee/">
+            <div>多邻国迁移出国区指南</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022-07-13]]></title>
+        <id>https://shuxiao.wang/posts/housing-load-is-a-bully/</id>
+        <link href="https://shuxiao.wang/posts/housing-load-is-a-bully/"/>
+        <updated>2022-12-09T00:59:25.821Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2022-07-13. Published at: 2022-07-13.">
+            2022-07-13
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/housing-load-is-a-bully/">
+            <div>房贷是对普通人的欺负</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022-01-16]]></title>
+        <id>https://shuxiao.wang/posts/why-no-new-baby/</id>
+        <link href="https://shuxiao.wang/posts/why-no-new-baby/"/>
+        <updated>2022-12-09T00:59:25.821Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2022-01-16. Published at: 2022-01-16.">
+            2022-01-16
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/why-no-new-baby/">
+            <div>为什么我们不生小孩</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-08-21]]></title>
+        <id>https://shuxiao.wang/posts/work-with-curiosity-china/</id>
+        <link href="https://shuxiao.wang/posts/work-with-curiosity-china/"/>
+        <updated>2022-12-09T00:59:25.821Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-08-21. Published at: 2021-08-21.">
+            2021-08-21
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/work-with-curiosity-china/">
+            <div>CuriosityChina 招人</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-08-07]]></title>
+        <id>https://shuxiao.wang/posts/push/</id>
+        <link href="https://shuxiao.wang/posts/push/"/>
+        <updated>2022-12-09T00:59:25.821Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-08-07. Published at: 2021-08-07.">
+            2021-08-07
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/push/">
+            <div>推着生活前进</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-07-10]]></title>
+        <id>https://shuxiao.wang/posts/king-in-the-dark/</id>
+        <link href="https://shuxiao.wang/posts/king-in-the-dark/"/>
+        <updated>2022-12-09T00:59:25.822Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-07-10. Published at: 2021-07-10.">
+            2021-07-10
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/king-in-the-dark/">
+            <div>中文编程届四大暗黑天王</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-06-05]]></title>
+        <id>https://shuxiao.wang/posts/set-subdomain-for-github-project/</id>
+        <link href="https://shuxiao.wang/posts/set-subdomain-for-github-project/"/>
+        <updated>2022-12-09T00:59:25.822Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-06-05. Published at: 2021-06-05.">
+            2021-06-05
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/set-subdomain-for-github-project/">
+            <div>为非个人项目的 GitHub repo 设置子域名</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-05-15]]></title>
+        <id>https://shuxiao.wang/posts/zsh-refresh/</id>
+        <link href="https://shuxiao.wang/posts/zsh-refresh/"/>
+        <updated>2022-12-09T00:59:25.822Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-05-15. Published at: 2021-05-15.">
+            2021-05-15
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/zsh-refresh/">
+            <div>不优化，zsh 也超快</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-04-29]]></title>
+        <id>https://shuxiao.wang/posts/memories/</id>
+        <link href="https://shuxiao.wang/posts/memories/"/>
+        <updated>2022-12-09T00:59:25.822Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-04-29. Published at: 2021-04-29.">
+            2021-04-29
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/memories/">
+            <div>怀念祖祖</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-01-24]]></title>
+        <id>https://shuxiao.wang/posts/pay-as-you-request/</id>
+        <link href="https://shuxiao.wang/posts/pay-as-you-request/"/>
+        <updated>2022-12-09T00:59:25.822Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-01-24. Published at: 2021-01-24.">
+            2021-01-24
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/pay-as-you-request/">
+            <div>为工作而死是求仁得仁</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021-01-10]]></title>
+        <id>https://shuxiao.wang/posts/school-related-house/</id>
+        <link href="https://shuxiao.wang/posts/school-related-house/"/>
+        <updated>2022-12-09T00:59:25.823Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2021-01-10. Published at: 2021-01-10.">
+            2021-01-10
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/school-related-house/">
+            <div>学区房是永动机</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-12-27]]></title>
+        <id>https://shuxiao.wang/posts/annual-2020/</id>
+        <link href="https://shuxiao.wang/posts/annual-2020/"/>
+        <updated>2022-12-09T00:59:25.825Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-12-27. Published at: 2020-12-27.">
+            2020-12-27
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/annual-2020/">
+            <div>2020 就要过去</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-12-13]]></title>
+        <id>https://shuxiao.wang/posts/auto-mouse-keyboard/</id>
+        <link href="https://shuxiao.wang/posts/auto-mouse-keyboard/"/>
+        <updated>2022-12-09T00:59:25.825Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-12-13. Published at: 2020-12-13.">
+            2020-12-13
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/auto-mouse-keyboard/">
+            <div>Auto mouse keyboard</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-12-05]]></title>
+        <id>https://shuxiao.wang/posts/save-money/</id>
+        <link href="https://shuxiao.wang/posts/save-money/"/>
+        <updated>2022-12-09T00:59:25.825Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-12-05. Published at: 2020-12-05.">
+            2020-12-05
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/save-money/">
+            <div>攒钱过程中的思考</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-11-01]]></title>
+        <id>https://shuxiao.wang/posts/make-america-greate-again/</id>
+        <link href="https://shuxiao.wang/posts/make-america-greate-again/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-11-01. Published at: 2020-11-01.">
+            2020-11-01
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/make-america-greate-again/">
+            <div>选自己想要的</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-06-26]]></title>
+        <id>https://shuxiao.wang/posts/first-payment-in-house/</id>
+        <link href="https://shuxiao.wang/posts/first-payment-in-house/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-06-26. Published at: 2020-06-26.">
+            2020-06-26
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/first-payment-in-house/">
+            <div>买二手房首付款计算</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-05-16]]></title>
+        <id>https://shuxiao.wang/posts/family-network-2/</id>
+        <link href="https://shuxiao.wang/posts/family-network-2/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-05-16. Published at: 2020-05-16.">
+            2020-05-16
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/family-network-2/">
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-05-15]]></title>
+        <id>https://shuxiao.wang/posts/family-network-1/</id>
+        <link href="https://shuxiao.wang/posts/family-network-1/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-05-15. Published at: 2020-05-15.">
+            2020-05-15
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/family-network-1/">
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-05-02]]></title>
+        <id>https://shuxiao.wang/posts/nmslese/</id>
+        <link href="https://shuxiao.wang/posts/nmslese/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-05-02. Published at: 2020-05-02.">
+            2020-05-02
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/nmslese/">
+            <div>回形针到底屁股歪了几米</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-05-01]]></title>
+        <id>https://shuxiao.wang/posts/work-from-home/</id>
+        <link href="https://shuxiao.wang/posts/work-from-home/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-05-01. Published at: 2020-05-01.">
+            2020-05-01
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/work-from-home/">
+            <div>宅家工作的三个月</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-03-07]]></title>
+        <id>https://shuxiao.wang/posts/introduction-to-lastpass/</id>
+        <link href="https://shuxiao.wang/posts/introduction-to-lastpass/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2020-03-07. Published at: 2020-03-07.">
+            2020-03-07
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/introduction-to-lastpass/">
+            <div>LastPass 基本用法</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-12-28]]></title>
+        <id>https://shuxiao.wang/posts/annual-2019/</id>
+        <link href="https://shuxiao.wang/posts/annual-2019/"/>
+        <updated>2022-12-09T00:59:25.833Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-12-28. Published at: 2019-12-28.">
+            2019-12-28
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/annual-2019/">
+            <div>一年读书记录</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-12-21]]></title>
+        <id>https://shuxiao.wang/posts/how-to-build-good-software/</id>
+        <link href="https://shuxiao.wang/posts/how-to-build-good-software/"/>
+        <updated>2022-12-09T00:59:25.835Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-12-21. Published at: 2019-12-21.">
+            2019-12-21
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/how-to-build-good-software/">
+            <div>如何构建好软件</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-11-24]]></title>
+        <id>https://shuxiao.wang/posts/reader-in-line-ten/</id>
+        <link href="https://shuxiao.wang/posts/reader-in-line-ten/"/>
+        <updated>2022-12-09T00:59:25.838Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-11-24. Published at: 2019-11-24.">
+            2019-11-24
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/reader-in-line-ten/">
+            <div>十号线的读书人</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-11-07]]></title>
+        <id>https://shuxiao.wang/posts/my-own-theme/</id>
+        <link href="https://shuxiao.wang/posts/my-own-theme/"/>
+        <updated>2022-12-09T00:59:25.838Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-11-07. Published at: 2019-11-07.">
+            2019-11-07
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/my-own-theme/">
+            <div>自己的主题</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-10-21]]></title>
+        <id>https://shuxiao.wang/posts/ladder/</id>
+        <link href="https://shuxiao.wang/posts/ladder/"/>
+        <updated>2022-12-09T00:59:25.838Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-10-21. Published at: 2019-10-21.">
+            2019-10-21
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/ladder/">
+            <div>楼梯有多少种走法</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-09-13]]></title>
+        <id>https://shuxiao.wang/posts/redis-rdb-fork/</id>
+        <link href="https://shuxiao.wang/posts/redis-rdb-fork/"/>
+        <updated>2022-12-09T00:59:25.838Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-09-13. Published at: 2019-09-13.">
+            2019-09-13
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/redis-rdb-fork/">
+            <div>Redis 复制时的 fork 的子进程</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-07-29]]></title>
+        <id>https://shuxiao.wang/posts/was-error/</id>
+        <link href="https://shuxiao.wang/posts/was-error/"/>
+        <updated>2022-12-09T00:59:25.840Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-07-29. Published at: 2019-07-29.">
+            2019-07-29
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/was-error/">
+            <div>A fatal communication error with WAS</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-05-31]]></title>
+        <id>https://shuxiao.wang/posts/golang-submission-error/</id>
+        <link href="https://shuxiao.wang/posts/golang-submission-error/"/>
+        <updated>2022-12-09T00:59:25.844Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-05-31. Published at: 2019-05-31.">
+            2019-05-31
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/golang-submission-error/">
+            <div>P0: Golang Submission Error</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-05-14]]></title>
+        <id>https://shuxiao.wang/posts/cli-app-in-csharp3/</id>
+        <link href="https://shuxiao.wang/posts/cli-app-in-csharp3/"/>
+        <updated>2022-12-09T00:59:25.845Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-05-14. Published at: 2019-05-14.">
+            2019-05-14
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/cli-app-in-csharp3/">
+            <div>CLI App in C# 其三</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-05-12]]></title>
+        <id>https://shuxiao.wang/posts/cli-app-in-csharp2/</id>
+        <link href="https://shuxiao.wang/posts/cli-app-in-csharp2/"/>
+        <updated>2022-12-09T00:59:25.847Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-05-12. Published at: 2019-05-12.">
+            2019-05-12
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/cli-app-in-csharp2/">
+            <div>CLI App in C# 其二</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-05-11]]></title>
+        <id>https://shuxiao.wang/posts/cli-app-in-csharp1/</id>
+        <link href="https://shuxiao.wang/posts/cli-app-in-csharp1/"/>
+        <updated>2022-12-09T00:59:25.848Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-05-11. Published at: 2019-05-11.">
+            2019-05-11
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/cli-app-in-csharp1/">
+            <div>CLI App in C# 其一</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2019-04-29]]></title>
+        <id>https://shuxiao.wang/posts/stackexchange-redis-timeout/</id>
+        <link href="https://shuxiao.wang/posts/stackexchange-redis-timeout/"/>
+        <updated>2022-12-09T00:59:25.849Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2019-04-29. Published at: 2019-04-29.">
+            2019-04-29
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/stackexchange-redis-timeout/">
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2016-04-21]]></title>
+        <id>https://shuxiao.wang/posts/algs4-eclipse/</id>
+        <link href="https://shuxiao.wang/posts/algs4-eclipse/"/>
+        <updated>2022-12-09T00:59:25.850Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2016-04-21. Published at: 2016-04-21.">
+            2016-04-21
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/algs4-eclipse/">
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2016-04-20]]></title>
+        <id>https://shuxiao.wang/posts/algs4-windows/</id>
+        <link href="https://shuxiao.wang/posts/algs4-windows/"/>
+        <updated>2022-12-09T00:59:25.854Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2016-04-20. Published at: 2016-04-20.">
+            2016-04-20
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/algs4-windows/">
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+        </a>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2014-10-25]]></title>
+        <id>https://shuxiao.wang/posts/ant-algs-based-on-csharp/</id>
+        <link href="https://shuxiao.wang/posts/ant-algs-based-on-csharp/"/>
+        <updated>2022-12-09T00:59:25.854Z</updated>
+        <content type="html"><![CDATA[<div class="post-item-time grid-cell">
+        <span class="datetime-span" title="Lastmod: 2014-10-25. Published at: 2014-10-25.">
+            2014-10-25
+        </span>
+    </div>
+    <div class="post-item-space grid-cell">
+    </div>
+    <div class="post-item-title grid-cell">
+        <a href="/posts/ant-algs-based-on-csharp/">
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+        </a>
+    </div>]]></content>
+    </entry>
+</feed>
