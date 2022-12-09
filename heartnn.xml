@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heartnn.com/archives/</id>
     <title>heartnn的自留地</title>
-    <updated>2022-12-09T05:45:32.714Z</updated>
+    <updated>2022-12-09T13:16:38.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.heartnn.com/archives/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕]]></title>
+        <id>https://www.heartnn.com/2022/12/09/mp4-subtitle-usage/</id>
+        <link href="https://www.heartnn.com/2022/12/09/mp4-subtitle-usage/"/>
+        <updated>2022-12-09T13:15:59.743Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2022/12/09/mp4-subtitle-usage/">利用MP4Box解出tx3g格式字幕</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenWrt中MosDNS配置]]></title>
         <id>https://www.heartnn.com/2022/05/25/config-mosdns-in-openwrt/</id>
@@ -580,11 +587,11 @@
         <content type="html"><![CDATA[<a href="https://www.heartnn.com/2015/10/08/update-ghost-to-0-7-1/">升级Ghost到0.7.1</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acoustic Collabo - 또르르]]></title>
-        <id>https://www.heartnn.com/2015/09/08/music-acoustic-collabo-ddoreureu/</id>
-        <link href="https://www.heartnn.com/2015/09/08/music-acoustic-collabo-ddoreureu/"/>
-        <updated>2022-12-09T00:59:14.463Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2015/09/08/music-acoustic-collabo-ddoreureu/">Acoustic Collabo - 또르르</a>]]></content>
+        <title type="html"><![CDATA[[MV] Acoustic Collabo - 또르르]]></title>
+        <id>https://www.heartnn.com/2015/09/08/mv-acoustic-collabo-ddoreureu/</id>
+        <link href="https://www.heartnn.com/2015/09/08/mv-acoustic-collabo-ddoreureu/"/>
+        <updated>2022-12-09T13:15:59.916Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2015/09/08/mv-acoustic-collabo-ddoreureu/">[MV] Acoustic Collabo - 또르르</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自用中兴屏幕助手美化版]]></title>
@@ -629,11 +636,11 @@
         <content type="html"><![CDATA[<a href="https://www.heartnn.com/2015/06/30/hosts-along-the-way/">关于hosts，一路走来</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍대광(洪大光) - 잘됐으면 좋겠다(Good Luck)]]></title>
+        <title type="html"><![CDATA[[MV] 홍대광(洪大光) - 잘됐으면 좋겠다(Good Luck)]]></title>
         <id>https://www.heartnn.com/2015/06/22/mv-hongdaekwang-good-luck/</id>
         <link href="https://www.heartnn.com/2015/06/22/mv-hongdaekwang-good-luck/"/>
         <updated>2022-12-09T00:59:14.471Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2015/06/22/mv-hongdaekwang-good-luck/">홍대광(洪大光) - 잘됐으면 좋겠다(Good Luck)</a>]]></content>
+        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2015/06/22/mv-hongdaekwang-good-luck/">[MV] 홍대광(洪大光) - 잘됐으면 좋겠다(Good Luck)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Android 5.1下SD卡格式化问题]]></title>
@@ -811,11 +818,11 @@
         <content type="html"><![CDATA[<a href="https://www.heartnn.com/2014/10/31/google-noto-fonts/">折腾一下思源黑体</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[音乐] IU(아이유) - 昭格洞(소격동)]]></title>
-        <id>https://www.heartnn.com/2014/10/21/music-iu-sogyeokdong/</id>
-        <link href="https://www.heartnn.com/2014/10/21/music-iu-sogyeokdong/"/>
-        <updated>2022-12-09T00:59:14.505Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2014/10/21/music-iu-sogyeokdong/">[音乐] IU(아이유) - 昭格洞(소격동)</a>]]></content>
+        <title type="html"><![CDATA[[MV] IU(아이유) - 昭格洞(소격동)]]></title>
+        <id>https://www.heartnn.com/2014/10/21/mv-iu-sogyeokdong/</id>
+        <link href="https://www.heartnn.com/2014/10/21/mv-iu-sogyeokdong/"/>
+        <updated>2022-12-09T13:15:59.989Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.heartnn.com/2014/10/21/mv-iu-sogyeokdong/">[MV] IU(아이유) - 昭格洞(소격동)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[MV] NS 윤지(NS允智) - 야시시(Yasisi) (Original ver.)]]></title>
