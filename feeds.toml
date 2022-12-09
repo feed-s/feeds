@@ -60,5 +60,5 @@ title = "Home - MeltyLand of geneLocated"
 url = "https://melty.land/"
 entrySelector = "a.mdc-card__primary-action"
 titleSelector = "h6.mdc-typography"
-linkSelector = https://melty.land/"a.mdc-card__primary-action"
+linkSelector = "a.mdc-card__primary-action"
 timeout = 120
