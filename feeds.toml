@@ -51,8 +51,7 @@ timeout = 120
 [cfan]
 title = "电脑爱好者"
 url = "https://www.cfan.com.cn/"
-entrySelector = "div.left-post"
+entrySelector = "div.left-post-info"
 titleSelector = "h1.left-post-title"
 linkSelector = "a"
-contentSelector = “div.left-post-txt”
 timeout = 120
