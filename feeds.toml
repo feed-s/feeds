@@ -70,3 +70,11 @@ entrySelector = "div.abstract-item"
 titleSelector = "> div.title"
 linkSelector = "a"
 timeout = 120
+
+[scxho]
+title = "山川行貉"
+url = "https://blog.scxho.cn/archives.html"
+entrySelector = "ul.car-list > li"
+titleSelector = "li > a"
+linkSelector = "li > a"
+timeout = 120
