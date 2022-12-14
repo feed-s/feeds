@@ -82,7 +82,7 @@ timeout = 120
 [czm]
 title = "CZM有点冷"
 url = "https://czm.cool/archives/"
-entrySelector = "div.m-auto > div.list-group"
+entrySelector = "a.list-group-item"
 titleSelector = "div.list-group-item-title"
 linkSelector = "a"
 timeout = 120
