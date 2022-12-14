@@ -81,8 +81,8 @@ timeout = 120
 
 [czm]
 title = "CZM有点冷"
-url = "https://czm.cool/archives/"
-entrySelector = "a.list-group-item"
-titleSelector = "div.list-group-item-title"
-linkSelector = "a"
+url = "https://czm.cool/"
+entrySelector = "article.mx-auto"
+titleSelector = "h1.index-header > a"
+linkSelector = "h1.index-header > a"
 timeout = 120
