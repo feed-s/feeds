@@ -1,56 +1,376 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://czm.cool/archives/</id>
+    <id>https://czm.cool/</id>
     <title>CZM有点冷</title>
-    <updated>2022-12-14T11:30:10.485Z</updated>
+    <updated>2022-12-14T11:45:08.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.czm.cool/avatar/avatar.png</icon>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要]]></title>
-        <id>https://czm.cool/archives/</id>
-        <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:30:09.899Z</updated>
-        <content type="html"><![CDATA[<time>02-23</time>
-      <div class="list-group-item-title">MySQL知识概要</div>]]></content>
+        <id>https://czm.cool/2022/02/MySQL_Knowledge_Summary/</id>
+        <link href="https://czm.cool/2022/02/MySQL_Knowledge_Summary/"/>
+        <updated>2022-12-14T11:45:08.078Z</updated>
+        <content type="html"><![CDATA[<h1 class="index-header">
+        
+        <a href="/2022/02/MySQL_Knowledge_Summary/" target="_self">
+          MySQL知识概要
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt " href="/2022/02/MySQL_Knowledge_Summary/" target="_self">
+        <div>
+          作为世界上非常流行的关系型数据库，开发人员有必要掌握其基本知识和技能。这里简要总结了一些MySQL的知识和技巧。
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2022-02-23 08:22" pubdate="">
+              2022-02-23
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/%E7%AC%94%E8%AE%B0/" class="category-chain-item">笔记</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E7%AC%94%E8%AE%B0/">#笔记</a>
+            
+              <a href="/tags/MySQL/">#MySQL</a>
+            
+          </div>
+        
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[从零开始的C语言数组，为何？]]></title>
-        <id>https://czm.cool/archives/</id>
-        <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:30:09.900Z</updated>
-        <content type="html"><![CDATA[<time>07-27</time>
-      <div class="list-group-item-title">从零开始的C语言数组，为何？</div>]]></content>
+        <id>https://czm.cool/2021/07/C_Array_From_Zero_Why/</id>
+        <link href="https://czm.cool/2021/07/C_Array_From_Zero_Why/"/>
+        <updated>2022-12-14T11:45:08.080Z</updated>
+        <content type="html"><![CDATA[<h1 class="index-header">
+        
+        <a href="/2021/07/C_Array_From_Zero_Why/" target="_self">
+          从零开始的C语言数组，为何？
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt " href="/2021/07/C_Array_From_Zero_Why/" target="_self">
+        <div>
+          在学习C语言的时候，大家总是会产生一个疑惑——C的数组下标，为何从零开始？让我们简单探索一下。
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2021-07-27 11:13" pubdate="">
+              2021-07-27
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/C%E8%AF%AD%E8%A8%80/" class="category-chain-item">C语言</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/C%E8%AF%AD%E8%A8%80/">#C语言</a>
+            
+          </div>
+        
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用PPT画一个洛天依]]></title>
-        <id>https://czm.cool/archives/</id>
-        <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:30:09.901Z</updated>
-        <content type="html"><![CDATA[<time>07-04</time>
-      <div class="list-group-item-title">用PPT画一个洛天依</div>]]></content>
+        <id>https://czm.cool/2021/07/LTY_with_PPT/</id>
+        <link href="https://czm.cool/2021/07/LTY_with_PPT/"/>
+        <updated>2022-12-14T11:45:08.081Z</updated>
+        <content type="html"><![CDATA[<h1 class="index-header">
+        
+        <a href="/2021/07/LTY_with_PPT/" target="_self">
+          用PPT画一个洛天依
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt " href="/2021/07/LTY_with_PPT/" target="_self">
+        <div>
+          众所周知，PPT是一个优秀的绘图软件。
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2021-07-04 09:44" pubdate="">
+              2021-07-04
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/%E8%84%91%E6%B4%9E/" class="category-chain-item">脑洞</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E6%9C%89%E6%89%8B%E5%B0%B1%E8%A1%8C/">#有手就行</a>
+            
+              <a href="/tags/%E5%BC%80%E4%B8%AA%E8%84%91%E6%B4%9E/">#开个脑洞</a>
+            
+          </div>
+        
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LeetCode刷题笔记]]></title>
-        <id>https://czm.cool/archives/</id>
-        <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:30:09.902Z</updated>
-        <content type="html"><![CDATA[<time>12-01</time>
-      <div class="list-group-item-title">LeetCode刷题笔记</div>]]></content>
+        <id>https://czm.cool/2020/12/LeetCode_Question_Note/</id>
+        <link href="https://czm.cool/2020/12/LeetCode_Question_Note/"/>
+        <updated>2022-12-14T11:45:08.084Z</updated>
+        <content type="html"><![CDATA[<h1 class="index-header">
+        
+        <a href="/2020/12/LeetCode_Question_Note/" target="_self">
+          LeetCode刷题笔记
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt " href="/2020/12/LeetCode_Question_Note/" target="_self">
+        <div>
+          leetcode是一个在线刷算法题的网站，乃程序员居家必备，出门旅行都不可或缺的重要网站。
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2020-12-01 22:22" pubdate="">
+              2020-12-01
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/%E7%AC%94%E8%AE%B0/" class="category-chain-item">笔记</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E7%AC%94%E8%AE%B0/">#笔记</a>
+            
+              <a href="/tags/%E7%AE%97%E6%B3%95/">#算法</a>
+            
+          </div>
+        
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[面向对象笔记]]></title>
-        <id>https://czm.cool/archives/</id>
-        <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:30:09.903Z</updated>
-        <content type="html"><![CDATA[<time>12-01</time>
-      <div class="list-group-item-title">面向对象笔记</div>]]></content>
+        <id>https://czm.cool/2020/12/OOP_Note/</id>
+        <link href="https://czm.cool/2020/12/OOP_Note/"/>
+        <updated>2022-12-14T11:45:08.085Z</updated>
+        <content type="html"><![CDATA[<h1 class="index-header">
+        
+        <a href="/2020/12/OOP_Note/" target="_self">
+          面向对象笔记
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt " href="/2020/12/OOP_Note/" target="_self">
+        <div>
+          有对象，程序更美好。
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2020-12-01 22:22" pubdate="">
+              2020-12-01
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/%E7%AC%94%E8%AE%B0/" class="category-chain-item">笔记</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/%E7%AC%94%E8%AE%B0/">#笔记</a>
+            
+              <a href="/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/">#面向对象</a>
+            
+          </div>
+        
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[C语言基本语法速览]]></title>
-        <id>https://czm.cool/archives/</id>
-        <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:30:09.904Z</updated>
-        <content type="html"><![CDATA[<time>12-01</time>
-      <div class="list-group-item-title">C语言基本语法速览</div>]]></content>
+        <id>https://czm.cool/2020/12/C_Syntax_Quick_Overview/</id>
+        <link href="https://czm.cool/2020/12/C_Syntax_Quick_Overview/"/>
+        <updated>2022-12-14T11:45:08.087Z</updated>
+        <content type="html"><![CDATA[<h1 class="index-header">
+        
+        <a href="/2020/12/C_Syntax_Quick_Overview/" target="_self">
+          C语言基本语法速览
+        </a>
+      </h1>
+
+      
+      <a class="index-excerpt " href="/2020/12/C_Syntax_Quick_Overview/" target="_self">
+        <div>
+          C语言诞生于1969年至1973年间，由丹尼斯·里奇与肯·汤普逊在B语言的基础上改造而成。C语言以其简洁、高效、灵活的语法和极强的性能迅速流行起来。大量的基础性软件由C语言制作，并成为现在许多服务的基础。日至今日，C语言仍然在编程语言中占据极为重要的地位，是目前最流行的语言之一。而在C语言诞生之后的语言，也或多或少的受到C语言的影响。诸如C++，Java，C#等语言中，都能看到C语言的影子。
+        </div>
+      </a>
+
+      <div class="index-btm post-metas">
+        
+          <div class="post-meta mr-3">
+            <i class="iconfont icon-date"></i>
+            <time datetime="2020-12-01 22:22" pubdate="">
+              2020-12-01
+            </time>
+          </div>
+        
+        
+          <div class="post-meta mr-3 d-flex align-items-center">
+            <i class="iconfont icon-category"></i>
+            
+
+<span class="category-chains">
+  
+  
+    
+      <span class="category-chain">
+        
+  <a href="/categories/C%E8%AF%AD%E8%A8%80/" class="category-chain-item">C语言</a>
+  
+  
+
+      </span>
+    
+  
+</span>
+
+          </div>
+        
+        
+          <div class="post-meta">
+            <i class="iconfont icon-tags"></i>
+            
+              <a href="/tags/C%E8%AF%AD%E8%A8%80/">#C语言</a>
+            
+          </div>
+        
+      </div>]]></content>
     </entry>
 </feed>
