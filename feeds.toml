@@ -84,5 +84,5 @@ title = "CZM有点冷"
 url = "https://czm.cool/archives/"
 entrySelector = "a.list-group-item"
 titleSelector = "div.list-group-item-title"
-linkSelector = "div.list-group-item-title"
+linkSelector = "a"
 timeout = 120
