@@ -2,61 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://czm.cool/archives/</id>
     <title>CZM有点冷</title>
-    <updated>2022-12-14T11:16:52.257Z</updated>
+    <updated>2022-12-14T11:30:10.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.czm.cool/avatar/avatar.png</icon>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要]]></title>
-        <id>https://czm.cool/2022/02/MySQL_Knowledge_Summary/</id>
-        <link href="https://czm.cool/2022/02/MySQL_Knowledge_Summary/"/>
-        <updated>2022-12-14T11:16:51.274Z</updated>
-        <content type="html"><![CDATA[<p class="h4">共计 6 篇文章</p>
-  <hr>
-  
-  
-    
-      
-      <p class="h5">2022</p>
-    
-    <a href="/2022/02/MySQL_Knowledge_Summary/" class="list-group-item list-group-item-action">
-      <time>02-23</time>
-      <div class="list-group-item-title">MySQL知识概要</div>
-    </a>
-  
-    
-      
-      <p class="h5">2021</p>
-    
-    <a href="/2021/07/C_Array_From_Zero_Why/" class="list-group-item list-group-item-action">
-      <time>07-27</time>
-      <div class="list-group-item-title">从零开始的C语言数组，为何？</div>
-    </a>
-  
-    
-    <a href="/2021/07/LTY_with_PPT/" class="list-group-item list-group-item-action">
-      <time>07-04</time>
-      <div class="list-group-item-title">用PPT画一个洛天依</div>
-    </a>
-  
-    
-      
-      <p class="h5">2020</p>
-    
-    <a href="/2020/12/LeetCode_Question_Note/" class="list-group-item list-group-item-action">
-      <time>12-01</time>
-      <div class="list-group-item-title">LeetCode刷题笔记</div>
-    </a>
-  
-    
-    <a href="/2020/12/OOP_Note/" class="list-group-item list-group-item-action">
-      <time>12-01</time>
-      <div class="list-group-item-title">面向对象笔记</div>
-    </a>
-  
-    
-    <a href="/2020/12/C_Syntax_Quick_Overview/" class="list-group-item list-group-item-action">
-      <time>12-01</time>
-      <div class="list-group-item-title">C语言基本语法速览</div>
-    </a>]]></content>
+        <id>https://czm.cool/archives/</id>
+        <link href="https://czm.cool/archives/"/>
+        <updated>2022-12-14T11:30:09.899Z</updated>
+        <content type="html"><![CDATA[<time>02-23</time>
+      <div class="list-group-item-title">MySQL知识概要</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零开始的C语言数组，为何？]]></title>
+        <id>https://czm.cool/archives/</id>
+        <link href="https://czm.cool/archives/"/>
+        <updated>2022-12-14T11:30:09.900Z</updated>
+        <content type="html"><![CDATA[<time>07-27</time>
+      <div class="list-group-item-title">从零开始的C语言数组，为何？</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用PPT画一个洛天依]]></title>
+        <id>https://czm.cool/archives/</id>
+        <link href="https://czm.cool/archives/"/>
+        <updated>2022-12-14T11:30:09.901Z</updated>
+        <content type="html"><![CDATA[<time>07-04</time>
+      <div class="list-group-item-title">用PPT画一个洛天依</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeetCode刷题笔记]]></title>
+        <id>https://czm.cool/archives/</id>
+        <link href="https://czm.cool/archives/"/>
+        <updated>2022-12-14T11:30:09.902Z</updated>
+        <content type="html"><![CDATA[<time>12-01</time>
+      <div class="list-group-item-title">LeetCode刷题笔记</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[面向对象笔记]]></title>
+        <id>https://czm.cool/archives/</id>
+        <link href="https://czm.cool/archives/"/>
+        <updated>2022-12-14T11:30:09.903Z</updated>
+        <content type="html"><![CDATA[<time>12-01</time>
+      <div class="list-group-item-title">面向对象笔记</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C语言基本语法速览]]></title>
+        <id>https://czm.cool/archives/</id>
+        <link href="https://czm.cool/archives/"/>
+        <updated>2022-12-14T11:30:09.904Z</updated>
+        <content type="html"><![CDATA[<time>12-01</time>
+      <div class="list-group-item-title">C语言基本语法速览</div>]]></content>
     </entry>
 </feed>
