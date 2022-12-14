@@ -68,5 +68,5 @@ title = "Quantum Bit"
 url = "https://www.eula.club/"
 entrySelector = "div.abstract-item"
 titleSelector = "> div.title"
-linkSelector = "> div.title"
+linkSelector = "a"
 timeout = 120
