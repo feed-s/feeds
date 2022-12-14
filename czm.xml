@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://czm.cool/archives/</id>
     <title>CZM有点冷</title>
-    <updated>2022-12-14T11:01:32.758Z</updated>
+    <updated>2022-12-14T11:08:10.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://img.czm.cool/avatar/avatar.png</icon>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要]]></title>
         <id>https://czm.cool/archives/</id>
         <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:01:32.051Z</updated>
+        <updated>2022-12-14T11:08:09.283Z</updated>
         <content type="html"><![CDATA[<time>02-23</time>
       <div class="list-group-item-title">MySQL知识概要</div>]]></content>
     </entry>
@@ -17,7 +17,7 @@
         <title type="html"><![CDATA[从零开始的C语言数组，为何？]]></title>
         <id>https://czm.cool/archives/</id>
         <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:01:32.053Z</updated>
+        <updated>2022-12-14T11:08:09.284Z</updated>
         <content type="html"><![CDATA[<time>07-27</time>
       <div class="list-group-item-title">从零开始的C语言数组，为何？</div>]]></content>
     </entry>
@@ -25,7 +25,7 @@
         <title type="html"><![CDATA[用PPT画一个洛天依]]></title>
         <id>https://czm.cool/archives/</id>
         <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:01:32.054Z</updated>
+        <updated>2022-12-14T11:08:09.286Z</updated>
         <content type="html"><![CDATA[<time>07-04</time>
       <div class="list-group-item-title">用PPT画一个洛天依</div>]]></content>
     </entry>
@@ -33,7 +33,7 @@
         <title type="html"><![CDATA[LeetCode刷题笔记]]></title>
         <id>https://czm.cool/archives/</id>
         <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:01:32.056Z</updated>
+        <updated>2022-12-14T11:08:09.287Z</updated>
         <content type="html"><![CDATA[<time>12-01</time>
       <div class="list-group-item-title">LeetCode刷题笔记</div>]]></content>
     </entry>
@@ -41,7 +41,7 @@
         <title type="html"><![CDATA[面向对象笔记]]></title>
         <id>https://czm.cool/archives/</id>
         <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:01:32.057Z</updated>
+        <updated>2022-12-14T11:08:09.289Z</updated>
         <content type="html"><![CDATA[<time>12-01</time>
       <div class="list-group-item-title">面向对象笔记</div>]]></content>
     </entry>
@@ -49,7 +49,7 @@
         <title type="html"><![CDATA[C语言基本语法速览]]></title>
         <id>https://czm.cool/archives/</id>
         <link href="https://czm.cool/archives/"/>
-        <updated>2022-12-14T11:01:32.059Z</updated>
+        <updated>2022-12-14T11:08:09.291Z</updated>
         <content type="html"><![CDATA[<time>12-01</time>
       <div class="list-group-item-title">C语言基本语法速览</div>]]></content>
     </entry>
