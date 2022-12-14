@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2022-12-13T23:09:55.013Z</updated>
+    <updated>2022-12-14T05:45:19.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
     <entry>
@@ -20,6 +20,14 @@
         <updated>2022-12-09T00:59:29.965Z</updated>
         <content type="html"><![CDATA[<div class="date">2022年12月01日</div><br>
             <a href="/blog-cn/2022/12/01/tuition-for-covid">计算机科学阅读班提供疫情特价</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[相对论推导练习]]></title>
+        <id>https://www.yinwang.org/blog-cn/2022/10/09/relativity</id>
+        <link href="https://www.yinwang.org/blog-cn/2022/10/09/relativity"/>
+        <updated>2022-12-14T05:44:57.723Z</updated>
+        <content type="html"><![CDATA[<div class="date">2022年10月09日</div><br>
+            <a href="/blog-cn/2022/10/09/relativity">相对论推导练习</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然视力恢复法]]></title>
