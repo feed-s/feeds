@@ -14,14 +14,6 @@ titleSelector = "span > a"
 linkSelector = "span > a"
 timeout = 120
 
-[kisnows]
-title = "抹桥的博客"
-url = "https://blog.kisnows.com/"
-entrySelector = "header.post-header"
-titleSelector = "a.post-title-link"
-linkSelector = "a.post-title-link"
-timeout = 120
-
 [shuxiao]
 title = "流水沉微"
 url = "https://shuxiao.wang/posts/"
@@ -60,14 +52,6 @@ url = "https://www.eula.club/"
 entrySelector = "div.abstract-item"
 titleSelector = "> div.title"
 linkSelector = "a"
-timeout = 120
-
-[xifudangcheno]
-title = "媳妇当车模"
-url = "https://club.autohome.com.cn/jingxuan/104/1/"
-entrySelector = "div.pic_txt > p"
-titleSelector = "> a"
-linkSelector = "> a"
 timeout = 120
 
 [czm]
