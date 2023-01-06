@@ -9,10 +9,10 @@ timeout = 120
 
 [akarat]
 title = "Tristram"
-url = "https://akarat.xyz/"
+url = "https://akarat.xyz/archives/"
 entrySelector = "li.post-item"
-titleSelector = "> span > a"
-linkSelector = "> span > a"
+titleSelector = "span > a"
+linkSelector = "span > a"
 timeout = 120
 
 [kisnows]
@@ -49,7 +49,7 @@ timeout = 120
 
 [cfan]
 title = "电脑爱好者"
-url = "https://www.cfan.com.cn/"
+url = "http://www.cfan.com.cn/"
 entrySelector = "div.left-post-info"
 titleSelector = "h1.left-post-title"
 linkSelector = "a"
