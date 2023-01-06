@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://akarat.xyz/</id>
+    <id>https://akarat.xyz/archives/</id>
     <title>Tristram</title>
-    <updated>2023-01-05T23:49:06.140Z</updated>
+    <updated>2023-01-06T00:04:22.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://akarat.xyz/images/favicon-192x192.png</icon>
     <entry>
@@ -21,7 +21,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何在本地虚拟机模拟 Kubernetes the hard way]]></title>
@@ -39,7 +40,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[利用免费 S3 自建类 Firefox Send 快传服务]]></title>
@@ -57,7 +59,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GNOME 又激怒了所有人]]></title>
@@ -75,7 +78,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用 HashiCorp Vault 代替在线密码管理器]]></title>
@@ -93,7 +97,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[打通 bandit 以后，我希望自己以前是通过这个入门终端]]></title>
@@ -111,7 +116,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[you don't even need a browser to watch youtube video]]></title>
@@ -129,7 +135,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[与其用别人制造的搞不懂的工具，不如自己发明工具]]></title>
@@ -147,7 +154,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[又给开源社区添麻烦了]]></title>
@@ -165,7 +173,8 @@
     
 
 
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ArgoCD 实现 GitOps 的感想]]></title>
@@ -183,186 +192,7 @@
     
 
 
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linkerd 赠送了我们许多周边]]></title>
-        <id>https://akarat.xyz/Linkerd-%E8%B5%A0%E9%80%81%E4%BA%86%E6%88%91%E4%BB%AC%E8%AE%B8%E5%A4%9A%E5%91%A8%E8%BE%B9/</id>
-        <link href="https://akarat.xyz/Linkerd-%E8%B5%A0%E9%80%81%E4%BA%86%E6%88%91%E4%BB%AC%E8%AE%B8%E5%A4%9A%E5%91%A8%E8%BE%B9/"/>
-        <updated>2022-12-09T00:59:17.771Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2021-01-10T13:32:45.000Z" itemprop="datePublished">2021-01-10</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/Linkerd-%E8%B5%A0%E9%80%81%E4%BA%86%E6%88%91%E4%BB%AC%E8%AE%B8%E5%A4%9A%E5%91%A8%E8%BE%B9/">Linkerd 赠送了我们许多周边</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[历史转折中的 containerd]]></title>
-        <id>https://akarat.xyz/%E5%8E%86%E5%8F%B2%E8%BD%AC%E6%8A%98%E4%B8%AD%E7%9A%84-containerd/</id>
-        <link href="https://akarat.xyz/%E5%8E%86%E5%8F%B2%E8%BD%AC%E6%8A%98%E4%B8%AD%E7%9A%84-containerd/"/>
-        <updated>2022-12-09T00:59:17.772Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2020-11-09T21:15:50.000Z" itemprop="datePublished">2020-11-09</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E5%8E%86%E5%8F%B2%E8%BD%AC%E6%8A%98%E4%B8%AD%E7%9A%84-containerd/">历史转折中的 containerd</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[prometheus operator]]></title>
-        <id>https://akarat.xyz/prometheus-operator/</id>
-        <link href="https://akarat.xyz/prometheus-operator/"/>
-        <updated>2022-12-09T00:59:17.772Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2020-04-20T20:13:08.000Z" itemprop="datePublished">2020-04-20</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/prometheus-operator/">prometheus operator</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Handle access log with fluent bit]]></title>
-        <id>https://akarat.xyz/handle-access-log-with-fluent-bit/</id>
-        <link href="https://akarat.xyz/handle-access-log-with-fluent-bit/"/>
-        <updated>2022-12-09T00:59:17.772Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2020-04-15T20:13:08.000Z" itemprop="datePublished">2020-04-15</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/handle-access-log-with-fluent-bit/">Handle access log with fluent bit</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么创建数据湖[PDF]]]></title>
-        <id>https://akarat.xyz/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E6%B9%96/</id>
-        <link href="https://akarat.xyz/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E6%B9%96/"/>
-        <updated>2022-12-09T00:59:17.777Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2019-11-21T14:40:19.000Z" itemprop="datePublished">2019-11-21</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%9B%E5%BB%BA%E6%95%B0%E6%8D%AE%E6%B9%96/">为什么创建数据湖[PDF]</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[提取并加载数据湖[PDF]]]></title>
-        <id>https://akarat.xyz/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/</id>
-        <link href="https://akarat.xyz/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/"/>
-        <updated>2022-12-09T00:59:17.777Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2019-11-21T14:40:19.000Z" itemprop="datePublished">2019-11-21</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E6%8F%90%E5%8F%96%E5%B9%B6%E5%8A%A0%E8%BD%BD%E6%95%B0%E6%8D%AE%E6%B9%96/">提取并加载数据湖[PDF]</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数据复杂性的四个阶段[PDF]]]></title>
-        <id>https://akarat.xyz/%E6%95%B0%E6%8D%AE%E5%A4%8D%E6%9D%82%E6%80%A7%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5/</id>
-        <link href="https://akarat.xyz/%E6%95%B0%E6%8D%AE%E5%A4%8D%E6%9D%82%E6%80%A7%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5/"/>
-        <updated>2022-12-09T00:59:17.780Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2019-11-21T14:40:19.000Z" itemprop="datePublished">2019-11-21</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E6%95%B0%E6%8D%AE%E5%A4%8D%E6%9D%82%E6%80%A7%E7%9A%84%E5%9B%9B%E4%B8%AA%E9%98%B6%E6%AE%B5/">数据复杂性的四个阶段[PDF]</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面向行vs面向列的数据库[PDF]]]></title>
-        <id>https://akarat.xyz/%E9%9D%A2%E5%90%91%E8%A1%8Cvs%E9%9D%A2%E5%90%91%E5%88%97%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93/</id>
-        <link href="https://akarat.xyz/%E9%9D%A2%E5%90%91%E8%A1%8Cvs%E9%9D%A2%E5%90%91%E5%88%97%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-        <updated>2022-12-09T00:59:17.780Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2019-11-21T14:40:19.000Z" itemprop="datePublished">2019-11-21</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E9%9D%A2%E5%90%91%E8%A1%8Cvs%E9%9D%A2%E5%90%91%E5%88%97%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93/">面向行vs面向列的数据库[PDF]</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何处理乱序消息[PPT]]]></title>
-        <id>https://akarat.xyz/%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%B9%B1%E5%BA%8F%E6%B6%88%E6%81%AF/</id>
-        <link href="https://akarat.xyz/%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%B9%B1%E5%BA%8F%E6%B6%88%E6%81%AF/"/>
-        <updated>2022-12-09T00:59:17.781Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2019-07-24T01:35:19.000Z" itemprop="datePublished">2019-07-24</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E4%B9%B1%E5%BA%8F%E6%B6%88%E6%81%AF/">如何处理乱序消息[PPT]</a>
-    
-
-
-</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理解媒介[PPT]]]></title>
-        <id>https://akarat.xyz/%E7%90%86%E8%A7%A3%E5%AA%92%E4%BB%8B/</id>
-        <link href="https://akarat.xyz/%E7%90%86%E8%A7%A3%E5%AA%92%E4%BB%8B/"/>
-        <updated>2022-12-09T00:59:17.782Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2019-04-19T16:22:45.000Z" itemprop="datePublished">2019-04-19</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E7%90%86%E8%A7%A3%E5%AA%92%E4%BB%8B/">理解媒介[PPT]</a>
-    
-
-
-</span>]]></content>
+<span>
+      </span></span>]]></content>
     </entry>
 </feed>
