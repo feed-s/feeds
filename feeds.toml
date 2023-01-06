@@ -17,10 +17,10 @@ timeout = 120
 
 [kisnows]
 title = "抹桥的博客"
-url = "https://blog.kisnows.com/archives/"
+url = "https://blog.kisnows.com/"
 entrySelector = "header.post-header"
-titleSelector = "a.post-title-link > span"
-linkSelector = "a.post-title-link > span"
+titleSelector = "a.post-title-link"
+linkSelector = "a.post-title-link"
 timeout = 120
 
 [shuxiao]
