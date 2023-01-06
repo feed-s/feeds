@@ -6,7 +6,6 @@ titleSelector = "h2.post-title > a"
 linkSelector = "h2.post-title > a"
 timeout = 120
 
-
 [akarat]
 title = "Tristram"
 url = "https://akarat.xyz/archives/"
@@ -61,6 +60,14 @@ url = "https://www.eula.club/"
 entrySelector = "div.abstract-item"
 titleSelector = "> div.title"
 linkSelector = "a"
+timeout = 120
+
+[xifudangcheno]
+title = "媳妇当车模"
+url = "https://club.autohome.com.cn/jingxuan/104/1/"
+entrySelector = "div.pic_txt > p"
+titleSelector = "> a"
+linkSelector = "> a"
 timeout = 120
 
 [czm]
