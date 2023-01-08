@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-07T17:44:46.679Z</updated>
+    <updated>2023-01-08T04:38:35.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -580,7 +580,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -598,7 +598,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -868,7 +868,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -886,7 +886,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -904,7 +904,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -922,7 +922,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7717,5 +7717,155 @@ on
           </div>
         
       </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 – 2023 跨年博客 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101756</id>
+        <link href="https://fatesinger.com/101756"/>
+        <updated>2023-01-08T04:38:34.730Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101756" aria-label="2022 – 2023 跨年博客" title="2022 – 2023 跨年博客">2022 – 2023 跨年博客</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+按照惯例，每年这个时候我都会写一篇跨年博客来大谈特谈，今年是第十一年，能坚持这么长时间我很高兴。
+人不是活一辈子
+不是...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-31T11:19:27+08:00">发布于 8 天前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 第四季度基金股票总结 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101690</id>
+        <link href="https://fatesinger.com/101690"/>
+        <updated>2023-01-08T04:38:34.734Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101690" aria-label="2022 第四季度基金股票总结" title="2022 第四季度基金股票总结">2022 第四季度基金股票总结</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+进场时间很重要
+十月
+基金持仓
+无
+股票持仓
+
+招商银行
+药明康德
+海康威视
+海螺水泥
+宇通客车
+
+收益率 -3.88%
+十一月
+基金持...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 8 天前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖 DS920+ 个人硬盘配置分享 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101807</id>
+        <link href="https://fatesinger.com/101807"/>
+        <updated>2023-01-08T04:38:34.736Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101807" aria-label="群晖 DS920+ 个人硬盘配置分享" title="群晖 DS920+ 个人硬盘配置分享">群晖 DS920+ 个人硬盘配置分享</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">双十一购入了群晖DS920+ 和两块6T 的酷狼pro，经过一段时间的观察，发现群晖和酷狼pro 的价格都特别稳定，于是又补了2块6T 的...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-18T19:26:58+08:00">发布于 20 天前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖 Docker Movie Data Capture + Plex 打造私人毛片库 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101761</id>
+        <link href="https://fatesinger.com/101761"/>
+        <updated>2023-01-08T04:38:34.737Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101761" aria-label="群晖 Docker Movie Data Capture + Plex 打造私人毛片库" title="群晖 Docker Movie Data Capture + Plex 打造私人毛片库">群晖 Docker Movie Data Capture + Plex 打造私人毛片库</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+黑五上车了plex pass，因为开了Disney+和Netfilx，目前Nas 主要用来下载HBO 和韩国资源，也顺带着管理下大姐姐们。
+本文不涉...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-05T17:34:37+08:00">发布于 1月前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101693</id>
+        <link href="https://fatesinger.com/101693"/>
+        <updated>2023-01-08T04:38:34.738Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101693" aria-label="群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间" title="群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间">群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">我购入的DS920+ 支持插两条M.2 NVMe SSD 硬盘作为读写缓存，群晖的读缓存原理是把经常访问的文件缓存的SSD，我的NAS 作为一个...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-21T12:08:31+08:00">发布于 1月前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖通过ssh-copy-id 设置root 账户免密登录 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101728</id>
+        <link href="https://fatesinger.com/101728"/>
+        <updated>2023-01-08T04:38:34.738Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101728" aria-label="群晖通过ssh-copy-id 设置root 账户免密登录" title="群晖通过ssh-copy-id 设置root 账户免密登录">群晖通过ssh-copy-id 设置root 账户免密登录</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">群晖的DSM 本质上也是linux，所以也想把日常管理服务器那一套搬到群晖上来。一般来说不推荐开启root 账户登录，但是我设置的...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-15T19:26:06+08:00">发布于 1月前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101695</id>
+        <link href="https://fatesinger.com/101695"/>
+        <updated>2023-01-08T04:38:34.740Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101695" aria-label="解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问" title="解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问">解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">双十一购入了群晖DS920+，抽空就会折腾一下，配置自定义域名访问时遇到了一些问题，这里记录一下解决方式。
+大部分人都不会遇...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-09T12:41:22+08:00">发布于 1月前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 第三季度基金股票总结 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101408</id>
+        <link href="https://fatesinger.com/101408"/>
+        <updated>2023-01-08T04:38:34.742Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101408" aria-label="2022 第三季度基金股票总结" title="2022 第三季度基金股票总结">2022 第三季度基金股票总结</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Photo by Cedrik Wesche on Unsplash
+赢麻了
+七月
+基金持仓
+
+易方达蓝筹精选混合
+
+收益率 -6.56%
+股票持仓
+八月
+基金持仓
+无
+...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-10-07T16:07:13+08:00">发布于 3月前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梭子蟹 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101666</id>
+        <link href="https://fatesinger.com/101666"/>
+        <updated>2023-01-08T04:38:34.744Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101666" aria-label="梭子蟹" title="梭子蟹">梭子蟹</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">今年开海以来，买了很多次梭子蟹。多亏了之前父母来的时候要求买一个蒸锅，以及线上买菜的飞速发展，否则即使生活在海边城市...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-09-20T17:17:55+08:00">发布于 3月前</time>
+            </div>]]></content>
     </entry>
 </feed>
