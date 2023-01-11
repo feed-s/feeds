@@ -69,3 +69,11 @@ entrySelector = "div.block-content"
 titleSelector = "h2.block-title > a"
 linkSelector = "h2.block-title > a"
 timeout = 120
+
+[dongfeng]
+title = "东风吹柳"
+url = "https://dongfeng.space/"
+entrySelector = "div.summary-title"
+titleSelector = "a.summary-title-link"
+linkSelector = "a.summary-title-link"
+timeout = 120
