@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-01-18T05:45:06.576Z</updated>
+    <updated>2023-01-18T17:44:40.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -46,7 +46,7 @@
 十一月
 基金持...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 18 天前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 19 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -152,7 +152,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">今年开海以来，买了很多次梭子蟹。多亏了之前父母来的时候要求买一个蒸锅，以及线上买菜的飞速发展，否则即使生活在海边城市...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-09-20T17:17:55+08:00">发布于 3月前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-09-20T17:17:55+08:00">发布于 4月前</time>
             </div>]]></content>
     </entry>
 </feed>
