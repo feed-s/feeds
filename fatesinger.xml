@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-01-28T05:44:56.345Z</updated>
+    <updated>2023-01-28T17:45:08.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[春节前的一次出境]]></title>
+        <id>https://fatesinger.com/101882</id>
+        <link href="https://fatesinger.com/101882"/>
+        <updated>2023-01-28T17:45:03.182Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101882" aria-label="春节前的一次出境" title="春节前的一次出境">春节前的一次出境</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Castify with passports
+自从宣布1月8号全面开放就开始策划出境了，期间泰国短暂宣布入境需要疫苗护照，是可以一天宣布取消之...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-01-28T15:23:19+08:00">发布于 10 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 – 2023 跨年博客]]></title>
         <id>https://fatesinger.com/101756</id>
@@ -46,7 +60,7 @@
 十一月
 基金持...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 28 天前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 29 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -140,19 +154,6 @@
 ...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-10-07T16:07:13+08:00">发布于 3月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梭子蟹]]></title>
-        <id>https://fatesinger.com/101666</id>
-        <link href="https://fatesinger.com/101666"/>
-        <updated>2023-01-08T04:38:34.744Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101666" aria-label="梭子蟹" title="梭子蟹">梭子蟹</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">今年开海以来，买了很多次梭子蟹。多亏了之前父母来的时候要求买一个蒸锅，以及线上买菜的飞速发展，否则即使生活在海边城市...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-09-20T17:17:55+08:00">发布于 4月前</time>
             </div>]]></content>
     </entry>
 </feed>
