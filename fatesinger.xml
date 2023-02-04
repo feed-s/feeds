@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-02-04T05:50:05.356Z</updated>
+    <updated>2023-02-04T17:45:09.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -16,7 +16,7 @@
         <div class="block-snippet" itemprop="about">Casetify with passports
 自从宣布1月8号全面开放就开始策划出境了，期间泰国短暂宣布入境需要疫苗护照，是可以一天宣布取消...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-01-28T15:23:19+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-01-28T15:23:19+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -153,7 +153,7 @@
 无
 ...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-10-07T16:07:13+08:00">发布于 3月前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-10-07T16:07:13+08:00">发布于 4月前</time>
             </div>]]></content>
     </entry>
 </feed>
