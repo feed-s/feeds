@@ -81,7 +81,7 @@ timeout = 120
 [szclsya]
 title = "Leo's Field"
 url = "https://szclsya.me/zh-cn/posts/"
-entrySelector = "main"
+entrySelector = "div.list-item"
 titleSelector = "h1.item-title"
-linkSelector = "h1.item-title"
+linkSelector = "a.item-content"
 timeout = 120
