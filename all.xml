@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-25T21:57:46.725Z</updated>
+    <updated>2023-02-25T22:03:56.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7732,90 +7732,107 @@ on
         <title type="html"><![CDATA[回望 2022：梦想与现实 (Leo's Field)]]></title>
         <id>https://feed-s.github.io/feeds/all.xml</id>
         <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.013Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">回望 2022：梦想与现实</h1>
+        <updated>2023-02-25T22:03:54.799Z</updated>
+        <content type="html"><![CDATA[<div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2022-12-31</span>
+<div class="hide-on-wide" style="display: inline"></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2022-recap/">
+<h1 class="item-title">回望 2022：梦想与现实</h1>
 <p class="item-description">Cold fire clenched to my heart, in the blue of night</p>
-<div class="badge hide-on-narrowest"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS 入门指北：规划与创建存储池 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.015Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">ZFS 入门指北：规划与创建存储池</h1>
+<div class="badge hide-on-narrowest"></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2022-03-21</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">linux</span><span style="margin-right: .4em">filesystem</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-setup/">
+<h1 class="item-title">ZFS 入门指北：规划与创建存储池</h1>
 <p class="item-description">Put theory into practice!</p>
-<div class="badge hide-on-narrowest"><span>linux</span><span>filesystem</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回望 2021：寻道 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.017Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">回望 2021：寻道</h1>
+<div class="badge hide-on-narrowest"><span>linux</span><span>filesystem</span></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2021-12-31</span>
+<div class="hide-on-wide" style="display: inline"></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2021-recap/">
+<h1 class="item-title">回望 2021：寻道</h1>
 <p class="item-description">Меня мое сердце В тревожную даль зовёт</p>
-<div class="badge hide-on-narrowest"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将博客部署于 CloudFlare Pages 上 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.017Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">将博客部署于 CloudFlare Pages 上</h1>
+<div class="badge hide-on-narrowest"></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2021-04-25</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">blog</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/blog-story/mk2/use-cloudflare-pages/">
+<h1 class="item-title">将博客部署于 CloudFlare Pages 上</h1>
 <p class="item-description">Leo's Field, now hosted on CloudFlare data centers.</p>
-<div class="badge hide-on-narrowest"><span>blog</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新设计博客主题 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.019Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">重新设计博客主题</h1>
+<div class="badge hide-on-narrowest"><span>blog</span></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2021-04-12</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">blog</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/blog-story/mk2/notes/">
+<h1 class="item-title">重新设计博客主题</h1>
  <p class="item-description">Leo's Field, mkII.</p>
-<div class="badge hide-on-narrowest"><span>blog</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回望2020: 混乱与重生 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.020Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">回望2020: 混乱与重生</h1>
+<div class="badge hide-on-narrowest"><span>blog</span></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2020-12-31</span>
+<div class="hide-on-wide" style="display: inline"></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2020-recap/">
+<h1 class="item-title">回望2020: 混乱与重生</h1>
 <p class="item-description">It's finally over.</p>
-<div class="badge hide-on-narrowest"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[概览 Linux 音频系统 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.022Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">概览 Linux 音频系统</h1>
+<div class="badge hide-on-narrowest"></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2020-07-21</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">linux</span><span style="margin-right: .4em">audio</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/linux/audio-system/">
+<h1 class="item-title">概览 Linux 音频系统</h1>
 <p class="item-description">论 Linux 是如何将音乐文件转换成空气的震动.</p>
-<div class="badge hide-on-narrowest"><span>linux</span><span>audio</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS 入门指北: 基础篇 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.023Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">ZFS 入门指北: 基础篇</h1>
+<div class="badge hide-on-narrowest"><span>linux</span><span>audio</span></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2020-02-09</span>
+<div class="hide-on-wide" style="display: inline"></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-intro/">
+<h1 class="item-title">ZFS 入门指北: 基础篇</h1>
 <p class="item-description">File system can be fun!</p>
-<div class="badge hide-on-narrowest"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDR-7506 可换线 Mod (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.025Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">MDR-7506 可换线 Mod</h1>
+<div class="badge hide-on-narrowest"></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2020-01-31</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">music</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/mod-7506/">
+<h1 class="item-title">MDR-7506 可换线 Mod</h1>
 <p class="item-description">(也许是?) 终极便携高性价比耳机.</p>
-<div class="badge hide-on-narrowest"><span>music</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复 Android 10 中的剪贴板权限 (Leo's Field)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2023-02-25T21:57:45.026Z</updated>
-        <content type="html"><![CDATA[<h1 class="item-title">修复 Android 10 中的剪贴板权限</h1>
+<div class="badge hide-on-narrowest"><span>music</span></div>
+</a>
+</div><div class="list-item">
+<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2020-01-25</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">android</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/">
+<h1 class="item-title">修复 Android 10 中的剪贴板权限</h1>
 <p class="item-description">剪贴板同步棒极了, 让我们修好它.</p>
-<div class="badge hide-on-narrowest"><span>android</span></div>]]></content>
+<div class="badge hide-on-narrowest"><span>android</span></div>
+</a>
+</div>]]></content>
     </entry>
 </feed>
