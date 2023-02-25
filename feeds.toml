@@ -77,3 +77,11 @@ entrySelector = "div.summary-title"
 titleSelector = "a.summary-title-link"
 linkSelector = "a.summary-title-link"
 timeout = 120
+
+[szclsya]
+title = "Leo's Field"
+url = "https://szclsya.me/zh-cn/posts/"
+entrySelector = "a.item-content"
+titleSelector = "h1.item-title"
+linkSelector = "h1.item-title"
+timeout = 120
