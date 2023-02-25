@@ -62,13 +62,13 @@ titleSelector = "h1.index-header > a"
 linkSelector = "h1.index-header > a"
 timeout = 120
 
-[fatesinger]
-title = "大发贱志"
-url = "https://fatesinger.com/"
-entrySelector = "div.block-content"
-titleSelector = "h2.block-title > a"
-linkSelector = "h2.block-title > a"
-timeout = 120
+# [fatesinger]
+# title = "大发贱志"
+# url = "https://fatesinger.com/"
+# entrySelector = "div.block-content"
+# titleSelector = "h2.block-title > a"
+# linkSelector = "h2.block-title > a"
+# timeout = 120
 
 [dongfeng]
 title = "东风吹柳"
