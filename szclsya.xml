@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://szclsya.me/zh-cn/posts/</id>
+    <title>Leo's Field</title>
+    <updated>2023-02-25T21:57:46.693Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[回望 2022：梦想与现实]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.013Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">回望 2022：梦想与现实</h1>
+<p class="item-description">Cold fire clenched to my heart, in the blue of night</p>
+<div class="badge hide-on-narrowest"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZFS 入门指北：规划与创建存储池]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.015Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">ZFS 入门指北：规划与创建存储池</h1>
+<p class="item-description">Put theory into practice!</p>
+<div class="badge hide-on-narrowest"><span>linux</span><span>filesystem</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回望 2021：寻道]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.017Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">回望 2021：寻道</h1>
+<p class="item-description">Меня мое сердце В тревожную даль зовёт</p>
+<div class="badge hide-on-narrowest"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将博客部署于 CloudFlare Pages 上]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.017Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">将博客部署于 CloudFlare Pages 上</h1>
+<p class="item-description">Leo's Field, now hosted on CloudFlare data centers.</p>
+<div class="badge hide-on-narrowest"><span>blog</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重新设计博客主题]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.019Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">重新设计博客主题</h1>
+ <p class="item-description">Leo's Field, mkII.</p>
+<div class="badge hide-on-narrowest"><span>blog</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回望2020: 混乱与重生]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.020Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">回望2020: 混乱与重生</h1>
+<p class="item-description">It's finally over.</p>
+<div class="badge hide-on-narrowest"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[概览 Linux 音频系统]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.022Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">概览 Linux 音频系统</h1>
+<p class="item-description">论 Linux 是如何将音乐文件转换成空气的震动.</p>
+<div class="badge hide-on-narrowest"><span>linux</span><span>audio</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZFS 入门指北: 基础篇]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.023Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">ZFS 入门指北: 基础篇</h1>
+<p class="item-description">File system can be fun!</p>
+<div class="badge hide-on-narrowest"></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDR-7506 可换线 Mod]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.025Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">MDR-7506 可换线 Mod</h1>
+<p class="item-description">(也许是?) 终极便携高性价比耳机.</p>
+<div class="badge hide-on-narrowest"><span>music</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修复 Android 10 中的剪贴板权限]]></title>
+        <id>https://szclsya.me/zh-cn/posts/</id>
+        <link href="https://szclsya.me/zh-cn/posts/"/>
+        <updated>2023-02-25T21:57:45.026Z</updated>
+        <content type="html"><![CDATA[<h1 class="item-title">修复 Android 10 中的剪贴板权限</h1>
+<p class="item-description">剪贴板同步棒极了, 让我们修好它.</p>
+<div class="badge hide-on-narrowest"><span>android</span></div>]]></content>
+    </entry>
+</feed>
