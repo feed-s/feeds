@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2023-03-10T05:44:56.144Z</updated>
+    <updated>2023-03-10T17:45:07.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
     <entry>
@@ -28,6 +28,22 @@
         <updated>2022-12-14T05:44:57.723Z</updated>
         <content type="html"><![CDATA[<div class="date">2022年10月09日</div><br>
             <a href="/blog-cn/2022/10/09/relativity">相对论推导练习</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情封控是违反宪法的]]></title>
+        <id>https://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</id>
+        <link href="https://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional"/>
+        <updated>2023-03-10T17:44:33.251Z</updated>
+        <content type="html"><![CDATA[<div class="date">2022年09月12日</div><br>
+            <a href="/blog-cn/2022/09/12/lockdown-unconstitutional">疫情封控是违反宪法的</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疫情是怎么回事]]></title>
+        <id>https://www.yinwang.org/blog-cn/2022/06/25/covid-19</id>
+        <link href="https://www.yinwang.org/blog-cn/2022/06/25/covid-19"/>
+        <updated>2023-03-10T17:44:33.251Z</updated>
+        <content type="html"><![CDATA[<div class="date">2022年06月25日</div><br>
+            <a href="/blog-cn/2022/06/25/covid-19">疫情是怎么回事</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然视力恢复法]]></title>
@@ -182,6 +198,14 @@
             <a href="/blog-cn/2019/12/24/compilers">我不是编译器专家</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自动驾驶车的责任和风险分析]]></title>
+        <id>https://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</id>
+        <link href="https://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility"/>
+        <updated>2023-03-10T17:44:33.252Z</updated>
+        <content type="html"><![CDATA[<div class="date">2019年09月30日</div><br>
+            <a href="/blog-cn/2019/09/30/autopilot-responsibility">自动驾驶车的责任和风险分析</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[机器与人类视觉能力的差距（3）]]></title>
         <id>https://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</id>
         <link href="https://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3"/>
@@ -262,12 +286,36 @@
             <a href="/blog-cn/2018/02/22/smart-contract">智能合约和形式验证</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[成都的雾霾]]></title>
+        <id>https://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</id>
+        <link href="https://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution"/>
+        <updated>2023-03-10T17:44:33.258Z</updated>
+        <content type="html"><![CDATA[<div class="date">2018年02月16日</div><br>
+            <a href="/blog-cn/2018/02/16/chengdu-pollution">成都的雾霾</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天才是不存在的]]></title>
+        <id>https://www.yinwang.org/blog-cn/2017/11/11/genius</id>
+        <link href="https://www.yinwang.org/blog-cn/2017/11/11/genius"/>
+        <updated>2023-03-10T17:44:33.258Z</updated>
+        <content type="html"><![CDATA[<div class="date">2017年11月11日</div><br>
+            <a href="/blog-cn/2017/11/11/genius">天才是不存在的</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[网络用语]]></title>
         <id>https://www.yinwang.org/blog-cn/2017/11/05/words</id>
         <link href="https://www.yinwang.org/blog-cn/2017/11/05/words"/>
         <updated>2022-12-09T00:59:30.016Z</updated>
         <content type="html"><![CDATA[<div class="date">2017年11月05日</div><br>
             <a href="/blog-cn/2017/11/05/words">网络用语</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaGo Zero 和强人工智能]]></title>
+        <id>https://www.yinwang.org/blog-cn/2017/11/04/alphago-zero</id>
+        <link href="https://www.yinwang.org/blog-cn/2017/11/04/alphago-zero"/>
+        <updated>2023-03-10T17:44:33.258Z</updated>
+        <content type="html"><![CDATA[<div class="date">2017年11月04日</div><br>
+            <a href="/blog-cn/2017/11/04/alphago-zero">AlphaGo Zero 和强人工智能</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[理性的力量]]></title>
@@ -390,6 +438,14 @@
             <a href="/blog-cn/2016/09/14/tests">测试的道理</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tesla autopilot 引起致命车祸]]></title>
+        <id>https://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</id>
+        <link href="https://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash"/>
+        <updated>2023-03-10T17:44:33.260Z</updated>
+        <content type="html"><![CDATA[<div class="date">2016年07月10日</div><br>
+            <a href="/blog-cn/2016/07/10/tesla-autopilot-fatal-crash">Tesla autopilot 引起致命车祸</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[养生节目的危害]]></title>
         <id>https://www.yinwang.org/blog-cn/2016/06/28/yangsheng</id>
         <link href="https://www.yinwang.org/blog-cn/2016/06/28/yangsheng"/>
@@ -414,6 +470,14 @@
             <a href="/blog-cn/2016/06/06/swift">Swift 语言的设计错误</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[正面思维的误区]]></title>
+        <id>https://www.yinwang.org/blog-cn/2016/05/22/positive-thinking</id>
+        <link href="https://www.yinwang.org/blog-cn/2016/05/22/positive-thinking"/>
+        <updated>2023-03-10T17:44:33.265Z</updated>
+        <content type="html"><![CDATA[<div class="date">2016年05月22日</div><br>
+            <a href="/blog-cn/2016/05/22/positive-thinking">正面思维的误区</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[博文的自愿付费方式]]></title>
         <id>https://www.yinwang.org/blog-cn/2016/04/13/pay-blog</id>
         <link href="https://www.yinwang.org/blog-cn/2016/04/13/pay-blog"/>
@@ -422,12 +486,52 @@
             <a href="/blog-cn/2016/04/13/pay-blog">博文的自愿付费方式</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[为什么自动车完全不可以犯错误]]></title>
+        <id>https://www.yinwang.org/blog-cn/2016/03/19/self-driving-car-liability</id>
+        <link href="https://www.yinwang.org/blog-cn/2016/03/19/self-driving-car-liability"/>
+        <updated>2023-03-10T17:44:33.267Z</updated>
+        <content type="html"><![CDATA[<div class="date">2016年03月19日</div><br>
+            <a href="/blog-cn/2016/03/19/self-driving-car-liability">为什么自动车完全不可以犯错误</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlphaGo与人工智能]]></title>
+        <id>https://www.yinwang.org/blog-cn/2016/03/09/alpha-go</id>
+        <link href="https://www.yinwang.org/blog-cn/2016/03/09/alpha-go"/>
+        <updated>2023-03-10T17:44:33.268Z</updated>
+        <content type="html"><![CDATA[<div class="date">2016年03月09日</div><br>
+            <a href="/blog-cn/2016/03/09/alpha-go">AlphaGo与人工智能</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我看自动驾驶技术]]></title>
+        <id>https://www.yinwang.org/blog-cn/2016/02/12/self-driving-car</id>
+        <link href="https://www.yinwang.org/blog-cn/2016/02/12/self-driving-car"/>
+        <updated>2023-03-10T17:44:33.269Z</updated>
+        <content type="html"><![CDATA[<div class="date">2016年02月12日</div><br>
+            <a href="/blog-cn/2016/02/12/self-driving-car">我看自动驾驶技术</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[给Java说句公道话]]></title>
         <id>https://www.yinwang.org/blog-cn/2016/01/18/java</id>
         <link href="https://www.yinwang.org/blog-cn/2016/01/18/java"/>
         <updated>2022-12-09T00:59:30.027Z</updated>
         <content type="html"><![CDATA[<div class="date">2016年01月18日</div><br>
             <a href="/blog-cn/2016/01/18/java">给Java说句公道话</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Autopilot]]></title>
+        <id>https://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</id>
+        <link href="https://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot"/>
+        <updated>2023-03-10T17:44:33.272Z</updated>
+        <content type="html"><![CDATA[<div class="date">2016年01月10日</div><br>
+            <a href="/blog-cn/2016/01/10/tesla-autopilot">Tesla Autopilot</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Model X的车门设计问题]]></title>
+        <id>https://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</id>
+        <link href="https://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x"/>
+        <updated>2023-03-10T17:44:33.272Z</updated>
+        <content type="html"><![CDATA[<div class="date">2015年12月21日</div><br>
+            <a href="/blog-cn/2015/12/21/tesla-model-x">Tesla Model X的车门设计问题</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[编程的智慧]]></title>
@@ -742,12 +846,28 @@
             <a href="/blog-cn/2013/04/13/generality">谈程序的“通用性”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[什么是启发]]></title>
+        <id>https://www.yinwang.org/blog-cn/2013/04/12/inspiration</id>
+        <link href="https://www.yinwang.org/blog-cn/2013/04/12/inspiration"/>
+        <updated>2023-03-10T17:44:33.330Z</updated>
+        <content type="html"><![CDATA[<div class="date">2013年04月12日</div><br>
+            <a href="/blog-cn/2013/04/12/inspiration">什么是启发</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Scheme 编程环境的设置]]></title>
         <id>https://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</id>
         <link href="https://www.yinwang.org/blog-cn/2013/04/11/scheme-setup"/>
         <updated>2022-12-09T00:59:30.059Z</updated>
         <content type="html"><![CDATA[<div class="date">2013年04月11日</div><br>
             <a href="/blog-cn/2013/04/11/scheme-setup">Scheme 编程环境的设置</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我为什么离开 Cornell]]></title>
+        <id>https://www.yinwang.org/blog-cn/2013/04/10/cornell</id>
+        <link href="https://www.yinwang.org/blog-cn/2013/04/10/cornell"/>
+        <updated>2023-03-10T17:44:33.331Z</updated>
+        <content type="html"><![CDATA[<div class="date">2013年04月10日</div><br>
+            <a href="/blog-cn/2013/04/10/cornell">我为什么离开 Cornell</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试驱动开发]]></title>
@@ -772,6 +892,14 @@
         <updated>2022-12-09T00:59:30.061Z</updated>
         <content type="html"><![CDATA[<div class="date">2013年04月01日</div><br>
             <a href="/blog-cn/2013/04/01/lazy-evaluation">惰性求值</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hindley-Milner 类型系统的根本性错误]]></title>
+        <id>https://www.yinwang.org/blog-cn/2013/04/01/hindley-milner</id>
+        <link href="https://www.yinwang.org/blog-cn/2013/04/01/hindley-milner"/>
+        <updated>2023-03-10T17:44:33.334Z</updated>
+        <content type="html"><![CDATA[<div class="date">2013年04月01日</div><br>
+            <a href="/blog-cn/2013/04/01/hindley-milner">Hindley-Milner 类型系统的根本性错误</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[函数式语言的宗教]]></title>
