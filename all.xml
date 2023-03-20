@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-20T05:44:56.523Z</updated>
+    <updated>2023-03-20T17:45:30.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -1899,6 +1899,177 @@ on
             <a href="/blog-cn/2012/05/18/user-friendliness">什么是“对用户友好”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[反思社会学：托马斯.索维尔与雷蒙.阿隆的启示 (中国:历史与未来)]]></title>
+        <id>https://www.chinese-future.org/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7</id>
+        <link href="https://www.chinese-future.org/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7"/>
+        <updated>2023-03-20T17:44:56.135Z</updated>
+        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-03-21">Mar 21, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-title-link">反思社会学：托马斯.索维尔与雷蒙.阿隆的启示</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-03-21">Mar 21, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-read-more-link">Read More →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-03-21">Mar 21, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[文明秩序的构造机理与历史趋势 (中国:历史与未来)]]></title>
         <id>https://www.chinese-future.org/articles/w9bzag76fb64ehz57lw47ajymsar7p</id>
         <link href="https://www.chinese-future.org/articles/w9bzag76fb64ehz57lw47ajymsar7p"/>
@@ -2452,7 +2623,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -2468,7 +2639,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-title-link">语言与国家：建构一个国家形成的政治理论 （下）</a></div>
+                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-title-link" tabindex="-1">语言与国家：建构一个国家形成的政治理论 （下）</a></div>
             
 
             
@@ -2505,7 +2676,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -2529,7 +2700,7 @@ on
 
               
                 
-                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2567,7 +2738,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -6858,175 +7029,11 @@ on
           </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“回应式极权”：对习近平政权性质的判断 (中国:历史与未来)]]></title>
-        <id>https://www.chinese-future.org/articles/j5fdfz9teta5gklpsw3nj4w89t3a2m</id>
-        <link href="https://www.chinese-future.org/articles/j5fdfz9teta5gklpsw3nj4w89t3a2m"/>
-        <updated>2022-12-09T00:59:35.632Z</updated>
-        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
-
-            
-            <div class="summary-metadata-container summary-metadata-container--above-title">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-02-22">Feb 22, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-              <div class="summary-title">
-                <a href="/articles/j5fdfz9teta5gklpsw3nj4w89t3a2m" class="summary-title-link" tabindex="-1">“回应式极权”：对习近平政权性质的判断</a></div>
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-title">
-            
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-02-22">Feb 22, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-            
-
-            
-              
-              
-              
-
-              
-                
-                <a href="/articles/j5fdfz9teta5gklpsw3nj4w89t3a2m" class="summary-read-more-link" tabindex="-1">Read More →</a>
-              
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-content">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-02-22">Feb 22, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-          </div>]]></content>
+        <title type="html"><![CDATA[流处理引擎Flink及大数据实时计算 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E6%B5%81%E5%A4%84%E7%90%86%E5%BC%95%E6%93%8EFlink%E5%8F%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97.html</id>
+        <link href="https://www.eula.club/blogs/%E6%B5%81%E5%A4%84%E7%90%86%E5%BC%95%E6%93%8EFlink%E5%8F%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97.html"/>
+        <updated>2023-03-20T17:45:11.765Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%B5%81%E5%A4%84%E7%90%86%E5%BC%95%E6%93%8EFlink%E5%8F%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97.html" data-v-3fa1a62e="" class="">流处理引擎Flink及大数据实时计算</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Flink</span><span class="tag-item" data-v-1e62957f="">PyFlink</span><span class="tag-item" data-v-1e62957f="">流处理引擎</span><span class="tag-item" data-v-1e62957f="">实时计算</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[搭建Harbor私有Docker镜像仓库 (Quantum Bit)]]></title>
@@ -7090,13 +7097,6 @@ on
         <link href="https://www.eula.club/blogs/Doris%E9%9B%86%E7%BE%A4%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html"/>
         <updated>2022-12-14T07:13:28.286Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Doris%E9%9B%86%E7%BE%A4%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">Doris集群的搭建及基本使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/26/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Doris</span><span class="tag-item" data-v-1e62957f="">列存储</span><span class="tag-item" data-v-1e62957f="">MPP架构</span><span class="tag-item" data-v-1e62957f="">分析型数据库</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Kettle及DataX实现ETL数据处理 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E4%BD%BF%E7%94%A8Kettle%E5%8F%8ADataX%E5%AE%9E%E7%8E%B0ETL%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.html</id>
-        <link href="https://www.eula.club/blogs/%E4%BD%BF%E7%94%A8Kettle%E5%8F%8ADataX%E5%AE%9E%E7%8E%B0ETL%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.html"/>
-        <updated>2023-03-01T05:44:43.989Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%BF%E7%94%A8Kettle%E5%8F%8ADataX%E5%AE%9E%E7%8E%B0ETL%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.html" data-v-3fa1a62e="" class="">使用Kettle及DataX实现ETL数据处理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">10/27/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ETL</span><span class="tag-item" data-v-1e62957f="">DataX</span><span class="tag-item" data-v-1e62957f="">Kettle</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
