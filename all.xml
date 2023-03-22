@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-21T17:45:06.315Z</updated>
+    <updated>2023-03-22T05:46:31.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7029,6 +7029,13 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[多级缓存调度策略及相关算法实现 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98%E8%B0%83%E5%BA%A6%E7%AD%96%E7%95%A5%E5%8F%8A%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0.html</id>
+        <link href="https://www.eula.club/blogs/%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98%E8%B0%83%E5%BA%A6%E7%AD%96%E7%95%A5%E5%8F%8A%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0.html"/>
+        <updated>2023-03-22T05:46:12.654Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98%E8%B0%83%E5%BA%A6%E7%AD%96%E7%95%A5%E5%8F%8A%E7%9B%B8%E5%85%B3%E7%AE%97%E6%B3%95%E5%AE%9E%E7%8E%B0.html" data-v-3fa1a62e="" class="">多级缓存调度策略及相关算法实现</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/21/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">缓存调度策略</span><span class="tag-item" data-v-1e62957f="">CPU Cache</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[流处理引擎Flink及大数据实时计算 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E6%B5%81%E5%A4%84%E7%90%86%E5%BC%95%E6%93%8EFlink%E5%8F%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97.html</id>
         <link href="https://www.eula.club/blogs/%E6%B5%81%E5%A4%84%E7%90%86%E5%BC%95%E6%93%8EFlink%E5%8F%8A%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97.html"/>
@@ -7090,13 +7097,6 @@ on
         <link href="https://www.eula.club/blogs/Hadoop%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D%E5%8F%8A%E4%BC%AA%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA.html"/>
         <updated>2022-12-14T07:13:28.284Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Hadoop%E5%9F%BA%E6%9C%AC%E4%BB%8B%E7%BB%8D%E5%8F%8A%E4%BC%AA%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA.html" data-v-3fa1a62e="" class="">Hadoop基本介绍及伪分布式集群搭建</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/27/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Hadoop</span><span class="tag-item" data-v-1e62957f="">伪分布式集群</span><span class="tag-item" data-v-1e62957f="">HDFS</span><span class="tag-item" data-v-1e62957f="">MapReduce</span><span class="tag-item" data-v-1e62957f="">Yarn</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doris集群的搭建及基本使用 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/Doris%E9%9B%86%E7%BE%A4%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html</id>
-        <link href="https://www.eula.club/blogs/Doris%E9%9B%86%E7%BE%A4%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html"/>
-        <updated>2022-12-14T07:13:28.286Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Doris%E9%9B%86%E7%BE%A4%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">Doris集群的搭建及基本使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/26/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Doris</span><span class="tag-item" data-v-1e62957f="">列存储</span><span class="tag-item" data-v-1e62957f="">MPP架构</span><span class="tag-item" data-v-1e62957f="">分析型数据库</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
