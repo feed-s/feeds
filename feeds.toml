@@ -85,3 +85,11 @@ entrySelector = "div.list-item"
 titleSelector = "h1.item-title"
 linkSelector = "a.item-content"
 timeout = 120
+
+[iyzm]
+title = "爱一枝梅"
+url = "https://iyzm.net/"
+entrySelector = "div.inside-article"
+titleSelector = "h2.entry-title > a"
+linkSelector = "h2.entry-title > a"
+timeout = 120
