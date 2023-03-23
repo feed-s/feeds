@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-23T17:46:29.382Z</updated>
+    <updated>2023-03-23T23:22:14.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7843,5 +7843,192 @@ on
 <p class="item-description">剪贴板同步棒极了, 让我们修好它.</p>
 <div class="badge hide-on-narrowest"><span>android</span></div>
 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt-Life 从入门到精通开源路由器日常固件 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/47.html</id>
+        <link href="https://iyzm.net/openwrt/47.html"/>
+        <updated>2023-03-23T23:22:14.233Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/47.html">
+<img src="https://iyzm.net/wp-content/uploads/2020/03/openwrt-logo.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-03-19T23:40:35+08:00" itemprop="dateModified">2023年3月19日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt 防火墙配置入门指南 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/3313.html</id>
+        <link href="https://iyzm.net/openwrt/3313.html"/>
+        <updated>2023-03-23T23:22:14.233Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/3313.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-446.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3313.html" rel="bookmark">OpenWrt 防火墙配置入门指南</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2023-03-16T17:22:38+08:00" itemprop="datePublished">2023年3月16日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>OpenWrt 路由器作为网关设备时，防火墙的管理也是日常需要接触的部分，OpenWrt 的防火墙规则可以通过界面进行直观的管理，无需熟记复杂的命令行操作，下面 … <a title="OpenWrt 防火墙配置入门指南" class="read-more" href="https://iyzm.net/openwrt/3313.html" aria-label="更多 OpenWrt 防火墙配置入门指南"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt IPv6 设置与 DHCPv6 设置入门指南 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/3308.html</id>
+        <link href="https://iyzm.net/openwrt/3308.html"/>
+        <updated>2023-03-23T23:22:14.235Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/3308.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-445.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3308.html" rel="bookmark">OpenWrt IPv6 设置与 DHCPv6 设置入门指南</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-03-17T13:25:56+08:00" itemprop="dateModified">2023年3月17日</time><time class="entry-date published" datetime="2023-03-16T16:59:45+08:00" itemprop="datePublished">2023年3月16日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>当前互联网的 IPv4 地址池已彻底分配完毕，因此 IPv6 地址也得以基本普及，使用 OpenWrt 的各技术人员有必要了解相关的 IPv6 基础信息，本文介 … <a title="OpenWrt IPv6 设置与 DHCPv6 设置入门指南" class="read-more" href="https://iyzm.net/openwrt/3308.html" aria-label="更多 OpenWrt IPv6 设置与 DHCPv6 设置入门指南"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国求职面试参考指南-生活经验 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/3077.html</id>
+        <link href="https://iyzm.net/life/3077.html"/>
+        <updated>2023-03-23T23:22:14.236Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3077.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/03/life-010.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3077.html" rel="bookmark">中国求职面试参考指南-生活经验</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-03-23T22:29:13+08:00" itemprop="dateModified">2023年3月23日</time><time class="entry-date published" datetime="2023-03-15T22:51:43+08:00" itemprop="datePublished">2023年3月15日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>每个人都会经历的事情之一，这是一个让大多数人十分头痛的问题，网络上已经有海量的各种教程、求职攻略、求职秘籍等，但本文从实用性角度出发，分享关于求职更本质的来龙去 … <a title="中国求职面试参考指南-生活经验" class="read-more" href="https://iyzm.net/life/3077.html" aria-label="更多 中国求职面试参考指南-生活经验"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 平台优秀的全功能下载工具 Motrix (爱一枝梅)]]></title>
+        <id>https://iyzm.net/windows/3237.html</id>
+        <link href="https://iyzm.net/windows/3237.html"/>
+        <updated>2023-03-23T23:22:14.237Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/windows/3237.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/03/Win-047.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3237.html" rel="bookmark">Windows 平台优秀的全功能下载工具 Motrix</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2023-03-11T21:56:23+08:00" itemprop="datePublished">2023年3月11日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>Motrix 是一款全功能下载工具软件，界面简洁易用，支持下载 HTTP(s)、FTP、BT、磁力链等资源，下载各类文件稳定可靠，速度优秀，非常适合作为一款日常 … <a title="Windows 平台优秀的全功能下载工具 Motrix" class="read-more" href="https://iyzm.net/windows/3237.html" aria-label="更多 Windows 平台优秀的全功能下载工具 Motrix"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt DNS 优化分流设置 DNS 原理解析 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/3197.html</id>
+        <link href="https://iyzm.net/openwrt/3197.html"/>
+        <updated>2023-03-23T23:22:14.239Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/3197.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-433.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3197.html" rel="bookmark">OpenWrt DNS 优化分流设置 DNS 原理解析</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-03-18T01:13:18+08:00" itemprop="dateModified">2023年3月18日</time><time class="entry-date published" datetime="2023-03-10T14:32:27+08:00" itemprop="datePublished">2023年3月10日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>DNS 全称 “Domain Name System”，是互联网的一项基础服务，将域名和 IP 地址相互映射，使得人们可以更方便的访问互联网，但有时需要一些自定 … <a title="OpenWrt DNS 优化分流设置 DNS 原理解析" class="read-more" href="https://iyzm.net/openwrt/3197.html" aria-label="更多 OpenWrt DNS 优化分流设置 DNS 原理解析"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 ESXi 搭建虚拟 OpenWrt 路由器系统 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/linux/3130.html</id>
+        <link href="https://iyzm.net/linux/3130.html"/>
+        <updated>2023-03-23T23:22:14.240Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/linux/3130.html">
+<img src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3130.html" rel="bookmark">使用 ESXi 搭建虚拟 OpenWrt 路由器系统</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-03-13T11:17:47+08:00" itemprop="dateModified">2023年3月13日</time><time class="entry-date published" datetime="2023-03-06T13:27:16+08:00" itemprop="datePublished">2023年3月6日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>有时可能需要将路由器系统部署至 ESXi 虚拟化服务器中，以便进行集中维护和管理，本文介绍如何将 OpenWrt-Life 系统部署至 ESXi 虚拟化服务器中 … <a title="使用 ESXi 搭建虚拟 OpenWrt 路由器系统" class="read-more" href="https://iyzm.net/linux/3130.html" aria-label="更多 使用 ESXi 搭建虚拟 OpenWrt 路由器系统"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Windows 制作添加驱动的自定义 ESXi 安装映像 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/windows/3054.html</id>
+        <link href="https://iyzm.net/windows/3054.html"/>
+        <updated>2023-03-23T23:22:14.241Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/windows/3054.html">
+<img src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3054.html" rel="bookmark">使用 Windows 制作添加驱动的自定义 ESXi 安装映像</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-02-25T10:23:02+08:00" itemprop="dateModified">2023年2月25日</time><time class="entry-date published" datetime="2023-02-24T15:37:57+08:00" itemprop="datePublished">2023年2月24日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>VMware vSphere (ESXi) 作为一款常用的虚拟化系统，被用于安装到各种各样的硬件平台，使用过程中最首要的就是安装映像的驱动问题，如果缺少必要的驱 … <a title="使用 Windows 制作添加驱动的自定义 ESXi 安装映像" class="read-more" href="https://iyzm.net/windows/3054.html" aria-label="更多 使用 Windows 制作添加驱动的自定义 ESXi 安装映像"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[安卓版微软办公软件 Word Excel PowerPoint (爱一枝梅)]]></title>
+        <id>https://iyzm.net/android/2941.html</id>
+        <link href="https://iyzm.net/android/2941.html"/>
+        <updated>2023-03-23T23:22:14.243Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/android/2941.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/02/android-104.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/android/2941.html" rel="bookmark">安卓版微软办公软件 Word Excel PowerPoint</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2023-02-09T12:57:39+08:00" itemprop="datePublished">2023年2月9日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>来自微软出品的办公软件三件套的安卓版本，用于在手机端处理各种常见的办公文件，其中 Word 软件还支持查看 PDF 文件，同样也支持登录微软账户，访问 OneD … <a title="安卓版微软办公软件 Word Excel PowerPoint" class="read-more" href="https://iyzm.net/android/2941.html" aria-label="更多 安卓版微软办公软件 Word Excel PowerPoint"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国人移民攻略自我评估与注意事项 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/2812.html</id>
+        <link href="https://iyzm.net/life/2812.html"/>
+        <updated>2023-03-23T23:22:14.244Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/2812.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/01/life-009.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/2812.html" rel="bookmark">中国人移民攻略自我评估与注意事项</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-03-20T23:30:37+08:00" itemprop="dateModified">2023年3月20日</time><time class="entry-date published" datetime="2023-01-08T13:27:19+08:00" itemprop="datePublished">2023年1月8日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>随着市场全球化的发展，越来越多的城市居民可能因为各种各样的原因，逐渐有了移民意向，但由于中国特殊的信息管控制度，很多中国人其实都是在道听途说中获取外界的信息，很 … <a title="中国人移民攻略自我评估与注意事项" class="read-more" href="https://iyzm.net/life/2812.html" aria-label="更多 中国人移民攻略自我评估与注意事项"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Windows PE 安装 Windows 10 系统-基础技能 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/windows/2770.html</id>
+        <link href="https://iyzm.net/windows/2770.html"/>
+        <updated>2023-03-23T23:22:14.245Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/windows/2770.html">
+<img src="https://iyzm.net/wp-content/uploads/2022/04/Win-011.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/2770.html" rel="bookmark">使用 Windows PE 安装 Windows 10 系统-基础技能</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-02-19T04:03:53+08:00" itemprop="dateModified">2023年2月19日</time><time class="entry-date published" datetime="2022-12-31T15:22:35+08:00" itemprop="datePublished">2022年12月31日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>一台电脑除了硬件，最重要的就是操作系统，除了传统的使用光盘安装操作系统，现在一般使用 U 盘 Widows PE 系统来安装操作系统，本文介绍最常用的基本操作入 … <a title="使用 Windows PE 安装 Windows 10 系统-基础技能" class="read-more" href="https://iyzm.net/windows/2770.html" aria-label="更多 使用 Windows PE 安装 Windows 10 系统-基础技能"> </a></p>
+</div>]]></content>
     </entry>
 </feed>
