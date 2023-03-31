@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-30T05:45:29.886Z</updated>
+    <updated>2023-03-31T05:45:11.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7493,7 +7493,7 @@ on
 人不是活一辈子
 不是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-31T11:19:27+08:00">发布于 2月前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-31T11:19:27+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7521,7 +7521,7 @@ on
 十一月
 基金持...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 2月前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7855,7 +7855,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-03-29T00:13:34+08:00" itemprop="dateModified">2023年3月29日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-03-31T00:39:40+08:00" itemprop="dateModified">2023年3月31日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
