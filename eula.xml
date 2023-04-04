@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2023-04-04T05:45:17.212Z</updated>
+    <updated>2023-04-04T17:45:41.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://www.eula.club/blogs/%E6%90%AD%E5%BB%BAHarbor%E7%A7%81%E6%9C%89Docker%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93.html</id>
         <link href="https://www.eula.club/blogs/%E6%90%AD%E5%BB%BAHarbor%E7%A7%81%E6%9C%89Docker%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93.html"/>
         <updated>2023-02-19T05:45:16.071Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%90%AD%E5%BB%BAHarbor%E7%A7%81%E6%9C%89Docker%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93.html" data-v-3fa1a62e="" class="">搭建Harbor私有Docker镜像仓库</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Harbor</span><span class="tag-item" data-v-1e62957f="">Docker</span><span class="tag-item" data-v-1e62957f="">镜像仓库</span><span class="tag-item" data-v-1e62957f="">K8S</span><span class="tag-item" data-v-1e62957f="">云原生</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%90%AD%E5%BB%BAHarbor%E7%A7%81%E6%9C%89Docker%E9%95%9C%E5%83%8F%E4%BB%93%E5%BA%93.html" data-v-3fa1a62e="" class="">搭建Harbor私有Docker镜像仓库</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Harbor</span><span class="tag-item" data-v-1e62957f="">Docker</span><span class="tag-item" data-v-1e62957f="">镜像仓库</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[文件IO原理及Kafka高效读写原因分析]]></title>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html" data-v-3fa1a62e="" class="">基因测序VCF文件的解析与处理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/3/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">基因测序</span><span class="tag-item" data-v-1e62957f="">VCF</span><span class="tag-item" data-v-1e62957f="">GWAS</span><span class="tag-item" data-v-1e62957f="">htslib</span><span class="tag-item" data-v-1e62957f="">bcftools</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hadoop及Flink大数据组件概述及环境搭建]]></title>
-        <id>https://www.eula.club/blogs/Hadoop%E5%8F%8AFlink%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%84%E4%BB%B6%E6%A6%82%E8%BF%B0%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.html</id>
-        <link href="https://www.eula.club/blogs/Hadoop%E5%8F%8AFlink%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%84%E4%BB%B6%E6%A6%82%E8%BF%B0%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.html"/>
-        <updated>2023-03-22T17:44:49.498Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Hadoop%E5%8F%8AFlink%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%BB%84%E4%BB%B6%E6%A6%82%E8%BF%B0%E5%8F%8A%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA.html" data-v-3fa1a62e="" class="">Hadoop及Flink大数据组件概述及环境搭建</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/27/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Hadoop</span><span class="tag-item" data-v-1e62957f="">伪分布式集群</span><span class="tag-item" data-v-1e62957f="">HDFS</span><span class="tag-item" data-v-1e62957f="">MapReduce</span><span class="tag-item" data-v-1e62957f="">Yarn</span><span class="tag-item" data-v-1e62957f="">Flink</span><span class="tag-item" data-v-1e62957f="">流处理引擎</span><span class="tag-item" data-v-1e62957f="">实时计算</span></i></div>]]></content>
+        <title type="html"><![CDATA[大数据与云原生组件的搭建及介绍]]></title>
+        <id>https://www.eula.club/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html</id>
+        <link href="https://www.eula.club/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html"/>
+        <updated>2023-04-04T17:45:16.782Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html" data-v-3fa1a62e="" class="">大数据与云原生组件的搭建及介绍</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/27/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Hadoop</span><span class="tag-item" data-v-1e62957f="">伪分布式集群</span><span class="tag-item" data-v-1e62957f="">HDFS</span><span class="tag-item" data-v-1e62957f="">MapReduce</span><span class="tag-item" data-v-1e62957f="">Yarn</span><span class="tag-item" data-v-1e62957f="">Flink</span><span class="tag-item" data-v-1e62957f="">流处理引擎</span><span class="tag-item" data-v-1e62957f="">实时计算</span><span class="tag-item" data-v-1e62957f="">k8s</span><span class="tag-item" data-v-1e62957f="">云原生</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doris集群的搭建及基本使用]]></title>
