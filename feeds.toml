@@ -93,3 +93,11 @@ entrySelector = "div.inside-article"
 titleSelector = "h2.entry-title > a"
 linkSelector = "h2.entry-title > a"
 timeout = 120
+
+[shephe]
+title = "牧羊人"
+url = "https://www.shephe.com/"
+entrySelector = "div.grve-post-item-inner"
+titleSelector = "a.grve-item-url"
+linkSelector = "a.grve-item-url"
+timeout = 120
