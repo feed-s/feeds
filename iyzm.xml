@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2023-04-08T05:45:44.991Z</updated>
+    <updated>2023-04-08T17:45:36.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -20,6 +20,23 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀的无损音视频剪辑软件 LosslessCut]]></title>
+        <id>https://iyzm.net/windows/3375.html</id>
+        <link href="https://iyzm.net/windows/3375.html"/>
+        <updated>2023-04-08T17:45:26.390Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/windows/3375.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/04/Win-048.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3375.html" rel="bookmark">优秀的无损音视频剪辑软件 LosslessCut</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-04-08T22:19:46+08:00" itemprop="dateModified">2023年4月8日</time><time class="entry-date published" datetime="2023-04-08T17:51:33+08:00" itemprop="datePublished">2023年4月8日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>从各种途径获取到音视频文件后，有时会发现原始文件中含有不需要的片段，想要简单去除掉无用的内容，这时如果使用各类专业级的视频编辑软件，不仅操作繁琐且耗时，还可能会 … <a title="优秀的无损音视频剪辑软件 LosslessCut" class="read-more" href="https://iyzm.net/windows/3375.html" aria-label="更多 优秀的无损音视频剪辑软件 LosslessCut"> </a></p>
 </div>]]></content>
     </entry>
     <entry>
@@ -173,23 +190,6 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>随着市场全球化的发展，越来越多的城市居民可能因为各种各样的原因，逐渐有了移民意向，但由于中国特殊的信息管控制度，很多中国人其实都是在道听途说中获取外界的信息，很 … <a title="中国人移民攻略自我评估与注意事项" class="read-more" href="https://iyzm.net/life/2812.html" aria-label="更多 中国人移民攻略自我评估与注意事项"> </a></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Windows PE 安装 Windows 10 系统-基础技能]]></title>
-        <id>https://iyzm.net/windows/2770.html</id>
-        <link href="https://iyzm.net/windows/2770.html"/>
-        <updated>2023-03-23T23:22:14.245Z</updated>
-        <content type="html"><![CDATA[<div class="post-image">
-<a href="https://iyzm.net/windows/2770.html">
-<img src="https://iyzm.net/wp-content/uploads/2022/04/Win-011.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
-</a>
-</div> <header class="entry-header" aria-label="内容">
-<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/2770.html" rel="bookmark">使用 Windows PE 安装 Windows 10 系统-基础技能</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-02-19T04:03:53+08:00" itemprop="dateModified">2023年2月19日</time><time class="entry-date published" datetime="2022-12-31T15:22:35+08:00" itemprop="datePublished">2022年12月31日</time></span> </div>
-</header>
-<div class="entry-summary" itemprop="text">
-<p>一台电脑除了硬件，最重要的就是操作系统，除了传统的使用光盘安装操作系统，现在一般使用 U 盘 Widows PE 系统来安装操作系统，本文介绍最常用的基本操作入 … <a title="使用 Windows PE 安装 Windows 10 系统-基础技能" class="read-more" href="https://iyzm.net/windows/2770.html" aria-label="更多 使用 Windows PE 安装 Windows 10 系统-基础技能"> </a></p>
 </div>]]></content>
     </entry>
 </feed>
