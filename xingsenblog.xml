@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.xingsenblog.com/</id>
     <title>夏季笔录</title>
-    <updated>2023-04-15T00:15:13.485Z</updated>
+    <updated>2023-04-15T00:31:12.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/06/cropped-1656578594-1651534312-ico.png?x-oss-process=image/resize,m_fill,w_64,h_64</icon>
     <entry>
@@ -10,31 +10,21 @@
         <id>https://www.xingsenblog.com/code/861455780/</id>
         <link href="https://www.xingsenblog.com/code/861455780/"/>
         <updated>2023-04-15T00:15:12.780Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/861455780/">WordPress 后台屏蔽“仪表盘”页面</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/861455780/">WordPress 后台屏蔽“仪表盘”页面</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-6-30 20:25:08 | 编辑于 2022-7-12 14:43:57">2022-6-30 20:25
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			默认情况下，进入 WordPress 后台的第一个页面就是"仪表盘"页面。这个页面包含了站点健康状态还有“快速草稿”等等杂七杂八的东西，但很多时候这些东西根本没有任何用处！有时候甚至会有插件和主题作者夹带的“私货”。 对于完美主义者来说，这是极其痛苦的，现在就让我们把它屏蔽掉。 [alert]注意：修改 dashboard.php 这个文件会影响 …		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/wordpress/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">WordPress</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.681Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657178826-06e67.png" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/zfile/">使用 ZFile 列表程序搭建镜像站</a>
+        <updated>2023-04-15T00:31:11.781Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657178826-06e67.png" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/zfile/">使用 ZFile 列表程序搭建镜像站</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -42,22 +32,14 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			前言 在 Github 在国内时不时抽风、Gitlab 莫名其妙需要验证信用卡、Gitee 公开仓库需要审核的情况下，搭建一个自用镜像站属实无奈之举。 我打算使用阿里云 OSS、腾讯云 COS 和 OneDrive 作为存储方式，在几经比较之后，最终选择了 ZFile 作为列表程序。 新版 ZFile 复制链接会自动生成短链，这不是我想要的结果。于…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/zfile/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">ZFile</a><a href="https://www.xingsenblog.com/tag/server/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">服务器</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.686Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657200005-4471.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/flarum/">Flarum 优化时间显示格式</a>
+        <updated>2023-04-15T00:31:11.784Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657200005-4471.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/flarum/">Flarum 优化时间显示格式</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -65,45 +47,28 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			找到“站点目录/vendor/flarum/core/js/dist/forum.js”，搜索“MMMM YYYY”，将format("MMMM YYYY")修改为format("ll")，搜索“D MMM”，将e.format("D MMM"):e.format("MMM 'YY")修改为e.format("ll"):e.format("ll")…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/flarum/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Flarum</a><a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 限制用户注册邮箱]]></title>
         <id>https://www.xingsenblog.com/code/3306740/</id>
         <link href="https://www.xingsenblog.com/code/3306740/"/>
         <updated>2023-04-15T00:15:12.782Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/3306740/">WordPress 限制用户注册邮箱</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/3306740/">WordPress 限制用户注册邮箱</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-6-09 10:43:51 | 编辑于 2022-11-01 21:26:13">2022-6-09 10:43
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			你可能不希望用户使用“临时邮箱”注册，就可以在主题文件下的 functions.php 文件中加入如下代码限制可以注册的邮箱： // 限制注册邮箱 function is_valid_email_domain($login, $email, $errors ){ $valid_email_domains = array("qq.com","edu.…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/wordpress/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">WordPress</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.687Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657275063-86.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/science/boc/">中国银行莫奈借记卡申请流程以及踩坑记录</a>
+        <updated>2023-04-15T00:31:11.787Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657275063-86.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/science/boc/">中国银行莫奈借记卡申请流程以及踩坑记录</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -111,22 +76,14 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/science/" target="_blank" class="post-meta-detail-catagory-link">硬核科普</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			介绍 中国银行 MasterCard 莫奈日出印象借记卡是中国银行对外发行的一种外币借记卡。不属于信用卡，不上征信，可网上申请线下激活，申请不设门槛，不需要有大量存款作为申请标准，可在任意一中行网点激活。 当然，如果你跟我一样是个二次元（雾），也可以选择非人哉图案的卡面，两者除了外观以外没有任何不同。 申请流程和注意事项 [alert]注意：可能会…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/mastercard/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">MasterCard</a><a href="https://www.xingsenblog.com/tag/boc/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">中国银行</a><a href="https://www.xingsenblog.com/tag/debit-card/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">借记卡</a><a href="https://www.xingsenblog.com/tag/monet/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">莫奈</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.689Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/05/1657443592-8086.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/github-actions/">利用 Github Actions 对稀土掘金执行自动签到</a>
+        <updated>2023-04-15T00:31:11.790Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/05/1657443592-8086.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/github-actions/">利用 Github Actions 对稀土掘金执行自动签到</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -134,22 +91,14 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			1、打开项目链接，点击 fork 将项目复制到自己的账号下； 2、点击“Setting” -&gt; “Serets” -&gt; “Actions” -&gt; “New repository secret”； 3、打开并登录稀土掘金主页，然后按下 F12 键，然后点击自己的头像 -&gt;“签到赢好礼” -&gt;“Network”，然后按下 …		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/github/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Github</a><a href="https://www.xingsenblog.com/tag/xtjj/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">稀土掘金</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.691Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657200005-4471.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/flarum-css/">现用 Flarum 讨论社区 CSS 样式分享</a>
+        <updated>2023-04-15T00:31:11.793Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1657200005-4471.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/code/flarum-css/">现用 Flarum 讨论社区 CSS 样式分享</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -157,22 +106,14 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			自定义 CSS 样式： /* 固定左侧标签栏 */ @media (min-width:992px) { .sideNav, .sideNav&gt;ul { width: 190px; position: sticky; top: 80px; } .App { overflow-x: visible; } /* 版块页不受影响 */ .Categ…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/flarum/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Flarum</a><a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.692Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1656656406-%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/tutorial/microsoft-365-e5/">Microsoft 365 E5 订阅申请以及无限续签教程</a>
+        <updated>2023-04-15T00:31:11.794Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1656656406-%E6%9C%AA%E6%A0%87%E9%A2%98-1.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/tutorial/microsoft-365-e5/">Microsoft 365 E5 订阅申请以及无限续签教程</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -180,137 +121,84 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/tutorial/" target="_blank" class="post-meta-detail-catagory-link">教程</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			[alert]警告：由于 Github 漏洞，相关项目可能会被利用 Pull Request 运行挖矿程序，建议不要再使用这个方法续签。[/alert] 开始申请 1、打开链接并"最好"注册一个新的账号； 2、登陆账号。此时可能会要求你提供出生年月日，随意填写即可（但一定要成年）； 3、登录账号后，还有可能会要求你设置个人信息，也是随意填写即可（填…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/microsoft/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Microsoft</a><a href="https://www.xingsenblog.com/tag/office/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Office</a><a href="https://www.xingsenblog.com/tag/server/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">服务器</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 改用经典小工具页面]]></title>
         <id>https://www.xingsenblog.com/code/10548941052757/</id>
         <link href="https://www.xingsenblog.com/code/10548941052757/"/>
         <updated>2023-04-15T00:15:12.786Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/10548941052757/">WordPress 改用经典小工具页面</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/10548941052757/">WordPress 改用经典小工具页面</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-3-09 13:24:48 | 编辑于 2022-7-12 14:39:19">2022-3-09 13:24
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			新版本 WordPress 修改了小工具的设置页面，已经形成的习惯又要被迫改变，实在让人难受。 改回经典小工具，只需要在 functions.php 页面加入如下代码即可： if ( ! defined( 'ABSPATH' ) ) { die( 'Invalid request.' ); } add_filter( 'gutenberg_use_…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/wordpress/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">WordPress</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[宝塔面板绕过强制登录]]></title>
         <id>https://www.xingsenblog.com/code/btpanle/</id>
         <link href="https://www.xingsenblog.com/code/btpanle/"/>
         <updated>2023-04-15T00:15:12.787Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/btpanle/">宝塔面板绕过强制登录</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/btpanle/">宝塔面板绕过强制登录</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-3-06 20:51:12 | 编辑于 2022-7-02 12:32:31">2022-3-06 20:51
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			新版本宝塔面板已强制要求登陆账号（也许是应监管要求），这让很多人都觉得不爽（包括我在内）。 （一）降级安装； 我们可以降级安装 7.4.3 版本。这是最后一个可以不登录的版本。由于 7.4.2 版本存在 pma 漏洞，所以不建议使用。 1、使用管理员权限； sudo su root 2、升级一下 shell 安装包管理器： yum update 3…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/btpanle/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">BTPanle</a><a href="https://www.xingsenblog.com/tag/server/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">服务器</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 隐藏前台用户名]]></title>
         <id>https://www.xingsenblog.com/code/102247841203/</id>
         <link href="https://www.xingsenblog.com/code/102247841203/"/>
         <updated>2023-04-15T00:15:12.788Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/102247841203/">WordPress 隐藏前台用户名</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/102247841203/">WordPress 隐藏前台用户名</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-3-05 14:43:20 | 编辑于 2022-7-13 20:36:16">2022-3-05 14:43
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			鼠标点击前台用户名，浏览器就会跳转到用户名的链接，这样一来就直接暴露了登陆用户名，哪怕你已经在前台使用了昵称。这是个很大的安全隐患！用户名和密码之中的任何一个都不应该暴露！ 在 functions.php 这个文件中插入如下代码即可： // 隐藏用户名 add_filter('author_link', function($link, $autho…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/wordpress/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">WordPress</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为 WordPress 增加封号功能]]></title>
         <id>https://www.xingsenblog.com/code/10541215477/</id>
         <link href="https://www.xingsenblog.com/code/10541215477/"/>
         <updated>2023-04-15T00:15:12.789Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/10541215477/">为 WordPress 增加封号功能</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/10541215477/">为 WordPress 增加封号功能</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-3-01 14:28:58 | 编辑于 2022-7-12 14:39:27">2022-3-01 14:28
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			在当前 functions.php 文件中插入如下代码： //在资料页面添加选项 function lxtx_rc_admin_init(){ // 编辑用户资料 add_action( 'edit_user_profile', 'lxtx_rc_edit_user_profile' ); add_action( 'edit_user_profil…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/wordpress/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">WordPress</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[在 WordPress 前台显示用户注册时间]]></title>
         <id>https://www.xingsenblog.com/code/1099821450/</id>
         <link href="https://www.xingsenblog.com/code/1099821450/"/>
         <updated>2023-04-15T00:15:12.791Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center">
-				<a class="post-title" href="https://www.xingsenblog.com/code/1099821450/">在 WordPress 前台显示用户注册时间</a>
+        <content type="html"><![CDATA[<a class="post-title" href="https://www.xingsenblog.com/code/1099821450/">在 WordPress 前台显示用户注册时间</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
 					<time title="发布于 2022-2-28 14:21:47 | 编辑于 2022-7-12 14:39:32">2022-2-28 14:21
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
-				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>
-			</header>
-
-				<div class="post-content">
-			在当前主题的 functions.php 文件中插入如下代码： function user_registered_date(){ $userinfo=get_userdata(get_current_user_id()); $authorID= $userinfo-&gt;id; $user = get_userdata( $authorID );…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/php/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">PHP</a><a href="https://www.xingsenblog.com/tag/wordpress/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">WordPress</a>		</div>]]></content>
+				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/code/" target="_blank" class="post-meta-detail-catagory-link">代码如诗</a></div>								</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[13]]></title>
         <id>https://www.xingsenblog.com/</id>
         <link href="https://www.xingsenblog.com/"/>
-        <updated>2023-04-15T00:15:12.700Z</updated>
-        <content type="html"><![CDATA[<header class="post-header text-center post-header-with-thumbnail">
-		<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1658906072-6658.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/tutorial/google/">利用宝塔面板搭建谷歌代理</a>
+        <updated>2023-04-15T00:31:11.802Z</updated>
+        <content type="html"><![CDATA[<img class="post-thumbnail lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAABBJREFUeNpi+P//PwNAgAEACPwC/tuiTRYAAAAASUVORK5CYII=" data-original="https://cdn.shanghai.xingsenblog.com/wp-content/uploads/2022/07/1658906072-6658.jpg" alt="thumbnail" style="opacity: 0;"><div class="post-header-text-container">		<a class="post-title" href="https://www.xingsenblog.com/tutorial/google/">利用宝塔面板搭建谷歌代理</a>
 		<div class="post-meta">
 			<div class="post-meta-detail post-meta-detail-time">
 					<i class="fa fa-clock-o" aria-hidden="true"></i>
@@ -318,13 +206,6 @@
 					</time>
 				</div> <div class="post-meta-devide">|</div> <div class="post-meta-detail post-meta-detail-categories">
 				<i class="fa fa-bookmark-o" aria-hidden="true"></i> <a href="https://www.xingsenblog.com/category/tutorial/" target="_blank" class="post-meta-detail-catagory-link">教程</a></div>								</div>
-		</div>	</header>
-
-				<div class="post-content">
-			你需要准备：一个海外的域名+一个海外的服务器，仅此而已。 1、打开你的域名解析设置界面，添加一个解析（解析到你自己的服务器地址）； 2、打开宝塔控制面板，添加一个网站。网站环境选择“纯静态（static）”； [alert]提示：这里我使用了宝塔海外版本（aapanle），建议你也这么做，原因就不说了……[/alert] 3、给这个网站申请 SSL…		</div>
-	
-			<div class="post-tags">
-			<i class="fa fa-tags" aria-hidden="true"></i>
-			<a href="https://www.xingsenblog.com/tag/docker/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Docker</a><a href="https://www.xingsenblog.com/tag/google/" target="_blank" class="tag badge badge-secondary post-meta-detail-tag">Google</a>		</div>]]></content>
+		</div>]]></content>
     </entry>
 </feed>
