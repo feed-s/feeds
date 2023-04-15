@@ -105,7 +105,7 @@ timeout = 120
 [xingsenblog]
 title = "夏季笔录"
 url = "https://www.xingsenblog.com/"
-entrySelector = "article.post"
-titleSelector = "header.post-header > a.post-title"
-linkSelector = "header.post-header > a.post-title"
+entrySelector = "header.post-header"
+titleSelector = "> a.post-title"
+linkSelector = "> a.post-title"
 timeout = 120
