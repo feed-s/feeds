@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akarat.xyz/archives/</id>
     <title>Tristram</title>
-    <updated>2023-04-18T05:45:24.256Z</updated>
+    <updated>2023-04-18T17:45:27.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://akarat.xyz/images/favicon-192x192.png</icon>
     <entry>
@@ -11,12 +11,18 @@
         <link href="https://akarat.xyz/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%86%E7%A0%81%E5%AD%A6%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80-step-cli/"/>
         <updated>2022-12-09T00:59:17.759Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-10-09T13:45:59.000Z" itemprop="datePublished">2021-10-09</time>
-</div>
+        <time datetime="2021-10-09T13:45:59.000Z" itemprop="datePublished">2021-10-09</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%86%E7%A0%81%E5%AD%A6%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80-step-cli/">计算机密码学瑞士军刀 step-cli</a>
+    
+
+
 <span>
-<a class="" href="/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AF%86%E7%A0%81%E5%AD%A6%E7%91%9E%E5%A3%AB%E5%86%9B%E5%88%80-step-cli/">计算机密码学瑞士军刀 step-cli</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[如何在本地虚拟机模拟 Kubernetes the hard way]]></title>
@@ -24,12 +30,18 @@
         <link href="https://akarat.xyz/How-to-mock-Kubernetes-the-hard-way-with-local-vms/"/>
         <updated>2022-12-09T00:59:17.759Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-10-01T11:39:11.000Z" itemprop="datePublished">2021-10-01</time>
-</div>
+        <time datetime="2021-10-01T11:39:11.000Z" itemprop="datePublished">2021-10-01</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/How-to-mock-Kubernetes-the-hard-way-with-local-vms/">如何在本地虚拟机模拟 Kubernetes the hard way</a>
+    
+
+
 <span>
-<a class="" href="/How-to-mock-Kubernetes-the-hard-way-with-local-vms/">如何在本地虚拟机模拟 Kubernetes the hard way</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[利用免费 S3 自建类 Firefox Send 快传服务]]></title>
@@ -37,12 +49,18 @@
         <link href="https://akarat.xyz/%E5%88%A9%E7%94%A8%E5%85%8D%E8%B4%B9-S3-%E8%87%AA%E5%BB%BA-Firefox-Send/"/>
         <updated>2022-12-09T00:59:17.759Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-09-28T13:37:19.000Z" itemprop="datePublished">2021-09-28</time>
-</div>
+        <time datetime="2021-09-28T13:37:19.000Z" itemprop="datePublished">2021-09-28</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E5%88%A9%E7%94%A8%E5%85%8D%E8%B4%B9-S3-%E8%87%AA%E5%BB%BA-Firefox-Send/">利用免费 S3 自建类 Firefox Send 快传服务</a>
+    
+
+
 <span>
-<a class="" href="/%E5%88%A9%E7%94%A8%E5%85%8D%E8%B4%B9-S3-%E8%87%AA%E5%BB%BA-Firefox-Send/">利用免费 S3 自建类 Firefox Send 快传服务</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GNOME 又激怒了所有人]]></title>
@@ -50,12 +68,18 @@
         <link href="https://akarat.xyz/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/"/>
         <updated>2022-12-09T00:59:17.770Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-09-23T10:13:08.000Z" itemprop="datePublished">2021-09-23</time>
-</div>
+        <time datetime="2021-09-23T10:13:08.000Z" itemprop="datePublished">2021-09-23</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/">GNOME 又激怒了所有人</a>
+    
+
+
 <span>
-<a class="" href="/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/">GNOME 又激怒了所有人</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用 HashiCorp Vault 代替在线密码管理器]]></title>
@@ -63,12 +87,18 @@
         <link href="https://akarat.xyz/%E7%94%A8-HashiCorp-Vault-%E4%BB%A3%E6%9B%BF%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/"/>
         <updated>2022-12-09T00:59:17.770Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-08-05T20:59:22.000Z" itemprop="datePublished">2021-08-05</time>
-</div>
+        <time datetime="2021-08-05T20:59:22.000Z" itemprop="datePublished">2021-08-05</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E7%94%A8-HashiCorp-Vault-%E4%BB%A3%E6%9B%BF%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/">用 HashiCorp Vault 代替在线密码管理器</a>
+    
+
+
 <span>
-<a class="" href="/%E7%94%A8-HashiCorp-Vault-%E4%BB%A3%E6%9B%BF%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/">用 HashiCorp Vault 代替在线密码管理器</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[打通 bandit 以后，我希望自己以前是通过这个入门终端]]></title>
@@ -76,12 +106,18 @@
         <link href="https://akarat.xyz/I-just-beat-bandit/"/>
         <updated>2022-12-09T00:59:17.771Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-06-04T21:42:51.000Z" itemprop="datePublished">2021-06-04</time>
-</div>
+        <time datetime="2021-06-04T21:42:51.000Z" itemprop="datePublished">2021-06-04</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/I-just-beat-bandit/">打通 bandit 以后，我希望自己以前是通过这个入门终端</a>
+    
+
+
 <span>
-<a class="" href="/I-just-beat-bandit/">打通 bandit 以后，我希望自己以前是通过这个入门终端</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[you don't even need a browser to watch youtube video]]></title>
@@ -89,12 +125,18 @@
         <link href="https://akarat.xyz/you-don-t-even-need-a-browser-to-watch-youtube-video/"/>
         <updated>2022-12-09T00:59:17.771Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-05-13T08:59:38.000Z" itemprop="datePublished">2021-05-13</time>
-</div>
+        <time datetime="2021-05-13T08:59:38.000Z" itemprop="datePublished">2021-05-13</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/you-don-t-even-need-a-browser-to-watch-youtube-video/">you don't even need a browser to watch youtube video</a>
+    
+
+
 <span>
-<a class="" href="/you-don-t-even-need-a-browser-to-watch-youtube-video/">you don't even need a browser to watch youtube video</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[与其用别人制造的搞不懂的工具，不如自己发明工具]]></title>
@@ -102,12 +144,18 @@
         <link href="https://akarat.xyz/%E4%B8%8E%E5%85%B6%E7%94%A8%E5%88%AB%E4%BA%BA%E5%88%B6%E9%80%A0%E7%9A%84%E6%90%9E%E4%B8%8D%E6%87%82%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%8D%E5%A6%82%E8%87%AA%E5%B7%B1%E5%8F%91%E6%98%8E%E5%B7%A5%E5%85%B7/"/>
         <updated>2022-12-09T00:59:17.771Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-05-10T07:59:22.000Z" itemprop="datePublished">2021-05-10</time>
-</div>
+        <time datetime="2021-05-10T07:59:22.000Z" itemprop="datePublished">2021-05-10</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E4%B8%8E%E5%85%B6%E7%94%A8%E5%88%AB%E4%BA%BA%E5%88%B6%E9%80%A0%E7%9A%84%E6%90%9E%E4%B8%8D%E6%87%82%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%8D%E5%A6%82%E8%87%AA%E5%B7%B1%E5%8F%91%E6%98%8E%E5%B7%A5%E5%85%B7/">与其用别人制造的搞不懂的工具，不如自己发明工具</a>
+    
+
+
 <span>
-<a class="" href="/%E4%B8%8E%E5%85%B6%E7%94%A8%E5%88%AB%E4%BA%BA%E5%88%B6%E9%80%A0%E7%9A%84%E6%90%9E%E4%B8%8D%E6%87%82%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%8D%E5%A6%82%E8%87%AA%E5%B7%B1%E5%8F%91%E6%98%8E%E5%B7%A5%E5%85%B7/">与其用别人制造的搞不懂的工具，不如自己发明工具</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[又给开源社区添麻烦了]]></title>
@@ -115,12 +163,18 @@
         <link href="https://akarat.xyz/%E5%8F%88%E7%BB%99%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%B7%BB%E9%BA%BB%E7%83%A6%E4%BA%86/"/>
         <updated>2022-12-09T00:59:17.771Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-03-17T21:09:33.000Z" itemprop="datePublished">2021-03-17</time>
-</div>
+        <time datetime="2021-03-17T21:09:33.000Z" itemprop="datePublished">2021-03-17</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E5%8F%88%E7%BB%99%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%B7%BB%E9%BA%BB%E7%83%A6%E4%BA%86/">又给开源社区添麻烦了</a>
+    
+
+
 <span>
-<a class="" href="/%E5%8F%88%E7%BB%99%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA%E6%B7%BB%E9%BA%BB%E7%83%A6%E4%BA%86/">又给开源社区添麻烦了</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ArgoCD 实现 GitOps 的感想]]></title>
@@ -128,11 +182,17 @@
         <link href="https://akarat.xyz/ArgoCD-%E5%AE%9E%E7%8E%B0-GitOps-%E7%9A%84%E6%84%9F%E6%83%B3/"/>
         <updated>2022-12-09T00:59:17.771Z</updated>
         <content type="html"><![CDATA[<div class="meta">
-<time datetime="2021-01-15T20:13:08.000Z" itemprop="datePublished">2021-01-15</time>
-</div>
+        <time datetime="2021-01-15T20:13:08.000Z" itemprop="datePublished">2021-01-15</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/ArgoCD-%E5%AE%9E%E7%8E%B0-GitOps-%E7%9A%84%E6%84%9F%E6%83%B3/">ArgoCD 实现 GitOps 的感想</a>
+    
+
+
 <span>
-<a class="" href="/ArgoCD-%E5%AE%9E%E7%8E%B0-GitOps-%E7%9A%84%E6%84%9F%E6%83%B3/">ArgoCD 实现 GitOps 的感想</a>
-<span>
-</span></span>]]></content>
+      </span></span>]]></content>
     </entry>
 </feed>
