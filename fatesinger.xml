@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-04-19T17:45:16.749Z</updated>
+    <updated>2023-04-20T05:45:02.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -121,7 +121,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">我购入的DS920+ 支持插两条M.2 NVMe SSD 硬盘作为读写缓存，群晖的读缓存原理是把经常访问的文件缓存的SSD，我的NAS 作为一个...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-21T12:08:31+08:00">发布于 4月前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-21T12:08:31+08:00">发布于 5月前</time>
             </div>]]></content>
     </entry>
     <entry>
