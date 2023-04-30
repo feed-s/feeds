@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-30T05:45:08.815Z</updated>
+    <updated>2023-04-30T17:45:54.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -520,7 +520,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -538,7 +538,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -1899,6 +1899,177 @@ on
             <a href="/blog-cn/2012/05/18/user-friendliness">什么是“对用户友好”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[故山知好在，孤客自悲凉——遥祭张思之先生 (中国:历史与未来)]]></title>
+        <id>https://www.chinese-future.org/articles/nbsp-nbsp</id>
+        <link href="https://www.chinese-future.org/articles/nbsp-nbsp"/>
+        <updated>2023-04-30T17:45:01.754Z</updated>
+        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-04-30">Apr 30, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/articles/nbsp-nbsp" class="summary-title-link">&nbsp; &nbsp;故山知好在，孤客自悲凉——遥祭张思之先生</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-04-30">Apr 30, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/articles/nbsp-nbsp" class="summary-read-more-link">Read More →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-04-30">Apr 30, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[反思社会学：托马斯.索维尔与雷蒙.阿隆的启示 (中国:历史与未来)]]></title>
         <id>https://www.chinese-future.org/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7</id>
         <link href="https://www.chinese-future.org/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7"/>
@@ -2452,7 +2623,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2468,7 +2639,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/19866" class="summary-title-link">道术将为天下裂：1986、富强胡同6号与当代中国知识分子的分野</a></div>
+                <a href="/articles/19866" class="summary-title-link" tabindex="-1">道术将为天下裂：1986、富强胡同6号与当代中国知识分子的分野</a></div>
             
 
             
@@ -2505,7 +2676,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2529,7 +2700,7 @@ on
 
               
                 
-                <a href="/articles/19866" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/19866" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2567,7 +2738,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -6858,177 +7029,6 @@ on
           </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“红色帝国”论与“给中共建言书” (中国:历史与未来)]]></title>
-        <id>https://www.chinese-future.org/articles/hyr87gaag5pmhdm42y4hy4pp6xd6n3</id>
-        <link href="https://www.chinese-future.org/articles/hyr87gaag5pmhdm42y4hy4pp6xd6n3"/>
-        <updated>2022-12-09T00:59:35.631Z</updated>
-        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
-
-            
-            <div class="summary-metadata-container summary-metadata-container--above-title">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-03-17">Mar 17, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-              <div class="summary-title">
-                <a href="/articles/hyr87gaag5pmhdm42y4hy4pp6xd6n3" class="summary-title-link" tabindex="-1">“红色帝国”论与“给中共建言书”</a></div>
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-title">
-            
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-03-17">Mar 17, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-            
-
-            
-              
-              
-              
-
-              
-                
-                <a href="/articles/hyr87gaag5pmhdm42y4hy4pp6xd6n3" class="summary-read-more-link" tabindex="-1">Read More →</a>
-              
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-content">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-03-17">Mar 17, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-          </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CPU-Cache原理及多级缓存调度策略 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/CPU-Cache%E5%8E%9F%E7%90%86%E5%8F%8A%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98%E8%B0%83%E5%BA%A6%E7%AD%96%E7%95%A5.html</id>
         <link href="https://www.eula.club/blogs/CPU-Cache%E5%8E%9F%E7%90%86%E5%8F%8A%E5%A4%9A%E7%BA%A7%E7%BC%93%E5%AD%98%E8%B0%83%E5%BA%A6%E7%AD%96%E7%95%A5.html"/>
@@ -7068,7 +7068,7 @@ on
         <id>https://www.eula.club/blogs/ChatGPT%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94AI%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/ChatGPT%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94AI%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2022-12-14T07:13:28.283Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94AI%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">ChatGPT智能问答AI使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/5/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT</span><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">智能问答</span><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">alpaca.cpp</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94AI%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">ChatGPT智能问答AI使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/5/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT</span><span class="tag-item" data-v-1e62957f="">ChatGPT Plus</span><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">智能问答</span><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">alpaca.cpp</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span><span class="tag-item" data-v-1e62957f="">gpt4free</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基因测序VCF文件的解析与处理 (Quantum Bit)]]></title>
@@ -7483,7 +7483,7 @@ on
 赣锋锂业
 海...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-03-31T15:16:53+08:00">发布于 29 天前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-03-31T15:16:53+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
     <entry>
