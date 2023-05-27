@@ -2,9 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-05-27T05:45:49.107Z</updated>
+    <updated>2023-05-27T17:45:44.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间]]></title>
+        <id>https://fatesinger.com/101954</id>
+        <link href="https://fatesinger.com/101954"/>
+        <updated>2023-05-27T17:45:22.370Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101954" aria-label="群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间" title="群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间">群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 7 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 第一季度基金股票总结]]></title>
         <id>https://fatesinger.com/101904</id>
@@ -135,20 +148,6 @@
         <div class="block-snippet" itemprop="about">群晖的DSM 本质上也是linux，所以也想把日常管理服务器那一套搬到群晖上来。一般来说不推荐开启root 账户登录，但是我设置的...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-15T19:26:06+08:00">发布于 6月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问]]></title>
-        <id>https://fatesinger.com/101695</id>
-        <link href="https://fatesinger.com/101695"/>
-        <updated>2023-02-26T04:35:18.524Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101695" aria-label="解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问" title="解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问">解决群晖DDNS 无法获取到正确的IP 地址并设置HTTPS 访问</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">双十一购入了群晖DS920+，抽空就会折腾一下，配置自定义域名访问时遇到了一些问题，这里记录一下解决方式。
-大部分人都不会遇...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-09T12:41:22+08:00">发布于 6月前</time>
             </div>]]></content>
     </entry>
 </feed>
