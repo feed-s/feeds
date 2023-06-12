@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-06-11T17:45:14.938Z</updated>
+    <updated>2023-06-12T05:45:40.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[去大理 Chapter 5]]></title>
+        <id>https://fatesinger.com/101920</id>
+        <link href="https://fatesinger.com/101920"/>
+        <updated>2023-06-12T05:45:16.751Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101920" aria-label="去大理 Chapter 5" title="去大理 Chapter 5">去大理 Chapter 5</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">大理的云
+时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 4 分钟前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间]]></title>
         <id>https://fatesinger.com/101954</id>
@@ -135,19 +149,6 @@
         <div class="block-snippet" itemprop="about">我购入的DS920+ 支持插两条M.2 NVMe SSD 硬盘作为读写缓存，群晖的读缓存原理是把经常访问的文件缓存的SSD，我的NAS 作为一个...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-21T12:08:31+08:00">发布于 6月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖通过ssh-copy-id 设置root 账户免密登录]]></title>
-        <id>https://fatesinger.com/101728</id>
-        <link href="https://fatesinger.com/101728"/>
-        <updated>2023-02-26T04:35:18.523Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101728" aria-label="群晖通过ssh-copy-id 设置root 账户免密登录" title="群晖通过ssh-copy-id 设置root 账户免密登录">群晖通过ssh-copy-id 设置root 账户免密登录</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">群晖的DSM 本质上也是linux，所以也想把日常管理服务器那一套搬到群晖上来。一般来说不推荐开启root 账户登录，但是我设置的...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-15T19:26:06+08:00">发布于 6月前</time>
             </div>]]></content>
     </entry>
 </feed>
