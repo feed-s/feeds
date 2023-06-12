@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-12T05:45:40.088Z</updated>
+    <updated>2023-06-12T17:46:39.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7467,6 +7467,22 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[丽江和府洲际 (大发贱志)]]></title>
+        <id>https://fatesinger.com/101966</id>
+        <link href="https://fatesinger.com/101966"/>
+        <updated>2023-06-12T17:46:15.639Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101966" aria-label="丽江和府洲际" title="丽江和府洲际">丽江和府洲际</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">丽江和府洲际酒店平面图
+本次直接现金订的开放套，到店无升级，房间自带行政礼遇。
+客房
+开放套的房间有一个独立的小院子，为...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 11 小时前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[去大理 Chapter 5 (大发贱志)]]></title>
         <id>https://fatesinger.com/101920</id>
         <link href="https://fatesinger.com/101920"/>
@@ -7477,7 +7493,7 @@ on
         <div class="block-snippet" itemprop="about">大理的云
 时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 4 分钟前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 12 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7490,7 +7506,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 15 天前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 16 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7597,19 +7613,6 @@ on
 本文不涉...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-05T17:34:37+08:00">发布于 6月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间 (大发贱志)]]></title>
-        <id>https://fatesinger.com/101693</id>
-        <link href="https://fatesinger.com/101693"/>
-        <updated>2023-02-26T04:35:18.521Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101693" aria-label="群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间" title="群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间">群晖DSM 7 将M.2 NVMe SSD 缓存设置为储存空间</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">我购入的DS920+ 支持插两条M.2 NVMe SSD 硬盘作为读写缓存，群晖的读缓存原理是把经常访问的文件缓存的SSD，我的NAS 作为一个...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-11-21T12:08:31+08:00">发布于 6月前</time>
             </div>]]></content>
     </entry>
     <entry>
