@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T05:45:24.098Z</updated>
+    <updated>2023-06-13T06:12:36.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -8606,5 +8606,179 @@ on
 			<span>4</span></div>
 							</div>
 			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你想活出怎样的人生 (ATP)]]></title>
+        <id>https://atpx.com/blog/how-do-you-live/</id>
+        <link href="https://atpx.com/blog/how-do-you-live/"/>
+        <updated>2023-06-13T06:12:34.770Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">May 14, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/how-do-you-live/"> 你想活出怎样的人生</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
+</div><p></p>
+<p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/how-do-you-live/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重温《龙珠》动画 (ATP)]]></title>
+        <id>https://atpx.com/blog/dragon-ball/</id>
+        <link href="https://atpx.com/blog/dragon-ball/"/>
+        <updated>2023-06-13T06:12:34.772Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">April 20, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/dragon-ball/"> 重温《龙珠》动画</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0090-dragon-ball.jpg" alt="dragon-ball" loading="lazy" style="visibility: hidden;" width="1080" height="720">
+</div><p></p>
+<p>最近终于完成以前立下的小目标，把《龙珠》动画重温了一遍，小时侯在电视上总是看得断断续续的，对于龙珠更多的记忆是放学后跑去游戏厅和小伙伴一起搓手柄，这次终于从头到尾的热血了一遍。不得不说，很难想象这是 80 年代的作品，能在动漫历史上保三争一是有原因的。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/dragon-ball/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么关闭评论 (ATP)]]></title>
+        <id>https://atpx.com/blog/disable-comments/</id>
+        <link href="https://atpx.com/blog/disable-comments/"/>
+        <updated>2023-06-13T06:12:34.773Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">April 9, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/disable-comments/"> 为什么关闭评论</a>
+                </h2>
+                <div class="post-summary">
+                    <p>这个想法在 <a href="https://atpx.com/blog/typecho-to-hugo/"><em>从 Typecho 迁移到 Hugo</em></a> 的时候就有了，当时就想着要不要顺便干掉评论，虽然最后没有去掉。本来直接删几段代码完事，大可不必还花里胡哨的写篇文章“宣布一番”，但也有一些其它的想法，想借此说一说。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/disable-comments/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从域名注册商到 DNS 服务，找到自己的组合 (ATP)]]></title>
+        <id>https://atpx.com/blog/choose-domain-registrar-and-dns/</id>
+        <link href="https://atpx.com/blog/choose-domain-registrar-and-dns/"/>
+        <updated>2023-06-13T06:12:34.774Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">April 4, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/choose-domain-registrar-and-dns/"> 从域名注册商到 DNS 服务，找到自己的组合</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0088-choose-domain-registrar-and-dns.jpeg" alt="choose-domain-registrar-and-dns" loading="lazy" style="visibility: hidden;" width="1280" height="853">
+</div><p></p>
+<p>我玩过的域名不算多，不到 50 个，和域名大佬们完全不能比，但也交了不少学费，现在除了剩下几个砸手里的基本退烧了<del>应该</del>，按照博客惯例，是时候水篇文章阶段总结下自己的经验了。本文将聊聊我用过的部分国外域名注册商和 DNS 解析服务。顺便穿插两个小剧场，纸上谈兵一下成为 ICANN 认证注册商要花多少钱以及关于 CNAME Flattening 和 DNSSEC 的简单介绍与看法。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/choose-domain-registrar-and-dns/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何提高用户网页阅读体验 (ATP)]]></title>
+        <id>https://atpx.com/blog/improving-online-reading-experience/</id>
+        <link href="https://atpx.com/blog/improving-online-reading-experience/"/>
+        <updated>2023-06-13T06:12:34.776Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">March 9, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/improving-online-reading-experience/"> 如何提高用户网页阅读体验</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0087-improving-online-reading-experience.webp" alt="improving-online-reading-experience" loading="lazy" style="visibility: hidden;" width="1920" height="1282">
+</div><p></p>
+<p>如何提高网页中文字的阅读体验，这是可以写一本书的问题，仅仅是粗略的搜索一番，也是众说纷纭。我倒认为这是一件很主观的事，即使是同样的排版设置，在不同的设备，不同的系统甚至不同的浏览器中表现都不一样，也可以说在网页设计中排版是极其自由的，关于如何提高用户阅读体验这件事，自然没有统一的标准。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/improving-online-reading-experience/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 Typecho 迁移到 Hugo (ATP)]]></title>
+        <id>https://atpx.com/blog/typecho-to-hugo/</id>
+        <link href="https://atpx.com/blog/typecho-to-hugo/"/>
+        <updated>2023-06-13T06:12:34.780Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">March 6, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/typecho-to-hugo/"> 从 Typecho 迁移到 Hugo</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0086-typecho-to-hugo.png" alt="typecho-to-hugo" loading="lazy" style="visibility: hidden;" width="2302" height="1280">
+</div><p></p>
+<p>在上一篇文章 <em><a href="https://atpx.com/blog/dynamic-to-static-website/">个人博客的最终归宿是静态网站吗</a></em> 决定从 Typecho 迁移到 Hugo 后，为了保持博客样式不变，从 <code>hugo new theme</code> 开始，从零写了一个主题，经过这一周来 50+ 小时的努力，终于能 <code>rm -rf typecho</code> 后将网站重新上线了。</p>
+<p>总体来说，样式还原度 98%，功能还原度 90%，整个过程主要分为数据迁移和主题制作两大部分，本文将简单记录下实现过程。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/typecho-to-hugo/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人博客的最终归宿是静态网站吗 (ATP)]]></title>
+        <id>https://atpx.com/blog/dynamic-to-static-website/</id>
+        <link href="https://atpx.com/blog/dynamic-to-static-website/"/>
+        <updated>2023-06-13T06:12:34.780Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">February 26, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/dynamic-to-static-website/"> 个人博客的最终归宿是静态网站吗</a>
+                </h2>
+                <div class="post-summary">
+                    <p>这几天一直在思考，对我的博客来说，最佳的管理形式是什么，或者说我应该在折腾博客的维护运营这件事上花多少精力。</p>
+<p>作为一个自发电的博客，唯一的“收入”就是多少能帮助到他人和自娱自乐，但投入的无效精力似乎过多，总是时不时的想着要不要换一台更厉害的服务器，今天优化下 MySQL，明天折腾下 PHP 配置，搞到重启报错了，赶紧花半天时间排查回档。随着时间的推移和每天要面对越来越卷的社会，似乎不再有那么多精力折腾这些了。</p>
+<p>网上冲浪一番后，发现不少大佬都从动态网站迁移到了静态网站或者托管到博客平台上了，当然，最后大部分都停更了。不过这也让我在想，个人博客的最终归宿是静态网站吗？</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/dynamic-to-static-website/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
     </entry>
 </feed>
