@@ -102,8 +102,7 @@ titleSelector = "a.grve-item-url"
 linkSelector = "a.grve-item-url"
 timeout = 120
 
-
-[shephe]
+[atpx]
 title = "ATP"
 url = "https://atpx.com/blog/"
 entrySelector = "article.post-preview"
