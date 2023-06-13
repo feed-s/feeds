@@ -101,3 +101,12 @@ entrySelector = "div.grve-post-item-inner"
 titleSelector = "a.grve-item-url"
 linkSelector = "a.grve-item-url"
 timeout = 120
+
+
+[shephe]
+title = "ATP"
+url = "https://atpx.com/blog/"
+entrySelector = "article.post-preview"
+titleSelector = "h2.post-title > a"
+linkSelector = "h2.post-title > a"
+timeout = 120
