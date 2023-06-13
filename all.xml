@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T06:12:36.252Z</updated>
+    <updated>2023-06-13T17:45:26.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7479,7 +7479,7 @@ on
 客房
 开放套的房间有一个独立的小院子，为...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 23 小时前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7506,7 +7506,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 16 天前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 17 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8608,6 +8608,24 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[逃离爆炸的信息 (ATP)]]></title>
+        <id>https://atpx.com/blog/escape-information-explosion/</id>
+        <link href="https://atpx.com/blog/escape-information-explosion/"/>
+        <updated>2023-06-13T17:45:25.265Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">June 13, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/escape-information-explosion/"> 逃离爆炸的信息</a>
+                </h2>
+                <div class="post-summary">
+                    <p>这里谈到的爆炸的信息，是指如今中文互联网上的“主流”信息。一直都对网上冲浪这件事有着复杂的情绪，这里不谈论其好坏与意义，总之我应该算是个喜欢网上冲浪的人，但长期以来都有意识去尝试远离“主流”信息。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/escape-information-explosion/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[你想活出怎样的人生 (ATP)]]></title>
         <id>https://atpx.com/blog/how-do-you-live/</id>
         <link href="https://atpx.com/blog/how-do-you-live/"/>
@@ -8623,8 +8641,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: visible;" width="1280" height="960">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>
@@ -8757,26 +8775,6 @@ on
                 </div>
                 <div class="read-more">
                     <a href="https://atpx.com/blog/typecho-to-hugo/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人博客的最终归宿是静态网站吗 (ATP)]]></title>
-        <id>https://atpx.com/blog/dynamic-to-static-website/</id>
-        <link href="https://atpx.com/blog/dynamic-to-static-website/"/>
-        <updated>2023-06-13T06:12:34.780Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">February 26, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/dynamic-to-static-website/"> 个人博客的最终归宿是静态网站吗</a>
-                </h2>
-                <div class="post-summary">
-                    <p>这几天一直在思考，对我的博客来说，最佳的管理形式是什么，或者说我应该在折腾博客的维护运营这件事上花多少精力。</p>
-<p>作为一个自发电的博客，唯一的“收入”就是多少能帮助到他人和自娱自乐，但投入的无效精力似乎过多，总是时不时的想着要不要换一台更厉害的服务器，今天优化下 MySQL，明天折腾下 PHP 配置，搞到重启报错了，赶紧花半天时间排查回档。随着时间的推移和每天要面对越来越卷的社会，似乎不再有那么多精力折腾这些了。</p>
-<p>网上冲浪一番后，发现不少大佬都从动态网站迁移到了静态网站或者托管到博客平台上了，当然，最后大部分都停更了。不过这也让我在想，个人博客的最终归宿是静态网站吗？</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/dynamic-to-static-website/">
                         Continue Reading<span class="right-arrow">→</span>
                     </a>
                 </div>]]></content>
