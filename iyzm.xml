@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2023-06-18T05:45:02.350Z</updated>
+    <updated>2023-06-18T17:45:03.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -20,6 +20,23 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国特色解析，中国与美国的总体概览对比。]]></title>
+        <id>https://iyzm.net/life/3446.html</id>
+        <link href="https://iyzm.net/life/3446.html"/>
+        <updated>2023-06-18T17:44:53.352Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3446.html">
+<img src="https://iyzm.net/wp-content/uploads/2023/06/life-011.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-06-18T23:44:27+08:00" itemprop="dateModified">2023年6月18日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优于 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
 </div>]]></content>
     </entry>
     <entry>
@@ -173,23 +190,6 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>来自微软出品的办公软件三件套的安卓版本，用于在手机端处理各种常见的办公文件，其中 Word 软件还支持查看 PDF 文件，同样也支持登录微软账户，访问 OneD … <a title="安卓版微软办公软件 Word Excel PowerPoint" class="read-more" href="https://iyzm.net/android/2941.html" aria-label="更多 安卓版微软办公软件 Word Excel PowerPoint"> </a></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国人移民攻略自我评估与注意事项]]></title>
-        <id>https://iyzm.net/life/2812.html</id>
-        <link href="https://iyzm.net/life/2812.html"/>
-        <updated>2023-03-23T23:22:14.244Z</updated>
-        <content type="html"><![CDATA[<div class="post-image">
-<a href="https://iyzm.net/life/2812.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/01/life-009.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" loading="lazy" itemprop="image" width="220" height="150">
-</a>
-</div> <header class="entry-header" aria-label="内容">
-<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/2812.html" rel="bookmark">中国人移民攻略自我评估与注意事项</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-06-15T20:58:55+08:00" itemprop="dateModified">2023年6月15日</time><time class="entry-date published" datetime="2023-01-08T13:27:19+08:00" itemprop="datePublished">2023年1月8日</time></span> </div>
-</header>
-<div class="entry-summary" itemprop="text">
-<p>随着市场全球化的发展，越来越多的城市居民可能因为各种各样的原因，逐渐有了移民意向，但由于中国特殊的信息管控制度，很多中国人其实都是在道听途说中获取外界的信息，很 … <a title="中国人移民攻略自我评估与注意事项" class="read-more" href="https://iyzm.net/life/2812.html" aria-label="更多 中国人移民攻略自我评估与注意事项"> </a></p>
 </div>]]></content>
     </entry>
 </feed>
