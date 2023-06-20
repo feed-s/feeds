@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-20T05:45:55.370Z</updated>
+    <updated>2023-06-20T17:45:29.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">日默瓦广州维修中心
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 3 分钟前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 12 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7493,7 +7493,7 @@ on
 客房
 开放套的房间有一个独立的小院子，为...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 7 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 8 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7520,7 +7520,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 23 天前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 24 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7859,7 +7859,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-06-04T17:20:37+08:00" itemprop="dateModified">2023年6月4日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-06-20T21:45:02+08:00" itemprop="dateModified">2023年6月20日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
@@ -7876,7 +7876,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-06-19T22:20:50+08:00" itemprop="dateModified">2023年6月19日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-06-20T21:23:57+08:00" itemprop="dateModified">2023年6月20日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优于 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
@@ -8640,8 +8640,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: visible;" width="1280" height="960">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>
