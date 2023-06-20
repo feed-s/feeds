@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-06-19T17:46:01.080Z</updated>
+    <updated>2023-06-20T05:45:55.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日默瓦广州维修中心复活古董]]></title>
+        <id>https://fatesinger.com/101935</id>
+        <link href="https://fatesinger.com/101935"/>
+        <updated>2023-06-20T05:45:29.849Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101935" aria-label="日默瓦广州维修中心复活古董" title="日默瓦广州维修中心复活古董">日默瓦广州维修中心复活古董</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">日默瓦广州维修中心
+前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 3 分钟前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[丽江和府洲际]]></title>
         <id>https://fatesinger.com/101966</id>
@@ -32,7 +46,7 @@
         <div class="block-snippet" itemprop="about">大理的云
 时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 7 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 8 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -137,21 +151,6 @@
         <div class="block-snippet" itemprop="about">双十一购入了群晖DS920+ 和两块6T 的酷狼pro，经过一段时间的观察，发现群晖和酷狼pro 的价格都特别稳定，于是又补了2块6T 的...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-18T19:26:58+08:00">发布于 6月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖 Docker Movie Data Capture + Plex 打造私人毛片库]]></title>
-        <id>https://fatesinger.com/101761</id>
-        <link href="https://fatesinger.com/101761"/>
-        <updated>2023-02-26T04:35:18.519Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101761" aria-label="群晖 Docker Movie Data Capture + Plex 打造私人毛片库" title="群晖 Docker Movie Data Capture + Plex 打造私人毛片库">群晖 Docker Movie Data Capture + Plex 打造私人毛片库</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-黑五上车了plex pass，因为开了Disney+和Netfilx，目前Nas 主要用来下载HBO 和韩国资源，也顺带着管理下大姐姐们。
-本文不涉...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-05T17:34:37+08:00">发布于 6月前</time>
             </div>]]></content>
     </entry>
 </feed>
