@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-22T05:45:24.219Z</updated>
+    <updated>2023-06-22T17:45:22.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7467,6 +7467,20 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[广州柏悦酒店客房和黑珍珠二星悦景轩餐厅体验 (大发贱志)]]></title>
+        <id>https://fatesinger.com/102015</id>
+        <link href="https://fatesinger.com/102015"/>
+        <updated>2023-06-22T17:44:57.743Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102015" aria-label="广州柏悦酒店客房和黑珍珠二星悦景轩餐厅体验" title="广州柏悦酒店客房和黑珍珠二星悦景轩餐厅体验">广州柏悦酒店客房和黑珍珠二星悦景轩餐厅体验</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">广州柏悦
+借着修箱子顺便在广州住了一下，没有到处逛，只是体验了一下酒店和餐饮，在文华东方、柏悦和康莱德之前纠结了一下，...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 2 小时前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[日默瓦广州维修中心复活古董 (大发贱志)]]></title>
         <id>https://fatesinger.com/101935</id>
         <link href="https://fatesinger.com/101935"/>
@@ -7493,7 +7507,7 @@ on
 客房
 开放套的房间有一个独立的小院子，为...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 9 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 10 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7520,7 +7534,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 25 天前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 26 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7599,19 +7613,6 @@ on
 基金持...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 5月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖 DS920+ 个人硬盘配置分享 (大发贱志)]]></title>
-        <id>https://fatesinger.com/101807</id>
-        <link href="https://fatesinger.com/101807"/>
-        <updated>2023-02-26T04:35:18.519Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101807" aria-label="群晖 DS920+ 个人硬盘配置分享" title="群晖 DS920+ 个人硬盘配置分享">群晖 DS920+ 个人硬盘配置分享</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">双十一购入了群晖DS920+ 和两块6T 的酷狼pro，经过一段时间的观察，发现群晖和酷狼pro 的价格都特别稳定，于是又补了2块6T 的...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-18T19:26:58+08:00">发布于 6月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7876,7 +7877,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-06-20T21:23:57+08:00" itemprop="dateModified">2023年6月20日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-06-22T22:38:34+08:00" itemprop="dateModified">2023年6月22日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优于 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
@@ -8042,7 +8043,7 @@ on
         <updated>2023-05-13T17:45:36.195Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/03/%e6%8b%89%e9%93%be%e5%b8%82%e9%95%bf/" rel="bookmark"><span class="screen-reader-text">这个世界真如《金瓶梅》中描述的那么不堪吗？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyloading" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><picture style="display: none;"><source data-srcset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/writing/" rel="category tag">浮城迷事</a></div>
 		
