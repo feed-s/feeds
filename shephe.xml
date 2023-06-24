@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2023-06-23T17:45:19.211Z</updated>
+    <updated>2023-06-24T05:45:47.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -12,9 +12,9 @@
         <updated>2023-05-13T17:45:36.195Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/03/%e6%8b%89%e9%93%be%e5%b8%82%e9%95%bf/" rel="bookmark"><span class="screen-reader-text">这个世界真如《金瓶梅》中描述的那么不堪吗？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyloaded" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" style="background-image: url(&quot;https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg&quot;);"><picture style="display: none;"><source data-srcset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" sizes="736px" srcset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="736px"></picture></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
-					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/writing/" rel="category tag">写点东西</a></div>
+					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/digest/" rel="category tag">网络文摘</a></div>
 		
 		<div class="grve-post-content">
 						<div class="grve-post-date grve-small-text grve-text-default"><span>			<time datetime="2023-03-14T14:01:37+08:00">
@@ -30,7 +30,7 @@
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>16</span></div>
+			<span>17</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -117,7 +117,7 @@
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>30</span></div>
+			<span>31</span></div>
 							</div>
 			</div>]]></content>
     </entry>
