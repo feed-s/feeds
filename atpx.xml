@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2023-06-25T05:45:42.566Z</updated>
+    <updated>2023-06-25T17:45:54.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
     <entry>
@@ -39,8 +39,8 @@
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: visible;" width="1280" height="960">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>

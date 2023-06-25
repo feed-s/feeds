@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-25T05:45:42.611Z</updated>
+    <updated>2023-06-25T17:45:54.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">广州柏悦
 借着修箱子顺便在广州住了一下，没有到处逛，只是体验了一下酒店和餐饮，在文华东方、柏悦和康莱德之前纠结了一下，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 2 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 3 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7507,7 +7507,7 @@ on
 客房
 开放套的房间有一个独立的小院子，为...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 12 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 13 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7534,7 +7534,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 28 天前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 29 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7877,7 +7877,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-06-24T21:35:57+08:00" itemprop="dateModified">2023年6月24日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-06-25T22:17:44+08:00" itemprop="dateModified">2023年6月25日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优于 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
@@ -8061,7 +8061,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>2</span></div>
+			<span>4</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -8148,7 +8148,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>12</span></div>
+			<span>13</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -8461,7 +8461,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>8</span></div>
+			<span>9</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -8644,8 +8644,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: visible;" width="1280" height="960">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>
