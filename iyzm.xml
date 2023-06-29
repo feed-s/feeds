@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2023-06-28T17:45:13.193Z</updated>
+    <updated>2023-06-29T05:55:36.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -84,7 +84,7 @@
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3308.html" rel="bookmark">OpenWrt IPv6 设置与 DHCPv6 设置入门指南</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-04-06T19:55:36+08:00" itemprop="dateModified">2023年4月6日</time><time class="entry-date published" datetime="2023-03-16T16:59:45+08:00" itemprop="datePublished">2023年3月16日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-06-29T12:15:10+08:00" itemprop="dateModified">2023年6月29日</time><time class="entry-date published" datetime="2023-03-16T16:59:45+08:00" itemprop="datePublished">2023年3月16日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>当前互联网的 IPv4 地址池已彻底分配完毕，因此 IPv6 地址也得以基本普及，使用 OpenWrt 的各技术人员有必要了解相关的 IPv6 基础信息，本文介 … <a title="OpenWrt IPv6 设置与 DHCPv6 设置入门指南" class="read-more" href="https://iyzm.net/openwrt/3308.html" aria-label="更多 OpenWrt IPv6 设置与 DHCPv6 设置入门指南"> </a></p>
