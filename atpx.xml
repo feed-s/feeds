@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2023-06-29T05:55:36.457Z</updated>
+    <updated>2023-06-30T05:46:18.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[与“锤哥”克里斯·海姆斯沃斯一起养生]]></title>
+        <id>https://atpx.com/blog/limitless-with-chris-hemsworth/</id>
+        <link href="https://atpx.com/blog/limitless-with-chris-hemsworth/"/>
+        <updated>2023-06-30T05:46:17.303Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">June 30, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/limitless-with-chris-hemsworth/"> 与“锤哥”克里斯·海姆斯沃斯一起养生</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
+</div><p></p>
+<p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/limitless-with-chris-hemsworth/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[逃离爆炸的信息]]></title>
         <id>https://atpx.com/blog/escape-information-explosion/</id>
@@ -145,34 +172,6 @@
                 </div>
                 <div class="read-more">
                     <a href="https://atpx.com/blog/improving-online-reading-experience/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 Typecho 迁移到 Hugo]]></title>
-        <id>https://atpx.com/blog/typecho-to-hugo/</id>
-        <link href="https://atpx.com/blog/typecho-to-hugo/"/>
-        <updated>2023-06-13T06:12:34.780Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">March 6, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/typecho-to-hugo/"> 从 Typecho 迁移到 Hugo</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0086-typecho-to-hugo.png" alt="typecho-to-hugo" loading="lazy" style="visibility: hidden;" width="2302" height="1280">
-</div><p></p>
-<p>在上一篇文章 <em><a href="https://atpx.com/blog/dynamic-to-static-website/">个人博客的最终归宿是静态网站吗</a></em> 决定从 Typecho 迁移到 Hugo 后，为了保持博客样式不变，从 <code>hugo new theme</code> 开始，从零写了一个主题，经过这一周来 50+ 小时的努力，终于能 <code>rm -rf typecho</code> 后将网站重新上线了。</p>
-<p>总体来说，样式还原度 98%，功能还原度 90%，整个过程主要分为数据迁移和主题制作两大部分，本文将简单记录下实现过程。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/typecho-to-hugo/">
                         Continue Reading<span class="right-arrow">→</span>
                     </a>
                 </div>]]></content>

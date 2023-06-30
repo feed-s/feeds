@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-29T05:55:36.480Z</updated>
+    <updated>2023-06-30T05:46:18.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -520,7 +520,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -538,7 +538,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -808,7 +808,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -826,7 +826,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -844,7 +844,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">广州柏悦
 借着修箱子顺便在广州住了一下，没有到处逛，只是体验了一下酒店和餐饮，在文华东方、柏悦和康莱德之前纠结了一下，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7491,7 +7491,7 @@ on
         <div class="block-snippet" itemprop="about">日默瓦广州维修中心
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 9 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 10 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7507,7 +7507,7 @@ on
 客房
 开放套的房间有一个独立的小院子，为...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 16 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 17 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7521,7 +7521,7 @@ on
         <div class="block-snippet" itemprop="about">大理的云
 时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 17 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 18 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7554,7 +7554,7 @@ on
 赣锋锂业
 海...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-03-31T15:16:53+08:00">发布于 2月前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-03-31T15:16:53+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8043,7 +8043,7 @@ on
         <updated>2023-06-24T17:45:28.448Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/06/delete-wordpress-custom-fields/" rel="bookmark"><span class="screen-reader-text">删除无效的 WordPress 自定义字段</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
 		
@@ -8057,11 +8057,11 @@ on
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			<span>0</span></div>
+			<span>1</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>6</span></div>
+			<span>7</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -8072,7 +8072,7 @@ on
         <updated>2023-05-13T17:45:36.195Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/03/%e6%8b%89%e9%93%be%e5%b8%82%e9%95%bf/" rel="bookmark"><span class="screen-reader-text">这个世界真如《金瓶梅》中描述的那么不堪吗？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/digest/" rel="category tag">网络文摘</a></div>
 		
@@ -8101,7 +8101,7 @@ on
         <updated>2023-05-13T17:45:36.196Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/02/enjoy-your-life/" rel="bookmark"><span class="screen-reader-text">你觉得什么是人生最顶级的享受？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8130,7 +8130,7 @@ on
         <updated>2023-05-13T17:45:36.198Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/11/%e6%96%b0%e7%94%9f%e5%91%bd%e7%9a%84%e8%af%9e%e7%94%9f/" rel="bookmark"><span class="screen-reader-text">新生命的诞生</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2023/01/IMG_2662-1920x1280.jpeg 1920w, https://www.shephe.com/wp-content/uploads/2023/01/IMG_2662-150x100.jpeg 150w, https://www.shephe.com/wp-content/uploads/2023/01/IMG_2662-1536x1024.jpeg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/01/IMG_2662-1920x1280.jpeg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/01/IMG_2662-150x100.jpeg 150w, https://staticfile.shephe.com/wp-content/uploads/2023/01/IMG_2662-1536x1024.jpeg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8159,7 +8159,7 @@ on
         <updated>2023-05-13T17:45:36.200Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/11/fuck-off/" rel="bookmark"><span class="screen-reader-text">微信被永久禁言</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8188,7 +8188,7 @@ on
         <updated>2023-05-14T17:45:13.275Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/11/baby-formula/" rel="bookmark"><span class="screen-reader-text">如何挑选合适的婴幼儿奶粉？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/11/baby-formula.jpg 1200w, https://www.shephe.com/wp-content/uploads/2022/11/baby-formula-150x84.jpg 150w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/11/baby-formula.jpg 1200w, https://staticfile.shephe.com/wp-content/uploads/2022/11/baby-formula-150x84.jpg 150w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8217,7 +8217,7 @@ on
         <updated>2023-05-14T17:45:13.275Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/09/reporting/" rel="bookmark"><span class="screen-reader-text">如何有效的跟领导汇报工作？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/09/reporting.jpg 1200w, https://www.shephe.com/wp-content/uploads/2022/09/reporting-150x100.jpg 150w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/09/reporting.jpg 1200w, https://staticfile.shephe.com/wp-content/uploads/2022/09/reporting-150x100.jpg 150w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/notes/" rel="category tag">常用笔记</a></div>
 		
@@ -8246,9 +8246,9 @@ on
         <updated>2023-05-14T17:45:13.276Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/09/obsessive-compulsive-disorder/" rel="bookmark"><span class="screen-reader-text">你为“强迫症”付出过什么代价？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://www.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
-					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a> <a href="https://www.shephe.com/writing/" rel="category tag">若有所思</a></div>
+					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a> <a href="https://www.shephe.com/writing/" rel="category tag">随思随记</a></div>
 		
 		<div class="grve-post-content">
 						<div class="grve-post-date grve-small-text grve-text-default"><span>			<time datetime="2022-09-07T23:27:08+08:00">
@@ -8264,7 +8264,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>6</span></div>
+			<span>7</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -8275,7 +8275,7 @@ on
         <updated>2023-05-14T17:45:13.277Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/09/atractosteus-spatula/" rel="bookmark"><span class="screen-reader-text">鳄雀鳝是什么？世界最凶猛的淡水鱼有哪些</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/09/atractosteus-spatula-1.jpg 1440w, https://www.shephe.com/wp-content/uploads/2022/09/atractosteus-spatula-1-150x100.jpg 150w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/09/atractosteus-spatula-1.jpg 1440w, https://staticfile.shephe.com/wp-content/uploads/2022/09/atractosteus-spatula-1-150x100.jpg 150w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/notes/" rel="category tag">常用笔记</a></div>
 		
@@ -8304,9 +8304,9 @@ on
         <updated>2023-05-14T17:45:13.278Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/%e7%bd%9a%e6%ac%be%e7%bb%8f%e6%b5%8e/" rel="bookmark"><span class="screen-reader-text">罚款经济又要回来了么？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
-					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/writing/" rel="category tag">若有所思</a></div>
+					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/writing/" rel="category tag">随思随记</a></div>
 		
 		<div class="grve-post-content">
 						<div class="grve-post-date grve-small-text grve-text-default"><span>			<time datetime="2022-08-31T23:24:54+08:00">
@@ -8332,7 +8332,10 @@ on
         <link href="https://www.shephe.com/2022/08/chinese-9-level/"/>
         <updated>2023-05-14T17:45:13.278Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/chinese-9-level/" rel="bookmark"><span class="screen-reader-text">中国社会阶层划分，浅谈中国社会的九个阶级</span></a>
-						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/notes/" rel="category tag">常用笔记</a> <a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
+				<div class="grve-background-wrapper">
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2019/08/20190810-公司山王坪团建-1.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2019/08/20190810-公司山王坪团建-1-1536x864.jpg 1536w, https://staticfile.shephe.com/wp-content/uploads/2019/08/20190810-公司山王坪团建-1-1390x782.jpg 1390w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+					</div>
+					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a> <a href="https://www.shephe.com/writing/" rel="category tag">随思随记</a></div>
 		
 		<div class="grve-post-content">
 						<div class="grve-post-date grve-small-text grve-text-default"><span>			<time datetime="2022-08-30T17:59:28+08:00">
@@ -8358,7 +8361,10 @@ on
         <link href="https://www.shephe.com/2022/08/date-with-her-at-supermarket/"/>
         <updated>2023-05-14T17:45:13.279Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/date-with-her-at-supermarket/" rel="bookmark"><span class="screen-reader-text">和女生约会有哪些项目？要不一起逛逛超市吧</span></a>
-						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/notes/" rel="category tag">常用笔记</a></div>
+				<div class="grve-background-wrapper">
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/dating-cartoon-1920x864.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/dating-cartoon-150x68.jpg 150w, https://staticfile.shephe.com/wp-content/uploads/2022/08/dating-cartoon-1536x691.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+					</div>
+					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/notes/" rel="category tag">常用笔记</a> <a href="https://www.shephe.com/digest/" rel="category tag">网络文摘</a></div>
 		
 		<div class="grve-post-content">
 						<div class="grve-post-date grve-small-text grve-text-default"><span>			<time datetime="2022-08-25T23:17:00+08:00">
@@ -8370,7 +8376,7 @@ on
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			<span>2</span></div>
+			<span>3</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
@@ -8385,7 +8391,7 @@ on
         <updated>2023-05-14T17:45:13.280Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/wordpress-be-hacked/" rel="bookmark"><span class="screen-reader-text">WordPress被黑客入侵、挂马怎么办？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://www.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8414,7 +8420,7 @@ on
         <updated>2023-05-14T17:45:13.280Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/wordpress-gravatar-change-resource/" rel="bookmark"><span class="screen-reader-text">将Gravatar头像源替换为国内镜像</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://www.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8443,7 +8449,7 @@ on
         <updated>2023-05-14T17:45:13.281Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/change-wordpress-uploads-to-https/" rel="bookmark"><span class="screen-reader-text">将WordPress文章图片从http转为https</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8472,7 +8478,7 @@ on
         <updated>2023-05-14T17:45:13.282Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/how-to-effectively-praise-others/" rel="bookmark"><span class="screen-reader-text">如何有效的夸奖别人？</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2022/08/thumbs-up-1920x1280.jpg 1920w, https://www.shephe.com/wp-content/uploads/2022/08/thumbs-up-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/thumbs-up-1920x1280.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/thumbs-up-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/notes/" rel="category tag">常用笔记</a></div>
 		
@@ -8501,7 +8507,7 @@ on
         <updated>2023-05-14T17:45:13.282Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/0818/" rel="bookmark"><span class="screen-reader-text">高温加疫情，重庆今年的夏天有点热</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/07/2020.08.15-一个早晨.jpg" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/2020.08.15-一个早晨.jpg" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a></div>
 		
@@ -8530,7 +8536,7 @@ on
         <updated>2023-05-14T17:45:13.283Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/wordpress-theme-plugin-translate/" rel="bookmark"><span class="screen-reader-text">WordPress英文主题如何翻译成中文</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
 		
@@ -8559,7 +8565,7 @@ on
         <updated>2023-05-14T17:45:13.284Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/08/tiny-wordpress-theme-download/" rel="bookmark"><span class="screen-reader-text">Tiny，一个优雅的响应式博客主题下载</span></a>
 				<div class="grve-background-wrapper">
-			<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://www.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
+			<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>						<div class="grve-bg-overlay grve-bg-default grve-opacity-default"></div>
 					</div>
 					<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 		
@@ -8588,7 +8594,7 @@ on
         <updated>2023-05-14T17:45:13.284Z</updated>
         <content type="html"><![CDATA[<div class="grve-post-media">
 						<a class="grve-item-url" href="https://www.shephe.com/2022/08/change-look/" rel="bookmark"><span class="screen-reader-text">博客启用新主题，并浅谈未来发展</span></a>
-			<div class="grve-thumbnail-wrapper"><div class="grve-thumbnail" style="padding-top: 68.086%;"><img src="https://www.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2.jpg" class="attachment-medium_large size-medium_large wp-post-image grve-lazy-load lazyload" alt="Impeka - Premium WordPress Multipurpose theme by Greatives" decoding="async" data-column-space="100" data-lazyload="" data-grve-filter="yes" srcset="https://www.shephe.com/wp-content/themes/impeka/images/empty/empty.png" data-src="https://www.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2.jpg" data-sizes="auto" data-srcset="https://www.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2.jpg 2560w, https://www.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2-1536x1046.jpg 1536w, https://www.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2-600x409.jpg 600w" data-expand="1" width="2560" height="1743"></div></div>		</div>
+			<div class="grve-thumbnail-wrapper"><div class="grve-thumbnail" style="padding-top: 68.086%;"><img src="https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2.jpg" class="attachment-medium_large size-medium_large wp-post-image grve-lazy-load lazyload" alt="Impeka - Premium WordPress Multipurpose theme by Greatives" decoding="async" data-column-space="100" data-lazyload="" data-grve-filter="yes" srcset="https://staticfile.shephe.com/wp-content/themes/impeka/images/empty/empty.png" data-src="https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2.jpg" data-sizes="auto" data-srcset="https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2-1536x1046.jpg 1536w, https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-2-600x409.jpg 600w" data-expand="1" width="2560" height="1743"></div></div>		</div>
 						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
 				<div class="grve-post-content">
 						<div class="grve-post-date grve-small-text"><span>			<time datetime="2022-08-10T00:17:25+08:00">
@@ -8609,6 +8615,33 @@ on
 			<span>18</span></div>
 							</div>
 			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[与“锤哥”克里斯·海姆斯沃斯一起养生 (ATP)]]></title>
+        <id>https://atpx.com/blog/limitless-with-chris-hemsworth/</id>
+        <link href="https://atpx.com/blog/limitless-with-chris-hemsworth/"/>
+        <updated>2023-06-30T05:46:17.303Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">June 30, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/limitless-with-chris-hemsworth/"> 与“锤哥”克里斯·海姆斯沃斯一起养生</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
+</div><p></p>
+<p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/limitless-with-chris-hemsworth/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[逃离爆炸的信息 (ATP)]]></title>
@@ -8750,34 +8783,6 @@ on
                 </div>
                 <div class="read-more">
                     <a href="https://atpx.com/blog/improving-online-reading-experience/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 Typecho 迁移到 Hugo (ATP)]]></title>
-        <id>https://atpx.com/blog/typecho-to-hugo/</id>
-        <link href="https://atpx.com/blog/typecho-to-hugo/"/>
-        <updated>2023-06-13T06:12:34.780Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">March 6, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/typecho-to-hugo/"> 从 Typecho 迁移到 Hugo</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0086-typecho-to-hugo.png" alt="typecho-to-hugo" loading="lazy" style="visibility: hidden;" width="2302" height="1280">
-</div><p></p>
-<p>在上一篇文章 <em><a href="https://atpx.com/blog/dynamic-to-static-website/">个人博客的最终归宿是静态网站吗</a></em> 决定从 Typecho 迁移到 Hugo 后，为了保持博客样式不变，从 <code>hugo new theme</code> 开始，从零写了一个主题，经过这一周来 50+ 小时的努力，终于能 <code>rm -rf typecho</code> 后将网站重新上线了。</p>
-<p>总体来说，样式还原度 98%，功能还原度 90%，整个过程主要分为数据迁移和主题制作两大部分，本文将简单记录下实现过程。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/typecho-to-hugo/">
                         Continue Reading<span class="right-arrow">→</span>
                     </a>
                 </div>]]></content>
