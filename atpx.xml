@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2023-06-30T05:46:18.496Z</updated>
+    <updated>2023-06-30T17:45:25.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
     <entry>
@@ -21,8 +21,8 @@
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: visible;" width="1280" height="720">
 </div><p></p>
 <p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
                 </div>
@@ -168,7 +168,7 @@
     <div class="img-loading"></div>
     <img src="https://s1.nichijou.org/images/2023/0087-improving-online-reading-experience.webp" alt="improving-online-reading-experience" loading="lazy" style="visibility: hidden;" width="1920" height="1282">
 </div><p></p>
-<p>如何提高网页中文字的阅读体验，这是可以写一本书的问题，仅仅是粗略的搜索一番，也是众说纷纭。我倒认为这是一件很主观的事，即使是同样的排版设置，在不同的设备，不同的系统甚至不同的浏览器中表现都不一样，也可以说在网页设计中排版是极其自由的，关于如何提高用户阅读体验这件事，自然没有统一的标准。</p>
+<p>如何提高网页中文字的阅读体验，这是可以写一本书的问题，仅仅是粗略的搜索一番，也是众说纷纭。我倒认为这是一件很主观的事，即使是同样的排版设置，在不同的设备，不同的系统甚至不同的浏览器中表现都不一样，也可以说在网页设计中排版是极其自由的，加上每个读者阅读喜好不同，关于如何提高用户阅读体验这件事，自然没有统一的标准。</p>
                 </div>
                 <div class="read-more">
                     <a href="https://atpx.com/blog/improving-online-reading-experience/">
