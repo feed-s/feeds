@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-07-03T17:45:18.883Z</updated>
+    <updated>2023-07-04T05:44:59.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 第二季度基金股票总结]]></title>
+        <id>https://fatesinger.com/102068</id>
+        <link href="https://fatesinger.com/102068"/>
+        <updated>2023-07-04T05:44:35.279Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102068" aria-label="2023 第二季度基金股票总结" title="2023 第二季度基金股票总结">2023 第二季度基金股票总结</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">经过四月五月的猛跌，今年已经付费炒股了。
+四月
+账户1
+
+赣锋锂业
+海螺水泥
+洋河股份
+三一重工
+药明康德
+
+账户2
+
+万华化学
+普...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 1 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[广州柏悦酒店客房和黑珍珠二星悦景轩餐厅体验]]></title>
         <id>https://fatesinger.com/102015</id>
@@ -30,7 +56,7 @@
         <div class="block-snippet" itemprop="about">日默瓦广州维修中心
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 13 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 14 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -60,7 +86,7 @@
         <div class="block-snippet" itemprop="about">大理的云
 时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 21 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 22 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -124,34 +150,6 @@
 不是...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-31T11:19:27+08:00">发布于 6月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 第四季度基金股票总结]]></title>
-        <id>https://fatesinger.com/101690</id>
-        <link href="https://fatesinger.com/101690"/>
-        <updated>2023-02-26T04:35:18.518Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101690" aria-label="2022 第四季度基金股票总结" title="2022 第四季度基金股票总结">2022 第四季度基金股票总结</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-进场时间很重要
-十月
-基金持仓
-无
-股票持仓
-
-招商银行
-药明康德
-海康威视
-海螺水泥
-宇通客车
-
-收益率 -3.88%
-十一月
-基金持...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2022-12-30T16:01:07+08:00">发布于 6月前</time>
             </div>]]></content>
     </entry>
 </feed>
