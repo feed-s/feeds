@@ -2,20 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2023-07-06T05:45:25.829Z</updated>
+    <updated>2023-07-06T17:46:43.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[免插件实现WordPress文章归档页面]]></title>
-        <id>https://www.shephe.com/2023/07/%e5%85%8d%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0wordpress%e6%96%87%e7%ab%a0%e5%bd%92%e6%a1%a3%e9%a1%b5%e9%9d%a2/</id>
-        <link href="https://www.shephe.com/2023/07/%e5%85%8d%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0wordpress%e6%96%87%e7%ab%a0%e5%bd%92%e6%a1%a3%e9%a1%b5%e9%9d%a2/"/>
-        <updated>2023-07-06T05:45:21.359Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/07/%e5%85%8d%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0wordpress%e6%96%87%e7%ab%a0%e5%bd%92%e6%a1%a3%e9%a1%b5%e9%9d%a2/" rel="bookmark"><span class="screen-reader-text">免插件实现WordPress文章归档页面</span></a>
+        <id>https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/</id>
+        <link href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/"/>
+        <updated>2023-07-06T17:46:39.510Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/" rel="bookmark"><span class="screen-reader-text">免插件实现WordPress文章归档页面</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -25,7 +25,7 @@
 				<div class="grve-post-content">
 			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>免插件实现WordPress文章归档页面</span></h3>						<p>虽说Web已经日薄西山，流量式微，但作为自己的一亩三分地偶尔看看还是不错的。于是这几日疯狂折腾现用的主题，包括代码修改及功能补齐，本文分享两个免插件实现WordPress文章归档页面的方法。 利用WordPress原生函数实现文章归档页面 …</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
 					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/07/%e5%85%8d%e6%8f%92%e4%bb%b6%e5%ae%9e%e7%8e%b0wordpress%e6%96%87%e7%ab%a0%e5%bd%92%e6%a1%a3%e9%a1%b5%e9%9d%a2/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -41,7 +41,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -67,7 +67,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
