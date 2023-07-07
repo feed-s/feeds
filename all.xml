@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-06T17:46:43.986Z</updated>
+    <updated>2023-07-07T05:45:52.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7050,11 +7050,18 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LoRA技术的类ChatGPT大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span><span class="tag-item" data-v-1e62957f="">ChatLLM-Web</span><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">privateGPT</span></i></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%8F%8ATransformer%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html</id>
+        <link href="https://www.eula.club/blogs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%8F%8ATransformer%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html"/>
+        <updated>2023-07-07T05:45:17.638Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%8F%8ATransformer%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">自然语言处理及Transformer基础理论概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/26/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">自然语言处理NLP</span><span class="tag-item" data-v-1e62957f="">Transformer</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[人工智能及深度学习基础理论概述 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html</id>
         <link href="https://www.eula.club/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html"/>
         <updated>2023-07-01T17:44:45.742Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">人工智能及深度学习基础理论概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">人工智能</span><span class="tag-item" data-v-1e62957f="">机器学习</span><span class="tag-item" data-v-1e62957f="">深度学习</span><span class="tag-item" data-v-1e62957f="">自然语言处理NLP</span><span class="tag-item" data-v-1e62957f="">卷积神经网络CNN</span><span class="tag-item" data-v-1e62957f="">生成对抗网络GAN</span><span class="tag-item" data-v-1e62957f="">循环神经网络RNN</span><span class="tag-item" data-v-1e62957f="">深度强化学习RL</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">人工智能及深度学习基础理论概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">人工智能</span><span class="tag-item" data-v-1e62957f="">机器学习</span><span class="tag-item" data-v-1e62957f="">深度学习</span><span class="tag-item" data-v-1e62957f="">卷积神经网络CNN</span><span class="tag-item" data-v-1e62957f="">生成对抗网络GAN</span><span class="tag-item" data-v-1e62957f="">循环神经网络RNN</span><span class="tag-item" data-v-1e62957f="">深度强化学习RL</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[文件IO原理及Kafka高效读写原因分析 (Quantum Bit)]]></title>
@@ -7090,13 +7097,6 @@ on
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html"/>
         <updated>2023-02-15T05:44:39.247Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html" data-v-3fa1a62e="" class="">基因测序VCF文件的解析与处理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/3/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">基因测序</span><span class="tag-item" data-v-1e62957f="">VCF</span><span class="tag-item" data-v-1e62957f="">GWAS</span><span class="tag-item" data-v-1e62957f="">htslib</span><span class="tag-item" data-v-1e62957f="">bcftools</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大数据与云原生组件的搭建及介绍 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html</id>
-        <link href="https://www.eula.club/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html"/>
-        <updated>2023-04-04T17:45:16.782Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html" data-v-3fa1a62e="" class="">大数据与云原生组件的搭建及介绍</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/27/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Hadoop</span><span class="tag-item" data-v-1e62957f="">伪分布式集群</span><span class="tag-item" data-v-1e62957f="">Flink</span><span class="tag-item" data-v-1e62957f="">流处理引擎</span><span class="tag-item" data-v-1e62957f="">实时计算</span><span class="tag-item" data-v-1e62957f="">k8s</span><span class="tag-item" data-v-1e62957f="">云原生</span><span class="tag-item" data-v-1e62957f="">gRPC</span><span class="tag-item" data-v-1e62957f="">Dubbo</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7489,7 +7489,7 @@ on
 万华化学
 普...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 2 天前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 3 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7517,7 +7517,7 @@ on
         <div class="block-snippet" itemprop="about">日默瓦广州维修中心
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 16 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 17 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7547,7 +7547,7 @@ on
         <div class="block-snippet" itemprop="about">大理的云
 时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 24 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 25 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8044,7 +8044,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8070,7 +8070,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8096,7 +8096,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
