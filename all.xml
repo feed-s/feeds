@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-09T05:45:24.437Z</updated>
+    <updated>2023-07-09T17:45:16.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7029,6 +7029,13 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LangChain及LangFlow使用指南 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
+        <link href="https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
+        <updated>2023-07-09T17:44:42.026Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">LangChain及LangFlow使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">privateGPT</span><span class="tag-item" data-v-1e62957f="">LangFlow</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[搭建Jupyter及TensorBoard服务 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E6%90%AD%E5%BB%BAJupyter%E5%8F%8ATensorBoard%E6%9C%8D%E5%8A%A1.html</id>
         <link href="https://www.eula.club/blogs/%E6%90%AD%E5%BB%BAJupyter%E5%8F%8ATensorBoard%E6%9C%8D%E5%8A%A1.html"/>
@@ -7047,7 +7054,7 @@ on
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
         <updated>2023-07-01T17:44:45.740Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LoRA技术的类ChatGPT大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span><span class="tag-item" data-v-1e62957f="">ChatLLM-Web</span><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">privateGPT</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LoRA技术的类ChatGPT大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span><span class="tag-item" data-v-1e62957f="">ChatLLM-Web</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述 (Quantum Bit)]]></title>
@@ -7090,13 +7097,6 @@ on
         <link href="https://www.eula.club/blogs/ChatGPT%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94AI%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2022-12-14T07:13:28.283Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94AI%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">ChatGPT智能问答AI使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/5/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT</span><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">ChatGPT-API</span><span class="tag-item" data-v-1e62957f="">gpt4free</span><span class="tag-item" data-v-1e62957f="">ChatGPT提问技巧</span><span class="tag-item" data-v-1e62957f="">ChatGPT衍生项目</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基因测序VCF文件的解析与处理 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html"/>
-        <updated>2023-02-15T05:44:39.247Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html" data-v-3fa1a62e="" class="">基因测序VCF文件的解析与处理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/3/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">基因测序</span><span class="tag-item" data-v-1e62957f="">VCF</span><span class="tag-item" data-v-1e62957f="">GWAS</span><span class="tag-item" data-v-1e62957f="">htslib</span><span class="tag-item" data-v-1e62957f="">bcftools</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">
 周六听了一场陈粒的演唱会，活了三十多年也是第一次参加演唱会。门票来自IHG 的优拍活动，31100 分竞拍到手，差不多1000块钱...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-09T13:00:50+08:00">发布于 44 分钟前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-09T13:00:50+08:00">发布于 12 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7517,7 +7517,7 @@ on
         <div class="block-snippet" itemprop="about">广州柏悦
 借着修箱子顺便在广州住了一下，没有到处逛，只是体验了一下酒店和餐饮，在文华东方、柏悦和康莱德之前纠结了一下，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 16 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 17 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7547,7 +7547,7 @@ on
 客房
 开放套的房间有一个独立的小院子，为...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 26 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 27 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7873,7 +7873,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-07-08T19:38:04+08:00" itemprop="dateModified">2023年7月8日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-07-09T19:46:41+08:00" itemprop="dateModified">2023年7月9日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，却常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
