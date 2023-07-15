@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2023-07-15T05:45:28.129Z</updated>
+    <updated>2023-07-15T17:45:12.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
         <updated>2023-07-01T17:44:45.740Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LoRA技术的类ChatGPT大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span><span class="tag-item" data-v-1e62957f="">ChatLLM-Web</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELoRA%E6%8A%80%E6%9C%AF%E7%9A%84%E7%B1%BBChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LoRA技术的类ChatGPT大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span><span class="tag-item" data-v-1e62957f="">大模型</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述]]></title>
