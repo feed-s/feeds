@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2023-07-16T05:45:35.307Z</updated>
+    <updated>2023-07-16T17:45:10.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[认识史蒂夫·乔布斯]]></title>
+        <id>https://atpx.com/blog/steve-jobs/</id>
+        <link href="https://atpx.com/blog/steve-jobs/"/>
+        <updated>2023-07-16T17:45:08.928Z</updated>
+        <content type="html"><![CDATA[<span class="post-meta">July 16, 2023</span>
+                <h2 class="post-title">
+                    <a href="https://atpx.com/blog/steve-jobs/"> 认识史蒂夫·乔布斯</a>
+                </h2>
+                <div class="post-summary">
+                    <p>
+
+
+
+
+</p><div class="img-wrapper">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" style="visibility: hidden;" width="1280" height="1015">
+</div><p></p>
+<p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
+                </div>
+                <div class="read-more">
+                    <a href="https://atpx.com/blog/steve-jobs/">
+                        Continue Reading<span class="right-arrow">→</span>
+                    </a>
+                </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[与“锤哥”克里斯·海姆斯沃斯一起养生]]></title>
         <id>https://atpx.com/blog/limitless-with-chris-hemsworth/</id>
@@ -21,8 +48,8 @@
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: visible;" width="1280" height="720">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
 </div><p></p>
 <p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
                 </div>
@@ -66,8 +93,8 @@
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: visible;" width="1280" height="960">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>
@@ -145,33 +172,6 @@
                 </div>
                 <div class="read-more">
                     <a href="https://atpx.com/blog/choose-domain-registrar-and-dns/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何提高用户网页阅读体验]]></title>
-        <id>https://atpx.com/blog/improving-online-reading-experience/</id>
-        <link href="https://atpx.com/blog/improving-online-reading-experience/"/>
-        <updated>2023-06-13T06:12:34.776Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">March 9, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/improving-online-reading-experience/"> 如何提高用户网页阅读体验</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0087-improving-online-reading-experience.webp" alt="improving-online-reading-experience" loading="lazy" style="visibility: hidden;" width="1920" height="1282">
-</div><p></p>
-<p>如何提高网页中文字的阅读体验，这是可以写一本书的问题，仅仅是粗略的搜索一番，也是众说纷纭。我倒认为这是一件很主观的事，即使是同样的排版设置，在不同的设备，不同的系统甚至不同的浏览器中表现都不一样，也可以说在网页设计中排版是极其自由的，加上每个读者阅读喜好不同，关于如何提高用户阅读体验这件事，自然没有统一的标准。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/improving-online-reading-experience/">
                         Continue Reading<span class="right-arrow">→</span>
                     </a>
                 </div>]]></content>
