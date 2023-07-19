@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-18T05:45:18.687Z</updated>
+    <updated>2023-07-19T17:45:20.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -520,7 +520,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -538,7 +538,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -808,7 +808,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -826,7 +826,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -844,7 +844,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7476,7 +7476,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 4 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 6 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7490,7 +7490,7 @@ on
         <div class="block-snippet" itemprop="about">
 周六听了一场陈粒的演唱会，活了三十多年也是第一次参加演唱会。门票来自IHG 的优拍活动，31100 分竞拍到手，差不多1000块钱...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-09T13:00:50+08:00">发布于 9 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-09T13:00:50+08:00">发布于 10 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7516,7 +7516,7 @@ on
 万华化学
 普...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 14 天前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 15 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7530,7 +7530,7 @@ on
         <div class="block-snippet" itemprop="about">广州柏悦
 借着修箱子顺便在广州住了一下，没有到处逛，只是体验了一下酒店和餐饮，在文华东方、柏悦和康莱德之前纠结了一下，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 25 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-22T23:24:04+08:00">发布于 27 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7544,7 +7544,7 @@ on
         <div class="block-snippet" itemprop="about">日默瓦广州维修中心
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 28 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 29 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7872,7 +7872,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-07-09T19:46:41+08:00" itemprop="dateModified">2023年7月9日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-07-19T01:39:04+08:00" itemprop="dateModified">2023年7月19日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，却常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
