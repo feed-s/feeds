@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-07-24T05:45:05.837Z</updated>
+    <updated>2023-07-24T17:45:19.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[至正潮菜]]></title>
+        <id>https://fatesinger.com/102153</id>
+        <link href="https://fatesinger.com/102153"/>
+        <updated>2023-07-24T17:44:54.958Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102153" aria-label="至正潮菜" title="至正潮菜">至正潮菜</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">至正潮菜
+周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 5 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TMDb x WP-Douban]]></title>
         <id>https://fatesinger.com/102124</id>
@@ -15,7 +29,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 10 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 11 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -127,26 +141,6 @@
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 第一季度基金股票总结]]></title>
-        <id>https://fatesinger.com/101904</id>
-        <link href="https://fatesinger.com/101904"/>
-        <updated>2023-03-31T17:45:21.957Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101904" aria-label="2023 第一季度基金股票总结" title="2023 第一季度基金股票总结">2023 第一季度基金股票总结</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">Photo by Dylan Calluy on Unsplash
-  
-整体浮盈，主要是三月没及时止盈，然后猛亏，真是猛狗哭泣。
-一月
-账户1
-
-赣锋锂业
-海...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-03-31T15:16:53+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
 </feed>
