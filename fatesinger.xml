@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-07-26T05:45:21.408Z</updated>
+    <updated>2023-07-26T17:45:13.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -16,7 +16,7 @@
         <div class="block-snippet" itemprop="about">至正潮菜
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 1 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 2 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -29,7 +29,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 12 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 13 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -140,7 +140,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 1月前</time>
+            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 2月前</time>
             </div>]]></content>
     </entry>
 </feed>
