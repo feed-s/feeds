@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-27T05:45:32.881Z</updated>
+    <updated>2023-07-27T17:45:08.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7036,13 +7036,6 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">LangChain及LangFlow使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">privateGPT</span><span class="tag-item" data-v-1e62957f="">LangFlow</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[搭建Jupyter及TensorBoard服务 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E6%90%AD%E5%BB%BAJupyter%E5%8F%8ATensorBoard%E6%9C%8D%E5%8A%A1.html</id>
-        <link href="https://www.eula.club/blogs/%E6%90%AD%E5%BB%BAJupyter%E5%8F%8ATensorBoard%E6%9C%8D%E5%8A%A1.html"/>
-        <updated>2023-07-01T17:44:45.735Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%90%AD%E5%BB%BAJupyter%E5%8F%8ATensorBoard%E6%9C%8D%E5%8A%A1.html" data-v-3fa1a62e="" class="">搭建Jupyter及TensorBoard服务</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">6/29/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Google Colab</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span></i></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在Mac本地运行量化后的开源大模型 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%9C%A8Mac%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
         <link href="https://www.eula.club/blogs/%E5%9C%A8Mac%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
@@ -7097,6 +7090,13 @@ on
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html"/>
         <updated>2023-07-22T05:45:02.659Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8FVCF%E6%96%87%E4%BB%B6%E7%9A%84%E8%A7%A3%E6%9E%90%E4%B8%8E%E5%A4%84%E7%90%86.html" data-v-3fa1a62e="" class="">基因测序VCF文件的解析与处理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/3/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">基因测序</span><span class="tag-item" data-v-1e62957f="">VCF</span><span class="tag-item" data-v-1e62957f="">GWAS</span><span class="tag-item" data-v-1e62957f="">htslib</span><span class="tag-item" data-v-1e62957f="">bcftools</span></i></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大数据与云原生组件的搭建及介绍 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html</id>
+        <link href="https://www.eula.club/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html"/>
+        <updated>2023-07-27T17:44:35.175Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%A7%E6%95%B0%E6%8D%AE%E4%B8%8E%E4%BA%91%E5%8E%9F%E7%94%9F%E7%BB%84%E4%BB%B6%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BB%8B%E7%BB%8D.html" data-v-3fa1a62e="" class="">大数据与云原生组件的搭建及介绍</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/27/2022</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Hadoop</span><span class="tag-item" data-v-1e62957f="">伪分布式集群</span><span class="tag-item" data-v-1e62957f="">Flink</span><span class="tag-item" data-v-1e62957f="">流处理引擎</span><span class="tag-item" data-v-1e62957f="">实时计算</span><span class="tag-item" data-v-1e62957f="">k8s</span><span class="tag-item" data-v-1e62957f="">云原生</span><span class="tag-item" data-v-1e62957f="">gRPC</span><span class="tag-item" data-v-1e62957f="">Dubbo</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">至正潮菜
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 2 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 3 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7490,7 +7490,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 13 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 14 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7866,7 +7866,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-07-25T00:26:39+08:00" itemprop="dateModified">2023年7月25日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-07-27T22:16:33+08:00" itemprop="dateModified">2023年7月27日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，却常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
