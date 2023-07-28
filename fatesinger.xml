@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-07-28T05:45:05.905Z</updated>
+    <updated>2023-07-28T17:45:20.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[炳胜品味]]></title>
+        <id>https://fatesinger.com/102138</id>
+        <link href="https://fatesinger.com/102138"/>
+        <updated>2023-07-28T17:44:55.864Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102138" aria-label="炳胜品味" title="炳胜品味">炳胜品味</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">炳胜品味
+最近经常去深圳湾万象城，前阵子和领导去吃了一顿炳胜，炳胜也算粤菜中比较出名的了，就算在广州，炳胜也还算是可以...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 8 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[至正潮菜]]></title>
         <id>https://fatesinger.com/102153</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">至正潮菜
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 3 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 4 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -29,7 +43,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 14 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 15 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -128,19 +142,6 @@
 时隔一年，没想到我这个系列的文章还能更新。去大理多次，也是第一次直接飞机过来，大理机场在山上，风大跑道又短，...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T13:41:08+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间]]></title>
-        <id>https://fatesinger.com/101954</id>
-        <link href="https://fatesinger.com/101954"/>
-        <updated>2023-05-27T17:45:22.370Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101954" aria-label="群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间" title="群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间">群晖DSM 7.2 将M.2 NVMe SSD 缓存设置为储存空间</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">最近有同学反映自己的群晖升级到7.2 之后无法将MVMe 设置为存储空间，我自己的机器之前被我重置成缓存了，于是亲自试了下还是...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-05-27T18:10:58+08:00">发布于 2月前</time>
             </div>]]></content>
     </entry>
 </feed>
