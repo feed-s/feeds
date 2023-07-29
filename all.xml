@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-28T17:45:20.204Z</updated>
+    <updated>2023-07-29T05:45:20.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -1899,6 +1899,177 @@ on
             <a href="/blog-cn/2012/05/18/user-friendliness">什么是“对用户友好”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[欧中关系的范式转移： (中国:历史与未来)]]></title>
+        <id>https://www.chinese-future.org/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9</id>
+        <link href="https://www.chinese-future.org/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9"/>
+        <updated>2023-07-29T05:44:30.028Z</updated>
+        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-07-29">Jul 29, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-title-link">欧中关系的范式转移：</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-07-29">Jul 29, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-read-more-link">Read More →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-07-29">Jul 29, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[故山知好在，孤客自悲凉——遥祭张思之先生 (中国:历史与未来)]]></title>
         <id>https://www.chinese-future.org/articles/nbsp-nbsp</id>
         <link href="https://www.chinese-future.org/articles/nbsp-nbsp"/>
@@ -2452,7 +2623,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2468,7 +2639,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-title-link">在历史的长河中观察共产党、习近平和中国的政治改革</a></div>
+                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-title-link" tabindex="-1">在历史的长河中观察共产党、习近平和中国的政治改革</a></div>
             
 
             
@@ -2505,7 +2676,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2529,7 +2700,7 @@ on
 
               
                 
-                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2567,7 +2738,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -6858,177 +7029,6 @@ on
           </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[拜登主义的形成与美国重夺外交高地 —— 浅析拜登执政百日来的外交趋向与对华政策 (中国:历史与未来)]]></title>
-        <id>https://www.chinese-future.org/articles/-3</id>
-        <link href="https://www.chinese-future.org/articles/-3"/>
-        <updated>2022-12-09T00:59:35.630Z</updated>
-        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
-
-            
-            <div class="summary-metadata-container summary-metadata-container--above-title">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-01">May 1, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-              <div class="summary-title">
-                <a href="/articles/-3" class="summary-title-link" tabindex="-1">拜登主义的形成与美国重夺外交高地 —— 浅析拜登执政百日来的外交趋向与对华政策</a></div>
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-title">
-            
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-01">May 1, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-            
-
-            
-              
-              
-              
-
-              
-                
-                <a href="/articles/-3" class="summary-read-more-link" tabindex="-1">Read More →</a>
-              
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-content">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-01">May 1, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-          </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LangChain及LangFlow使用指南 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">炳胜品味
 最近经常去深圳湾万象城，前阵子和领导去吃了一顿炳胜，炳胜也算粤菜中比较出名的了，就算在广州，炳胜也还算是可以...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 8 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 20 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7518,7 +7518,7 @@ on
         <div class="block-snippet" itemprop="about">
 周六听了一场陈粒的演唱会，活了三十多年也是第一次参加演唱会。门票来自IHG 的优拍活动，31100 分竞拍到手，差不多1000块钱...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-09T13:00:50+08:00">发布于 19 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-09T13:00:50+08:00">发布于 20 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7544,7 +7544,7 @@ on
 万华化学
 普...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 24 天前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-04T11:52:58+08:00">发布于 25 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8036,7 +8036,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" style="background-image: url(&quot;https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg&quot;);"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8062,7 +8062,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" style="background-image: url(&quot;https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg&quot;);"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8088,7 +8088,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" style="background-image: url(&quot;https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg&quot;);"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
