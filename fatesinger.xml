@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-07-31T05:45:08.788Z</updated>
+    <updated>2023-07-31T17:45:46.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[至正潮菜（二）]]></title>
+        <id>https://fatesinger.com/102090</id>
+        <link href="https://fatesinger.com/102090"/>
+        <updated>2023-07-31T17:45:16.949Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102090" aria-label="至正潮菜（二）" title="至正潮菜（二）">至正潮菜（二）</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">至正潮菜
+周末看演唱会又在万象城吃了顿至正潮菜，除了主食这次体验了和上次不一样的菜品，吃下来没第一次吃体验好，略有翻车...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-31T20:08:27+08:00">发布于 5 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023周传雄《念念不忘》巡回演唱会-深圳站]]></title>
         <id>https://fatesinger.com/102149</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">2023周传雄《念念不忘》巡回演唱会
 周末又听了一场演唱会，依然还是在春茧，还是走的IHG 的竞拍，这次花了四万分，按照洲际积...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-30T21:19:27+08:00">发布于 16 小时前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-30T21:19:27+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -30,7 +44,7 @@
         <div class="block-snippet" itemprop="about">炳胜品味
 最近经常去深圳湾万象城，前阵子和领导去吃了一顿炳胜，炳胜也算粤菜中比较出名的了，就算在广州，炳胜也还算是可以...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 2 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 3 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -44,7 +58,7 @@
         <div class="block-snippet" itemprop="about">至正潮菜
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -57,7 +71,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 17 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 18 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -126,22 +140,6 @@
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丽江和府洲际]]></title>
-        <id>https://fatesinger.com/101966</id>
-        <link href="https://fatesinger.com/101966"/>
-        <updated>2023-06-12T17:46:15.639Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101966" aria-label="丽江和府洲际" title="丽江和府洲际">丽江和府洲际</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">丽江和府洲际酒店平面图
-本次直接现金订的开放套，到店无升级，房间自带行政礼遇。
-客房
-开放套的房间有一个独立的小院子，为...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T05:45:08.819Z</updated>
+    <updated>2023-07-31T17:45:46.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7467,6 +7467,20 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[至正潮菜（二） (大发贱志)]]></title>
+        <id>https://fatesinger.com/102090</id>
+        <link href="https://fatesinger.com/102090"/>
+        <updated>2023-07-31T17:45:16.949Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102090" aria-label="至正潮菜（二）" title="至正潮菜（二）">至正潮菜（二）</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">至正潮菜
+周末看演唱会又在万象城吃了顿至正潮菜，除了主食这次体验了和上次不一样的菜品，吃下来没第一次吃体验好，略有翻车...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-31T20:08:27+08:00">发布于 5 小时前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2023周传雄《念念不忘》巡回演唱会-深圳站 (大发贱志)]]></title>
         <id>https://fatesinger.com/102149</id>
         <link href="https://fatesinger.com/102149"/>
@@ -7477,7 +7491,7 @@ on
         <div class="block-snippet" itemprop="about">2023周传雄《念念不忘》巡回演唱会
 周末又听了一场演唱会，依然还是在春茧，还是走的IHG 的竞拍，这次花了四万分，按照洲际积...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-30T21:19:27+08:00">发布于 16 小时前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-30T21:19:27+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7491,7 +7505,7 @@ on
         <div class="block-snippet" itemprop="about">炳胜品味
 最近经常去深圳湾万象城，前阵子和领导去吃了一顿炳胜，炳胜也算粤菜中比较出名的了，就算在广州，炳胜也还算是可以...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 2 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 3 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7505,7 +7519,7 @@ on
         <div class="block-snippet" itemprop="about">至正潮菜
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7518,7 +7532,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 17 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 18 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7587,22 +7601,6 @@ on
 前阵子领导从公司仓库拿回一只古董Rimowa，由于时间太长，轮子已经烂掉，拉杆也按不下去，密码锁也频临断...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-20T13:42:24+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丽江和府洲际 (大发贱志)]]></title>
-        <id>https://fatesinger.com/101966</id>
-        <link href="https://fatesinger.com/101966"/>
-        <updated>2023-06-12T17:46:15.639Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101966" aria-label="丽江和府洲际" title="丽江和府洲际">丽江和府洲际</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">丽江和府洲际酒店平面图
-本次直接现金订的开放套，到店无升级，房间自带行政礼遇。
-客房
-开放套的房间有一个独立的小院子，为...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-06-12T14:39:48+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8036,7 +8034,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8062,7 +8060,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8088,7 +8086,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8276,8 +8274,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" style="visibility: hidden;" width="1280" height="1015">
+    <div class=""></div>
+    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" width="1280" height="1015">
 </div><p></p>
 <p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
                 </div>
@@ -8303,8 +8301,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
+    <div class=""></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" width="1280" height="720">
 </div><p></p>
 <p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
                 </div>
