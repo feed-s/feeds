@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2023-08-04T05:45:40.061Z</updated>
+    <updated>2023-08-04T17:45:23.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -16,7 +16,7 @@
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-08-02T19:17:25+08:00" itemprop="dateModified">2023年8月2日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-08-04T15:59:42+08:00" itemprop="dateModified">2023年8月4日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>

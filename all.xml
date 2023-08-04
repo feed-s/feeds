@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-04T05:45:40.095Z</updated>
+    <updated>2023-08-04T17:45:23.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7477,7 +7477,7 @@ on
         <div class="block-snippet" itemprop="about">至正潮菜
 周末看演唱会又在万象城吃了顿至正潮菜，除了主食这次体验了和上次不一样的菜品，吃下来没第一次吃体验好，略有翻车...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-31T20:08:27+08:00">发布于 3 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-31T20:08:27+08:00">发布于 4 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7491,7 +7491,7 @@ on
         <div class="block-snippet" itemprop="about">2023周传雄《念念不忘》巡回演唱会
 周末又听了一场演唱会，依然还是在春茧，还是走的IHG 的竞拍，这次花了四万分，按照洲际积...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-30T21:19:27+08:00">发布于 4 天前</time>
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-30T21:19:27+08:00">发布于 5 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7505,7 +7505,7 @@ on
         <div class="block-snippet" itemprop="about">炳胜品味
 最近经常去深圳湾万象城，前阵子和领导去吃了一顿炳胜，炳胜也算粤菜中比较出名的了，就算在广州，炳胜也还算是可以...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-28T17:34:14+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7519,7 +7519,7 @@ on
         <div class="block-snippet" itemprop="about">至正潮菜
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 10 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 11 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7532,7 +7532,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 21 天前</time>
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 22 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7758,7 +7758,7 @@ on
 </div>
 <a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/blog-story/mk2/notes/">
 <h1 class="item-title">重新设计博客主题</h1>
- <p class="item-description">Leo's Field, mkII.</p>
+<p class="item-description">Leo's Field, mkII.</p>
 <div class="badge hide-on-narrowest"><span>blog</span></div>
 </a>]]></content>
     </entry>
@@ -7848,7 +7848,7 @@ on
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-08-02T19:17:25+08:00" itemprop="dateModified">2023年8月2日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-08-04T15:59:42+08:00" itemprop="dateModified">2023年8月4日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
