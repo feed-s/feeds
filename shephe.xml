@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2023-08-06T17:45:42.267Z</updated>
+    <updated>2023-08-07T05:46:08.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -41,7 +41,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -67,7 +67,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/06/in-2017.06.10-at-Hongyadong.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
