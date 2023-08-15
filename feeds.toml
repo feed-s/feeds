@@ -38,13 +38,13 @@ titleSelector = "a.summary-title-link"
 linkSelector = "a.summary-title-link"
 timeout = 120
 
-[cfan]
-title = "电脑爱好者"
-url = "http://www.cfan.com.cn/"
-entrySelector = "div.left-post-info"
-titleSelector = "h1.left-post-title"
-linkSelector = "a"
-timeout = 120
+#[cfan]
+#title = "电脑爱好者"
+#url = "http://www.cfan.com.cn/"
+#entrySelector = "div.left-post-info"
+#titleSelector = "h1.left-post-title"
+#linkSelector = "a"
+#timeout = 120
 
 [eula]
 title = "Quantum Bit"
