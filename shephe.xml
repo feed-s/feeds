@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2023-08-16T17:45:09.243Z</updated>
+    <updated>2023-08-17T05:45:19.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[近一年来工作总结]]></title>
+        <id>https://www.shephe.com/2023/08/working-time/</id>
+        <link href="https://www.shephe.com/2023/08/working-time/"/>
+        <updated>2023-08-17T05:45:14.828Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/08/working-time/" rel="bookmark"><span class="screen-reader-text">近一年来工作总结</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2023-08-17T11:18:11+08:00">
+				08/17/2023			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>近一年来工作总结</span></h2>						<p>说来你可能不信，我闲着没事儿更这篇文字的时候本以为会在外面住上几晚，借此感慨感慨近期的工作情况，拟了个标题叫《又一次出差随感》。但后来情况有变工程队迟迟不到位，我也只在现场呆了一小会儿，下午就赶火车回家了。事实上，我已不记得上次在外出差过夜…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a> <a href="https://www.shephe.com/working/" rel="category tag">打工日记</a> <a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a> <a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/08/working-time/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免插件实现WordPress文章归档页面]]></title>
         <id>https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/</id>
@@ -208,32 +234,6 @@
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>新生命的诞生</span></h2>						<p>又名《小铁憨憨诞生记》 前天写了个草稿，说会有一个长期计划，计划给BB拍照，这不一语成谶，真有了…以下文字是我在老婆孕期陆陆续续的记录，每一条都是当日记下，最终汇集成此文并发布，发布前做了文字校对和编修。 20220329，下午雅君连着给我…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2022/11/%e6%96%b0%e7%94%9f%e5%91%bd%e7%9a%84%e8%af%9e%e7%94%9f/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微信被永久禁言]]></title>
-        <id>https://www.shephe.com/2022/11/fuck-off/</id>
-        <link href="https://www.shephe.com/2022/11/fuck-off/"/>
-        <updated>2023-07-01T05:45:42.442Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2022/11/fuck-off/" rel="bookmark"><span class="screen-reader-text">微信被永久禁言</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1536x864.jpg 1536w, https://staticfile.shephe.com/wp-content/uploads/2022/08/comedy-girl-1390x782.jpg 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2022-11-23T21:32:33+08:00">
-				11/23/2022			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>微信被永久禁言</span></h2>						<p>微信因疑似在朋友圈转发质疑当前防疫政策的图文，被永封……时代的铁拳狠狠地砸在了我头上，我用了十年的账户，一千五百多个联系人…累觉不爱了，继续烂吧</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2022/11/fuck-off/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
