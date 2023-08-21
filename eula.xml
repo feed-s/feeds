@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2023-08-21T05:45:06.762Z</updated>
+    <updated>2023-08-21T17:45:36.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -24,14 +24,14 @@
         <id>https://www.eula.club/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2023-08-21T05:44:31.266Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">常用深度学习工具与平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span><span class="tag-item" data-v-1e62957f="">HuggingFace</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">常用深度学习工具与平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在Mac本地运行量化后的开源大模型]]></title>
-        <id>https://www.eula.club/blogs/%E5%9C%A8Mac%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9C%A8Mac%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
-        <updated>2023-07-23T17:45:17.501Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9C%A8Mac%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">在Mac本地运行量化后的开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span></i></div>]]></content>
+        <title type="html"><![CDATA[低成本运行量化后的开源大模型]]></title>
+        <id>https://www.eula.club/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
+        <link href="https://www.eula.club/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
+        <updated>2023-08-21T17:44:57.773Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">低成本运行量化后的开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述]]></title>
