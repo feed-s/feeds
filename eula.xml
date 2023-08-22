@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2023-08-22T05:45:04.653Z</updated>
+    <updated>2023-08-22T17:45:21.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -38,7 +38,7 @@
         <id>https://www.eula.club/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
         <link href="https://www.eula.club/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
         <updated>2023-08-21T17:44:57.773Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">低成本运行量化后的开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM-6B</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">低成本运行量化后的开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM2-6B</span><span class="tag-item" data-v-1e62957f="">Baichuan-13B</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述]]></title>
