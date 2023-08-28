@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2023-08-28T05:45:13.491Z</updated>
+    <updated>2023-08-28T17:45:21.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
     <entry>
@@ -100,6 +100,14 @@
         <updated>2022-12-09T00:59:29.992Z</updated>
         <content type="html"><![CDATA[<div class="date">2021年05月10日</div><br>
             <a href="/blog-cn/2021/05/10/cs4">计算机科学基础班（第 4 期）报名</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大提琴为什么这么难学]]></title>
+        <id>https://www.yinwang.org/blog-cn/2021/04/16/cello-technique</id>
+        <link href="https://www.yinwang.org/blog-cn/2021/04/16/cello-technique"/>
+        <updated>2023-08-28T17:44:24.773Z</updated>
+        <content type="html"><![CDATA[<div class="date">2021年04月16日</div><br>
+            <a href="/blog-cn/2021/04/16/cello-technique">大提琴为什么这么难学</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[计算机科学阅读班（实验）]]></title>
