@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-30T17:44:59.272Z</updated>
+    <updated>2023-08-31T05:46:24.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7482,8 +7482,7 @@ on
         <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
             <a href="https://fatesinger.com/102082" aria-label="富士 XF56mm F1.2 R WR" title="富士 XF56mm F1.2 R WR">富士 XF56mm F1.2 R WR</a>
         </h2>
-        <div class="block-snippet" itemprop="about">富士 XF56ｍｍF1.2 R WR
-最近买了一只镜头，主要原因是X100V 夜拍能力太差，晚上拿起相机想快速拍一张的时候大概率是糊的，要...</div>
+        <div class="block-snippet" itemprop="about">富士XF56mmF1.2 R WR是新一代的“人像王“镜头，等效全幅经典的85mm焦距，当然除人像外，也是扫街、城市风光、静物等题材的不错选择。</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 6 天前</time>
             </div>]]></content>
@@ -8042,7 +8041,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8068,7 +8067,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8094,7 +8093,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
