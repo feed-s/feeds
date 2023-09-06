@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-09-06T05:45:42.580Z</updated>
+    <updated>2023-09-06T17:45:07.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -16,7 +16,7 @@
         <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
 其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 17 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -29,9 +29,10 @@
         </h2>
         <div class="block-snippet" itemprop="about">WordPress 主题 Farallon
 本主题使用古法制作，不依赖三方框架。
-本主题chrome lighthouse跑分几乎满分，移动端稍差也只是因...</div>
+本主题对本人插件都做了适配，强烈建议使用本人全家桶。
+本...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 17 小时前</time>
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -44,7 +45,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">富士XF56mmF1.2 R WR是新一代的“人像王“镜头，等效全幅经典的85mm焦距，当然除人像外，也是扫街、城市风光、静物等题材的不错选择。</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 12 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 13 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -58,7 +59,7 @@
         <div class="block-snippet" itemprop="about">深圳蛇口希尔顿南海酒店
 周末领导在蛇口希尔顿SPA，完事顺便在酒店的中餐厅吃了顿饭，随轩之前来过两次，出品还行，就是价格...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-07T20:11:29+08:00">发布于 29 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-07T20:11:29+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
     <entry>
