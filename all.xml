@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-12T05:45:21.008Z</updated>
+    <updated>2023-09-12T17:45:34.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7058,6 +7058,13 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83%E6%A6%82%E8%BF%B0%E5%8F%8AChatGLM2%E7%9A%84%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83.html" data-v-3fa1a62e="" class="">大模型微调概述及ChatGLM2的高效微调</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型微调</span><span class="tag-item" data-v-1e62957f="">高效微调</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">ChatGLM2</span></i></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GPT-4及Code-Interpreter使用指南 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/GPT-4%E5%8F%8ACode-Interpreter%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
+        <link href="https://www.eula.club/blogs/GPT-4%E5%8F%8ACode-Interpreter%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
+        <updated>2023-09-12T17:44:40.198Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-4%E5%8F%8ACode-Interpreter%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">GPT-4及Code-Interpreter使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-Plus</span><span class="tag-item" data-v-1e62957f="">GPT-4</span><span class="tag-item" data-v-1e62957f="">ChatGPT插件</span><span class="tag-item" data-v-1e62957f="">Code-Interpreter</span><span class="tag-item" data-v-1e62957f="">Open-Interpreter</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LangChain及LangFlow使用指南 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
@@ -7098,13 +7105,6 @@ on
         <link href="https://www.eula.club/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html"/>
         <updated>2023-03-01T05:44:43.980Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html" data-v-3fa1a62e="" class="">文件IO原理及Kafka高效读写原因分析</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">文件I/O原理</span><span class="tag-item" data-v-1e62957f="">Kafka高效读写</span><span class="tag-item" data-v-1e62957f="">计算机体系结构</span><span class="tag-item" data-v-1e62957f="">高性能计算HPC</span><span class="tag-item" data-v-1e62957f="">存储器层次</span><span class="tag-item" data-v-1e62957f="">局部性原理</span><span class="tag-item" data-v-1e62957f="">inode索引节点</span><span class="tag-item" data-v-1e62957f="">FIO性能测试</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搭建Book-Searcher实现书籍检索 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E6%90%AD%E5%BB%BABook-Searcher%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A3%80%E7%B4%A2.html</id>
-        <link href="https://www.eula.club/blogs/%E6%90%AD%E5%BB%BABook-Searcher%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A3%80%E7%B4%A2.html"/>
-        <updated>2023-01-07T17:44:42.344Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%90%AD%E5%BB%BABook-Searcher%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A3%80%E7%B4%A2.html" data-v-3fa1a62e="" class="">搭建Book-Searcher实现书籍检索</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Book-Searcher</span><span class="tag-item" data-v-1e62957f="">Z-Library</span><span class="tag-item" data-v-1e62957f="">IPFS</span><span class="tag-item" data-v-1e62957f="">书籍资源检索</span><span class="tag-item" data-v-1e62957f="">Calibre-Web</span><span class="tag-item" data-v-1e62957f="">私有书库</span><span class="tag-item" data-v-1e62957f="">论文资源检索</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7485,7 +7485,7 @@ on
         <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
 其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7501,7 +7501,7 @@ on
 本主题对本人插件都做了适配，强烈建议使用本人全家桶。
 本...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7514,7 +7514,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">富士XF56mmF1.2 R WR是新一代的“人像王“镜头，等效全幅经典的85mm焦距，当然除人像外，也是扫街、城市风光、静物等题材的不错选择。</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 18 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 19 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8271,8 +8271,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" style="visibility: visible;" width="1280" height="1015">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" style="visibility: hidden;" width="1280" height="1015">
 </div><p></p>
 <p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
                 </div>
@@ -8298,8 +8298,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: visible;" width="1280" height="720">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
 </div><p></p>
 <p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
                 </div>
