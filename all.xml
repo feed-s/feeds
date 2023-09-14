@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-13T17:45:05.524Z</updated>
+    <updated>2023-09-14T05:45:50.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7841,7 +7841,7 @@ on
         <updated>2023-03-23T23:22:14.233Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/openwrt/47.html">
-<img src="https://iyzm.net/wp-content/uploads/2020/03/openwrt-logo.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2020/03/openwrt-logo.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
@@ -7858,7 +7858,7 @@ on
         <updated>2023-06-18T17:44:53.352Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/life/3446.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/06/life-011.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/06/life-011.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
@@ -7875,7 +7875,7 @@ on
         <updated>2023-04-08T17:45:26.390Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/windows/3375.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/04/Win-048.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/04/Win-048.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3375.html" rel="bookmark">优秀的无损音视频剪辑软件 LosslessCut</a></h2> <div class="entry-meta">
@@ -7892,7 +7892,7 @@ on
         <updated>2023-03-23T23:22:14.233Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/openwrt/3313.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-446.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-446.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3313.html" rel="bookmark">OpenWrt 防火墙配置入门指南</a></h2> <div class="entry-meta">
@@ -7909,7 +7909,7 @@ on
         <updated>2023-03-23T23:22:14.235Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/openwrt/3308.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-445.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-445.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3308.html" rel="bookmark">OpenWrt IPv6 设置与 DHCPv6 设置入门指南</a></h2> <div class="entry-meta">
@@ -7926,7 +7926,7 @@ on
         <updated>2023-03-23T23:22:14.236Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/life/3077.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/03/life-010.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/life-010.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3077.html" rel="bookmark">中国求职面试参考指南-生活经验</a></h2> <div class="entry-meta">
@@ -7943,7 +7943,7 @@ on
         <updated>2023-03-23T23:22:14.237Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/windows/3237.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/03/Win-047.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/Win-047.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3237.html" rel="bookmark">Windows 平台优秀的全功能下载工具 Motrix</a></h2> <div class="entry-meta">
@@ -7960,7 +7960,7 @@ on
         <updated>2023-03-23T23:22:14.239Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/openwrt/3197.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-433.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-433.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3197.html" rel="bookmark">OpenWrt DNS 优化分流设置 DNS 原理解析</a></h2> <div class="entry-meta">
@@ -7977,7 +7977,7 @@ on
         <updated>2023-03-23T23:22:14.240Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/linux/3130.html">
-<img src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3130.html" rel="bookmark">使用 ESXi 搭建虚拟 OpenWrt 路由器系统</a></h2> <div class="entry-meta">
@@ -7994,7 +7994,7 @@ on
         <updated>2023-03-23T23:22:14.241Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/windows/3054.html">
-<img src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3054.html" rel="bookmark">使用 Windows 制作添加驱动的自定义 ESXi 安装映像</a></h2> <div class="entry-meta">
@@ -8011,7 +8011,7 @@ on
         <updated>2023-03-23T23:22:14.243Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/android/2941.html">
-<img src="https://iyzm.net/wp-content/uploads/2023/02/android-104.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy" width="220" height="150">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/02/android-104.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/android/2941.html" rel="bookmark">安卓版微软办公软件 Word Excel PowerPoint</a></h2> <div class="entry-meta">
@@ -8271,8 +8271,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" style="visibility: hidden;" width="1280" height="1015">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" width="1280" height="1015" loading="lazy" style="visibility: visible;">
 </div><p></p>
 <p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
                 </div>
@@ -8298,8 +8298,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" width="1280" height="720" loading="lazy" style="visibility: visible;">
 </div><p></p>
 <p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
                 </div>
@@ -8344,7 +8344,7 @@ on
 
 </p><div class="img-wrapper">
     <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" width="1280" height="960" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>
@@ -8371,7 +8371,7 @@ on
 
 </p><div class="img-wrapper">
     <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0090-dragon-ball.jpg" alt="dragon-ball" loading="lazy" style="visibility: hidden;" width="1080" height="720">
+    <img src="https://s1.nichijou.org/images/2023/0090-dragon-ball.jpg" alt="dragon-ball" width="1080" height="720" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>最近终于完成以前立下的小目标，把《龙珠》动画重温了一遍，小时侯在电视上总是看得断断续续的，对于龙珠更多的记忆是放学后跑去游戏厅和小伙伴一起搓手柄，这次终于从头到尾的热血了一遍。不得不说，很难想象这是 80 年代的作品，能在动漫历史上保三争一是有原因的。</p>
                 </div>
@@ -8416,7 +8416,7 @@ on
 
 </p><div class="img-wrapper">
     <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0088-choose-domain-registrar-and-dns.jpeg" alt="choose-domain-registrar-and-dns" loading="lazy" style="visibility: hidden;" width="1280" height="853">
+    <img src="https://s1.nichijou.org/images/2023/0088-choose-domain-registrar-and-dns.jpeg" alt="choose-domain-registrar-and-dns" width="1280" height="853" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>我玩过的域名不算多，不到 50 个，和域名大佬们完全不能比，但也交了不少学费，现在除了剩下几个砸手里的基本退烧了<del>应该</del>，按照博客惯例，是时候水篇文章阶段总结下自己的经验了。本文将聊聊我用过的部分国外域名注册商和 DNS 解析服务。顺便穿插两个小剧场，纸上谈兵一下成为 ICANN 认证注册商要花多少钱以及关于 CNAME Flattening 和 DNSSEC 的简单介绍与看法。</p>
                 </div>

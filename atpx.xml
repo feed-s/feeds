@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2023-09-13T17:45:05.544Z</updated>
+    <updated>2023-09-14T05:45:50.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
     <entry>
@@ -21,8 +21,8 @@
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" loading="lazy" style="visibility: hidden;" width="1280" height="1015">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" width="1280" height="1015" loading="lazy" style="visibility: visible;">
 </div><p></p>
 <p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
                 </div>
@@ -48,8 +48,8 @@
 
 
 </p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" loading="lazy" style="visibility: hidden;" width="1280" height="720">
+    <div class="img-loaded"></div>
+    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" width="1280" height="720" loading="lazy" style="visibility: visible;">
 </div><p></p>
 <p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
                 </div>
@@ -94,7 +94,7 @@
 
 </p><div class="img-wrapper">
     <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" loading="lazy" style="visibility: hidden;" width="1280" height="960">
+    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" width="1280" height="960" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
                 </div>
@@ -121,7 +121,7 @@
 
 </p><div class="img-wrapper">
     <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0090-dragon-ball.jpg" alt="dragon-ball" loading="lazy" style="visibility: hidden;" width="1080" height="720">
+    <img src="https://s1.nichijou.org/images/2023/0090-dragon-ball.jpg" alt="dragon-ball" width="1080" height="720" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>最近终于完成以前立下的小目标，把《龙珠》动画重温了一遍，小时侯在电视上总是看得断断续续的，对于龙珠更多的记忆是放学后跑去游戏厅和小伙伴一起搓手柄，这次终于从头到尾的热血了一遍。不得不说，很难想象这是 80 年代的作品，能在动漫历史上保三争一是有原因的。</p>
                 </div>
@@ -166,7 +166,7 @@
 
 </p><div class="img-wrapper">
     <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0088-choose-domain-registrar-and-dns.jpeg" alt="choose-domain-registrar-and-dns" loading="lazy" style="visibility: hidden;" width="1280" height="853">
+    <img src="https://s1.nichijou.org/images/2023/0088-choose-domain-registrar-and-dns.jpeg" alt="choose-domain-registrar-and-dns" width="1280" height="853" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>我玩过的域名不算多，不到 50 个，和域名大佬们完全不能比，但也交了不少学费，现在除了剩下几个砸手里的基本退烧了<del>应该</del>，按照博客惯例，是时候水篇文章阶段总结下自己的经验了。本文将聊聊我用过的部分国外域名注册商和 DNS 解析服务。顺便穿插两个小剧场，纸上谈兵一下成为 ICANN 认证注册商要花多少钱以及关于 CNAME Flattening 和 DNSSEC 的简单介绍与看法。</p>
                 </div>
