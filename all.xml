@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-18T17:45:37.195Z</updated>
+    <updated>2023-09-19T05:47:23.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -8031,7 +8031,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8057,7 +8057,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8083,7 +8083,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8271,8 +8271,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0095-totp-2fa-inside-password-manager.jpeg" alt="totp-2fa" width="1440" height="960" loading="lazy" style="visibility: visible;">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0095-totp-2fa-inside-password-manager.jpeg" alt="totp-2fa" width="1440" height="960" loading="lazy" style="visibility: visible; opacity: 1; animation: 0.5s ease-in-out 0s 1 normal none running upin;">
 </div><p></p>
 <p>最近在纠结一个问题，要不要把密码 TOTP (Time-Based One-Time Password) 形式的 2FA (2-Factor Authentication) 合并到密码管理器中，这样可以更加方便地使用和管理，不过弊端也很明显，2FA 验证实际上变成了 1FA 验证，有被一锅端的风险，但仔细一想，似乎问题也没那么大？</p>
                 </div>
@@ -8298,8 +8298,8 @@ on
 
 
 </p><div class="img-wrapper">
-    <div class="img-loaded"></div>
-    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" width="1280" height="1015" loading="lazy" style="visibility: visible;">
+    <div class="img-loading"></div>
+    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" width="1280" height="1015" loading="lazy" style="visibility: hidden;">
 </div><p></p>
 <p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
                 </div>
