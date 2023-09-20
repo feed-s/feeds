@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-09-20T05:48:51.164Z</updated>
+    <updated>2023-09-20T17:45:18.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[富士 XF33mm F1.4 R LM WR]]></title>
+        <id>https://fatesinger.com/101681</id>
+        <link href="https://fatesinger.com/101681"/>
+        <updated>2023-09-20T17:44:47.323Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101681" aria-label="富士 XF33mm F1.4 R LM WR" title="富士 XF33mm F1.4 R LM WR">富士 XF33mm F1.4 R LM WR</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">XF33mmF1.4 R LM WR
+XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无货，预定也要加价。
+这篇文章想着至少要双十...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 7 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富士 XF18mm F1.4 R LM WR]]></title>
         <id>https://fatesinger.com/102223</id>
@@ -16,7 +31,7 @@
         <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
 其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 14 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 15 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -32,7 +47,7 @@
 本主题对本人插件都做了适配，强烈建议使用本人全家桶。
 本...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 14 天前</time>
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 15 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -45,7 +60,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">富士XF56mmF1.2 R WR是新一代的“人像王“镜头，等效全幅经典的85mm焦距，当然除人像外，也是扫街、城市风光、静物等题材的不错选择。</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 26 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 27 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -116,19 +131,6 @@
 周末和领导去吃了顿潮州菜，深圳稍微像点样子的潮州菜餐厅人均消费都比较高，至正潮菜在这些餐厅里算式价格垫底的了...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-24T20:16:09+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TMDb x WP-Douban]]></title>
-        <id>https://fatesinger.com/102124</id>
-        <link href="https://fatesinger.com/102124"/>
-        <updated>2023-07-13T17:44:56.139Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102124" aria-label="TMDb x WP-Douban" title="TMDb x WP-Douban">TMDb x WP-Douban</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">最近豆瓣对图片进行了refer 鉴权，不再支持空refer访问，之前通过设置referrerpolicy="no-referrer" 的方式已经完全不行了，...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-07-13T18:07:00+08:00">发布于 2月前</time>
             </div>]]></content>
     </entry>
 </feed>
