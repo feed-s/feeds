@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T05:45:36.285Z</updated>
+    <updated>2023-09-21T17:45:39.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -520,7 +520,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -538,7 +538,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -808,7 +808,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -826,7 +826,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -844,7 +844,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7486,7 +7486,7 @@ on
 XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无货，预定也要加价。
 这篇文章想着至少要双十...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 19 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7500,7 +7500,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
         <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
 其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 15 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 16 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7516,7 +7516,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 本主题对本人插件都做了适配，强烈建议使用本人全家桶。
 本...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 15 天前</time>
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 16 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7529,7 +7529,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
         </h2>
         <div class="block-snippet" itemprop="about">富士XF56mmF1.2 R WR是新一代的“人像王“镜头，等效全幅经典的85mm焦距，当然除人像外，也是扫街、城市风光、静物等题材的不错选择。</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 27 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 28 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8033,7 +8033,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8059,7 +8059,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/08/airpods-pro2-2-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8085,7 +8085,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1920x1192.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2022/08/Rain-in-the-Mountains-1536x953.jpg 1536w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8256,176 +8256,5 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[能否将 TOTP 二次验证存放在密码管理器里 (ATP)]]></title>
-        <id>https://atpx.com/blog/totp-2fa-inside-password-manager/</id>
-        <link href="https://atpx.com/blog/totp-2fa-inside-password-manager/"/>
-        <updated>2023-09-18T05:45:07.044Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">September 18, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/totp-2fa-inside-password-manager/"> 能否将 TOTP 二次验证存放在密码管理器里</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0095-totp-2fa-inside-password-manager.jpeg" alt="totp-2fa" width="1440" height="960" loading="lazy" style="visibility: visible; opacity: 1; animation: 0.8s ease-in-out 0s 1 normal none running upin;">
-</div><p></p>
-<p>最近在纠结一个问题，要不要把密码 TOTP (Time-Based One-Time Password) 形式的 2FA (2-Factor Authentication) 合并到密码管理器中，这样可以更加方便地使用和管理，不过弊端也很明显，2FA 验证实际上变成了 1FA 验证，有被一锅端的风险，但仔细一想，似乎问题也没那么大？</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/totp-2fa-inside-password-manager/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[认识史蒂夫·乔布斯 (ATP)]]></title>
-        <id>https://atpx.com/blog/steve-jobs/</id>
-        <link href="https://atpx.com/blog/steve-jobs/"/>
-        <updated>2023-07-16T17:45:08.928Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">July 16, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/steve-jobs/"> 认识史蒂夫·乔布斯</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0094-steve-jobs.jpeg" alt="steve-jobs" width="1280" height="1015" loading="lazy" style="visibility: hidden;">
-</div><p></p>
-<p>让时间回到 2020 年的秋天，那年苹果第一次将发布会搬到线上，推出了又一次带来变革的 Apple M1 芯片。当时作为科技爱好者，感叹苹果技术与创造力的同时，更让我想去了解苹果背后的故事，赶紧买来《史蒂夫·乔布斯传》这本书，可惜的是看了前几章之后便丢在了一旁。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/steve-jobs/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[与“锤哥”克里斯·海姆斯沃斯一起养生 (ATP)]]></title>
-        <id>https://atpx.com/blog/limitless-with-chris-hemsworth/</id>
-        <link href="https://atpx.com/blog/limitless-with-chris-hemsworth/"/>
-        <updated>2023-06-30T05:46:17.303Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">June 30, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/limitless-with-chris-hemsworth/"> 与“锤哥”克里斯·海姆斯沃斯一起养生</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0093-limitless-with-chris-hemsworth.jpg" alt="limitless-with-chris-hemsworth" width="1280" height="720" loading="lazy" style="visibility: hidden;">
-</div><p></p>
-<p>最近看了“锤哥”克里斯·海姆斯沃斯的纪录片 <em><a href="https://www.imdb.com/title/tt11714334/" target="_blank" rel="nofollow noopener">Limitless with Chris Hemsworth</a></em>，由国家地理出品，主要讲述锤哥通过经历六个挑战，探索健康长寿、延缓衰老的奥秘，尝试通过养成一些习惯来降低某些疾病的患病风险以及最后对死亡的思考。这是一部有趣的纪录片，看完后也让我有写一篇文章记笔记的冲动。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/limitless-with-chris-hemsworth/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[逃离爆炸的信息 (ATP)]]></title>
-        <id>https://atpx.com/blog/escape-information-explosion/</id>
-        <link href="https://atpx.com/blog/escape-information-explosion/"/>
-        <updated>2023-06-13T17:45:25.265Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">June 13, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/escape-information-explosion/"> 逃离爆炸的信息</a>
-                </h2>
-                <div class="post-summary">
-                    <p>这里谈到的爆炸的信息，是指如今中文互联网上的“主流”信息。一直都对网上冲浪这件事有着复杂的情绪，这里不谈论其好坏与意义，总之我应该算是个喜欢网上冲浪的人，但长期以来都有意识去尝试远离“主流”信息。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/escape-information-explosion/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你想活出怎样的人生 (ATP)]]></title>
-        <id>https://atpx.com/blog/how-do-you-live/</id>
-        <link href="https://atpx.com/blog/how-do-you-live/"/>
-        <updated>2023-06-13T06:12:34.770Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">May 14, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/how-do-you-live/"> 你想活出怎样的人生</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0091-how-do-you-live.jpg" alt="how-do-you-live" width="1280" height="960" loading="lazy" style="visibility: hidden;">
-</div><p></p>
-<p>上个月突然想起吉卜力今年要出电影这回事——你想活出怎样的人生。作为吉卜力粉丝，自然是相当期待，可能是“最后一次”复出的宫崎骏老爷子，在耄耋之年创作的一部以人生为主题的电影会是什么样的呢？于是去书店淘了本“原作”，这周末终于想起拿出来读一读。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/how-do-you-live/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重温《龙珠》动画 (ATP)]]></title>
-        <id>https://atpx.com/blog/dragon-ball/</id>
-        <link href="https://atpx.com/blog/dragon-ball/"/>
-        <updated>2023-06-13T06:12:34.772Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">April 20, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/dragon-ball/"> 重温《龙珠》动画</a>
-                </h2>
-                <div class="post-summary">
-                    <p>
-
-
-
-
-</p><div class="img-wrapper">
-    <div class="img-loading"></div>
-    <img src="https://s1.nichijou.org/images/2023/0090-dragon-ball.jpg" alt="dragon-ball" width="1080" height="720" loading="lazy" style="visibility: hidden;">
-</div><p></p>
-<p>最近终于完成以前立下的小目标，把《龙珠》动画重温了一遍，小时侯在电视上总是看得断断续续的，对于龙珠更多的记忆是放学后跑去游戏厅和小伙伴一起搓手柄，这次终于从头到尾的热血了一遍。不得不说，很难想象这是 80 年代的作品，能在动漫历史上保三争一是有原因的。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/dragon-ball/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么关闭评论 (ATP)]]></title>
-        <id>https://atpx.com/blog/disable-comments/</id>
-        <link href="https://atpx.com/blog/disable-comments/"/>
-        <updated>2023-06-13T06:12:34.773Z</updated>
-        <content type="html"><![CDATA[<span class="post-meta">April 9, 2023</span>
-                <h2 class="post-title">
-                    <a href="https://atpx.com/blog/disable-comments/"> 为什么关闭评论</a>
-                </h2>
-                <div class="post-summary">
-                    <p>这个想法在 <a href="https://atpx.com/blog/typecho-to-hugo/"><em>从 Typecho 迁移到 Hugo</em></a> 的时候就有了，当时就想着要不要顺便干掉评论，虽然最后没有去掉。本来直接删几段代码完事，大可不必还花里胡哨的写篇文章“宣布一番”，但也有一些其它的想法，想借此说一说。</p>
-                </div>
-                <div class="read-more">
-                    <a href="https://atpx.com/blog/disable-comments/">
-                        Continue Reading<span class="right-arrow">→</span>
-                    </a>
-                </div>]]></content>
     </entry>
 </feed>
