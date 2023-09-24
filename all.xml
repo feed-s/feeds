@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-24T05:45:38.851Z</updated>
+    <updated>2023-09-24T17:45:15.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -1907,6 +1907,177 @@ on
             <a href="/blog-cn/2012/05/18/user-friendliness">什么是“对用户友好”</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[杜导正是谁？ (中国:历史与未来)]]></title>
+        <id>https://www.chinese-future.org/articles/zdxhdkcslzg7flezd9wennxgyf5j9t</id>
+        <link href="https://www.chinese-future.org/articles/zdxhdkcslzg7flezd9wennxgyf5j9t"/>
+        <updated>2023-09-24T17:44:34.471Z</updated>
+        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-09-24">Sep 24, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-title-link">杜导正是谁？</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-09-24">Sep 24, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+              
+              
+              
+
+              
+                
+                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-read-more-link">Read More →</a>
+              
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	  
+	    <!-- Timestamp -->
+	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2023-09-24">Sep 24, 2023</time>
+	  
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+	<!-- Categories -->
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[欧中关系的范式转移与历史轮回: ——处于大转折中的欧洲对华关系 (中国:历史与未来)]]></title>
         <id>https://www.chinese-future.org/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9</id>
         <link href="https://www.chinese-future.org/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9"/>
@@ -2460,7 +2631,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2476,7 +2647,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-title-link">文明秩序的构造机理与历史趋势</a></div>
+                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-title-link" tabindex="-1">文明秩序的构造机理与历史趋势</a></div>
             
 
             
@@ -2513,7 +2684,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2537,7 +2708,7 @@ on
 
               
                 
-                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2575,7 +2746,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -6866,177 +7037,6 @@ on
           </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[中国“一孩化”生育政策的来由及其失败 (中国:历史与未来)]]></title>
-        <id>https://www.chinese-future.org/articles/dprz7z6742rnjdt3by6ffwm5z42x9x</id>
-        <link href="https://www.chinese-future.org/articles/dprz7z6742rnjdt3by6ffwm5z42x9x"/>
-        <updated>2022-12-09T00:59:35.629Z</updated>
-        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
-
-            
-            <div class="summary-metadata-container summary-metadata-container--above-title">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-26">May 26, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E7%A4%BE%E4%BC%9A" tabindex="-1">社会</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-              <div class="summary-title">
-                <a href="/articles/dprz7z6742rnjdt3by6ffwm5z42x9x" class="summary-title-link" tabindex="-1">中国“一孩化”生育政策的来由及其失败</a></div>
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-title">
-            
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-26">May 26, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E7%A4%BE%E4%BC%9A" tabindex="-1">社会</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-            
-              
-            
-
-            
-              
-              
-              
-
-              
-                
-                <a href="/articles/dprz7z6742rnjdt3by6ffwm5z42x9x" class="summary-read-more-link" tabindex="-1">Read More →</a>
-              
-            
-
-            
-            <div class="summary-metadata-container summary-metadata-container--below-content">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-	
-	  
-	    <!-- Timestamp -->
-	    <time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-26">May 26, 2021</time>
-	  
-	
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-	
-
-
-
-
-
-	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E7%A4%BE%E4%BC%9A" tabindex="-1">社会</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-
-          </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[基于Orange实现机器学习与数据挖掘 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EOrange%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EOrange%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.html"/>
@@ -7485,7 +7485,7 @@ on
         <div class="block-snippet" itemprop="about">iPhone 13 Pro / iPhone 14 Pro / iPhone 15 Pro
 一年一度的数码九月又到了，不出意外的话今年是最后一年年年换机了。新机没...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-23T15:57:41+08:00">发布于 21 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-23T15:57:41+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7500,7 +7500,7 @@ on
 XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无货，预定也要加价。
 这篇文章想着至少要双十...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 3 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 4 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7514,7 +7514,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
         <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
 其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 18 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 19 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7530,7 +7530,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 本主题对本人插件都做了适配，强烈建议使用本人全家桶。
 本...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 18 天前</time>
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 19 天前</time>
             </div>]]></content>
     </entry>
     <entry>
