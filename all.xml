@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T05:45:29.135Z</updated>
+    <updated>2023-10-04T17:46:20.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7037,13 +7037,6 @@ on
           </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于Orange实现机器学习与数据挖掘 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EOrange%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EOrange%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.html"/>
-        <updated>2023-09-08T17:44:12.089Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EOrange%E5%AE%9E%E7%8E%B0%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98.html" data-v-3fa1a62e="" class="">基于Orange实现机器学习与数据挖掘</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Orange3</span><span class="tag-item" data-v-1e62957f="">机器学习</span><span class="tag-item" data-v-1e62957f="">数据挖掘</span></i></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html</id>
         <link href="https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html"/>
@@ -7076,7 +7069,7 @@ on
         <id>https://www.eula.club/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2023-08-21T05:44:31.266Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">常用深度学习工具与平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">常用深度学习工具与平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span><span class="tag-item" data-v-1e62957f="">Orange3</span><span class="tag-item" data-v-1e62957f="">数据挖掘</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[低成本运行量化后的开源大模型 (Quantum Bit)]]></title>
@@ -7105,6 +7098,13 @@ on
         <link href="https://www.eula.club/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html"/>
         <updated>2023-03-01T05:44:43.980Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html" data-v-3fa1a62e="" class="">文件IO原理及Kafka高效读写原因分析</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">文件I/O原理</span><span class="tag-item" data-v-1e62957f="">Kafka高效读写</span><span class="tag-item" data-v-1e62957f="">计算机体系结构</span><span class="tag-item" data-v-1e62957f="">高性能计算HPC</span><span class="tag-item" data-v-1e62957f="">存储器层次</span><span class="tag-item" data-v-1e62957f="">局部性原理</span><span class="tag-item" data-v-1e62957f="">inode索引节点</span><span class="tag-item" data-v-1e62957f="">FIO性能测试</span></i></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建Book-Searcher实现书籍检索 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E6%90%AD%E5%BB%BABook-Searcher%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A3%80%E7%B4%A2.html</id>
+        <link href="https://www.eula.club/blogs/%E6%90%AD%E5%BB%BABook-Searcher%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A3%80%E7%B4%A2.html"/>
+        <updated>2023-10-04T17:45:44.333Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%90%AD%E5%BB%BABook-Searcher%E5%AE%9E%E7%8E%B0%E4%B9%A6%E7%B1%8D%E6%A3%80%E7%B4%A2.html" data-v-3fa1a62e="" class="">搭建Book-Searcher实现书籍检索</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Book-Searcher</span><span class="tag-item" data-v-1e62957f="">Z-Library</span><span class="tag-item" data-v-1e62957f="">IPFS</span><span class="tag-item" data-v-1e62957f="">书籍资源检索</span><span class="tag-item" data-v-1e62957f="">Calibre-Web</span><span class="tag-item" data-v-1e62957f="">私有书库</span><span class="tag-item" data-v-1e62957f="">论文资源检索</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7485,7 +7485,7 @@ on
         <div class="block-snippet" itemprop="about">iPhone 13 Pro / iPhone 14 Pro / iPhone 15 Pro
 一年一度的数码九月又到了，不出意外的话今年是最后一年年年换机了。新机没...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-23T15:57:41+08:00">发布于 10 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-23T15:57:41+08:00">发布于 11 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7500,7 +7500,7 @@ on
 XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无货，预定也要加价。
 这篇文章想着至少要双十...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 13 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 14 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7514,7 +7514,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
         <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
 其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 28 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 29 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7530,7 +7530,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 本主题对本人插件都做了适配，强烈建议使用本人全家桶。
 本...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 28 天前</time>
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 29 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7847,7 +7847,7 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-09-04T16:51:40+08:00" itemprop="dateModified">2023年9月4日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2023-10-04T16:52:21+08:00" itemprop="dateModified">2023年10月4日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
