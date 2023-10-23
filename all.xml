@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-22T17:44:53.652Z</updated>
+    <updated>2023-10-23T05:45:14.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7079,11 +7079,11 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E4%B8%8E%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">常用深度学习工具与平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span><span class="tag-item" data-v-1e62957f="">Orange3</span><span class="tag-item" data-v-1e62957f="">数据挖掘</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[低成本运行量化后的开源大模型 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
-        <link href="https://www.eula.club/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
-        <updated>2023-08-21T17:44:57.773Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%8E%E6%88%90%E6%9C%AC%E8%BF%90%E8%A1%8C%E9%87%8F%E5%8C%96%E5%90%8E%E7%9A%84%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">低成本运行量化后的开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM2-6B</span><span class="tag-item" data-v-1e62957f="">Baichuan-13B</span><span class="tag-item" data-v-1e62957f="">Llama2-7B</span><span class="tag-item" data-v-1e62957f="">SuperCLUE</span><span class="tag-item" data-v-1e62957f="">大模型效果评价</span></i></div>]]></content>
+        <title type="html"><![CDATA[低算力本地运行开源大模型 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E4%BD%8E%E7%AE%97%E5%8A%9B%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
+        <link href="https://www.eula.club/blogs/%E4%BD%8E%E7%AE%97%E5%8A%9B%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
+        <updated>2023-10-23T05:44:38.904Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%8E%E7%AE%97%E5%8A%9B%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">低算力本地运行开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM2-6B</span><span class="tag-item" data-v-1e62957f="">Baichuan-13B</span><span class="tag-item" data-v-1e62957f="">Llama2-7B</span><span class="tag-item" data-v-1e62957f="">大模型效果评价</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述 (Quantum Bit)]]></title>
@@ -7485,7 +7485,7 @@ on
         <div class="block-snippet" itemprop="about">Leica Sofort
 第一个拍立得是富士的 mini 40，差不多用了1年半，差不多了拍了400 张，因为想玩一玩双重曝光打算升级 mini 90...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-22T22:52:54+08:00">发布于 2 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-22T22:52:54+08:00">发布于 14 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
