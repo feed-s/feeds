@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-11-02T05:45:05.862Z</updated>
+    <updated>2023-11-02T17:45:21.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[深圳湾安达仕]]></title>
+        <id>https://fatesinger.com/102548</id>
+        <link href="https://fatesinger.com/102548"/>
+        <updated>2023-11-02T17:44:49.803Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102548" aria-label="深圳湾安达仕" title="深圳湾安达仕">深圳湾安达仕</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Andaz Shenzhen Bay
+深圳湾安达仕是深圳几家比较新的高端酒店之一，日常价格在2400 左右，很少打折。这次入住使用了两万积分...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-02T18:07:36+08:00">发布于 7 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[徕卡 SOFORT]]></title>
         <id>https://fatesinger.com/102430</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">Leica Sofort
 第一个拍立得是富士的 mini 40，差不多用了1年半，差不多了拍了400 张，因为想玩一玩双重曝光打算升级 mini 90...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-22T22:52:54+08:00">发布于 10 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-22T22:52:54+08:00">发布于 11 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -36,7 +50,7 @@
 赣锋锂业
 海螺...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-09T14:39:08+08:00">发布于 23 天前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-09T14:39:08+08:00">发布于 24 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -50,7 +64,7 @@
         <div class="block-snippet" itemprop="about">XF90mmF2 R LM WR
 Fuji has a relatively niche lens, and it’s also quite old. The second-hand price is around 4000, but...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-08T17:11:21+08:00">发布于 24 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-08T17:11:21+08:00">发布于 25 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -64,7 +78,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
         <div class="block-snippet" itemprop="about">XF90mmF2 R LM WR
 富士一款比较冷门的镜头，当然也比较老了，二手4000左右，但一般使用年头都比较长了，原价太贵，最后在官方...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-08T17:08:31+08:00">发布于 24 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-08T17:08:31+08:00">发布于 25 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -124,19 +138,6 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 本...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:00:20+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士 XF56mm F1.2 R WR]]></title>
-        <id>https://fatesinger.com/102082</id>
-        <link href="https://fatesinger.com/102082"/>
-        <updated>2023-08-24T17:44:34.411Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102082" aria-label="富士 XF56mm F1.2 R WR" title="富士 XF56mm F1.2 R WR">富士 XF56mm F1.2 R WR</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">富士XF56mmF1.2 R WR是新一代的“人像王“镜头，等效全幅经典的85mm焦距，当然除人像外，也是扫街、城市风光、静物等题材的不错选择。</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-08-24T18:22:17+08:00">发布于 2月前</time>
             </div>]]></content>
     </entry>
 </feed>
