@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2023-11-04T17:44:36.970Z</updated>
+    <updated>2023-11-05T05:45:16.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -20,6 +20,23 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奇的国家之中国特色初步解析]]></title>
+        <id>https://iyzm.net/life/3653.html</id>
+        <link href="https://iyzm.net/life/3653.html"/>
+        <updated>2023-11-05T05:45:00.492Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3653.html">
+<img width="176" height="150" src="https://iyzm.net/wp-content/uploads/2023/11/life-012.jpg" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>外国的民众通过各种新闻和道听途说的信息来了解中国，由于中共强大的宣传部门主导了几乎所有的对外新闻，于是让外界的民众以为现在的中国已经是一个现代化的法制国家，和自 … <a title="神奇的国家之中国特色初步解析" class="read-more" href="https://iyzm.net/life/3653.html" aria-label="更多 神奇的国家之中国特色初步解析"> </a></p>
 </div>]]></content>
     </entry>
     <entry>
@@ -46,7 +63,7 @@
         <updated>2023-10-29T17:44:53.774Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/windows/3375.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/04/Win-048.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/04/Win-048.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3375.html" rel="bookmark">优秀的无损音视频剪辑软件 LosslessCut</a></h2> <div class="entry-meta">
@@ -173,23 +190,6 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>VMware vSphere (ESXi) 作为一款常用的虚拟化系统，被用于安装到各种各样的硬件平台，使用过程中最首要的就是安装映像的驱动问题，如果缺少必要的驱 … <a title="使用 Windows 制作添加驱动的自定义 ESXi 安装映像" class="read-more" href="https://iyzm.net/windows/3054.html" aria-label="更多 使用 Windows 制作添加驱动的自定义 ESXi 安装映像"> </a></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安卓版微软办公软件 Word Excel PowerPoint]]></title>
-        <id>https://iyzm.net/android/2941.html</id>
-        <link href="https://iyzm.net/android/2941.html"/>
-        <updated>2023-10-29T17:44:53.787Z</updated>
-        <content type="html"><![CDATA[<div class="post-image">
-<a href="https://iyzm.net/android/2941.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/02/android-104.png" class="attachment-full size-full wp-post-image" alt="" decoding="async" itemprop="image" loading="lazy">
-</a>
-</div> <header class="entry-header" aria-label="内容">
-<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/android/2941.html" rel="bookmark">安卓版微软办公软件 Word Excel PowerPoint</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="entry-date published" datetime="2023-02-09T12:57:39+08:00" itemprop="datePublished">2023年2月9日</time></span> </div>
-</header>
-<div class="entry-summary" itemprop="text">
-<p>来自微软出品的办公软件三件套的安卓版本，用于在手机端处理各种常见的办公文件，其中 Word 软件还支持查看 PDF 文件，同样也支持登录微软账户，访问 OneD … <a title="安卓版微软办公软件 Word Excel PowerPoint" class="read-more" href="https://iyzm.net/android/2941.html" aria-label="更多 安卓版微软办公软件 Word Excel PowerPoint"> </a></p>
 </div>]]></content>
     </entry>
 </feed>
