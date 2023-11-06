@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-11-05T17:45:05.253Z</updated>
+    <updated>2023-11-06T05:44:29.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[富士 XF23mm F1.4 R LM WR]]></title>
+        <id>https://fatesinger.com/102151</id>
+        <link href="https://fatesinger.com/102151"/>
+        <updated>2023-11-06T05:44:03.342Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102151" aria-label="富士 XF23mm F1.4 R LM WR" title="富士 XF23mm F1.4 R LM WR">富士 XF23mm F1.4 R LM WR</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">XF23mm F1.4 R LM WR
+35 equivalent lenses, they are just never wide enough or never tight enough, like story of my lif...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-06T09:25:41+08:00">发布于 4 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[榕阁 Garden Pavilion]]></title>
         <id>https://fatesinger.com/102649</id>
@@ -122,20 +136,6 @@ XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无�
 这篇文章想着至少要双十...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士 XF18mm F1.4 R LM WR]]></title>
-        <id>https://fatesinger.com/102223</id>
-        <link href="https://fatesinger.com/102223"/>
-        <updated>2023-09-05T17:44:35.468Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102223" aria-label="富士 XF18mm F1.4 R LM WR" title="富士 XF18mm F1.4 R LM WR">富士 XF18mm F1.4 R LM WR</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">富士 XF18mmF1.4 R LM WR
-其实这个镜头是先于XF56二代拿到的，但是这个没怎么带出去，没啥样片，总感觉这个镜头应该有着更大...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-05T20:24:25+08:00">发布于 2月前</time>
             </div>]]></content>
     </entry>
 </feed>
