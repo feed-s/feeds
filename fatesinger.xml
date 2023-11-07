@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2023-11-06T17:44:52.680Z</updated>
+    <updated>2023-11-07T05:44:38.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Macbook Air M2 2022]]></title>
+        <id>https://fatesinger.com/102558</id>
+        <link href="https://fatesinger.com/102558"/>
+        <updated>2023-11-07T05:44:13.868Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102558" aria-label="Macbook Air M2 2022" title="Macbook Air M2 2022">Macbook Air M2 2022</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Macbook Air M2 2022
+双十一第一单已下！Macbook Air M2 16+1T 港澳版官翻机，叠加双十一的分期优惠下来，9000 元三期免息，...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-07T08:54:22+08:00">发布于 4 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富士 XF23mm F1.4 R LM WR]]></title>
         <id>https://fatesinger.com/102151</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">XF23mm F1.4 R LM WR
 35 equivalent lenses, they are just never wide enough or never tight enough, like story of my lif...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-06T09:25:41+08:00">发布于 16 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-06T09:25:41+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -121,21 +135,6 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 一年一度的数码九月又到了，不出意外的话今年是最后一年年年换机了。新机没...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-23T15:57:41+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士 XF33mm F1.4 R LM WR]]></title>
-        <id>https://fatesinger.com/101681</id>
-        <link href="https://fatesinger.com/101681"/>
-        <updated>2023-09-20T17:44:47.323Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/101681" aria-label="富士 XF33mm F1.4 R LM WR" title="富士 XF33mm F1.4 R LM WR">富士 XF33mm F1.4 R LM WR</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">XF33mmF1.4 R LM WR
-XF33mmF1.4可能是大陆目前富士最难买的镜头了，基本上全网无货，预定也要加价。
-这篇文章想着至少要双十...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-09-20T17:49:09+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
 </feed>
