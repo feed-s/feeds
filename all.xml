@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T17:44:50.626Z</updated>
+    <updated>2023-11-11T05:46:19.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -520,7 +520,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -538,7 +538,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -808,7 +808,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -826,7 +826,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -844,7 +844,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7037,6 +7037,13 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenAI首届开发者大会概要 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E6%A6%82%E8%A6%81.html</id>
+        <link href="https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E6%A6%82%E8%A6%81.html"/>
+        <updated>2023-11-11T05:43:52.351Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">开发者大会</span><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">GPT-Store</span><span class="tag-item" data-v-1e62957f="">API升级与降价</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant-API</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html</id>
         <link href="https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html"/>
@@ -7079,11 +7086,11 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html" data-v-3fa1a62e="" class="">深度学习平台的使用及二次开发</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span><span class="tag-item" data-v-1e62957f="">Orange3</span><span class="tag-item" data-v-1e62957f="">数据挖掘</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[低算力本地运行开源大模型 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E4%BD%8E%E7%AE%97%E5%8A%9B%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
-        <link href="https://www.eula.club/blogs/%E4%BD%8E%E7%AE%97%E5%8A%9B%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
-        <updated>2023-10-23T05:44:38.904Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BD%8E%E7%AE%97%E5%8A%9B%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">低算力本地运行开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM2-6B</span><span class="tag-item" data-v-1e62957f="">ChatGLM3-6B</span><span class="tag-item" data-v-1e62957f="">Baichuan-13B</span><span class="tag-item" data-v-1e62957f="">Llama2-7B</span><span class="tag-item" data-v-1e62957f="">大模型效果评价</span></i></div>]]></content>
+        <title type="html"><![CDATA[消费级显卡部署运行开源大模型 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E9%83%A8%E7%BD%B2%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
+        <link href="https://www.eula.club/blogs/%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E9%83%A8%E7%BD%B2%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
+        <updated>2023-11-11T05:43:52.360Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E9%83%A8%E7%BD%B2%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">消费级显卡部署运行开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM2-6B</span><span class="tag-item" data-v-1e62957f="">ChatGLM3-6B</span><span class="tag-item" data-v-1e62957f="">Baichuan-13B</span><span class="tag-item" data-v-1e62957f="">Llama2-7B</span><span class="tag-item" data-v-1e62957f="">大模型效果评价</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述 (Quantum Bit)]]></title>
@@ -7098,13 +7105,6 @@ on
         <link href="https://www.eula.club/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html"/>
         <updated>2023-07-01T17:44:45.742Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">人工智能及深度学习基础理论概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">人工智能</span><span class="tag-item" data-v-1e62957f="">机器学习</span><span class="tag-item" data-v-1e62957f="">深度学习</span><span class="tag-item" data-v-1e62957f="">卷积神经网络CNN</span><span class="tag-item" data-v-1e62957f="">生成对抗网络GAN</span><span class="tag-item" data-v-1e62957f="">循环神经网络RNN</span><span class="tag-item" data-v-1e62957f="">深度强化学习RL</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件IO原理及Kafka高效读写原因分析 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html</id>
-        <link href="https://www.eula.club/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html"/>
-        <updated>2023-03-01T05:44:43.980Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html" data-v-3fa1a62e="" class="">文件IO原理及Kafka高效读写原因分析</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">文件I/O原理</span><span class="tag-item" data-v-1e62957f="">Kafka高效读写</span><span class="tag-item" data-v-1e62957f="">计算机体系结构</span><span class="tag-item" data-v-1e62957f="">高性能计算HPC</span><span class="tag-item" data-v-1e62957f="">存储器层次</span><span class="tag-item" data-v-1e62957f="">局部性原理</span><span class="tag-item" data-v-1e62957f="">inode索引节点</span><span class="tag-item" data-v-1e62957f="">FIO性能测试</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7485,7 +7485,7 @@ on
         <div class="block-snippet" itemprop="about">Park Hyatt ShenZhen
 自从挑战成功环球客，就开始逐渐体验凯悦的酒店，深圳想体验的就只有安达仕和柏悦。周六了住了下深圳柏...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-08T10:16:36+08:00">发布于 2 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-08T10:16:36+08:00">发布于 3 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7499,7 +7499,7 @@ on
         <div class="block-snippet" itemprop="about">Macbook Air M2 2022
 双十一第一单已下！Macbook Air M2 16+1T 港澳版官翻机，叠加双十一的分期优惠下来，9000 元三期免息，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-07T08:54:22+08:00">发布于 3 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-07T08:54:22+08:00">发布于 4 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7513,7 +7513,7 @@ on
         <div class="block-snippet" itemprop="about">XF23mm F1.4 R LM WR
 35 equivalent lenses, they are just never wide enough or never tight enough, like story of my lif...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-06T09:25:41+08:00">发布于 4 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-06T09:25:41+08:00">发布于 5 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8037,7 +8037,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8063,7 +8063,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -8089,7 +8089,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloaded" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg" sizes="350px" srcset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
 				</div>
 			</div>
 		
