@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2023-11-19T05:44:30.919Z</updated>
+    <updated>2023-11-19T17:44:46.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html"/>
         <updated>2023-11-11T17:44:33.394Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会发布内容概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">开发者大会</span><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">GPT-Store</span><span class="tag-item" data-v-1e62957f="">API升级与降价</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant-API</span></i></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Orange3机器学习工具的二次开发]]></title>
+        <id>https://www.eula.club/blogs/Orange3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html</id>
+        <link href="https://www.eula.club/blogs/Orange3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html"/>
+        <updated>2023-11-19T17:44:13.638Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Orange3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html" data-v-3fa1a62e="" class="">Orange3机器学习工具的二次开发</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/5/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Orange3</span><span class="tag-item" data-v-1e62957f="">机器学习</span><span class="tag-item" data-v-1e62957f="">数据挖掘</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BE%AE%E8%B0%83%E6%A6%82%E8%BF%B0%E5%8F%8AChatGLM2%E7%9A%84%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83.html" data-v-3fa1a62e="" class="">大模型微调概述及ChatGLM2的高效微调</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型微调</span><span class="tag-item" data-v-1e62957f="">高效微调</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">ChatGLM2</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4及Code-Interpreter使用指南]]></title>
-        <id>https://www.eula.club/blogs/GPT-4%E5%8F%8ACode-Interpreter%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
-        <link href="https://www.eula.club/blogs/GPT-4%E5%8F%8ACode-Interpreter%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
-        <updated>2023-09-12T17:44:40.198Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-4%E5%8F%8ACode-Interpreter%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">GPT-4及Code-Interpreter使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-Plus</span><span class="tag-item" data-v-1e62957f="">GPT-4</span><span class="tag-item" data-v-1e62957f="">GPT-4V</span><span class="tag-item" data-v-1e62957f="">ChatGPT插件</span><span class="tag-item" data-v-1e62957f="">Code-Interpreter</span><span class="tag-item" data-v-1e62957f="">DALL·E3</span></i></div>]]></content>
+        <title type="html"><![CDATA[ChatGPT-Plus及GPT-4实验性功能]]></title>
+        <id>https://www.eula.club/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html</id>
+        <link href="https://www.eula.club/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html"/>
+        <updated>2023-11-19T17:44:13.642Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html" data-v-3fa1a62e="" class="">ChatGPT-Plus及GPT-4实验性功能</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-Plus</span><span class="tag-item" data-v-1e62957f="">GPT-4</span><span class="tag-item" data-v-1e62957f="">GPT-4V</span><span class="tag-item" data-v-1e62957f="">ChatGPT插件</span><span class="tag-item" data-v-1e62957f="">Code-Interpreter</span><span class="tag-item" data-v-1e62957f="">DALL·E3</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LangChain及LangFlow使用指南]]></title>
@@ -48,11 +55,18 @@
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html" data-v-3fa1a62e="" class="">Slrum集群调度系统与Apptainer容器技术</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">6/27/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Slrum</span><span class="tag-item" data-v-1e62957f="">集群调度系统</span><span class="tag-item" data-v-1e62957f="">Apptainer</span><span class="tag-item" data-v-1e62957f="">Singularity</span><span class="tag-item" data-v-1e62957f="">容器技术</span><span class="tag-item" data-v-1e62957f="">高性能计算</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[深度学习平台的使用及二次开发]]></title>
-        <id>https://www.eula.club/blogs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html</id>
-        <link href="https://www.eula.club/blogs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html"/>
-        <updated>2023-10-29T05:45:07.164Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91.html" data-v-3fa1a62e="" class="">深度学习平台的使用及二次开发</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span><span class="tag-item" data-v-1e62957f="">Orange3</span><span class="tag-item" data-v-1e62957f="">数据挖掘</span></i></div>]]></content>
+        <title type="html"><![CDATA[ChatGPT-API的充值及接入应用]]></title>
+        <id>https://www.eula.club/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html</id>
+        <link href="https://www.eula.club/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html"/>
+        <updated>2023-11-19T17:44:13.647Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html" data-v-3fa1a62e="" class="">ChatGPT-API的充值及接入应用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-API</span><span class="tag-item" data-v-1e62957f="">ChatGPT接入应用</span><span class="tag-item" data-v-1e62957f="">代理请求API</span><span class="tag-item" data-v-1e62957f="">Cloudflare-Worker</span></i></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[常用深度学习平台的使用指南]]></title>
+        <id>https://www.eula.club/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
+        <link href="https://www.eula.club/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
+        <updated>2023-11-19T17:44:13.649Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%B8%B8%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E7%9A%84%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">常用深度学习平台的使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">HuggingFace</span><span class="tag-item" data-v-1e62957f="">GPU服务器租用</span><span class="tag-item" data-v-1e62957f="">Jupyter</span><span class="tag-item" data-v-1e62957f="">Google-Colab</span><span class="tag-item" data-v-1e62957f="">TensorBoard</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[消费级显卡部署运行开源大模型]]></title>
@@ -60,19 +74,5 @@
         <link href="https://www.eula.club/blogs/%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E9%83%A8%E7%BD%B2%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
         <updated>2023-11-11T05:43:52.360Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E9%83%A8%E7%BD%B2%E8%BF%90%E8%A1%8C%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">消费级显卡部署运行开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/8/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型量化</span><span class="tag-item" data-v-1e62957f="">Alpaca-7B</span><span class="tag-item" data-v-1e62957f="">ChatGLM2-6B</span><span class="tag-item" data-v-1e62957f="">ChatGLM3-6B</span><span class="tag-item" data-v-1e62957f="">Baichuan-13B</span><span class="tag-item" data-v-1e62957f="">Llama2-7B</span><span class="tag-item" data-v-1e62957f="">大模型效果评价</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自然语言处理及Transformer基础理论概述]]></title>
-        <id>https://www.eula.club/blogs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%8F%8ATransformer%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html</id>
-        <link href="https://www.eula.club/blogs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%8F%8ATransformer%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html"/>
-        <updated>2023-07-07T05:45:17.638Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%E5%8F%8ATransformer%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">自然语言处理及Transformer基础理论概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/26/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">自然语言处理NLP</span><span class="tag-item" data-v-1e62957f="">Transformer</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能及深度学习基础理论概述]]></title>
-        <id>https://www.eula.club/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html</id>
-        <link href="https://www.eula.club/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html"/>
-        <updated>2023-07-01T17:44:45.742Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8F%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">人工智能及深度学习基础理论概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/18/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">人工智能</span><span class="tag-item" data-v-1e62957f="">机器学习</span><span class="tag-item" data-v-1e62957f="">深度学习</span><span class="tag-item" data-v-1e62957f="">卷积神经网络CNN</span><span class="tag-item" data-v-1e62957f="">生成对抗网络GAN</span><span class="tag-item" data-v-1e62957f="">循环神经网络RNN</span><span class="tag-item" data-v-1e62957f="">深度强化学习RL</span></i></div>]]></content>
     </entry>
 </feed>
