@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-04T05:46:01.339Z</updated>
+    <updated>2023-12-04T17:44:39.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7044,6 +7044,13 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会发布内容概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">开发者大会</span><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">GPT-Store</span><span class="tag-item" data-v-1e62957f="">API升级与降价</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant-API</span><span class="tag-item" data-v-1e62957f="">文档问答助手</span></i></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PDF文档的解析转换与本地知识库问答 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/PDF%E6%96%87%E6%A1%A3%E7%9A%84%E8%A7%A3%E6%9E%90%E8%BD%AC%E6%8D%A2%E4%B8%8E%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94.html</id>
+        <link href="https://www.eula.club/blogs/PDF%E6%96%87%E6%A1%A3%E7%9A%84%E8%A7%A3%E6%9E%90%E8%BD%AC%E6%8D%A2%E4%B8%8E%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94.html"/>
+        <updated>2023-12-04T17:44:07.370Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/PDF%E6%96%87%E6%A1%A3%E7%9A%84%E8%A7%A3%E6%9E%90%E8%BD%AC%E6%8D%A2%E4%B8%8E%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94.html" data-v-3fa1a62e="" class="">PDF文档的解析转换与本地知识库问答</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/29/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Marker</span><span class="tag-item" data-v-1e62957f="">ChatGPT-for-Translation</span><span class="tag-item" data-v-1e62957f="">pyppeteer</span><span class="tag-item" data-v-1e62957f="">privateGPT</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html</id>
         <link href="https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html"/>
@@ -7069,7 +7076,7 @@ on
         <id>https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2023-07-09T17:44:42.026Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">LangChain及LangFlow使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">privateGPT</span><span class="tag-item" data-v-1e62957f="">LangFlow</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">LangChain及LangFlow使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">LangFlow</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slrum集群调度系统与Apptainer容器技术 (Quantum Bit)]]></title>
@@ -7098,13 +7105,6 @@ on
         <link href="https://www.eula.club/blogs/Whisper%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%8F%8AVITS%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.html"/>
         <updated>2023-11-25T17:44:17.984Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Whisper%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E5%8F%8AVITS%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90.html" data-v-3fa1a62e="" class="">Whisper语音识别及VITS语音合成</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/22/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Whisper</span><span class="tag-item" data-v-1e62957f="">语音识别</span><span class="tag-item" data-v-1e62957f="">VITS</span><span class="tag-item" data-v-1e62957f="">语音合成</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文件IO原理及Kafka高效读写原因分析 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html</id>
-        <link href="https://www.eula.club/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html"/>
-        <updated>2023-11-25T17:44:17.986Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%96%87%E4%BB%B6IO%E5%8E%9F%E7%90%86%E5%8F%8AKafka%E9%AB%98%E6%95%88%E8%AF%BB%E5%86%99%E5%8E%9F%E5%9B%A0%E5%88%86%E6%9E%90.html" data-v-3fa1a62e="" class="">文件IO原理及Kafka高效读写原因分析</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">文件I/O原理</span><span class="tag-item" data-v-1e62957f="">Kafka高效读写</span><span class="tag-item" data-v-1e62957f="">计算机体系结构</span><span class="tag-item" data-v-1e62957f="">高性能计算HPC</span><span class="tag-item" data-v-1e62957f="">存储器层次</span><span class="tag-item" data-v-1e62957f="">局部性原理</span><span class="tag-item" data-v-1e62957f="">inode索引节点</span><span class="tag-item" data-v-1e62957f="">FIO性能测试</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7527,7 +7527,7 @@ on
         <div class="block-snippet" itemprop="about">榕阁
 周末和领导去吃了一顿柏悦的榕阁，之前看到大众点评上人均消费要七八百一直望而却步，这次趁着住店就体验了一把。先直接...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-05T00:46:16+08:00">发布于 29 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-05T00:46:16+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8037,7 +8037,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8063,7 +8063,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -8089,7 +8089,7 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
