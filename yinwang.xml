@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2023-12-23T05:44:51.528Z</updated>
+    <updated>2023-12-23T17:44:50.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[计算机科学基础班（第5期，现实接轨班）招生]]></title>
+        <id>https://www.yinwang.org/blog-cn/2023/12/23/cs-course-5</id>
+        <link href="https://www.yinwang.org/blog-cn/2023/12/23/cs-course-5"/>
+        <updated>2023-12-23T17:44:10.684Z</updated>
+        <content type="html"><![CDATA[<div class="date">2023年12月23日</div><br>
+            <a href="/blog-cn/2023/12/23/cs-course-5">计算机科学基础班（第5期，现实接轨班）招生</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[continuation 和并发计算专项班]]></title>
         <id>https://www.yinwang.org/blog-cn/2022/12/12/continuation-course</id>
@@ -20,30 +28,6 @@
         <updated>2022-12-09T00:59:29.965Z</updated>
         <content type="html"><![CDATA[<div class="date">2022年12月01日</div><br>
             <a href="/blog-cn/2022/12/01/tuition-for-covid">计算机科学阅读班提供疫情特价</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[相对论推导练习]]></title>
-        <id>https://www.yinwang.org/blog-cn/2022/10/09/relativity</id>
-        <link href="https://www.yinwang.org/blog-cn/2022/10/09/relativity"/>
-        <updated>2022-12-14T05:44:57.723Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年10月09日</div><br>
-            <a href="/blog-cn/2022/10/09/relativity">相对论推导练习</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫情封控是违反宪法的]]></title>
-        <id>https://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</id>
-        <link href="https://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional"/>
-        <updated>2023-03-10T17:44:33.251Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年09月12日</div><br>
-            <a href="/blog-cn/2022/09/12/lockdown-unconstitutional">疫情封控是违反宪法的</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疫情是怎么回事]]></title>
-        <id>https://www.yinwang.org/blog-cn/2022/06/25/covid-19</id>
-        <link href="https://www.yinwang.org/blog-cn/2022/06/25/covid-19"/>
-        <updated>2023-03-10T17:44:33.251Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年06月25日</div><br>
-            <a href="/blog-cn/2022/06/25/covid-19">疫情是怎么回事</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自然视力恢复法]]></title>
