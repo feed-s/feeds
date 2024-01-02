@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szclsya.me/zh-cn/posts/</id>
     <title>Leo's Field</title>
-    <updated>2024-01-02T05:44:41.411Z</updated>
+    <updated>2024-01-02T17:44:56.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[回望 2023：又是一扇门]]></title>
+        <id>https://szclsya.me/zh-cn/posts/life/2023-recap/</id>
+        <link href="https://szclsya.me/zh-cn/posts/life/2023-recap/"/>
+        <updated>2024-01-02T17:44:38.434Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2024-01-01</span>
+<div class="hide-on-wide" style="display: inline"></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2023-recap/">
+<h1 class="item-title">回望 2023：又是一扇门</h1>
+<p class="item-description">Like a proud wolf alone in the dark, with eyes that watch the world</p>
+<div class="badge hide-on-narrowest"></div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回望 2022：梦想与现实]]></title>
         <id>https://szclsya.me/zh-cn/posts/life/2022-recap/</id>
@@ -138,21 +153,6 @@
 <h1 class="item-title">MDR-7506 可换线 Mod</h1>
 <p class="item-description">(也许是?) 终极便携高性价比耳机.</p>
 <div class="badge hide-on-narrowest"><span>music</span></div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复 Android 10 中的剪贴板权限]]></title>
-        <id>https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/</id>
-        <link href="https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/"/>
-        <updated>2023-02-25T22:11:26.533Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-<span class="item-preinfo">2020-01-25</span>
-<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">android</span></div>
-</div>
-<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/">
-<h1 class="item-title">修复 Android 10 中的剪贴板权限</h1>
-<p class="item-description">剪贴板同步棒极了, 让我们修好它.</p>
-<div class="badge hide-on-narrowest"><span>android</span></div>
 </a>]]></content>
     </entry>
 </feed>

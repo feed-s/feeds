@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-02T05:44:41.443Z</updated>
+    <updated>2024-01-02T17:44:56.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7675,6 +7675,21 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
         <content type="html"><![CDATA[<a href="/blog/about-trans-rights-and-gender" class="summary-title-link">话题解构：跨性别者与性别刻板印象</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[回望 2023：又是一扇门 (Leo's Field)]]></title>
+        <id>https://szclsya.me/zh-cn/posts/life/2023-recap/</id>
+        <link href="https://szclsya.me/zh-cn/posts/life/2023-recap/"/>
+        <updated>2024-01-02T17:44:38.434Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2024-01-01</span>
+<div class="hide-on-wide" style="display: inline"></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2023-recap/">
+<h1 class="item-title">回望 2023：又是一扇门</h1>
+<p class="item-description">Like a proud wolf alone in the dark, with eyes that watch the world</p>
+<div class="badge hide-on-narrowest"></div>
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[回望 2022：梦想与现实 (Leo's Field)]]></title>
         <id>https://szclsya.me/zh-cn/posts/life/2022-recap/</id>
         <link href="https://szclsya.me/zh-cn/posts/life/2022-recap/"/>
@@ -7807,21 +7822,6 @@ Fuji has a relatively niche lens, and it’s also quite old. The second-hand pri
 <h1 class="item-title">MDR-7506 可换线 Mod</h1>
 <p class="item-description">(也许是?) 终极便携高性价比耳机.</p>
 <div class="badge hide-on-narrowest"><span>music</span></div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[修复 Android 10 中的剪贴板权限 (Leo's Field)]]></title>
-        <id>https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/</id>
-        <link href="https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/"/>
-        <updated>2023-02-25T22:11:26.533Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-<span class="item-preinfo">2020-01-25</span>
-<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">android</span></div>
-</div>
-<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/android/fix-clipboard-android-10/">
-<h1 class="item-title">修复 Android 10 中的剪贴板权限</h1>
-<p class="item-description">剪贴板同步棒极了, 让我们修好它.</p>
-<div class="badge hide-on-narrowest"><span>android</span></div>
 </a>]]></content>
     </entry>
     <entry>
