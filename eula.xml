@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-01-02T17:44:56.573Z</updated>
+    <updated>2024-01-03T05:47:32.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -52,7 +52,7 @@
         <id>https://www.eula.club/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html</id>
         <link href="https://www.eula.club/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html"/>
         <updated>2023-11-19T17:44:13.642Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html" data-v-3fa1a62e="" class="">ChatGPT-Plus及GPT-4实验性功能</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-Plus</span><span class="tag-item" data-v-1e62957f="">GPT-4</span><span class="tag-item" data-v-1e62957f="">GPT-4V</span><span class="tag-item" data-v-1e62957f="">ChatGPT插件</span><span class="tag-item" data-v-1e62957f="">Code-Interpreter</span><span class="tag-item" data-v-1e62957f="">DALL·E3</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html" data-v-3fa1a62e="" class="">ChatGPT-Plus及GPT-4实验性功能</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-Plus</span><span class="tag-item" data-v-1e62957f="">GPT-4</span><span class="tag-item" data-v-1e62957f="">GPT-4V</span><span class="tag-item" data-v-1e62957f="">ChatGPT插件</span><span class="tag-item" data-v-1e62957f="">Code-Interpreter</span><span class="tag-item" data-v-1e62957f="">DALL·E3</span><span class="tag-item" data-v-1e62957f=""></span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LangChain及LangFlow使用指南]]></title>
