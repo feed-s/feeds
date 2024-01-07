@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-01-07T05:45:05.714Z</updated>
+    <updated>2024-01-07T17:44:35.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[富士 XF14mm F2.8 R]]></title>
+        <id>https://fatesinger.com/102722</id>
+        <link href="https://fatesinger.com/102722"/>
+        <updated>2024-01-07T17:44:09.809Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102722" aria-label="富士 XF14mm F2.8 R" title="富士 XF14mm F2.8 R">富士 XF14mm F2.8 R</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">富士 XF14mm F2.8 R
+作为富士定焦使用者，手上目前最广的就是18mm，有的时候确实需要更广一点的视角，富士原厂广角选择不多，...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 3 小时前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 – 2024 跨年博客]]></title>
+        <id>https://fatesinger.com/102275</id>
+        <link href="https://fatesinger.com/102275"/>
+        <updated>2024-01-07T17:44:09.810Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102275" aria-label="2023 – 2024 跨年博客" title="2023 – 2024 跨年博客">2023 – 2024 跨年博客</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+按照惯例，每年这个时候我都会写一篇跨年博客来大谈特谈，今年是第十二年，能坚持这么长时间我很高兴。
+首先感谢我太太，下...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-12-31T22:06:36+08:00">发布于 7 天前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[深圳柏悦]]></title>
         <id>https://fatesinger.com/102545</id>
@@ -106,35 +135,7 @@
 赣锋锂业
 海螺...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-09T14:39:08+08:00">发布于 2月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fujinon XF 90mm f/2 R LM WR Review]]></title>
-        <id>https://fatesinger.com/102466</id>
-        <link href="https://fatesinger.com/102466"/>
-        <updated>2023-10-08T17:44:36.277Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102466" aria-label="Fujinon XF 90mm f/2 R LM WR Review" title="Fujinon XF 90mm f/2 R LM WR Review">Fujinon XF 90mm f/2 R LM WR Review</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">XF90mmF2 R LM WR
-Fuji has a relatively niche lens, and it’s also quite old. The second-hand price is around 4000, but...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-08T17:11:21+08:00">发布于 3月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[富士 XF90mm F2 R LM WR]]></title>
-        <id>https://fatesinger.com/102433</id>
-        <link href="https://fatesinger.com/102433"/>
-        <updated>2023-10-08T17:44:36.279Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102433" aria-label="富士 XF90mm F2 R LM WR" title="富士 XF90mm F2 R LM WR">富士 XF90mm F2 R LM WR</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">XF90mmF2 R LM WR
-富士一款比较冷门的镜头，当然也比较老了，二手4000左右，但一般使用年头都比较长了，原价太贵，最后在官方...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-08T17:08:31+08:00">发布于 3月前</time>
+            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-09T14:39:08+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
 </feed>
