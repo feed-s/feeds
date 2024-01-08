@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-01-08T05:47:01.969Z</updated>
+    <updated>2024-01-08T17:44:32.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上海艾迪逊]]></title>
+        <id>https://fatesinger.com/102698</id>
+        <link href="https://fatesinger.com/102698"/>
+        <updated>2024-01-08T17:44:06.519Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102698" aria-label="上海艾迪逊" title="上海艾迪逊">上海艾迪逊</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">上海艾迪逊
+这已经是一年内第二次入住了，像上海这种酒店遍地的城市，我一般不会选择同一家入住第二次，当时太太过生日想要看...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-08T16:34:15+08:00">发布于 9 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[富士 XF14mm F2.8 R]]></title>
         <id>https://fatesinger.com/102722</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">富士 XF14mm F2.8 R
 作为富士定焦使用者，手上目前最广的就是18mm，有的时候确实需要更广一点的视角，富士原厂广角选择不多，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 15 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -31,7 +45,7 @@
 按照惯例，每年这个时候我都会写一篇跨年博客来大谈特谈，今年是第十二年，能坚持这么长时间我很高兴。
 首先感谢我太太，下...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-12-31T22:06:36+08:00">发布于 7 天前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-12-31T22:06:36+08:00">发布于 8 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -116,26 +130,6 @@
 第一个拍立得是富士的 mini 40，差不多用了1年半，差不多了拍了400 张，因为想玩一玩双重曝光打算升级 mini 90...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-22T22:52:54+08:00">发布于 2月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 第三季度基金股票总结]]></title>
-        <id>https://fatesinger.com/102473</id>
-        <link href="https://fatesinger.com/102473"/>
-        <updated>2023-10-09T17:45:11.689Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102473" aria-label="2023 第三季度基金股票总结" title="2023 第三季度基金股票总结">2023 第三季度基金股票总结</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-最近两期图都懒得配了，摆烂的节奏。
-只剩下几只烂票在手里，已经不想看了。准备开户搞美股了。
-七月
-账户1
-
-赣锋锂业
-海螺...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/investment" rel="category tag">投资理财</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-09T14:39:08+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
 </feed>
