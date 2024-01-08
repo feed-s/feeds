@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-07T17:44:36.008Z</updated>
+    <updated>2024-01-08T05:47:01.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -520,7 +520,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -538,7 +538,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -808,7 +808,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -826,7 +826,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -844,7 +844,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7469,7 +7469,7 @@ on
         <div class="block-snippet" itemprop="about">富士 XF14mm F2.8 R
 作为富士定焦使用者，手上目前最广的就是18mm，有的时候确实需要更广一点的视角，富士原厂广角选择不多，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 3 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 15 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
