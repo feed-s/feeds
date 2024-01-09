@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-01-09T05:44:41.444Z</updated>
+    <updated>2024-01-09T17:44:43.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fujifilm X-S20 短期使用体验]]></title>
+        <id>https://fatesinger.com/102221</id>
+        <link href="https://fatesinger.com/102221"/>
+        <updated>2024-01-09T17:44:16.214Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102221" aria-label="Fujifilm X-S20 短期使用体验" title="Fujifilm X-S20 短期使用体验">Fujifilm X-S20 短期使用体验</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Fujifilm X-S20
+富士最近已经被炒的不行，各种缺货，官方代理商都需要加价购买，非官代奸商更是加价到离谱，考虑到体积第一台...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-09T14:19:50+08:00">发布于 11 小时前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fujifilm X-T5 上手使用体验]]></title>
+        <id>https://fatesinger.com/101768</id>
+        <link href="https://fatesinger.com/101768"/>
+        <updated>2024-01-09T17:44:16.216Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/101768" aria-label="Fujifilm X-T5 上手使用体验" title="Fujifilm X-T5 上手使用体验">Fujifilm X-T5 上手使用体验</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Fujifilm X-T5
+手上镜头有好几个镜头而且都是定焦，拧来拧去的不是特别方便，于是卖掉了X100V 购入X-T5，单机身没买到，买了...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-09T14:04:33+08:00">发布于 11 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[上海艾迪逊]]></title>
         <id>https://fatesinger.com/102698</id>
@@ -16,7 +44,7 @@
         <div class="block-snippet" itemprop="about">上海艾迪逊
 这已经是一年内第二次入住了，像上海这种酒店遍地的城市，我一般不会选择同一家入住第二次，当时太太过生日想要看...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-08T16:34:15+08:00">发布于 21 小时前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-08T16:34:15+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -30,7 +58,7 @@
         <div class="block-snippet" itemprop="about">富士 XF14mm F2.8 R
 作为富士定焦使用者，手上目前最广的就是18mm，有的时候确实需要更广一点的视角，富士原厂广角选择不多，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 1 天前</time>
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 2 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -45,7 +73,7 @@
 按照惯例，每年这个时候我都会写一篇跨年博客来大谈特谈，今年是第十二年，能坚持这么长时间我很高兴。
 首先感谢我太太，下...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-12-31T22:06:36+08:00">发布于 8 天前</time>
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-12-31T22:06:36+08:00">发布于 9 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -102,34 +130,6 @@
 周末和领导去吃了一顿柏悦的榕阁，之前看到大众点评上人均消费要七八百一直望而却步，这次趁着住店就体验了一把。先直接...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-05T00:46:16+08:00">发布于 2月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳湾安达仕]]></title>
-        <id>https://fatesinger.com/102548</id>
-        <link href="https://fatesinger.com/102548"/>
-        <updated>2023-11-02T17:44:49.803Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102548" aria-label="深圳湾安达仕" title="深圳湾安达仕">深圳湾安达仕</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">Andaz Shenzhen Bay
-深圳湾安达仕是深圳几家比较新的高端酒店之一，日常价格在2400 左右，很少打折。这次入住使用了两万积分...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-11-02T18:07:36+08:00">发布于 2月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徕卡 SOFORT]]></title>
-        <id>https://fatesinger.com/102430</id>
-        <link href="https://fatesinger.com/102430"/>
-        <updated>2023-10-22T17:44:27.592Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102430" aria-label="徕卡 SOFORT" title="徕卡 SOFORT">徕卡 SOFORT</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">Leica Sofort
-第一个拍立得是富士的 mini 40，差不多用了1年半，差不多了拍了400 张，因为想玩一玩双重曝光打算升级 mini 90...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-10-22T22:52:54+08:00">发布于 2月前</time>
             </div>]]></content>
     </entry>
 </feed>
