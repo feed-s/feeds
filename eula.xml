@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-01-15T05:44:59.996Z</updated>
+    <updated>2024-01-15T17:45:04.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html"/>
         <updated>2023-12-21T05:44:01.939Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html" data-v-3fa1a62e="" class="">基于ES检索增强的Baichuan大模型生成</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">检索增强大模型生成</span><span class="tag-item" data-v-1e62957f="">ES检索增强</span><span class="tag-item" data-v-1e62957f="">Baichuan2-13B-Chat</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html" data-v-3fa1a62e="" class="">基于ES检索增强的Baichuan大模型生成</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">检索增强大模型生成RAG</span><span class="tag-item" data-v-1e62957f="">Baichuan2-13B-Chat</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI首届开发者大会发布内容概要]]></title>
