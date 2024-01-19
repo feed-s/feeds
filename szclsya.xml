@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szclsya.me/zh-cn/posts/</id>
     <title>Leo's Field</title>
-    <updated>2024-01-18T17:44:50.268Z</updated>
+    <updated>2024-01-19T05:44:41.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ZFS 入门指北：性能调优]]></title>
+        <id>https://szclsya.me/zh-cn/posts/storage/zfs-tuning/</id>
+        <link href="https://szclsya.me/zh-cn/posts/storage/zfs-tuning/"/>
+        <updated>2024-01-19T05:44:21.809Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2024-01-17</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">linux</span><span style="margin-right: .4em">filesystem</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-tuning/">
+<h1 class="item-title">ZFS 入门指北：性能调优</h1>
+<p class="item-description">再榨点性能出来！</p>
+<div class="badge hide-on-narrowest"><span>linux</span><span>filesystem</span></div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回望 2023：又是一扇门]]></title>
         <id>https://szclsya.me/zh-cn/posts/life/2023-recap/</id>
@@ -138,21 +153,6 @@
 <h1 class="item-title">ZFS 入门指北: 基础篇</h1>
 <p class="item-description">File system can be fun!</p>
 <div class="badge hide-on-narrowest"></div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDR-7506 可换线 Mod]]></title>
-        <id>https://szclsya.me/zh-cn/posts/mod-7506/</id>
-        <link href="https://szclsya.me/zh-cn/posts/mod-7506/"/>
-        <updated>2023-02-25T22:11:26.532Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-<span class="item-preinfo">2020-01-31</span>
-<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">music</span></div>
-</div>
-<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/mod-7506/">
-<h1 class="item-title">MDR-7506 可换线 Mod</h1>
-<p class="item-description">(也许是?) 终极便携高性价比耳机.</p>
-<div class="badge hide-on-narrowest"><span>music</span></div>
 </a>]]></content>
     </entry>
 </feed>
