@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-01-25T05:44:34.101Z</updated>
+    <updated>2024-01-25T17:45:11.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[重庆华岩寺随拍]]></title>
+        <id>https://www.shephe.com/2024/01/%e5%8d%8e%e5%b2%a9%e5%af%ba%e9%9a%8f%e6%8b%8d/</id>
+        <link href="https://www.shephe.com/2024/01/%e5%8d%8e%e5%b2%a9%e5%af%ba%e9%9a%8f%e6%8b%8d/"/>
+        <updated>2024-01-25T17:45:07.891Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/01/%e5%8d%8e%e5%b2%a9%e5%af%ba%e9%9a%8f%e6%8b%8d/" rel="bookmark"><span class="screen-reader-text">重庆华岩寺随拍</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2019/06/in-2019.06.16-华严寺-雨中赏荷-7.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-01-25T13:50:19+08:00">
+				01/25/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>重庆华岩寺随拍</span></h2>						<p>本文分享几幅前次去华岩寺的随拍，文中大部分照片是23年11月5号陪岳母及家人一起闲逛所拍。重庆城区寺庙众多，但我认为华岩寺是独一份的，不管是规模、建筑、交通都挺好的，你甚至可以推着童车去把它当公园逛，别的地方要么太小要么爬坡上坎要么交通不便…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/01/%e5%8d%8e%e5%b2%a9%e5%af%ba%e9%9a%8f%e6%8b%8d/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一次约小姐姐拍照（互免约拍）]]></title>
         <id>https://www.shephe.com/2023/12/%e4%ba%ba%e5%83%8f%e7%ba%a6%e6%8b%8d/</id>
@@ -208,32 +234,6 @@
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>免插件实现WordPress文章归档页面</span></h2>						<p>虽说Web已经日薄西山，流量式微，但作为自己的一亩三分地偶尔看看还是不错的。于是这几日疯狂折腾现用的主题，包括代码修改及功能补齐，本文分享两个免插件实现WordPress文章归档页面的方法。 利用WordPress原生函数实现文章归档页面 …</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress给特定文章添加Nofollow标签]]></title>
-        <id>https://www.shephe.com/2023/07/wordpress-use-custom-fields-add-nofollow/</id>
-        <link href="https://www.shephe.com/2023/07/wordpress-use-custom-fields-add-nofollow/"/>
-        <updated>2023-07-05T17:45:13.706Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/07/wordpress-use-custom-fields-add-nofollow/" rel="bookmark"><span class="screen-reader-text">WordPress给特定文章添加Nofollow标签</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2023-07-05T16:23:12+08:00">
-				07/05/2023			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress给特定文章添加Nofollow标签</span></h2>						<p>这几天折腾WordPress挺多，搞了一堆烂七八糟的页面出来，其中难免有一些不希望被搜索引擎索引，起先我打算在Robots文件中禁用，但操作起来略显繁琐且又不够精细；又想到用专门的SEO插件如rankmath来控制，但这些个插件也是一笔不小…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/07/wordpress-use-custom-fields-add-nofollow/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
