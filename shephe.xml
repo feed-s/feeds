@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-01-29T05:44:59.118Z</updated>
+    <updated>2024-01-29T17:44:39.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[十八梯渝潮坊《渝州故事》]]></title>
+        <id>https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/</id>
+        <link href="https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/"/>
+        <updated>2024-01-29T17:44:35.322Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/" rel="bookmark"><span class="screen-reader-text">十八梯渝潮坊《渝州故事》</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-01-29T15:47:30+08:00">
+				01/29/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>十八梯渝潮坊《渝州故事》</span></h2>						<p>和上篇日志一样，本文所涉《渝州故事》游记也是十一月份瞎逛所拍，表演场馆“渝潮坊”在渝中区新晋网红街区十八梯，此地非常适合Citywalk，拍拍照吃点儿小吃都挺好。《渝州故事》表演时长约一个钟头，主要由川渝非遗民俗构成，其重头戏为川剧变脸、蹬…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a> <a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[重庆华岩寺随拍]]></title>
         <id>https://www.shephe.com/2024/01/%e5%8d%8e%e5%b2%a9%e5%af%ba%e9%9a%8f%e6%8b%8d/</id>
@@ -208,32 +234,6 @@
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>近一年来工作总结</span></h2>						<p>说来你可能不信，我闲着没事儿更这篇文字的时候本以为会在外面住上几晚，借此感慨感慨近期的工作情况，拟了个标题叫《又一次出差随感》。但后来情况有变工程队迟迟不到位，我也只在现场呆了一小会儿，下午就赶火车回家了。事实上，我已不记得上次在外出差过夜…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a> <a href="https://www.shephe.com/working/" rel="category tag">打工日记</a> <a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a> <a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/08/working-time/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免插件实现WordPress文章归档页面]]></title>
-        <id>https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/</id>
-        <link href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/"/>
-        <updated>2023-07-06T17:46:39.510Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/" rel="bookmark"><span class="screen-reader-text">免插件实现WordPress文章归档页面</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2023-07-06T09:58:50+08:00">
-				07/06/2023			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>免插件实现WordPress文章归档页面</span></h2>						<p>虽说Web已经日薄西山，流量式微，但作为自己的一亩三分地偶尔看看还是不错的。于是这几日疯狂折腾现用的主题，包括代码修改及功能补齐，本文分享两个免插件实现WordPress文章归档页面的方法。 利用WordPress原生函数实现文章归档页面 …</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/07/no-pluglin-wordpress-archive-page/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
