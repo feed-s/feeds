@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2024-02-06T05:44:45.079Z</updated>
+    <updated>2024-02-06T17:44:35.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -23,6 +23,23 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ubuntu 22.04 安装 Nvidia 显卡驱动教程]]></title>
+        <id>https://iyzm.net/linux/3727.html</id>
+        <link href="https://iyzm.net/linux/3727.html"/>
+        <updated>2024-02-06T17:44:19.899Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/linux/3727.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/Linux-118.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+</a>
+</div> <header class="entry-header" aria-label="内容">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3727.html" rel="bookmark">Ubuntu 22.04 安装 Nvidia 显卡驱动教程</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-02-06T17:20:41+08:00" itemprop="dateModified">2024年2月6日</time><time class="entry-date published" datetime="2024-02-06T16:36:43+08:00" itemprop="datePublished">2024年2月6日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>Linux 系统如果安装了独立显卡，则必须要额外安装显卡驱动才能正常使用，与最常见的 Windows 系统不同，Linux 系统安装显卡驱动往往更为繁琐，且容易 … <a title="Ubuntu 22.04 安装 Nvidia 显卡驱动教程" class="read-more" href="https://iyzm.net/linux/3727.html" aria-label="更多 Ubuntu 22.04 安装 Nvidia 显卡驱动教程"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[神奇的国家之中国特色初步解析]]></title>
         <id>https://iyzm.net/life/3653.html</id>
         <link href="https://iyzm.net/life/3653.html"/>
@@ -33,7 +50,7 @@
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-02-06T07:36:58+08:00" itemprop="dateModified">2024年2月6日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-02-06T18:52:26+08:00" itemprop="dateModified">2024年2月6日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>外国的民众通过各种新闻和道听途说的信息来了解中国，由于中共强大的宣传部门主导了几乎所有的对外新闻，于是让外界的民众以为现在的中国已经是一个现代化的法制国家，和自 … <a title="神奇的国家之中国特色初步解析" class="read-more" href="https://iyzm.net/life/3653.html" aria-label="更多 神奇的国家之中国特色初步解析"> </a></p>
@@ -46,7 +63,7 @@
         <updated>2023-10-29T17:44:53.773Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/life/3446.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/06/life-011.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/06/life-011.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
 </a>
 </div> <header class="entry-header" aria-label="内容">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
@@ -173,23 +190,6 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>有时可能需要将路由器系统部署至 ESXi 虚拟化服务器中，以便进行集中维护和管理，本文介绍如何将 OpenWrt-Life 系统部署至 ESXi 虚拟化服务器中 … <a title="使用 ESXi 搭建虚拟 OpenWrt 路由器系统" class="read-more" href="https://iyzm.net/linux/3130.html" aria-label="更多 使用 ESXi 搭建虚拟 OpenWrt 路由器系统"> </a></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Windows 制作添加驱动的自定义 ESXi 安装映像]]></title>
-        <id>https://iyzm.net/windows/3054.html</id>
-        <link href="https://iyzm.net/windows/3054.html"/>
-        <updated>2023-10-29T17:44:53.787Z</updated>
-        <content type="html"><![CDATA[<div class="post-image">
-<a href="https://iyzm.net/windows/3054.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
-</a>
-</div> <header class="entry-header" aria-label="内容">
-<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3054.html" rel="bookmark">使用 Windows 制作添加驱动的自定义 ESXi 安装映像</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-02-25T10:23:02+08:00" itemprop="dateModified">2023年2月25日</time><time class="entry-date published" datetime="2023-02-24T15:37:57+08:00" itemprop="datePublished">2023年2月24日</time></span> </div>
-</header>
-<div class="entry-summary" itemprop="text">
-<p>VMware vSphere (ESXi) 作为一款常用的虚拟化系统，被用于安装到各种各样的硬件平台，使用过程中最首要的就是安装映像的驱动问题，如果缺少必要的驱 … <a title="使用 Windows 制作添加驱动的自定义 ESXi 安装映像" class="read-more" href="https://iyzm.net/windows/3054.html" aria-label="更多 使用 Windows 制作添加驱动的自定义 ESXi 安装映像"> </a></p>
 </div>]]></content>
     </entry>
 </feed>
