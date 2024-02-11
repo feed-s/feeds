@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-11T05:44:41.072Z</updated>
+    <updated>2024-02-11T17:44:27.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7021,6 +7021,13 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[基于ComfyUI实现AI绘画工作流 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html</id>
+        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html"/>
+        <updated>2024-02-11T17:43:53.357Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html" data-v-3fa1a62e="" class="">基于ComfyUI实现AI绘画工作流</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/27/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ComfyUI</span><span class="tag-item" data-v-1e62957f="">Stable-Diffusion</span><span class="tag-item" data-v-1e62957f="">AI绘画工作流</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[基于ES检索增强的Baichuan大模型生成 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html"/>
@@ -7082,13 +7089,6 @@ on
         <link href="https://www.eula.club/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html"/>
         <updated>2023-10-06T17:44:54.978Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html" data-v-3fa1a62e="" class="">Slrum集群调度系统与Apptainer容器技术</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">6/27/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Slrum</span><span class="tag-item" data-v-1e62957f="">集群调度系统</span><span class="tag-item" data-v-1e62957f="">Apptainer</span><span class="tag-item" data-v-1e62957f="">Singularity</span><span class="tag-item" data-v-1e62957f="">容器技术</span><span class="tag-item" data-v-1e62957f="">高性能计算</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT-API的充值及接入应用 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html</id>
-        <link href="https://www.eula.club/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html"/>
-        <updated>2023-11-19T17:44:13.647Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html" data-v-3fa1a62e="" class="">ChatGPT-API的充值及接入应用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-API</span><span class="tag-item" data-v-1e62957f="">ChatGPT接入应用</span><span class="tag-item" data-v-1e62957f="">代理请求API</span><span class="tag-item" data-v-1e62957f="">Cloudflare-Worker</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7469,7 +7469,7 @@ on
         <div class="block-snippet" itemprop="about">Umana 圣白羽教堂
 由于工作原因，出行都是临时决定，平时倒是问题不大，但这次出行跨年，计划是从乌鲁瓦图一路向北到乌布，虽...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-02-05T01:10:40+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-02-05T01:10:40+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7482,7 +7482,7 @@ on
         </h2>
         <div class="block-snippet" itemprop="about">不知道什么时候开始旅行已经变成打卡、出片之类的了。回想以前外出旅行的时候从来没想道要到哪里打卡，更没有找指定机位拍照...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-20T23:09:50+08:00">发布于 21 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-20T23:09:50+08:00">发布于 22 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7863,7 +7863,7 @@ on
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-02-11T12:42:31+08:00" itemprop="dateModified">2024年2月11日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-02-11T16:34:42+08:00" itemprop="dateModified">2024年2月11日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>外国的民众通过各种新闻和道听途说的信息来了解中国，由于中共强大的宣传部门主导了几乎所有的对外新闻，于是让外界的民众以为现在的中国已经是一个现代化的法制国家，和自 … <a title="神奇的国家之中国特色初步解析" class="read-more" href="https://iyzm.net/life/3653.html" aria-label="更多 神奇的国家之中国特色初步解析"> </a></p>

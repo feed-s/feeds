@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-02-11T05:44:41.046Z</updated>
+    <updated>2024-02-11T17:44:27.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[基于ComfyUI实现AI绘画工作流]]></title>
+        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html</id>
+        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html"/>
+        <updated>2024-02-11T17:43:53.357Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html" data-v-3fa1a62e="" class="">基于ComfyUI实现AI绘画工作流</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/27/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ComfyUI</span><span class="tag-item" data-v-1e62957f="">Stable-Diffusion</span><span class="tag-item" data-v-1e62957f="">AI绘画工作流</span></i></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于ES检索增强的Baichuan大模型生成]]></title>
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EES%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%9A%84Baichuan%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.eula.club/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html"/>
         <updated>2023-10-06T17:44:54.978Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html" data-v-3fa1a62e="" class="">Slrum集群调度系统与Apptainer容器技术</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">6/27/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Slrum</span><span class="tag-item" data-v-1e62957f="">集群调度系统</span><span class="tag-item" data-v-1e62957f="">Apptainer</span><span class="tag-item" data-v-1e62957f="">Singularity</span><span class="tag-item" data-v-1e62957f="">容器技术</span><span class="tag-item" data-v-1e62957f="">高性能计算</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT-API的充值及接入应用]]></title>
-        <id>https://www.eula.club/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html</id>
-        <link href="https://www.eula.club/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html"/>
-        <updated>2023-11-19T17:44:13.647Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-API%E7%9A%84%E5%85%85%E5%80%BC%E5%8F%8A%E6%8E%A5%E5%85%A5%E5%BA%94%E7%94%A8.html" data-v-3fa1a62e="" class="">ChatGPT-API的充值及接入应用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-API</span><span class="tag-item" data-v-1e62957f="">ChatGPT接入应用</span><span class="tag-item" data-v-1e62957f="">代理请求API</span><span class="tag-item" data-v-1e62957f="">Cloudflare-Worker</span></i></div>]]></content>
     </entry>
 </feed>
