@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2024-02-14T05:44:30.103Z</updated>
+    <updated>2024-02-14T17:44:52.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -20,6 +20,23 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两性关系之婚姻关系入门]]></title>
+        <id>https://iyzm.net/life/3796.html</id>
+        <link href="https://iyzm.net/life/3796.html"/>
+        <updated>2024-02-14T17:44:36.338Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3796.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/life-013.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3796.html" rel="bookmark">两性关系之婚姻关系入门</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2024-02-14T22:14:17+08:00" itemprop="datePublished">2024年2月14日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>婚姻从法律层面来讲是一种男女双方组成了家庭的一种法律证明，从文化层面来讲是男女双方情感上的一种社会证明。 婚姻从表现形式上看，是双方财富、心理和生理的结合；从本 … <a title="两性关系之婚姻关系入门" class="read-more" href="https://iyzm.net/life/3796.html" aria-label="更多 两性关系之婚姻关系入门"> </a></p>
 </div>]]></content>
     </entry>
     <entry>
@@ -46,11 +63,11 @@
         <updated>2023-11-05T05:45:00.492Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/life/3653.html">
-<img width="176" height="150" src="https://iyzm.net/wp-content/uploads/2023/11/life-012.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+<img width="176" height="150" src="https://iyzm.net/wp-content/uploads/2023/11/life-012.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-02-11T16:34:42+08:00" itemprop="dateModified">2024年2月11日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-02-14T18:06:19+08:00" itemprop="dateModified">2024年2月14日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>外国的民众通过各种新闻和道听途说的信息来了解中国，由于中共强大的宣传部门主导了几乎所有的对外新闻，于是让外界的民众以为现在的中国已经是一个现代化的法制国家，和自 … <a title="神奇的国家之中国特色初步解析" class="read-more" href="https://iyzm.net/life/3653.html" aria-label="更多 神奇的国家之中国特色初步解析"> </a></p>
@@ -173,23 +190,6 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>DNS 全称 “Domain Name System”，是互联网的一项基础服务，将域名和 IP 地址相互映射，使得人们可以更方便的访问互联网，但有时需要一些自定 … <a title="OpenWrt DNS 优化分流设置 DNS 原理解析" class="read-more" href="https://iyzm.net/openwrt/3197.html" aria-label="更多 OpenWrt DNS 优化分流设置 DNS 原理解析"> </a></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 ESXi 搭建虚拟 OpenWrt 路由器系统]]></title>
-        <id>https://iyzm.net/linux/3130.html</id>
-        <link href="https://iyzm.net/linux/3130.html"/>
-        <updated>2023-10-29T17:44:53.787Z</updated>
-        <content type="html"><![CDATA[<div class="post-image">
-<a href="https://iyzm.net/linux/3130.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2022/02/Linux-023.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
-</a>
-</div> <header class="entry-header">
-<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3130.html" rel="bookmark">使用 ESXi 搭建虚拟 OpenWrt 路由器系统</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-03-13T11:17:47+08:00" itemprop="dateModified">2023年3月13日</time><time class="entry-date published" datetime="2023-03-06T13:27:16+08:00" itemprop="datePublished">2023年3月6日</time></span> </div>
-</header>
-<div class="entry-summary" itemprop="text">
-<p>有时可能需要将路由器系统部署至 ESXi 虚拟化服务器中，以便进行集中维护和管理，本文介绍如何将 OpenWrt-Life 系统部署至 ESXi 虚拟化服务器中 … <a title="使用 ESXi 搭建虚拟 OpenWrt 路由器系统" class="read-more" href="https://iyzm.net/linux/3130.html" aria-label="更多 使用 ESXi 搭建虚拟 OpenWrt 路由器系统"> </a></p>
 </div>]]></content>
     </entry>
 </feed>
