@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-02-17T17:44:44.511Z</updated>
+    <updated>2024-02-18T05:45:03.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[台北转机游记]]></title>
+        <id>https://fatesinger.com/102706</id>
+        <link href="https://fatesinger.com/102706"/>
+        <updated>2024-02-18T05:44:36.963Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/102706" aria-label="台北转机游记" title="台北转机游记">台北转机游记</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">桃园机场
+台湾关闭自由行已经很久了，地图上一直没点亮台湾这个板块一直事挺遗憾的事情，所以这次回深圳特意买了长荣航空，在...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-02-18T08:43:55+08:00">发布于 5 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Umana Bali]]></title>
         <id>https://fatesinger.com/102077</id>
@@ -114,21 +128,6 @@
 作为富士定焦使用者，手上目前最广的就是18mm，有的时候确实需要更广一点的视角，富士原厂广角选择不多，...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-07T22:08:18+08:00">发布于 1月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 – 2024 跨年博客]]></title>
-        <id>https://fatesinger.com/102275</id>
-        <link href="https://fatesinger.com/102275"/>
-        <updated>2024-01-07T17:44:09.810Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102275" aria-label="2023 – 2024 跨年博客" title="2023 – 2024 跨年博客">2023 – 2024 跨年博客</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-按照惯例，每年这个时候我都会写一篇跨年博客来大谈特谈，今年是第十二年，能坚持这么长时间我很高兴。
-首先感谢我太太，下...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2023-12-31T22:06:36+08:00">发布于 1月前</time>
             </div>]]></content>
     </entry>
 </feed>
