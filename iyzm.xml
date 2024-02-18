@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2024-02-18T05:45:03.803Z</updated>
+    <updated>2024-02-18T17:45:11.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -23,6 +23,23 @@
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[两性关系之恋爱关系入门]]></title>
+        <id>https://iyzm.net/life/3818.html</id>
+        <link href="https://iyzm.net/life/3818.html"/>
+        <updated>2024-02-18T17:44:58.018Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3818.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/life-014.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3818.html" rel="bookmark">两性关系之恋爱关系入门</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-02-18T20:34:19+08:00" itemprop="dateModified">2024年2月18日</time><time class="entry-date published" datetime="2024-02-18T13:51:33+08:00" itemprop="datePublished">2024年2月18日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>恋爱关系本质上是人类繁衍本能所催生的一种个人行为，心理学上爱是社交与文化的表现。 在文学作品中，以及心理学家、哲学家、生物化学家和其他职业的专家的著作中，我们都 … <a title="两性关系之恋爱关系入门" class="read-more" href="https://iyzm.net/life/3818.html" aria-label="更多 两性关系之恋爱关系入门"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[两性关系之婚姻关系入门]]></title>
         <id>https://iyzm.net/life/3796.html</id>
         <link href="https://iyzm.net/life/3796.html"/>
@@ -33,7 +50,7 @@
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3796.html" rel="bookmark">两性关系之婚姻关系入门</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-02-16T11:07:18+08:00" itemprop="dateModified">2024年2月16日</time><time class="entry-date published" datetime="2024-02-14T22:14:17+08:00" itemprop="datePublished">2024年2月14日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-02-18T23:12:19+08:00" itemprop="dateModified">2024年2月18日</time><time class="entry-date published" datetime="2024-02-14T22:14:17+08:00" itemprop="datePublished">2024年2月14日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>婚姻从法律层面来讲是一种男女双方组成了家庭的一种法律证明，从文化层面来讲是男女双方情感上的一种社会证明。 婚姻从表现形式上看，是双方财富、心理和生理的结合；从本 … <a title="两性关系之婚姻关系入门" class="read-more" href="https://iyzm.net/life/3796.html" aria-label="更多 两性关系之婚姻关系入门"> </a></p>
@@ -46,7 +63,7 @@
         <updated>2024-02-06T17:44:19.899Z</updated>
         <content type="html"><![CDATA[<div class="post-image">
 <a href="https://iyzm.net/linux/3727.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/Linux-118.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/Linux-118.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3727.html" rel="bookmark">Ubuntu 22.04 安装 Nvidia 显卡驱动教程</a></h2> <div class="entry-meta">
@@ -173,23 +190,6 @@
 </header>
 <div class="entry-summary" itemprop="text">
 <p>Motrix 是一款全功能下载工具软件，界面简洁易用，支持下载 HTTP(s)、FTP、BT、磁力链等资源，下载各类文件稳定可靠，速度优秀，非常适合作为一款日常 … <a title="Windows 平台优秀的全功能下载工具 Motrix" class="read-more" href="https://iyzm.net/windows/3237.html" aria-label="更多 Windows 平台优秀的全功能下载工具 Motrix"> </a></p>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenWrt DNS 优化分流设置 DNS 原理解析]]></title>
-        <id>https://iyzm.net/openwrt/3197.html</id>
-        <link href="https://iyzm.net/openwrt/3197.html"/>
-        <updated>2023-10-29T17:44:53.787Z</updated>
-        <content type="html"><![CDATA[<div class="post-image">
-<a href="https://iyzm.net/openwrt/3197.html">
-<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-433.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
-</a>
-</div> <header class="entry-header">
-<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3197.html" rel="bookmark">OpenWrt DNS 优化分流设置 DNS 原理解析</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2023-03-18T01:13:18+08:00" itemprop="dateModified">2023年3月18日</time><time class="entry-date published" datetime="2023-03-10T14:32:27+08:00" itemprop="datePublished">2023年3月10日</time></span> </div>
-</header>
-<div class="entry-summary" itemprop="text">
-<p>DNS 全称 “Domain Name System”，是互联网的一项基础服务，将域名和 IP 地址相互映射，使得人们可以更方便的访问互联网，但有时需要一些自定 … <a title="OpenWrt DNS 优化分流设置 DNS 原理解析" class="read-more" href="https://iyzm.net/openwrt/3197.html" aria-label="更多 OpenWrt DNS 优化分流设置 DNS 原理解析"> </a></p>
 </div>]]></content>
     </entry>
 </feed>
