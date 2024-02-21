@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-02-21T05:44:59.714Z</updated>
+    <updated>2024-02-21T17:44:29.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sora视频生成与LWM大世界模型概述]]></title>
+        <id>https://www.eula.club/blogs/Sora%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8ELWM%E5%A4%A7%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.html</id>
+        <link href="https://www.eula.club/blogs/Sora%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8ELWM%E5%A4%A7%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.html"/>
+        <updated>2024-02-21T17:43:54.834Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Sora%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E4%B8%8ELWM%E5%A4%A7%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E6%A6%82%E8%BF%B0.html" data-v-3fa1a62e="" class="">Sora视频生成与LWM大世界模型概述</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/16/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Sora视频生成</span><span class="tag-item" data-v-1e62957f="">LWM大世界模型</span></i></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于ComfyUI实现AI绘画工作流]]></title>
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EComfyUI%E5%AE%9E%E7%8E%B0AI%E7%BB%98%E7%94%BB%E5%B7%A5%E4%BD%9C%E6%B5%81.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2023-07-09T17:44:42.026Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">LangChain及LangFlow使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">LangFlow</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slrum集群调度系统与Apptainer容器技术]]></title>
-        <id>https://www.eula.club/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html</id>
-        <link href="https://www.eula.club/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html"/>
-        <updated>2023-10-06T17:44:54.978Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Slrum%E9%9B%86%E7%BE%A4%E8%B0%83%E5%BA%A6%E7%B3%BB%E7%BB%9F%E4%B8%8EApptainer%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF.html" data-v-3fa1a62e="" class="">Slrum集群调度系统与Apptainer容器技术</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">6/24/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Slrum</span><span class="tag-item" data-v-1e62957f="">集群调度系统</span><span class="tag-item" data-v-1e62957f="">Apptainer</span><span class="tag-item" data-v-1e62957f="">Singularity</span><span class="tag-item" data-v-1e62957f="">容器技术</span><span class="tag-item" data-v-1e62957f="">高性能计算</span></i></div>]]></content>
     </entry>
 </feed>
