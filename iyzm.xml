@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2024-03-10T05:44:38.381Z</updated>
+    <updated>2024-03-10T17:44:44.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -67,7 +67,7 @@
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3727.html" rel="bookmark">Ubuntu 22.04 安装 Nvidia 显卡驱动教程</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-02-07T10:22:59+08:00" itemprop="dateModified">2024年2月7日</time><time class="entry-date published" datetime="2024-02-06T16:36:43+08:00" itemprop="datePublished">2024年2月6日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-03-10T17:08:16+08:00" itemprop="dateModified">2024年3月10日</time><time class="entry-date published" datetime="2024-02-06T16:36:43+08:00" itemprop="datePublished">2024年2月6日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>Linux 系统如果安装了独立显卡，则必须要额外安装显卡驱动才能正常使用，与最常见的 Windows 系统不同，Linux 系统安装显卡驱动往往更为繁琐，且容易 … <a title="Ubuntu 22.04 安装 Nvidia 显卡驱动教程" class="read-more" href="https://iyzm.net/linux/3727.html" aria-label="更多 Ubuntu 22.04 安装 Nvidia 显卡驱动教程"> </a></p>
