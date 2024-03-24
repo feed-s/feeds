@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-03-24T05:44:46.764Z</updated>
+    <updated>2024-03-24T17:44:38.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WordPress在特定页面加载JavaScript/CSS]]></title>
+        <id>https://www.shephe.com/2024/03/wordpress%e6%8c%87%e5%ae%9a%e9%a1%b5%e9%9d%a2%e5%8a%a0%e8%bd%bd%e8%84%9a%e6%9c%ac/</id>
+        <link href="https://www.shephe.com/2024/03/wordpress%e6%8c%87%e5%ae%9a%e9%a1%b5%e9%9d%a2%e5%8a%a0%e8%bd%bd%e8%84%9a%e6%9c%ac/"/>
+        <updated>2024-03-24T17:44:34.102Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/03/wordpress%e6%8c%87%e5%ae%9a%e9%a1%b5%e9%9d%a2%e5%8a%a0%e8%bd%bd%e8%84%9a%e6%9c%ac/" rel="bookmark"><span class="screen-reader-text">WordPress在特定页面加载JavaScript/CSS</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2020/11/wordpress.jpg);"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-03-24T16:50:48+08:00">
+				03/24/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress在特定页面加载JavaScript/CSS</span></h2>						<p>这几天在折腾WordPress，每每看到我的主题加载的几十个CSS和JS就头疼（尽管主题后台有一个开关能把这些代码集成在一个文件里边去，自己手动合并行…不过我一直没做，且并不能实质上地减少代码的行数），发现有一些脚本文件在比如WordPre…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/03/wordpress%e6%8c%87%e5%ae%9a%e9%a1%b5%e9%9d%a2%e5%8a%a0%e8%bd%bd%e8%84%9a%e6%9c%ac/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[纯代码修改WordPress后台登录地址]]></title>
         <id>https://www.shephe.com/2024/03/no-plugin-change-wordpress-wp-login/</id>
@@ -15,7 +41,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -41,7 +67,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/02/20240118-内江一日-圣泉寺-张大千博物馆等-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/02/20240118-内江一日-圣泉寺-张大千博物馆等-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2024/02/20240118-内江一日-圣泉寺-张大千博物馆等-1920x1281.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -67,7 +93,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1920x1281.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -93,7 +119,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2019/06/in-2019.06.16-华严寺-雨中赏荷-7.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2019/06/in-2019.06.16-华严寺-雨中赏荷-7.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -119,7 +145,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1281x1920.jpg 1281w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1025x1536.jpg 1025w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1366x2048.jpg 1366w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-scaled.jpg 1708w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1281x1920.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -145,7 +171,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/12/2022.11.24-果果出生了-13.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2022.11.24-果果出生了-13-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2023/12/2022.11.24-果果出生了-13.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -171,7 +197,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23-1536x1024.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2023/10/2023.10.14-大圆祥博物馆-23.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -197,7 +223,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2023/10/DSC06155-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image" style="background-image: url(https://www.shephe.com/wp-content/uploads/2023/10/DSC06155-1920x1281.jpg);"></div>					</div>
 				</div>
 			</div>
 		
@@ -208,32 +234,6 @@
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>初试婚礼拍摄</span></h2>						<p>您各位好啊…不晓得各位中秋国庆都去哪里玩儿了，过得是否愉快？我啊哪里都没去，也去不了，趁着老婆有假期便一起回了躺她老家，顺道参加她表弟的婚礼。他们二人相爱多年，如今终于结婚便按照家乡习俗一切从简仅弄了个接亲的流程，没有搞婚庆仪式，知我有相机…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/10/wedding-photo-1/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我们距离法治社会还很远]]></title>
-        <id>https://www.shephe.com/2023/09/%e6%b3%95%e6%b2%bb%e7%a4%be%e4%bc%9a/</id>
-        <link href="https://www.shephe.com/2023/09/%e6%b3%95%e6%b2%bb%e7%a4%be%e4%bc%9a/"/>
-        <updated>2023-09-08T17:44:44.840Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/09/%e6%b3%95%e6%b2%bb%e7%a4%be%e4%bc%9a/" rel="bookmark"><span class="screen-reader-text">我们距离法治社会还很远</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/07/dji-mavic-air.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2023-09-08T14:14:03+08:00">
-				09/08/2023			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>我们距离法治社会还很远</span></h2>						<p>前几接到一个自称街道派出所的电话，张口说你是某某某对吧？你有一台无人机是吧？我是XXX街道派出所的，现在登记一下你的无人机设备信息……我一听这明显是已经拿到了我私人的全部信息，于是便不多问，给了</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">杂七杂八</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/09/%e6%b3%95%e6%b2%bb%e7%a4%be%e4%bc%9a/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
