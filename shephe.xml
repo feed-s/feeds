@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-04T05:44:50.407Z</updated>
+    <updated>2024-04-04T17:44:30.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[给博客改名？征求下各位大大的意见]]></title>
+        <id>https://www.shephe.com/2024/04/rename-this-site/</id>
+        <link href="https://www.shephe.com/2024/04/rename-this-site/"/>
+        <updated>2024-04-04T17:44:26.825Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/04/rename-this-site/" rel="bookmark"><span class="screen-reader-text">给博客改名？征求下各位大大的意见</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/折腾.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-04T19:50:47+08:00">
+				04/04/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>给博客改名？征求下各位大大的意见</span></h2>						<p>最近在折腾本WordPress小站，在AI的帮助下已经陆陆续续实现了</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/uncategorized/" rel="category tag">随便聊聊</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/04/rename-this-site/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[配置Nginx fastcgi_cache缓存为网站提速]]></title>
         <id>https://www.shephe.com/2024/04/wordpress-nginx-fastcgi-cache/</id>
@@ -208,32 +234,6 @@
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>重庆华岩寺随拍</span></h2>						<p>本文分享几幅前次去华岩寺的随拍，文中大部分照片是23年11月5号陪岳母及家人一起闲逛所拍。重庆城区寺庙众多，但我认为华岩寺是独一份的，不管是规模、建筑、交通都挺好的，你甚至可以推着童车去把它当公园逛，别的地方要么太小要么爬坡上坎要么交通不便…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/01/%e5%8d%8e%e5%b2%a9%e5%af%ba%e9%9a%8f%e6%8b%8d/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一次约小姐姐拍照（互免约拍）]]></title>
-        <id>https://www.shephe.com/2023/12/%e4%ba%ba%e5%83%8f%e7%ba%a6%e6%8b%8d/</id>
-        <link href="https://www.shephe.com/2023/12/%e4%ba%ba%e5%83%8f%e7%ba%a6%e6%8b%8d/"/>
-        <updated>2023-12-07T17:44:27.540Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2023/12/%e4%ba%ba%e5%83%8f%e7%ba%a6%e6%8b%8d/" rel="bookmark"><span class="screen-reader-text">第一次约小姐姐拍照（互免约拍）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1281x1920.jpg 1281w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1025x1536.jpg 1025w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-1366x2048.jpg 1366w, https://staticfile.shephe.com/wp-content/uploads/2023/12/2023.12.02-张大小姐-园博园-2-scaled.jpg 1708w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2023-12-07T20:45:37+08:00">
-				12/07/2023			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>第一次约小姐姐拍照（互免约拍）</span></h2>						<p>恩，如题。自前次帮忙拍婚礼以后，发现人像拍摄也挺有意思，于是觉得自己也可以尝试一下人像摄影……无奈家里老婆大人并不配合，于是便有了互免约拍的想法。我倒是没有主动去发帖寻找模特，仅是在抖音/小红书一些热门帖子下面留言，不久后就有三两个女生联系…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2023/12/%e4%ba%ba%e5%83%8f%e7%ba%a6%e6%8b%8d/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
