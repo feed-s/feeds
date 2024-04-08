@@ -2,9 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-08T05:44:45.966Z</updated>
+    <updated>2024-04-08T17:44:38.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[巧用分词搜索插件增强WordPress搜索性能]]></title>
+        <id>https://www.shephe.com/2024/04/wordpress-search-enhanced/</id>
+        <link href="https://www.shephe.com/2024/04/wordpress-search-enhanced/"/>
+        <updated>2024-04-08T17:44:34.812Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/04/wordpress-search-enhanced/" rel="bookmark" target="_blank"><span class="screen-reader-text">巧用分词搜索插件增强WordPress搜索性能</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/searching.jpg 1500w, https://staticfile.shephe.com/wp-content/uploads/2024/04/searching-900x675.jpg 900w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-08T18:06:00+08:00">
+				04/08/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>巧用分词搜索插件增强WordPress搜索性能</span></h2>						<p>一直以来WordPress都有个问题，它的搜索功能采用了完全匹配的模式，很多时候都无法得到自己想要的结果，做得跟屎一样！举个例子，这里前不久发布了一篇文章说想给博客改名，搜索“博客改名”能精确命中该文，但如果没有安装分词插件增强WordPr…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/shares/" rel="category tag">免费资源</a> <a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/04/wordpress-search-enhanced/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[摄影师SamAlive人像摄影作品赏析]]></title>
         <id>https://www.shephe.com/2024/04/samalive-portrait-photography/</id>
@@ -208,32 +234,6 @@
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>内江一日，感受甜城的冬日暖阳</span></h2>						<p>开工第一天日常摸鱼中，本来想折腾折腾主题，改下首页样式、调整影集排版、再弄个各位都在用的Memos，然后精简CSS/JS……可看了一圈发现自己能力和精力实在有限，折腾不动，遂作罢！ 不如老老实实更新内容，把前阵子去内江瞎拍的照片传上来，滥竽…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a> <a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/02/%e5%86%85%e6%b1%9f%e4%b8%80%e6%97%a5/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[十八梯渝潮坊《渝州故事》]]></title>
-        <id>https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/</id>
-        <link href="https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/"/>
-        <updated>2024-01-29T17:44:35.322Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/" rel="bookmark" target="_blank"><span class="screen-reader-text">十八梯渝潮坊《渝州故事》</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1920x1281.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/01/2023.11.14-十八梯-渝丹凤银楼-1536x1025.jpg 1536w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-01-29T15:47:30+08:00">
-				01/29/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>十八梯渝潮坊《渝州故事》</span></h2>						<p>和上篇日志一样，本文所涉《渝州故事》游记也是十一月份瞎逛所拍，表演场馆“渝潮坊”在渝中区新晋网红街区十八梯，此地非常适合Citywalk，拍拍照吃点儿小吃都挺好。《渝州故事》表演时长约一个钟头，主要由川渝非遗民俗构成，其重头戏为川剧变脸、蹬…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/daily/" rel="category tag">我的世界</a> <a href="https://www.shephe.com/photography/" rel="category tag">爱上摄影</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/01/%e6%b8%9d%e5%b7%9e%e6%95%85%e4%ba%8b/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
