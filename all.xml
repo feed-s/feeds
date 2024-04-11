@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-10T17:44:48.986Z</updated>
+    <updated>2024-04-11T05:45:00.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7469,7 +7469,7 @@ on
         <div class="block-snippet" itemprop="about">Madi Paidi Bangkok
 清明节一个人闲来无事，就打算出去走走，看了看机票价格，发现国泰香港飞曼谷第二天只要九百元，果断订票...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 11 小时前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 23 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8005,6 +8005,32 @@ on
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress有哪些缩略图，如何禁用并删除（2024） (牧羊人)]]></title>
+        <id>https://www.shephe.com/2024/04/disable-wordpress-generated-and-batch-deletion-images/</id>
+        <link href="https://www.shephe.com/2024/04/disable-wordpress-generated-and-batch-deletion-images/"/>
+        <updated>2024-04-11T05:44:56.816Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/04/disable-wordpress-generated-and-batch-deletion-images/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress有哪些缩略图，如何禁用并删除（2024）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/03/2015021101.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-11T07:58:54+08:00">
+				04/11/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress有哪些缩略图，如何禁用并删除（2024）</span></h2>						<p>在测试本站EXIF显示的时候，发现uploads目录中单幅图片的缩略图竟然多达9个，这能忍？？然后我开始思考并查阅：WordPress为什么会生成这么多缩略图，都有哪些不同尺寸的缩略图，以及有没有什么办法批量删除掉这些缩略图呢？带着这些疑问…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
+					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/04/disable-wordpress-generated-and-batch-deletion-images/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[摄影师SamAlive风光摄影作品赏析 (牧羊人)]]></title>
         <id>https://www.shephe.com/2024/04/samalive-landscape-photography/</id>
         <link href="https://www.shephe.com/2024/04/samalive-landscape-photography/"/>
@@ -8207,32 +8233,6 @@ on
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress在特定页面加载JavaScript/CSS</span></h2>						<p>这几天在折腾WordPress，每每看到我的主题加载的几十个CSS和JS就头疼（尽管主题后台有一个开关能把这些代码集成在一个文件里边去，自己手动合并行…不过我一直没做，且并不能实质上地减少代码的行数），发现有一些脚本文件在比如WordPre…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
 					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/03/wordpress%e6%8c%87%e5%ae%9a%e9%a1%b5%e9%9d%a2%e5%8a%a0%e8%bd%bd%e8%84%9a%e6%9c%ac/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纯代码修改WordPress后台登录地址 (牧羊人)]]></title>
-        <id>https://www.shephe.com/2024/03/no-plugin-change-wordpress-wp-login/</id>
-        <link href="https://www.shephe.com/2024/03/no-plugin-change-wordpress-wp-login/"/>
-        <updated>2024-03-23T17:44:23.566Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/2024/03/no-plugin-change-wordpress-wp-login/" rel="bookmark" target="_blank"><span class="screen-reader-text">纯代码修改WordPress后台登录地址</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-plugin-1536x1074.jpg 1536w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-03-23T22:31:38+08:00">
-				03/23/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>纯代码修改WordPress后台登录地址</span></h2>						<p>熟悉这里的朋友都知道，本站遭受木马感染已经很长一段时间了，没有两年也有一年半了……期间我想了各种各样的办法，包括但不限于：重装服务器系统、重装WordPress、更新控制面板、装防火墙、Waf、防篡改等等，但木马始终没有去干净，本博后台总是…</p>						<div class="grve-post-category grve-small-text"><a href="https://www.shephe.com/website/" rel="category tag">网站建设</a></div>
-					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/2024/03/no-plugin-change-wordpress-wp-login/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
