@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-04-12T05:44:35.245Z</updated>
+    <updated>2024-04-12T17:45:45.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[胡志明市 City Walk]]></title>
+        <id>https://fatesinger.com/103085</id>
+        <link href="https://fatesinger.com/103085"/>
+        <updated>2024-04-12T17:44:25.379Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103085" aria-label="胡志明市 City Walk" title="胡志明市 City Walk">胡志明市 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">胡志明市
+先总结，胡志明市没啥好玩的，酒店洼地，人文也没什么可看的，所谓法式风情也就那么点老建筑，但都大同小异，连壮观...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 7 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Madi Paidi Bangkok]]></title>
         <id>https://fatesinger.com/103089</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">Madi Paidi Bangkok
 清明节一个人闲来无事，就打算出去走走，看了看机票价格，发现国泰香港飞曼谷第二天只要九百元，果断订票...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 1 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 2 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -114,20 +128,6 @@
 手上镜头有好几个镜头而且都是定焦，拧来拧去的不是特别方便，于是卖掉了X100V 购入X-T5，单机身没买到，买了...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-09T14:04:33+08:00">发布于 3月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海艾迪逊]]></title>
-        <id>https://fatesinger.com/102698</id>
-        <link href="https://fatesinger.com/102698"/>
-        <updated>2024-03-03T05:44:30.866Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102698" aria-label="上海艾迪逊" title="上海艾迪逊">上海艾迪逊</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">上海艾迪逊
-这已经是一年内第二次入住了，像上海这种酒店遍地的城市，我一般不会选择同一家入住第二次，当时太太过生日想要看...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-08T16:34:15+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
 </feed>
