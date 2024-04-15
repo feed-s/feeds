@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-15T05:44:49.769Z</updated>
+    <updated>2024-04-15T17:44:56.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[配置 Memcached 内存缓存为 WordPress 提速]]></title>
+        <id>https://www.shephe.com/website/wordpress-memcached/</id>
+        <link href="https://www.shephe.com/website/wordpress-memcached/"/>
+        <updated>2024-04-15T17:44:52.406Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-memcached/" rel="bookmark" target="_blank"><span class="screen-reader-text">配置 Memcached 内存缓存为 WordPress 提速</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/memcached-vs-redis.webp" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-15T08:31:47+08:00">
+				04/15/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>配置 Memcached 内存缓存为 WordPress 提速</span></h2>						<p>利用Memcached内存缓存为WordPress提速这可以算是广大WordPress站长的基本操作，大多数缓存加速插件也会调用这一模块，但使用情况到底如何，很多小白博主可能并不知晓。就拿我来说，我虽数年前就在系统中安装了Memcached…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-memcached/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[什么叫景深合成？Photoshop 中如何操作]]></title>
         <id>https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>配置 Nginx fastcgi_cache 缓存为网站提速</span></h2>						<p>最近一段时间我有空余时间便在折腾自己的WordPress，陆陆续续优化了页面显示和一些小的功能，偶然发现系统的Memcached并没有真正启用，且发现我单篇文章的数据库查询数都在100次左右，网站整体访问速度并不算快，于是着手对WordPr…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-nginx-fastcgi-cache/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给 WordPress 文章添加自动目录（免插件）]]></title>
-        <id>https://www.shephe.com/tutorial/no-plugin-wordpress-contents-table/</id>
-        <link href="https://www.shephe.com/tutorial/no-plugin-wordpress-contents-table/"/>
-        <updated>2024-04-12T05:44:31.395Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/no-plugin-wordpress-contents-table/" rel="bookmark" target="_blank"><span class="screen-reader-text">给 WordPress 文章添加自动目录（免插件）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2021/02/impeka-elements-img-04.png 918w, https://staticfile.shephe.com/wp-content/uploads/2021/02/impeka-elements-img-04-600x405.png 600w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-03-28T12:28:28+08:00">
-				03/28/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>给 WordPress 文章添加自动目录（免插件）</span></h2>						<p>在写文章的时候咱为了结构更清晰，通常会添加h2-h6标签来展示段落标题，同时也提醒网络蜘蛛这些是内文小标题，是文章的重点。特别是当 WordPress文章较长时，有一个自动索引的目录能有效帮助访客快速了解内容结构，会大大提高读者的阅读体验。…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/no-plugin-wordpress-contents-table/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
