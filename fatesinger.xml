@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-04-16T05:44:28.922Z</updated>
+    <updated>2024-04-16T17:44:50.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[丽江金茂凯悦甄选]]></title>
+        <id>https://fatesinger.com/103058</id>
+        <link href="https://fatesinger.com/103058"/>
+        <updated>2024-04-16T17:44:30.532Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103058" aria-label="丽江金茂凯悦甄选" title="丽江金茂凯悦甄选">丽江金茂凯悦甄选</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">玉龙雪山
+前阵子去了一趟丽江，本来想坐下玉龙雪山大索道，结果双双身体不适，只能放弃，略可惜。为了能在屋里就看日照金山，...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-16T14:50:11+08:00">发布于 10 小时前</time>
+            </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新加坡 City Walk]]></title>
         <id>https://fatesinger.com/103056</id>
@@ -16,7 +30,7 @@
         <div class="block-snippet" itemprop="about">新加坡
 前阵子去了一躺新加坡，堪称最怨种出行。核心原因是我们出行正赶上 Taylor Swift 演唱会前两天，酒店不但天价，而且房...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 18 小时前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 1 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -30,7 +44,7 @@
         <div class="block-snippet" itemprop="about">胡志明市
 先总结，胡志明市没啥好玩的，酒店洼地，人文也没什么可看的，所谓法式风情也就那么点老建筑，但都大同小异，连壮观...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 3 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 4 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -44,7 +58,7 @@
         <div class="block-snippet" itemprop="about">Madi Paidi Bangkok
 清明节一个人闲来无事，就打算出去走走，看了看机票价格，发现国泰香港飞曼谷第二天只要九百元，果断订票...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 5 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 6 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -114,20 +128,6 @@
 因为巴厘岛的交通太烂了，根据自己的行程酒店的安排就非常重要，巴厘岛安达仕位于萨努尔，是开发较早的地区。相比...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-10T14:25:51+08:00">发布于 3月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fujifilm X-S20 短期使用体验]]></title>
-        <id>https://fatesinger.com/102221</id>
-        <link href="https://fatesinger.com/102221"/>
-        <updated>2024-03-03T05:44:30.863Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102221" aria-label="Fujifilm X-S20 短期使用体验" title="Fujifilm X-S20 短期使用体验">Fujifilm X-S20 短期使用体验</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">Fujifilm X-S20
-富士最近已经被炒的不行，各种缺货，官方代理商都需要加价购买，非官代奸商更是加价到离谱，考虑到体积第一台...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-09T14:19:50+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
 </feed>
