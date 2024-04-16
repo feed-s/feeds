@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-15T17:44:56.357Z</updated>
+    <updated>2024-04-16T05:44:28.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7469,7 +7469,7 @@ on
         <div class="block-snippet" itemprop="about">新加坡
 前阵子去了一躺新加坡，堪称最怨种出行。核心原因是我们出行正赶上 Taylor Swift 演唱会前两天，酒店不但天价，而且房...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 6 小时前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 18 小时前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -8005,6 +8005,31 @@ on
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress 文章中英文数字间自动添加空格 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/</id>
+        <link href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/"/>
+        <updated>2024-04-16T05:44:25.025Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 文章中英文数字间自动添加空格</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-1920x1440.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-900x675.webp 900w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-16T11:56:36+08:00">
+				04/16/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 文章中英文数字间自动添加空格</span></h2>						<p>最近一段时间一直断断续续在折腾这个小站，这里感谢一众博友给提的建议和帮助！前几天 The Type的排版样式，尝试抄过但不得精髓，这里先就不展开了。 至于咱网页中的中文字和英文、数字之间是否加空格的问题，我在这里发起一项投票看看各位博友的意…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[配置 Memcached 内存缓存为 WordPress 提速 (牧羊人)]]></title>
         <id>https://www.shephe.com/website/wordpress-memcached/</id>
         <link href="https://www.shephe.com/website/wordpress-memcached/"/>
@@ -8199,31 +8224,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>给博客改名？征求下各位大大的意见</span></h2>						<p>最近在折腾本WordPress小站，在AI的帮助下已经陆陆续续实现了</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/rename-this-site/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配置 Nginx fastcgi_cache 缓存为网站提速 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/wordpress-nginx-fastcgi-cache/</id>
-        <link href="https://www.shephe.com/website/wordpress-nginx-fastcgi-cache/"/>
-        <updated>2024-04-12T05:44:31.394Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-nginx-fastcgi-cache/" rel="bookmark" target="_blank"><span class="screen-reader-text">配置 Nginx fastcgi_cache 缓存为网站提速</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-1536x1024.jpg 1536w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-01T20:10:19+08:00">
-				04/01/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>配置 Nginx fastcgi_cache 缓存为网站提速</span></h2>						<p>最近一段时间我有空余时间便在折腾自己的WordPress，陆陆续续优化了页面显示和一些小的功能，偶然发现系统的Memcached并没有真正启用，且发现我单篇文章的数据库查询数都在100次左右，网站整体访问速度并不算快，于是着手对WordPr…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-nginx-fastcgi-cache/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
