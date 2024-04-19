@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-19T05:44:50.959Z</updated>
+    <updated>2024-04-19T17:44:30.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[利用 Docker Compose 安装 Awesome TTRSS]]></title>
+        <id>https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/</id>
+        <link href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/"/>
+        <updated>2024-04-19T17:44:27.005Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/" rel="bookmark" target="_blank"><span class="screen-reader-text">利用 Docker Compose 安装 Awesome TTRSS</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2016/02/rss-feed-subscribe.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-18T20:40:36+08:00">
+				04/18/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>利用 Docker Compose 安装 Awesome TTRSS</span></h2>						<p>Tiny Tiny RSS是一款基于 PHP 的免费开源 RSS 聚合阅读器，但官方似乎已经长期没有更新，于是有人热心网友封装了这个Awesome TTRSS，一个“一站式容器化”的TTRSS解决方案，通过提供简易的部署方式以及一些额外插件…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用 WinSCP 管理七牛云对象存储的文件]]></title>
         <id>https://www.shephe.com/tutorial/winscp-qiniu-kodo/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>巧用分词搜索插件增强 WordPress 搜索性能</span></h2>						<p>一直以来 WordPress 都有个问题，它的搜索功能采用了完全匹配的模式，很多时候都无法得到自己想要的结果，做得跟屎一样！举个例子，这里前不久发布了一篇文章说想给博客改名，搜索“博客改名”能精确命中该文，但如果没有安装分词插件增强 Wor…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-search-enhanced/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[摄影师 SamAlive 人像摄影作品赏析]]></title>
-        <id>https://www.shephe.com/photography/samalive-portrait-photography/</id>
-        <link href="https://www.shephe.com/photography/samalive-portrait-photography/"/>
-        <updated>2024-04-12T05:44:31.390Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/samalive-portrait-photography/" rel="bookmark" target="_blank"><span class="screen-reader-text">摄影师 SamAlive 人像摄影作品赏析</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/SamAlive-portrait-photography_7.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-06T17:30:11+08:00">
-				04/06/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>摄影师 SamAlive 人像摄影作品赏析</span></h2>						<p>SamAlive是一名台湾青年摄影师，以其极具特色的调色而闻名，他的片子虽说都是数码相机所拍，但总有一股油油润润的胶片质感，画面色彩丰富，让人百看不厌。我本人当然也想拍摄这样的片子，奈何实力欠佳，所以只能多看多学喽。Sam的照片以人像摄影出…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/samalive-portrait-photography/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
