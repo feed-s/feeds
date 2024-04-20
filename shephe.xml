@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-20T05:44:39.194Z</updated>
+    <updated>2024-04-20T17:44:57.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[围观第 83 届中国教育装备展&重庆安博会]]></title>
+        <id>https://www.shephe.com/post/%e6%95%99%e8%82%b2%e8%a3%85%e5%a4%87%e5%b1%95%e5%92%8c%e5%ae%89%e5%8d%9a%e4%bc%9a/</id>
+        <link href="https://www.shephe.com/post/%e6%95%99%e8%82%b2%e8%a3%85%e5%a4%87%e5%b1%95%e5%92%8c%e5%ae%89%e5%8d%9a%e4%bc%9a/"/>
+        <updated>2024-04-20T17:44:53.885Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e6%95%99%e8%82%b2%e8%a3%85%e5%a4%87%e5%b1%95%e5%92%8c%e5%ae%89%e5%8d%9a%e4%bc%9a/" rel="bookmark" target="_blank"><span class="screen-reader-text">围观第 83 届中国教育装备展&amp;重庆安博会</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/重庆安博会6-1920x1280.webp" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-20T15:32:34+08:00">
+				04/20/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>围观第 83 届中国教育装备展&amp;重庆安博会</span></h2>						<p>尽管展览一般，但咱记录还得认真写是吧，在博客上提到教育装备展还是在七八年前，</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e6%95%99%e8%82%b2%e8%a3%85%e5%a4%87%e5%b1%95%e5%92%8c%e5%ae%89%e5%8d%9a%e4%bc%9a/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用 Docker Compose 安装 Awesome TTRSS]]></title>
         <id>https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>摄影师 SamAlive 风光摄影作品赏析</span></h2>						<p>在上一篇文章中，我们欣赏了</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/samalive-landscape-photography/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巧用分词搜索插件增强 WordPress 搜索性能]]></title>
-        <id>https://www.shephe.com/website/wordpress-search-enhanced/</id>
-        <link href="https://www.shephe.com/website/wordpress-search-enhanced/"/>
-        <updated>2024-04-12T05:44:31.389Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-search-enhanced/" rel="bookmark" target="_blank"><span class="screen-reader-text">巧用分词搜索插件增强 WordPress 搜索性能</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/searching.jpg 1500w, https://staticfile.shephe.com/wp-content/uploads/2024/04/searching-900x675.jpg 900w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-08T18:06:00+08:00">
-				04/08/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>巧用分词搜索插件增强 WordPress 搜索性能</span></h2>						<p>一直以来 WordPress 都有个问题，它的搜索功能采用了完全匹配的模式，很多时候都无法得到自己想要的结果，做得跟屎一样！举个例子，这里前不久发布了一篇文章说想给博客改名，搜索“博客改名”能精确命中该文，但如果没有安装分词插件增强 Wor…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-search-enhanced/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
