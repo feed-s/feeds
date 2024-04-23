@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szclsya.me/zh-cn/posts/</id>
     <title>Leo's Field</title>
-    <updated>2024-04-23T05:44:43.701Z</updated>
+    <updated>2024-04-23T17:45:02.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ZFS 入门指北：维护与灾难恢复]]></title>
+        <id>https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/</id>
+        <link href="https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/"/>
+        <updated>2024-04-23T17:44:47.096Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2024-04-23</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">linux</span><span style="margin-right: .4em">filesystem</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/">
+<h1 class="item-title">ZFS 入门指北：维护与灾难恢复</h1>
+<p class="item-description">如果运气不太好...</p>
+<div class="badge hide-on-narrowest"><span>linux</span><span>filesystem</span></div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZFS 入门指北：性能调优]]></title>
         <id>https://szclsya.me/zh-cn/posts/storage/zfs-tuning/</id>
@@ -138,21 +153,6 @@
 <h1 class="item-title">概览 Linux 音频系统</h1>
 <p class="item-description">论 Linux 是如何将音乐文件转换成空气的震动.</p>
 <div class="badge hide-on-narrowest"><span>linux</span><span>audio</span></div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZFS 入门指北: 基础篇]]></title>
-        <id>https://szclsya.me/zh-cn/posts/storage/zfs-intro/</id>
-        <link href="https://szclsya.me/zh-cn/posts/storage/zfs-intro/"/>
-        <updated>2023-02-25T22:11:26.531Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-<span class="item-preinfo">2020-02-09</span>
-<div class="hide-on-wide" style="display: inline"></div>
-</div>
-<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-intro/">
-<h1 class="item-title">ZFS 入门指北: 基础篇</h1>
-<p class="item-description">File system can be fun!</p>
-<div class="badge hide-on-narrowest"></div>
 </a>]]></content>
     </entry>
 </feed>

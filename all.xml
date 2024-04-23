@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-23T05:44:43.711Z</updated>
+    <updated>2024-04-23T17:45:02.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7459,6 +7459,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Voisin Organique (大发贱志)]]></title>
+        <id>https://fatesinger.com/103229</id>
+        <link href="https://fatesinger.com/103229"/>
+        <updated>2024-04-23T17:44:41.557Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103229" aria-label="Voisin Organique" title="Voisin Organique">Voisin Organique</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">Voisin Organique
+首先感谢发太带我见世面，过生日的时候也体验了一次fine dining。
+Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...</div>
+            <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-23T15:29:02+08:00">发布于 10 小时前</time>
+            </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[丽江金茂凯悦甄选 (大发贱志)]]></title>
         <id>https://fatesinger.com/103058</id>
         <link href="https://fatesinger.com/103058"/>
@@ -7469,7 +7484,7 @@ on
         <div class="block-snippet" itemprop="about">玉龙雪山
 前阵子去了一趟丽江，本来想坐下玉龙雪山大索道，结果双双身体不适，只能放弃，略可惜。为了能在屋里就看日照金山，...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-16T14:50:11+08:00">发布于 6 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-16T14:50:11+08:00">发布于 7 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7483,7 +7498,7 @@ on
         <div class="block-snippet" itemprop="about">新加坡
 前阵子去了一躺新加坡，堪称最怨种出行。核心原因是我们出行正赶上 Taylor Swift 演唱会前两天，酒店不但天价，而且房...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 7 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 8 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7497,7 +7512,7 @@ on
         <div class="block-snippet" itemprop="about">胡志明市
 先总结，胡志明市没啥好玩的，酒店洼地，人文也没什么可看的，所谓法式风情也就那么点老建筑，但都大同小异，连壮观...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 10 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 11 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7511,7 +7526,7 @@ on
         <div class="block-snippet" itemprop="about">Madi Paidi Bangkok
 清明节一个人闲来无事，就打算出去走走，看了看机票价格，发现国泰香港飞曼谷第二天只要九百元，果断订票...</div>
             <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 12 天前</time>
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 13 天前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7567,20 +7582,6 @@ on
 本次入住12 万积分兑换，日历房价在一万二左右，还是超值的。我本身对高端农家乐兴趣不大，...</div>
             <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-11T15:32:36+08:00">发布于 3月前</time>
-            </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andaz Bali (大发贱志)]]></title>
-        <id>https://fatesinger.com/102732</id>
-        <link href="https://fatesinger.com/102732"/>
-        <updated>2024-03-03T05:44:30.861Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102732" aria-label="Andaz Bali" title="Andaz Bali">Andaz Bali</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">Andaz Bali
-因为巴厘岛的交通太烂了，根据自己的行程酒店的安排就非常重要，巴厘岛安达仕位于萨努尔，是开发较早的地区。相比...</div>
-            <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a><span class="middotDivider"></span><time itemprop="datePublished" datetime="2024-01-10T14:25:51+08:00">发布于 3月前</time>
             </div>]]></content>
     </entry>
     <entry>
@@ -7666,6 +7667,21 @@ on
         <link href="https://dongfeng.space/blog/about-trans-rights-and-gender"/>
         <updated>2023-01-11T13:30:53.049Z</updated>
         <content type="html"><![CDATA[<a href="/blog/about-trans-rights-and-gender" class="summary-title-link">话题解构：跨性别者与性别刻板印象</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZFS 入门指北：维护与灾难恢复 (Leo's Field)]]></title>
+        <id>https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/</id>
+        <link href="https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/"/>
+        <updated>2024-04-23T17:44:47.096Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2024-04-23</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">linux</span><span style="margin-right: .4em">filesystem</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/">
+<h1 class="item-title">ZFS 入门指北：维护与灾难恢复</h1>
+<p class="item-description">如果运气不太好...</p>
+<div class="badge hide-on-narrowest"><span>linux</span><span>filesystem</span></div>
+</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZFS 入门指北：性能调优 (Leo's Field)]]></title>
@@ -7803,21 +7819,6 @@ on
 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZFS 入门指北: 基础篇 (Leo's Field)]]></title>
-        <id>https://szclsya.me/zh-cn/posts/storage/zfs-intro/</id>
-        <link href="https://szclsya.me/zh-cn/posts/storage/zfs-intro/"/>
-        <updated>2023-02-25T22:11:26.531Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-<span class="item-preinfo">2020-02-09</span>
-<div class="hide-on-wide" style="display: inline"></div>
-</div>
-<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/storage/zfs-intro/">
-<h1 class="item-title">ZFS 入门指北: 基础篇</h1>
-<p class="item-description">File system can be fun!</p>
-<div class="badge hide-on-narrowest"></div>
-</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenWrt-Life 从入门到精通开源路由器日常固件 (爱一枝梅)]]></title>
         <id>https://iyzm.net/openwrt/47.html</id>
         <link href="https://iyzm.net/openwrt/47.html"/>
@@ -7896,7 +7897,7 @@ on
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-03-09T12:22:57+08:00" itemprop="dateModified">2024年3月9日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-04-23T20:19:23+08:00" itemprop="dateModified">2024年4月23日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>外国的民众通过各种新闻和道听途说的信息来了解中国，由于中共强大的宣传部门主导了几乎所有的对外新闻，于是让外界的民众以为现在的中国已经是一个现代化的法制国家，和自 … <a title="神奇的国家之中国特色初步解析" class="read-more" href="https://iyzm.net/life/3653.html" aria-label="更多 神奇的国家之中国特色初步解析"> </a></p>
@@ -8003,6 +8004,31 @@ on
 <div class="entry-summary" itemprop="text">
 <p>Motrix 是一款全功能下载工具软件，界面简洁易用，支持下载 HTTP(s)、FTP、BT、磁力链等资源，下载各类文件稳定可靠，速度优秀，非常适合作为一款日常 … <a title="Windows 平台优秀的全功能下载工具 Motrix" class="read-more" href="https://iyzm.net/windows/3237.html" aria-label="更多 Windows 平台优秀的全功能下载工具 Motrix"> </a></p>
 </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好用免费的文件同步软件：FreeFileSync (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/freefilesync/</id>
+        <link href="https://www.shephe.com/resources/freefilesync/"/>
+        <updated>2024-04-23T17:44:58.444Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/freefilesync/" rel="bookmark" target="_blank"><span class="screen-reader-text">好用免费的文件同步软件：FreeFileSync</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://staticfile.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-23T07:43:47+08:00">
+				04/23/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>好用免费的文件同步软件：FreeFileSync</span></h2>						<p>文件同步工具千千万，用着趁手的才是爱，今儿给各位推荐一款完全免费的文件夹比较&amp;同步软件：FreeFileSync，它界面简洁，只需简单的设置就可以实现文件夹的比较和同步工作。FreeFileSync 可以帮你轻松将不同路径或不同设备…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/freefilesync/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一岁多小孩子脾气暴躁怎么办？ (牧羊人)]]></title>
@@ -8199,31 +8225,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>让 WordPress 评论框显示在评论内容之前</span></h2>						<p>本次功能完全由ChatGPT实现，因此发布此文也是近期我对人工智能使用的一个心得体会…让WordPress评论框显示在内容之前，ha？起因是有一博友说评论框在评论最后感觉不太合适，体验不佳。想想确实也是，当访客围观一篇旧文想要发表一点见解时…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/display-wordpress-comment-box-before-comment-content/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 有哪些缩略图，如何禁用并删除（2024） (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/</id>
-        <link href="https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/"/>
-        <updated>2024-04-12T05:44:31.386Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 有哪些缩略图，如何禁用并删除（2024）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/03/2015021101.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-11T07:58:54+08:00">
-				04/11/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 有哪些缩略图，如何禁用并删除（2024）</span></h2>						<p>在测试本站EXIF显示的时候，发现uploads目录中单幅图片的缩略图竟然多达9个，这能忍？？然后我开始思考并查阅：WordPress为什么会生成这么多缩略图，都有哪些不同尺寸的缩略图，以及有没有什么办法批量删除掉这些缩略图呢？带着这些疑问…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
