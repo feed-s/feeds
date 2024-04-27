@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-27T05:44:36.440Z</updated>
+    <updated>2024-04-27T17:47:54.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7021,6 +7021,13 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GaLore及BAdam实现低显存全量微调 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/GaLore%E5%8F%8ABAdam%E5%AE%9E%E7%8E%B0%E4%BD%8E%E6%98%BE%E5%AD%98%E5%85%A8%E9%87%8F%E5%BE%AE%E8%B0%83.html</id>
+        <link href="https://www.eula.club/blogs/GaLore%E5%8F%8ABAdam%E5%AE%9E%E7%8E%B0%E4%BD%8E%E6%98%BE%E5%AD%98%E5%85%A8%E9%87%8F%E5%BE%AE%E8%B0%83.html"/>
+        <updated>2024-04-27T17:44:05.287Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GaLore%E5%8F%8ABAdam%E5%AE%9E%E7%8E%B0%E4%BD%8E%E6%98%BE%E5%AD%98%E5%85%A8%E9%87%8F%E5%BE%AE%E8%B0%83.html" data-v-3fa1a62e="" class="">GaLore及BAdam实现低显存全量微调</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/27/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GaLore</span><span class="tag-item" data-v-1e62957f="">BAdam</span><span class="tag-item" data-v-1e62957f="">8-bit Adam Optimizer</span><span class="tag-item" data-v-1e62957f="">降低显存</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Qwen-VL多模态大模型的部署与微调 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/Qwen-VL%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E5%BE%AE%E8%B0%83.html</id>
         <link href="https://www.eula.club/blogs/Qwen-VL%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E5%BE%AE%E8%B0%83.html"/>
@@ -7082,13 +7089,6 @@ on
         <link href="https://www.eula.club/blogs/ChatGLM%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83.html"/>
         <updated>2024-04-08T17:44:10.930Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGLM%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83.html" data-v-3fa1a62e="" class="">ChatGLM大模型的高效微调</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">大模型微调</span><span class="tag-item" data-v-1e62957f="">高效微调</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">ChatGLM</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT-Plus及GPT-4实验性功能 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html</id>
-        <link href="https://www.eula.club/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html"/>
-        <updated>2024-04-08T17:44:10.931Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/ChatGPT-Plus%E5%8F%8AGPT-4%E5%AE%9E%E9%AA%8C%E6%80%A7%E5%8A%9F%E8%83%BD.html" data-v-3fa1a62e="" class="">ChatGPT-Plus及GPT-4实验性功能</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatGPT-Plus</span><span class="tag-item" data-v-1e62957f="">GPT-4</span><span class="tag-item" data-v-1e62957f="">GPT-4V</span><span class="tag-item" data-v-1e62957f="">ChatGPT插件</span><span class="tag-item" data-v-1e62957f="">Code-Interpreter</span><span class="tag-item" data-v-1e62957f="">DALL·E3</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7471,7 +7471,7 @@ on
 由于胡志明市直飞深圳机票太贵了，所以选择在重庆中转一晚，顺便冲一下携程的国航挑战。重庆这个城市应该来了有三四次了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-24T21:30:28+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2024-04-24T21:30:28+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7488,7 +7488,7 @@ on
 Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-23T15:29:02+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-04-23T15:29:02+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7504,7 +7504,7 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 前阵子去了一趟丽江，本来想坐下玉龙雪山大索道，结果双双身体不适，只能放弃，略可惜。为了能在屋里就看日照金山，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-16T14:50:11+08:00">发布于 10 天前</time>
+            <time itemprop="datePublished" datetime="2024-04-16T14:50:11+08:00">发布于 11 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7520,7 +7520,7 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 前阵子去了一躺新加坡，堪称最怨种出行。核心原因是我们出行正赶上 Taylor Swift 演唱会前两天，酒店不但天价，而且房...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7536,7 +7536,7 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 先总结，胡志明市没啥好玩的，酒店洼地，人文也没什么可看的，所谓法式风情也就那么点老建筑，但都大同小异，连壮观...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2024-04-12T18:08:41+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7552,7 +7552,7 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 清明节一个人闲来无事，就打算出去走走，看了看机票价格，发现国泰香港飞曼谷第二天只要九百元，果断订票...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 16 天前</time>
+            <time itemprop="datePublished" datetime="2024-04-10T14:16:59+08:00">发布于 17 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8024,6 +8024,31 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress 文章星级评分插件哪款好（2024） (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-post-star-rating-plugin/</id>
+        <link href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/"/>
+        <updated>2024-04-27T17:47:51.078Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 文章星级评分插件哪款好（2024）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-27T08:51:18+08:00">
+				04/27/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 文章星级评分插件哪款好（2024）</span></h2>						<p>前儿在搜资料的时候，看到一个结果页（Google SERP）有星级评分，于是想着自己也搞一个…稍一对比后装上了我熟悉的 kk star ratings 评分插件，然后就是各种调试、修改样式表、修改图形和位置。折腾了半天形成了下方截图的样子，…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Anytxt Searcher：好用的桌面全文搜索软件 (牧羊人)]]></title>
         <id>https://www.shephe.com/resources/anytxt-searcher/</id>
         <link href="https://www.shephe.com/resources/anytxt-searcher/"/>
@@ -8218,31 +8243,6 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 文章中英文数字间自动添加空格</span></h2>						<p>最近一段时间一直断断续续在折腾这个小站，这里感谢一众博友给提的建议和帮助！前几天 The Type的排版样式，尝试抄过但不得精髓，这里先就不展开了。 至于咱网页中的中文字和英文、数字之间是否加空格的问题，我在这里发起一项投票看看各位博友的意…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配置 Memcached 内存缓存为 WordPress 提速 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/wordpress-memcached/</id>
-        <link href="https://www.shephe.com/website/wordpress-memcached/"/>
-        <updated>2024-04-15T17:44:52.406Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-memcached/" rel="bookmark" target="_blank"><span class="screen-reader-text">配置 Memcached 内存缓存为 WordPress 提速</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/memcached-vs-redis.webp" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-15T08:31:47+08:00">
-				04/15/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>配置 Memcached 内存缓存为 WordPress 提速</span></h2>						<p>利用Memcached内存缓存为WordPress提速这可以算是广大WordPress站长的基本操作，大多数缓存加速插件也会调用这一模块，但使用情况到底如何，很多小白博主可能并不知晓。就拿我来说，我虽数年前就在系统中安装了Memcached…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-memcached/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
