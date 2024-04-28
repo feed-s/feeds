@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-28T05:44:35.144Z</updated>
+    <updated>2024-04-28T17:44:37.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[截断 WordPress RSS 输出，并添加版权信息]]></title>
+        <id>https://www.shephe.com/website/wordpress-rss-append-copyright-and-truncate/</id>
+        <link href="https://www.shephe.com/website/wordpress-rss-append-copyright-and-truncate/"/>
+        <updated>2024-04-28T17:44:33.363Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-rss-append-copyright-and-truncate/" rel="bookmark" target="_blank"><span class="screen-reader-text">截断 WordPress RSS 输出，并添加版权信息</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2016/02/rss-feed-subscribe.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-28T08:48:56+08:00">
+				04/28/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>截断 WordPress RSS 输出，并添加版权信息</span></h2>						<p>前两天一网友留言说本站以前的 RSS 没法正常获取图片了，网站更新后也没有看到新的 RSS，请求更新一下…我粗略估计是因为近期开启了图片防盗链，导致大家在 RSS 浏览器里边都看不到我的文章图片，影响了阅读体验。为何这么做不用细说，因为我至…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-rss-append-copyright-and-truncate/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 文章星级评分插件哪款好（2024）]]></title>
         <id>https://www.shephe.com/website/wordpress-post-star-rating-plugin/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 WinSCP 管理七牛云对象存储的文件</span></h2>						<p>最近这段时间断断续续在折腾WordPress，听广大博友的劝告，频繁地在修改CSS/JS脚本文件以实现更好的页面体验，因为我的静态文件是存放在七牛对象存储里边的，所以每次本地修改文件以后还得去七牛云后台操作“刷新预取”，非常繁琐。有没有更简…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/winscp-qiniu-kodo/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 文章中英文数字间自动添加空格]]></title>
-        <id>https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/</id>
-        <link href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/"/>
-        <updated>2024-04-16T05:44:25.025Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 文章中英文数字间自动添加空格</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-1920x1440.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-900x675.webp 900w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-16T11:56:36+08:00">
-				04/16/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 文章中英文数字间自动添加空格</span></h2>						<p>最近一段时间一直断断续续在折腾这个小站，这里感谢一众博友给提的建议和帮助！前几天 The Type的排版样式，尝试抄过但不得精髓，这里先就不展开了。 至于咱网页中的中文字和英文、数字之间是否加空格的问题，我在这里发起一项投票看看各位博友的意…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-add-space-between-chinese-alphanumeric/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
