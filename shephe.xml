@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-29T05:44:36.532Z</updated>
+    <updated>2024-04-29T17:45:11.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[良好习惯的养成与破坏]]></title>
+        <id>https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/</id>
+        <link href="https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/"/>
+        <updated>2024-04-29T17:45:07.193Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/" rel="bookmark" target="_blank"><span class="screen-reader-text">良好习惯的养成与破坏</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Chinese-boy-eat.webp" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-29T13:12:57+08:00">
+				04/29/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>良好习惯的养成与破坏</span></h2>						<p>我家一岁半的小果一直以来吃饭进食都还算不错，虽说大多数时候都是我们做家长的给喂饭吃，不过他也还算乖巧可爱，会老老实实坐在餐椅上按时就餐。按说他这个年纪是应该学会自主进食了，不过之前的几次尝试效果都不太好，抛洒严重，一地鸡毛…索性就不让他碰碗…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[截断 WordPress RSS 输出，并添加版权信息]]></title>
         <id>https://www.shephe.com/website/wordpress-rss-append-copyright-and-truncate/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>利用 Docker Compose 安装 Awesome TTRSS</span></h2>						<p>Tiny Tiny RSS是一款基于 PHP 的免费开源 RSS 聚合阅读器，但官方似乎已经长期没有更新，于是有人热心网友封装了这个Awesome TTRSS，一个“一站式容器化”的TTRSS解决方案，通过提供简易的部署方式以及一些额外插件…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 WinSCP 管理七牛云对象存储的文件]]></title>
-        <id>https://www.shephe.com/tutorial/winscp-qiniu-kodo/</id>
-        <link href="https://www.shephe.com/tutorial/winscp-qiniu-kodo/"/>
-        <updated>2024-04-17T05:44:41.157Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/winscp-qiniu-kodo/" rel="bookmark" target="_blank"><span class="screen-reader-text">用 WinSCP 管理七牛云对象存储的文件</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Database-storge-数据库-存储.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-17T10:12:00+08:00">
-				04/17/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 WinSCP 管理七牛云对象存储的文件</span></h2>						<p>最近这段时间断断续续在折腾WordPress，听广大博友的劝告，频繁地在修改CSS/JS脚本文件以实现更好的页面体验，因为我的静态文件是存放在七牛对象存储里边的，所以每次本地修改文件以后还得去七牛云后台操作“刷新预取”，非常繁琐。有没有更简…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/winscp-qiniu-kodo/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
