@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-04-30T05:44:36.517Z</updated>
+    <updated>2024-04-30T17:44:38.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Photoshop 2024 神经滤镜离线包下载&使用]]></title>
+        <id>https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/</id>
+        <link href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/"/>
+        <updated>2024-04-30T17:44:34.441Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 2024 神经滤镜离线包下载&amp;使用</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop.jpg" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-30T12:13:10+08:00">
+				04/30/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 2024 神经滤镜离线包下载&amp;使用</span></h2>						<p>PhotoShop 从 2021 版本开始就新增了 Neural Filters 神经滤镜功能，为用户提供了一系列创意的可能性，主要对人像进行智能修改和图像处理，例如可以修改表情、面部、妆容等等，Kevin's 个人使用体验一般，觉得它用来…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[良好习惯的养成与破坏]]></title>
         <id>https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>围观第 83 届中国教育装备展&amp;重庆安博会</span></h2>						<p>尽管展览一般，但咱记录还得认真写是吧，在博客上提到教育装备展还是在七八年前，</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e6%95%99%e8%82%b2%e8%a3%85%e5%a4%87%e5%b1%95%e5%92%8c%e5%ae%89%e5%8d%9a%e4%bc%9a/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 Docker Compose 安装 Awesome TTRSS]]></title>
-        <id>https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/</id>
-        <link href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/"/>
-        <updated>2024-04-19T17:44:27.005Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/" rel="bookmark" target="_blank"><span class="screen-reader-text">利用 Docker Compose 安装 Awesome TTRSS</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2016/02/rss-feed-subscribe.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-18T20:40:36+08:00">
-				04/18/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>利用 Docker Compose 安装 Awesome TTRSS</span></h2>						<p>Tiny Tiny RSS是一款基于 PHP 的免费开源 RSS 聚合阅读器，但官方似乎已经长期没有更新，于是有人热心网友封装了这个Awesome TTRSS，一个“一站式容器化”的TTRSS解决方案，通过提供简易的部署方式以及一些额外插件…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/docker-compose-awesome-ttrss/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
