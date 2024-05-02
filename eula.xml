@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-05-02T05:44:35.862Z</updated>
+    <updated>2024-05-02T17:44:51.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -45,7 +45,7 @@
         <id>https://www.eula.club/blogs/%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90RAG.html</id>
         <link href="https://www.eula.club/blogs/%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90RAG.html"/>
         <updated>2024-04-08T17:44:10.924Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90RAG.html" data-v-3fa1a62e="" class="">检索增强大语言模型生成RAG</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">检索增强大模型生成RAG</span><span class="tag-item" data-v-1e62957f="">Baichuan2-13B-Chat</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90RAG.html" data-v-3fa1a62e="" class="">检索增强大语言模型生成RAG</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">检索增强生成RAG</span><span class="tag-item" data-v-1e62957f="">BM25算法</span><span class="tag-item" data-v-1e62957f="">BGE向量检索</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI首届开发者大会发布内容概要]]></title>
