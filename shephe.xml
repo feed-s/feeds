@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-05-07T05:44:31.500Z</updated>
+    <updated>2024-05-07T17:44:48.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[和奶奶漫步荣昌铜鼓山和古佛山]]></title>
+        <id>https://www.shephe.com/life/%e8%8d%a3%e6%98%8c%e9%93%9c%e9%bc%93%e5%b1%b1%e5%92%8c%e5%8f%a4%e4%bd%9b%e5%b1%b1/</id>
+        <link href="https://www.shephe.com/life/%e8%8d%a3%e6%98%8c%e9%93%9c%e9%bc%93%e5%b1%b1%e5%92%8c%e5%8f%a4%e4%bd%9b%e5%b1%b1/"/>
+        <updated>2024-05-07T17:44:44.516Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/%e8%8d%a3%e6%98%8c%e9%93%9c%e9%bc%93%e5%b1%b1%e5%92%8c%e5%8f%a4%e4%bd%9b%e5%b1%b1/" rel="bookmark" target="_blank"><span class="screen-reader-text">和奶奶漫步荣昌铜鼓山和古佛山</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/20240503-荣昌区铜鼓镇-18.webp" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-07T15:59:12+08:00">
+				05/07/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>和奶奶漫步荣昌铜鼓山和古佛山</span></h2>						<p>今年五一老婆带着儿子回娘家了，我原本计划带爸妈奶奶去成都方向几个热门景点玩儿一圈，奈何天气预报说那些个地方统统都要下雨，遂作罢，只在最后两天去了乐山和成都。余下的时间，假期前两日带着奶奶去了本县两个尚且能逛，又很久很久没去的地方。 我的家乡…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e8%8d%a3%e6%98%8c%e9%93%9c%e9%bc%93%e5%b1%b1%e5%92%8c%e5%8f%a4%e4%bd%9b%e5%b1%b1/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[代码实现 WordPress 漂亮的标签归档页面]]></title>
         <id>https://www.shephe.com/website/wordpress-tags-archvie-page/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>什么是“通透”？如何提升照片的通透感</span></h2>						<p>这话出自我特别喜欢的一个系列电影《无间道》，那么在摄影摄像领域，老法师常说的“通透”指的是什么呢？通透中文可扩展为“通明透亮”，顾名思义摄影作品的通透一般指的是照片在视觉上会感觉更清晰鲜明，细节表现力更强。这通常是由于光线处理得当、对比度适…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/%e9%80%9a%e9%80%8f/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[好用免费的文件同步软件：FreeFileSync]]></title>
-        <id>https://www.shephe.com/resources/freefilesync/</id>
-        <link href="https://www.shephe.com/resources/freefilesync/"/>
-        <updated>2024-04-23T17:44:58.444Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/freefilesync/" rel="bookmark" target="_blank"><span class="screen-reader-text">好用免费的文件同步软件：FreeFileSync</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://staticfile.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-23T07:43:47+08:00">
-				04/23/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>好用免费的文件同步软件：FreeFileSync</span></h2>						<p>文件同步工具千千万，用着趁手的才是爱，今儿给各位推荐一款完全免费的文件夹比较&amp;同步软件：FreeFileSync，它界面简洁，只需简单的设置就可以实现文件夹的比较和同步工作。FreeFileSync 可以帮你轻松将不同路径或不同设备…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/freefilesync/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
