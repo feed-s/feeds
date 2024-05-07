@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-05-06T17:44:45.903Z</updated>
+    <updated>2024-05-07T05:44:31.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -23,7 +23,7 @@
 				05/06/2024			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>代码实现 WordPress 漂亮的标签归档页面</span></h2>						<p>前段时间把</p>					</div>
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>代码实现 WordPress 漂亮的标签归档页面</span></h2>						<p>前段时间把 WordPress 文章归档页面、网站分类、文章标签以及导航菜单等进行了优化，但目前在实际使用过程中仍觉得“分类”不够清晰。思来想去，还是觉得用“标签归档”来作为分类导航比较直观。于是 Kevin 着手创建一个新的 WordPr…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-tags-archvie-page/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
