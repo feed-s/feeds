@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-05-21T05:44:48.561Z</updated>
+    <updated>2024-05-21T17:44:43.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[略显古老的邮件营销，在当下还有用么？]]></title>
+        <id>https://www.shephe.com/post/%e9%82%ae%e4%bb%b6%e8%90%a5%e9%94%80/</id>
+        <link href="https://www.shephe.com/post/%e9%82%ae%e4%bb%b6%e8%90%a5%e9%94%80/"/>
+        <updated>2024-05-21T17:44:39.460Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e9%82%ae%e4%bb%b6%e8%90%a5%e9%94%80/" rel="bookmark" target="_blank"><span class="screen-reader-text">略显古老的邮件营销，在当下还有用么？</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/03/email-mailbox-1920x1537.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/03/email-mailbox-1536x1229.webp 1536w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-21T19:37:41+08:00">
+				05/21/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>略显古老的邮件营销，在当下还有用么？</span></h2>						<p>请注意，这里说的邮件营销并非发送电子邮件（E-Mail），而是实打实地邮局寄纸质信件，一种看起来十分古老、已经被忽略的通讯方式。我当时看到对面老大哥拿出一叠信封时我都震惊了，原来现在还能这样玩儿！ 起因是他公司开发了一款用于普教质量评测的 …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e9%82%ae%e4%bb%b6%e8%90%a5%e9%94%80/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[乐山东方佛都、乐山大佛、金口河大峡谷与成都市区旅行记录（2024）]]></title>
         <id>https://www.shephe.com/life/%e4%b9%90%e5%b1%b1%e5%92%8c%e6%88%90%e9%83%bd/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>截断 WordPress RSS 输出，并添加版权信息</span></h2>						<p>前两天一网友留言说本站以前的 RSS 没法正常获取图片了，网站更新后也没有看到新的 RSS，请求更新一下…我粗略估计是因为近期开启了图片防盗链，导致大家在 RSS 浏览器里边都看不到我的文章图片，影响了阅读体验。为何这么做不用细说，因为我至…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-rss-append-copyright-and-truncate/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 文章星级评分插件哪款好（2024）]]></title>
-        <id>https://www.shephe.com/website/wordpress-post-star-rating-plugin/</id>
-        <link href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/"/>
-        <updated>2024-04-27T17:47:51.078Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 文章星级评分插件哪款好（2024）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/seo-keywords.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-27T08:51:18+08:00">
-				04/27/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 文章星级评分插件哪款好（2024）</span></h2>						<p>前儿在搜资料的时候，看到一个结果页（Google SERP）有星级评分，于是想着自己也搞一个…稍一对比后装上了我熟悉的 kk star ratings 评分插件，然后就是各种调试、修改样式表、修改图形和位置。折腾了半天形成了下方截图的样子，…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
