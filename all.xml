@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-27T17:44:23.045Z</updated>
+    <updated>2024-05-28T05:44:31.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7459,6 +7459,22 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[三亚仁恒皇冠假日酒店 (大发贱志)]]></title>
+        <id>https://fatesinger.com/103328</id>
+        <link href="https://fatesinger.com/103328"/>
+        <updated>2024-05-28T05:44:10.124Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103328" aria-label="三亚仁恒皇冠假日酒店" title="三亚仁恒皇冠假日酒店">三亚仁恒皇冠假日酒店</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            三亚仁恒皇冠假日酒店
+如果不是要打开皇冠品牌我肯定不会选择这家酒店的，不过既然要打卡，索性就打卡大中华旗舰店好了。这家...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-05-28T08:33:35+08:00">发布于 5 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[苏州金普顿 (大发贱志)]]></title>
         <id>https://fatesinger.com/103317</id>
         <link href="https://fatesinger.com/103317"/>
@@ -7518,7 +7534,7 @@ on
 18年的时候来过一次拙政园，当时应该是冬天，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-21T12:13:31+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-21T12:13:31+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7584,22 +7600,6 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-04-16T14:50:11+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新加坡 City Walk (大发贱志)]]></title>
-        <id>https://fatesinger.com/103056</id>
-        <link href="https://fatesinger.com/103056"/>
-        <updated>2024-04-15T17:44:36.594Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103056" aria-label="新加坡 City Walk" title="新加坡 City Walk">新加坡 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            新加坡
-前阵子去了一躺新加坡，堪称最怨种出行。核心原因是我们出行正赶上 Taylor Swift 演唱会前两天，酒店不但天价，而且房...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-04-15T19:43:23+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8024,6 +8024,31 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[初识 WordPress 古腾堡编辑器的区块样板 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-block-patterns/</id>
+        <link href="https://www.shephe.com/website/wordpress-block-patterns/"/>
+        <updated>2024-05-28T05:44:27.313Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-block-patterns/" rel="bookmark" target="_blank"><span class="screen-reader-text">初识 WordPress 古腾堡编辑器的区块样板</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03.jpg 1140w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03-600x400.jpg 600w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-28T10:48:13+08:00">
+				05/28/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>初识 WordPress 古腾堡编辑器的区块样板</span></h2>						<p>前不久连着发了数篇文章，让博客的流量稍微增高了一些，巅峰时期超过了 500IP，我寻思着这流量不能白白浪费啊…我服务器很贵的好伐！于是我又开始折腾广告了…起先仍然是放了 Google AdSense，不过 G 家的中文广告实在太少了…每天十…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-block-patterns/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[影视剧中演职员表的各个称谓代表什么意思 (牧羊人)]]></title>
         <id>https://www.shephe.com/post/%e6%bc%94%e5%91%98%e7%a7%b0%e8%b0%93/</id>
         <link href="https://www.shephe.com/post/%e6%bc%94%e5%91%98%e7%a7%b0%e8%b0%93/"/>
@@ -8218,31 +8243,6 @@ Voisin&nbsp;Organique有机餐厅以“Farm&nbsp;to&nbsp;Tab...        </div>
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 2024 神经滤镜离线包下载&amp;使用</span></h2>						<p>PhotoShop 从 2021 版本开始就新增了 Neural Filters 神经滤镜功能，为用户提供了一系列创意的可能性，主要对人像进行智能修改和图像处理，例如可以修改表情、面部、妆容等等，Kevin's 个人使用体验一般，觉得它用来…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[良好习惯的养成与破坏 (牧羊人)]]></title>
-        <id>https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/</id>
-        <link href="https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/"/>
-        <updated>2024-04-29T17:45:07.193Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/" rel="bookmark" target="_blank"><span class="screen-reader-text">良好习惯的养成与破坏</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Chinese-boy-eat.webp" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-29T13:12:57+08:00">
-				04/29/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>良好习惯的养成与破坏</span></h2>						<p>我家一岁半的小果一直以来吃饭进食都还算不错，虽说大多数时候都是我们做家长的给喂饭吃，不过他也还算乖巧可爱，会老老实实坐在餐椅上按时就餐。按说他这个年纪是应该学会自主进食了，不过之前的几次尝试效果都不太好，抛洒严重，一地鸡毛…索性就不让他碰碗…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e8%89%af%e5%a5%bd%e4%b9%a0%e6%83%af%e7%9a%84%e5%85%bb%e6%88%90%e4%b8%8e%e7%a0%b4%e5%9d%8f/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
