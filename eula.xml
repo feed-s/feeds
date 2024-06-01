@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-06-01T05:44:38.641Z</updated>
+    <updated>2024-06-01T17:44:50.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -31,7 +31,7 @@
         <id>https://www.eula.club/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html</id>
         <link href="https://www.eula.club/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html"/>
         <updated>2024-04-08T17:44:10.922Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html" data-v-3fa1a62e="" class="">GPT-SoVITS音频处理及语音克隆</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPT-SoVITS语音克隆</span><span class="tag-item" data-v-1e62957f="">OpenVoice语音克隆</span><span class="tag-item" data-v-1e62957f="">VITS语音合成</span><span class="tag-item" data-v-1e62957f="">Whisper语音识别</span><span class="tag-item" data-v-1e62957f="">UVR5提取人声</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html" data-v-3fa1a62e="" class="">GPT-SoVITS音频处理及语音克隆</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPT-SoVITS语音克隆</span><span class="tag-item" data-v-1e62957f="">VITS语音合成</span><span class="tag-item" data-v-1e62957f="">Whisper语音识别</span><span class="tag-item" data-v-1e62957f="">ChatTTS语音合成</span><span class="tag-item" data-v-1e62957f="">UVR5提取人声</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[检索增强大语言模型生成RAG]]></title>

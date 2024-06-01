@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-06-01T05:44:38.684Z</updated>
+    <updated>2024-06-01T17:44:50.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Keep 手环 B4 Lite 初体验，有点儿意思]]></title>
+        <id>https://www.shephe.com/life/keep-bracelet-4-lite/</id>
+        <link href="https://www.shephe.com/life/keep-bracelet-4-lite/"/>
+        <updated>2024-06-01T17:44:46.768Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/keep-bracelet-4-lite/" rel="bookmark" target="_blank"><span class="screen-reader-text">Keep 手环 B4 Lite 初体验，有点儿意思</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/keep-b4-lite3.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2024/05/keep-b4-lite3.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-01T11:30:17+08:00">
+				06/01/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Keep 手环 B4 Lite 初体验，有点儿意思</span></h2>						<p>前二老婆单位发了个运动手环 Keep B4 Lite，好奇心驱使我迫不及待地拆开体验，发现这小玩意儿还有点儿意思…为啥这么说呢？因为鄙人已经几十年没有穿戴过任何手表、配饰和项链之类的“身外之物”了，如果可以，我愿意全身赤条条地生活。我比较崇…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/keep-bracelet-4-lite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初识 WordPress 古腾堡编辑器的区块样板]]></title>
         <id>https://www.shephe.com/website/wordpress-block-patterns/</id>
@@ -15,7 +40,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03.jpg 1140w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03-600x400.jpg 600w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03.jpg 1140w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03-600x400.jpg 600w"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03.jpg 1140w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03-600x400.jpg 600w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -40,7 +65,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/p2908266524.jpg" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/p2908266524.jpg"><picture style="display: none;"><source data-srcset="https://staticfile.shephe.com/wp-content/uploads/2024/05/p2908266524.jpg"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>老婆买了一本福彩“喜相逢”刮刮乐</span></h2>						<p>那话怎么说来着？永远相信美好的事情即将发生！自前段时间老婆学会买彩票以来，她仿佛发现了新大陆一般，有事儿没事儿就研究彩票，八卦某某朋友之某某中了多少大奖之类，出门遛弯顺手也会买个几张。同时，她还鼓动办公室的同事也参与了进来，几人乐此不疲，为…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e5%96%9c%e7%9b%b8%e9%80%a2/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 2024 神经滤镜离线包下载&使用]]></title>
-        <id>https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/</id>
-        <link href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/"/>
-        <updated>2024-04-30T17:44:34.441Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 2024 神经滤镜离线包下载&amp;使用</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop.jpg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-30T12:13:10+08:00">
-				04/30/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 2024 神经滤镜离线包下载&amp;使用</span></h2>						<p>PhotoShop 从 2021 版本开始就新增了 Neural Filters 神经滤镜功能，为用户提供了一系列创意的可能性，主要对人像进行智能修改和图像处理，例如可以修改表情、面部、妆容等等，Kevin's 个人使用体验一般，觉得它用来…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/photoshop-2024-neural-filters-free-download/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
