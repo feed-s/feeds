@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-12T05:44:55.542Z</updated>
+    <updated>2024-06-12T17:45:07.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7067,7 +7067,7 @@ on
         <id>https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html</id>
         <link href="https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html"/>
         <updated>2024-06-11T05:46:25.308Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">私有化知识库问答平台的部署与使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/29/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">私有化知识库问答平台的部署与使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/29/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调 (Quantum Bit)]]></title>
@@ -7470,7 +7470,7 @@ on
             前阵子写了一个 Cloudflare Worker 版的同步书影音记录，个人觉得对于个人博客来说已经足够了，但可能一些同学介意 Cloudflar...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 19 小时前</time>
+            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7487,7 +7487,7 @@ on
 Hugo 的页面类型主要有以下...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7503,7 +7503,7 @@ Hugo 的页面类型主要有以下...        </div>
 六七年前我第一次去苏州，东方之门还没亮灯。这次过去在金鸡湖那边逛了一下，已经建设的非常好了。不过风格和老城区...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 12 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 13 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7535,7 +7535,7 @@ Hugo 的页面类型主要有以下...        </div>
 金普顿国内就两家，苏州一家上海一家，金普顿这个牌子在国外还是比较高端的，但是国内的价格不算特别夸张。本次现...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7550,7 +7550,7 @@ Hugo 的页面类型主要有以下...        </div>
             本功能直接解决豆瓣书影音记录两大痛点，自动同步和封面本地化，对于普通用户来说，Cloudflare 的免费版足够了，非常推荐使用...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-22T17:51:21+08:00">发布于 20 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-22T17:51:21+08:00">发布于 21 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7565,7 +7565,7 @@ Hugo 的页面类型主要有以下...        </div>
             本次主要去了两个区域，南长街和惠山古镇，惠山古镇主要逛了逛寄畅园，锡山公园因为时间原因就没有逛了，有点可惜。本次从深...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-21T16:41:13+08:00">发布于 21 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-21T16:41:13+08:00">发布于 22 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7598,7 +7598,7 @@ Hugo 的页面类型主要有以下...        </div>
 一直以来我对静态博客都没什么兴趣，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-13T16:32:07+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-13T16:32:07+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
