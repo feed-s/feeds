@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-06-12T17:45:07.363Z</updated>
+    <updated>2024-06-13T05:44:29.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[记录阿里云新增 ICP 域名备案（重庆）]]></title>
+        <id>https://www.shephe.com/website/chenguo-life-icp/</id>
+        <link href="https://www.shephe.com/website/chenguo-life-icp/"/>
+        <updated>2024-06-13T05:44:25.766Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/chenguo-life-icp/" rel="bookmark" target="_blank"><span class="screen-reader-text">记录阿里云新增 ICP 域名备案（重庆）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg 1200w, https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding-768x384.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-12T22:53:17+08:00">
+				06/12/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>记录阿里云新增 ICP 域名备案（重庆）</span></h2>						<p>四月底的时候，我看评价还不错于是撸了一台软云的服务器，然后搭了几个不常用的服务如</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/chenguo-life-icp/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[用 WP-CLI 给 WordPress 网站重新生成缩略图]]></title>
         <id>https://www.shephe.com/post/wp-cli-wp-media-regenerate/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>和奶奶漫步荣昌铜鼓山和古佛山</span></h2>						<p>今年五一老婆带着儿子回娘家了，我原本计划带爸妈奶奶去成都方向几个热门景点玩儿一圈，奈何天气预报说那些个地方统统都要下雨，遂作罢，只在最后两天去了乐山和成都。余下的时间，假期前两日带着奶奶去了本县两个尚且能逛，又很久很久没去的地方。 我的家乡…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e8%8d%a3%e6%98%8c%e9%93%9c%e9%bc%93%e5%b1%b1%e5%92%8c%e5%8f%a4%e4%bd%9b%e5%b1%b1/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[代码实现 WordPress 漂亮的标签归档页面]]></title>
-        <id>https://www.shephe.com/website/wordpress-tags-archvie-page/</id>
-        <link href="https://www.shephe.com/website/wordpress-tags-archvie-page/"/>
-        <updated>2024-05-06T17:44:41.877Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-tags-archvie-page/" rel="bookmark" target="_blank"><span class="screen-reader-text">代码实现 WordPress 漂亮的标签归档页面</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding.jpg 1200w, https://staticfile.shephe.com/wp-content/uploads/2023/07/website-bulding-768x384.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-06T20:33:18+08:00">
-				05/06/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>代码实现 WordPress 漂亮的标签归档页面</span></h2>						<p>前段时间把 WordPress 文章归档页面、网站分类、文章标签以及导航菜单等进行了优化，但目前在实际使用过程中仍觉得“分类”不够清晰。思来想去，还是觉得用“标签归档”来作为分类导航比较直观。于是 Kevin 着手创建一个新的 WordPr…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-tags-archvie-page/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
