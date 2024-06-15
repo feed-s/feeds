@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://iyzm.net/</id>
     <title>爱一枝梅</title>
-    <updated>2024-06-14T17:44:28.899Z</updated>
+    <updated>2024-06-15T05:44:48.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://iyzm.net/wp-content/uploads/2020/02/cropped-iyzm_logo-32x32.png</icon>
     <entry>
@@ -186,7 +186,7 @@
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3237.html" rel="bookmark">Windows 平台优秀的全功能下载工具 Motrix</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="entry-date published" datetime="2023-03-11T21:56:23+08:00" itemprop="datePublished">2023年3月11日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-06-15T10:32:36+08:00" itemprop="dateModified">2024年6月15日</time><time class="entry-date published" datetime="2023-03-11T21:56:23+08:00" itemprop="datePublished">2023年3月11日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>Motrix 是一款全功能下载工具软件，界面简洁易用，支持下载 HTTP(s)、FTP、BT、磁力链等资源，下载各类文件稳定可靠，速度优秀，非常适合作为一款日常 … <a title="Windows 平台优秀的全功能下载工具 Motrix" class="read-more" href="https://iyzm.net/windows/3237.html" aria-label="更多 Windows 平台优秀的全功能下载工具 Motrix"> </a></p>
