@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-06-16T05:44:44.841Z</updated>
+    <updated>2024-06-16T17:44:33.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
             前阵子写了一个 Cloudflare Worker 版的同步书影音记录，个人觉得对于个人博客来说已经足够了，但可能一些同学介意 Cloudflar...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +34,7 @@
 Hugo 的页面类型主要有以下...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -50,7 +50,7 @@ Hugo 的页面类型主要有以下...        </div>
 六七年前我第一次去苏州，东方之门还没亮灯。这次过去在金鸡湖那边逛了一下，已经建设的非常好了。不过风格和老城区...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 16 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 17 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -82,7 +82,7 @@ Hugo 的页面类型主要有以下...        </div>
 金普顿国内就两家，苏州一家上海一家，金普顿这个牌子在国外还是比较高端的，但是国内的价格不算特别夸张。本次现...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 22 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 23 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -97,7 +97,7 @@ Hugo 的页面类型主要有以下...        </div>
             本功能直接解决豆瓣书影音记录两大痛点，自动同步和封面本地化，对于普通用户来说，Cloudflare 的免费版足够了，非常推荐使用...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-22T17:51:21+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-22T17:51:21+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -112,7 +112,7 @@ Hugo 的页面类型主要有以下...        </div>
             本次主要去了两个区域，南长街和惠山古镇，惠山古镇主要逛了逛寄畅园，锡山公园因为时间原因就没有逛了，有点可惜。本次从深...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-21T16:41:13+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-21T16:41:13+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
