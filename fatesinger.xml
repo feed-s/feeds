@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-06-17T17:44:49.153Z</updated>
+    <updated>2024-06-18T05:44:28.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -18,7 +18,7 @@
 本系列文章均可参考我的 hugo博客项目，具体内容在里面均有体...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 8 小时前</time>
+            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 20 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -82,7 +82,7 @@ Hugo 的页面类型主要有以下...        </div>
 如果不是要打开皇冠品牌我肯定不会选择这家酒店的，不过既然要打卡，索性就打卡大中华旗舰店好了。这家...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-28T08:33:35+08:00">发布于 20 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-28T08:33:35+08:00">发布于 21 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -145,7 +145,7 @@ Hugo 的页面类型主要有以下...        </div>
 18年的时候来过一次拙政园，当时应该是冬天，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-21T12:13:31+08:00">发布于 27 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-21T12:13:31+08:00">发布于 28 天前</time>
         </div>]]></content>
     </entry>
 </feed>
