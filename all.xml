@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-19T05:44:54.326Z</updated>
+    <updated>2024-06-19T17:44:22.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7459,6 +7459,22 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[郑州 City Walk (大发贱志)]]></title>
+        <id>https://fatesinger.com/103435</id>
+        <link href="https://fatesinger.com/103435"/>
+        <updated>2024-06-19T17:44:00.326Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103435" aria-label="郑州 City Walk" title="郑州 City Walk">郑州 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            洲际
+多年以前曾经在郑州短暂待过几天，当时知识去了周边的少林寺、洛阳，郑州只是去了下二七广场，这次短暂的City Walk 去了...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-06-19T15:15:09+08:00">发布于 10 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hugo 简明教程 03 (大发贱志)]]></title>
         <id>https://fatesinger.com/103481</id>
         <link href="https://fatesinger.com/103481"/>
@@ -7471,7 +7487,7 @@ on
 本系列文章均可参考我的 hugo博客项目，具体内容在里面均有体...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7486,7 +7502,7 @@ on
             前阵子写了一个 Cloudflare Worker 版的同步书影音记录，个人觉得对于个人博客来说已经足够了，但可能一些同学介意 Cloudflar...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7503,7 +7519,7 @@ on
 Hugo 的页面类型主要有以下...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7519,7 +7535,7 @@ Hugo 的页面类型主要有以下...        </div>
 六七年前我第一次去苏州，东方之门还没亮灯。这次过去在金鸡湖那边逛了一下，已经建设的非常好了。不过风格和老城区...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7551,7 +7567,7 @@ Hugo 的页面类型主要有以下...        </div>
 金普顿国内就两家，苏州一家上海一家，金普顿这个牌子在国外还是比较高端的，但是国内的价格不算特别夸张。本次现...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7566,7 +7582,7 @@ Hugo 的页面类型主要有以下...        </div>
             本功能直接解决豆瓣书影音记录两大痛点，自动同步和封面本地化，对于普通用户来说，Cloudflare 的免费版足够了，非常推荐使用...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-22T17:51:21+08:00">发布于 27 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-22T17:51:21+08:00">发布于 28 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7581,24 +7597,7 @@ Hugo 的页面类型主要有以下...        </div>
             本次主要去了两个区域，南长街和惠山古镇，惠山古镇主要逛了逛寄畅园，锡山公园因为时间原因就没有逛了，有点可惜。本次从深...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-21T16:41:13+08:00">发布于 28 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再游拙政园 (大发贱志)]]></title>
-        <id>https://fatesinger.com/103321</id>
-        <link href="https://fatesinger.com/103321"/>
-        <updated>2024-05-21T05:44:27.712Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103321" aria-label="再游拙政园" title="再游拙政园">再游拙政园</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            拙政园
-时隔多年再游拙政园，心境有点不一样，不变的仍然是对园林没什么兴趣。
-18年的时候来过一次拙政园，当时应该是冬天，...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-21T12:13:31+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-21T16:41:13+08:00">发布于 29 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7897,7 +7896,7 @@ Hugo 的页面类型主要有以下...        </div>
 </a>
 </div> <header class="entry-header">
 <h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3727.html" rel="bookmark">Ubuntu 22.04 安装 Nvidia 显卡驱动教程</a></h2> <div class="entry-meta">
-<span class="posted-on"><time class="updated" datetime="2024-04-28T21:49:00+08:00" itemprop="dateModified">2024年4月28日</time><time class="entry-date published" datetime="2024-02-06T16:36:43+08:00" itemprop="datePublished">2024年2月6日</time></span> </div>
+<span class="posted-on"><time class="updated" datetime="2024-06-19T16:24:33+08:00" itemprop="dateModified">2024年6月19日</time><time class="entry-date published" datetime="2024-02-06T16:36:43+08:00" itemprop="datePublished">2024年2月6日</time></span> </div>
 </header>
 <div class="entry-summary" itemprop="text">
 <p>Linux 系统如果安装了独立显卡，则必须要额外安装显卡驱动才能正常使用，与最常见的 Windows 系统不同，Linux 系统安装显卡驱动往往更为繁琐，且容易 … <a title="Ubuntu 22.04 安装 Nvidia 显卡驱动教程" class="read-more" href="https://iyzm.net/linux/3727.html" aria-label="更多 Ubuntu 22.04 安装 Nvidia 显卡驱动教程"> </a></p>
