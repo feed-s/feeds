@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T17:44:49.621Z</updated>
+    <updated>2024-06-22T05:44:38.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[利用MP4Box解出tx3g格式字幕 (heartnn的自留地)]]></title>
@@ -7021,6 +7021,13 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[私有化知识库问答平台的部署与使用 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html</id>
+        <link href="https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html"/>
+        <updated>2024-06-11T05:46:25.308Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">私有化知识库问答平台的部署与使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">llama.cpp</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">RAPTOR</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GaLore及BAdam实现低显存全量微调 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/GaLore%E5%8F%8ABAdam%E5%AE%9E%E7%8E%B0%E4%BD%8E%E6%98%BE%E5%AD%98%E5%85%A8%E9%87%8F%E5%BE%AE%E8%B0%83.html</id>
         <link href="https://www.eula.club/blogs/GaLore%E5%8F%8ABAdam%E5%AE%9E%E7%8E%B0%E4%BD%8E%E6%98%BE%E5%AD%98%E5%85%A8%E9%87%8F%E5%BE%AE%E8%B0%83.html"/>
@@ -7061,13 +7068,6 @@ on
         <link href="https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html"/>
         <updated>2024-04-08T17:44:10.926Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会发布内容概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">开发者大会</span><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">GPT-Store</span><span class="tag-item" data-v-1e62957f="">API升级与降价</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant-API</span><span class="tag-item" data-v-1e62957f="">文档问答助手</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私有化知识库问答平台的部署与使用 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html</id>
-        <link href="https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html"/>
-        <updated>2024-06-11T05:46:25.308Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">私有化知识库问答平台的部署与使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/29/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">llama.cpp</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">RAPTOR</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调 (Quantum Bit)]]></title>
@@ -7568,7 +7568,7 @@ Hugo 的页面类型主要有以下...        </div>
 如果不是要打开皇冠品牌我肯定不会选择这家酒店的，不过既然要打卡，索性就打卡大中华旗舰店好了。这家...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-28T08:33:35+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-28T08:33:35+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8024,6 +8024,31 @@ Hugo 的页面类型主要有以下...        </div>
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[你怕死么？聊聊我与失眠症的对抗 (牧羊人)]]></title>
+        <id>https://www.shephe.com/life/%e4%bd%a0%e6%80%95%e6%ad%bb%e4%b9%88/</id>
+        <link href="https://www.shephe.com/life/%e4%bd%a0%e6%80%95%e6%ad%bb%e4%b9%88/"/>
+        <updated>2024-06-22T05:44:34.470Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/%e4%bd%a0%e6%80%95%e6%ad%bb%e4%b9%88/" rel="bookmark" target="_blank"><span class="screen-reader-text">你怕死么？聊聊我与失眠症的对抗</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/man-drink-water.webp 1792w, https://staticfile.shephe.com/wp-content/uploads/2024/05/man-drink-water-768x439.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-22T11:00:55+08:00">
+				06/22/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>你怕死么？聊聊我与失眠症的对抗</span></h2>						<p>现在是 2024 年 4 月 28 日凌晨两点，我在床上躺了一个钟头没睡着，又起床来坐在电脑前写下这段文字。这次起床，我给自己找的借口是喝点儿白酒应该有助睡眠……当然，保不齐喝点儿真的能让我睡个好觉呢，先来几口再说。 老实说，对于一个经常熬…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e4%bd%a0%e6%80%95%e6%ad%bb%e4%b9%88/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[好照片的标准是什么？浅谈优秀摄影作品的 10 个特征 (牧羊人)]]></title>
         <id>https://www.shephe.com/photography/techniques-10-characteristic-of-great-photos/</id>
         <link href="https://www.shephe.com/photography/techniques-10-characteristic-of-great-photos/"/>
@@ -8218,31 +8243,6 @@ Hugo 的页面类型主要有以下...        </div>
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>略显古老的邮件营销，在当下还有用么？</span></h2>						<p>请注意，这里说的邮件营销并非发送电子邮件（E-Mail），而是实打实地邮局寄纸质信件，一种看起来十分古老、已经被忽略的通讯方式。我当时看到对面老大哥拿出一叠信封时我都震惊了，原来现在还能这样玩儿！ 起因是他公司开发了一款用于普教质量评测的 …</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e9%82%ae%e4%bb%b6%e8%90%a5%e9%94%80/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乐山东方佛都、乐山大佛、金口河大峡谷与成都市区旅行记录（2024） (牧羊人)]]></title>
-        <id>https://www.shephe.com/life/%e4%b9%90%e5%b1%b1%e5%92%8c%e6%88%90%e9%83%bd/</id>
-        <link href="https://www.shephe.com/life/%e4%b9%90%e5%b1%b1%e5%92%8c%e6%88%90%e9%83%bd/"/>
-        <updated>2024-05-10T05:44:33.990Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/%e4%b9%90%e5%b1%b1%e5%92%8c%e6%88%90%e9%83%bd/" rel="bookmark" target="_blank"><span class="screen-reader-text">乐山东方佛都、乐山大佛、金口河大峡谷与成都市区旅行记录（2024）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/20240504-乐山大佛、东方佛都、金口河大峡谷-10.webp 1600w, https://staticfile.shephe.com/wp-content/uploads/2024/05/20240504-乐山大佛、东方佛都、金口河大峡谷-10-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-10T10:11:59+08:00">
-				05/10/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>乐山东方佛都、乐山大佛、金口河大峡谷与成都市区旅行记录（2024）</span></h2>						<p>趁小的不在，原本我计划带奶奶到自贡、乐山、四姑娘山、青城山和成都转一圈，但因大雨和其他一些原因，最终我们只在荣昌近郊的铜鼓山&amp;古佛山、乐山大佛&amp;东方佛度、金口河景区和成都市区转了转，以下为本次出行记录。 乐山大佛天下闻名，除…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e4%b9%90%e5%b1%b1%e5%92%8c%e6%88%90%e9%83%bd/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
