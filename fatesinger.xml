@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-06-22T05:44:38.364Z</updated>
+    <updated>2024-06-22T17:44:34.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -19,7 +19,7 @@ build 命令
 除了基础的 hugo build 其实 build命令支持不少参数，下面介绍一下比较有用的参...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -35,7 +35,7 @@ build 命令
 多年以前曾经在郑州短暂待过几天，当时知识去了周边的少林寺、洛阳，郑州只是去了下二七广场，这次短暂的City Walk 去了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-19T15:15:09+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-19T15:15:09+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -51,7 +51,7 @@ build 命令
 本系列文章均可参考我的 hugo博客项目，具体内容在里面均有体...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -66,7 +66,7 @@ build 命令
             前阵子写了一个 Cloudflare Worker 版的同步书影音记录，个人觉得对于个人博客来说已经足够了，但可能一些同学介意 Cloudflar...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 10 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 11 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -83,7 +83,7 @@ build 命令
 Hugo 的页面类型主要有以下...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 21 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 22 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -99,7 +99,7 @@ Hugo 的页面类型主要有以下...        </div>
 六七年前我第一次去苏州，东方之门还没亮灯。这次过去在金鸡湖那边逛了一下，已经建设的非常好了。不过风格和老城区...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 22 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-30T23:49:26+08:00">发布于 23 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -131,7 +131,7 @@ Hugo 的页面类型主要有以下...        </div>
 金普顿国内就两家，苏州一家上海一家，金普顿这个牌子在国外还是比较高端的，但是国内的价格不算特别夸张。本次现...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 28 天前</time>
+            <time itemprop="datePublished" datetime="2024-05-24T16:57:08+08:00">发布于 29 天前</time>
         </div>]]></content>
     </entry>
     <entry>
