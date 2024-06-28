@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-06-27T17:44:36.048Z</updated>
+    <updated>2024-06-28T05:44:25.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
             首先就是如果你不是没有域名和服务器，我完全不推荐你使用静态网页生成器，简单点说，静态博客能干的动态博客都能干，反过来...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 7 小时前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 19 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -32,7 +32,7 @@
             本文主要讲解 hugo 目录结构和主题目录结构的基本逻辑。Hugo 中有一些概念如 UnionFS,Hugo pipes 对普通用户来说很难理解，我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 9 小时前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 21 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
