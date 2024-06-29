@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-06-29T05:44:44.388Z</updated>
+    <updated>2024-06-29T17:44:33.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[如何完美地策划一场摄影活动，试试这七步]]></title>
+        <id>https://www.shephe.com/photography/how-to-plan-a-photoshoot/</id>
+        <link href="https://www.shephe.com/photography/how-to-plan-a-photoshoot/"/>
+        <updated>2024-06-29T17:44:30.628Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/how-to-plan-a-photoshoot/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何完美地策划一场摄影活动，试试这七步</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/06/young-model-photoshoot.webp 1792w, https://staticfile.shephe.com/wp-content/uploads/2024/06/young-model-photoshoot-768x439.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-29T22:59:57+08:00">
+				06/29/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何完美地策划一场摄影活动，试试这七步</span></h2>						<p>当看到网络上别人美美的照片，您是否也曾暗暗想过，自己一定也要去拍它一幅…但最后却不知道如何去实施？又或者，你在执行摄影的流程中遇到了阻碍，却不知道为什么总是失败。在这篇文章中，我们将学习如何用 7 个步骤来策划一场摄影活动，这个工作流程适用…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/how-to-plan-a-photoshoot/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[利用 LR/Mogrify 插件在 Lightroom 导出图片时自动添加边框和水印]]></title>
         <id>https://www.shephe.com/tutorial/lightroom-lr-mogrify/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>初识 WordPress 古腾堡编辑器的区块样板</span></h2>						<p>前不久连着发了数篇文章，让博客的流量稍微增高了一些，巅峰时期超过了 500IP，我寻思着这流量不能白白浪费啊…我服务器很贵的好伐！于是我又开始折腾广告了…起先仍然是放了 Google AdSense，不过 G 家的中文广告实在太少了…每天十…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-block-patterns/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 结婚登记照换装，登记照服装模板]]></title>
-        <id>https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/</id>
-        <link href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/"/>
-        <updated>2024-06-27T17:44:33.546Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 结婚登记照换装，登记照服装模板</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/06/Marriott-Marina-Del-Rey-Wedding-Photos.jpg 1200w, https://staticfile.shephe.com/wp-content/uploads/2024/06/Marriott-Marina-Del-Rey-Wedding-Photos-768x512.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-27T22:29:00+08:00">
-				05/27/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 结婚登记照换装，登记照服装模板</span></h2>						<p>近期 Kevin's 发布分享了不少证件照换装、换头发的免费资源，需要使用这些模板无非是因为客户预算低，不想换衣服……Well，有些客户拍婚纱登记证其实也想省省不麻烦，比如结婚登记照完全也可以拍几个人脸，衣服全靠换也不是不行嘛。 在现代社会…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
