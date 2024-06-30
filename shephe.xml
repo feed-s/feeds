@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-06-30T05:44:17.088Z</updated>
+    <updated>2024-06-30T17:44:32.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[哈苏大师赛 2023 年年度获奖作品大赏]]></title>
+        <id>https://www.shephe.com/photography/hasselblad-masters-2023/</id>
+        <link href="https://www.shephe.com/photography/hasselblad-masters-2023/"/>
+        <updated>2024-06-30T17:44:29.815Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/hasselblad-masters-2023/" rel="bookmark" target="_blank"><span class="screen-reader-text">哈苏大师赛 2023 年年度获奖作品大赏</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/06/哈苏大师赛2023人像组2.webp 1600w, https://staticfile.shephe.com/wp-content/uploads/2024/06/哈苏大师赛2023人像组2-768x768.webp 768w, https://staticfile.shephe.com/wp-content/uploads/2024/06/哈苏大师赛2023人像组2-300x300.webp 300w, https://staticfile.shephe.com/wp-content/uploads/2024/06/哈苏大师赛2023人像组2-900x900.webp 900w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-30T14:13:03+08:00">
+				06/30/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>哈苏大师赛 2023 年年度获奖作品大赏</span></h2>						<p>始于 2001 年的哈苏大师赛致力于为全球卓越摄影师提供绝佳的展示舞台。作为世界权威摄影赛事之一，哈苏大师赛给予专业影像创作者最高赞誉，并为他们打开一扇通往顶级摄影领域的大门。Well，恭喜我长期关注的摄影师 Thomas 获得哈苏大师赛风…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/hasselblad-masters-2023/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何完美地策划一场摄影活动，试试这七步]]></title>
         <id>https://www.shephe.com/photography/how-to-plan-a-photoshoot/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Keep 手环 B4 Lite 初体验，有点儿意思</span></h2>						<p>前二老婆单位发了个运动手环 Keep B4 Lite，好奇心驱使我迫不及待地拆开体验，发现这小玩意儿还有点儿意思…为啥这么说呢？因为鄙人已经几十年没有穿戴过任何手表、配饰和项链之类的“身外之物”了，如果可以，我愿意全身赤条条地生活。我比较崇…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/keep-bracelet-4-lite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[初识 WordPress 古腾堡编辑器的区块样板]]></title>
-        <id>https://www.shephe.com/website/wordpress-block-patterns/</id>
-        <link href="https://www.shephe.com/website/wordpress-block-patterns/"/>
-        <updated>2024-05-28T05:44:27.313Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-block-patterns/" rel="bookmark" target="_blank"><span class="screen-reader-text">初识 WordPress 古腾堡编辑器的区块样板</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03.jpg 1140w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-scrolling-img-03-768x512.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-28T10:48:13+08:00">
-				05/28/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>初识 WordPress 古腾堡编辑器的区块样板</span></h2>						<p>前不久连着发了数篇文章，让博客的流量稍微增高了一些，巅峰时期超过了 500IP，我寻思着这流量不能白白浪费啊…我服务器很贵的好伐！于是我又开始折腾广告了…起先仍然是放了 Google AdSense，不过 G 家的中文广告实在太少了…每天十…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-block-patterns/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
