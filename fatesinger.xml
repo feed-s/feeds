@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-06-30T17:44:32.329Z</updated>
+    <updated>2024-07-01T05:44:36.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[北京 City Walk]]></title>
+        <id>https://fatesinger.com/103575</id>
+        <link href="https://fatesinger.com/103575"/>
+        <updated>2024-07-01T05:44:17.408Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103575" aria-label="北京 City Walk" title="北京 City Walk">北京 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            鸟巢景观
+本次算是去了两个地方，一是奥体中心，也就是鸟巢和水立方，还有就是北海公园和景山公园，想想我也是在北京生活过的...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-07-01T12:13:34+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[杭州 City Walk]]></title>
         <id>https://fatesinger.com/103463</id>
@@ -129,23 +145,6 @@ build 命令
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-06-11T18:20:46+08:00">发布于 19 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hugo 简明教程 02]]></title>
-        <id>https://fatesinger.com/103437</id>
-        <link href="https://fatesinger.com/103437"/>
-        <updated>2024-05-31T17:44:09.560Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103437" aria-label="Hugo 简明教程 02" title="Hugo 简明教程 02">Hugo 简明教程 02</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            本文主要介绍 Hugo 内容文件管理和页面 URL 设置，建议搭配我的GitHub Pages项目使用。
-页面类型
-Hugo 的页面类型主要有以下...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-05-31T21:31:47+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
