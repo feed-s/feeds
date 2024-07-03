@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-07-03T05:44:52.346Z</updated>
+    <updated>2024-07-03T17:44:47.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[游戏陪玩：交易一段“完美情感”]]></title>
+        <id>https://www.shephe.com/post/%e6%b8%b8%e6%88%8f%e9%99%aa%e7%8e%a9/</id>
+        <link href="https://www.shephe.com/post/%e6%b8%b8%e6%88%8f%e9%99%aa%e7%8e%a9/"/>
+        <updated>2024-07-03T17:44:44.539Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e6%b8%b8%e6%88%8f%e9%99%aa%e7%8e%a9/" rel="bookmark" target="_blank"><span class="screen-reader-text">游戏陪玩：交易一段“完美情感”</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/06/Young-Asian-girl-portrait.webp 1792w, https://staticfile.shephe.com/wp-content/uploads/2024/06/Young-Asian-girl-portrait-768x439.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-03T18:00:14+08:00">
+				07/03/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>游戏陪玩：交易一段“完美情感”</span></h2>						<p>游戏陪玩是随着游戏产业的壮大而发展起来的一种职业。根据咨询机构艾瑞统计发布的数据，中国游戏陪玩市场规模在 2021 年达到 140 亿元。仅国内最早上线的一款游戏陪玩 App，注册人数就有 6000 多万。在平台上，一切情绪价值都像放在橱窗…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e6%b8%b8%e6%88%8f%e9%99%aa%e7%8e%a9/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哈苏大师赛 2023 年年度获奖作品大赏]]></title>
         <id>https://www.shephe.com/photography/hasselblad-masters-2023/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 WP-CLI 给 WordPress 网站重新生成缩略图</span></h2>						<p>此前为了保证图片浏览质量和节省磁盘空间，我几乎关闭了 WordPress 所有缩略图的输出，以前更新少流量低，也没觉得这么干有啥问题。近来博客更新比较频繁，流量也越来越高，一查发现这个博客消耗的宽带竟然比另一个主站还高（访问量远不及另一个）…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/wp-cli-wp-media-regenerate/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep 手环 B4 Lite 初体验，有点儿意思]]></title>
-        <id>https://www.shephe.com/life/keep-bracelet-4-lite/</id>
-        <link href="https://www.shephe.com/life/keep-bracelet-4-lite/"/>
-        <updated>2024-06-01T17:44:46.768Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/keep-bracelet-4-lite/" rel="bookmark" target="_blank"><span class="screen-reader-text">Keep 手环 B4 Lite 初体验，有点儿意思</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/05/keep-b4-lite3.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/05/keep-b4-lite3-768x512.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-01T11:30:17+08:00">
-				06/01/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Keep 手环 B4 Lite 初体验，有点儿意思</span></h2>						<p>前二老婆单位发了个运动手环 Keep B4 Lite，好奇心驱使我迫不及待地拆开体验，发现这小玩意儿还有点儿意思…为啥这么说呢？因为鄙人已经几十年没有穿戴过任何手表、配饰和项链之类的“身外之物”了，如果可以，我愿意全身赤条条地生活。我比较崇…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/keep-bracelet-4-lite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
