@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szclsya.me/zh-cn/posts/</id>
     <title>Leo's Field</title>
-    <updated>2024-07-05T05:44:30.481Z</updated>
+    <updated>2024-07-06T05:44:44.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[发邮件，但只用 netcat]]></title>
+        <id>https://szclsya.me/zh-cn/posts/net/send-email-with-netcat/</id>
+        <link href="https://szclsya.me/zh-cn/posts/net/send-email-with-netcat/"/>
+        <updated>2024-07-06T05:44:31.467Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+<span class="item-preinfo">2024-07-05</span>
+<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">net</span><span style="margin-right: .4em">linux</span></div>
+</div>
+<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/net/send-email-with-netcat/">
+<h1 class="item-title">发邮件，但只用 netcat</h1>
+<p class="item-description">又：为什么纯文本协议是好文明</p>
+<div class="badge hide-on-narrowest"><span>net</span><span>linux</span></div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZFS 入门指北：维护与灾难恢复]]></title>
         <id>https://szclsya.me/zh-cn/posts/storage/zfs-maintenance/</id>
@@ -138,21 +153,6 @@
 <h1 class="item-title">回望2020: 混乱与重生</h1>
 <p class="item-description">It's finally over.</p>
 <div class="badge hide-on-narrowest"></div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[概览 Linux 音频系统]]></title>
-        <id>https://szclsya.me/zh-cn/posts/linux/audio-system/</id>
-        <link href="https://szclsya.me/zh-cn/posts/linux/audio-system/"/>
-        <updated>2023-02-25T22:11:26.529Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-<span class="item-preinfo">2020-07-21</span>
-<div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">linux</span><span style="margin-right: .4em">audio</span></div>
-</div>
-<a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/linux/audio-system/">
-<h1 class="item-title">概览 Linux 音频系统</h1>
-<p class="item-description">论 Linux 是如何将音乐文件转换成空气的震动.</p>
-<div class="badge hide-on-narrowest"><span>linux</span><span>audio</span></div>
 </a>]]></content>
     </entry>
 </feed>

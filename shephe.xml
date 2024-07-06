@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-07-05T05:44:30.493Z</updated>
+    <updated>2024-07-06T05:44:44.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Honeyview，一个免费好用的图片浏览软件]]></title>
+        <id>https://www.shephe.com/resources/honeyview-free-download/</id>
+        <link href="https://www.shephe.com/resources/honeyview-free-download/"/>
+        <updated>2024-07-06T05:44:42.203Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/honeyview-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Honeyview，一个免费好用的图片浏览软件</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/07/Honeyview-Free-Download.png 1280w, https://staticfile.shephe.com/wp-content/uploads/2024/07/Honeyview-Free-Download-768x432.png 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-05T21:14:56+08:00">
+				07/05/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Honeyview，一个免费好用的图片浏览软件</span></h2>						<p>Honeyview 是一款绿色轻量型的图像浏览工具。它具有众多突出的优势。首先，其轻巧且高效，安装包规模较小，软件的启动以及图片的打开速度都非常快。其次，它所支持的格式极其丰富多元，能够展示包含 GPS 信息在内的 JPEG 格式的 EXI…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/honeyview-free-download/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[游戏陪玩：交易一段“完美情感”]]></title>
         <id>https://www.shephe.com/post/%e6%b8%b8%e6%88%8f%e9%99%aa%e7%8e%a9/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>记录阿里云新增 ICP 域名备案（重庆）</span></h2>						<p>四月底的时候，我看评价还不错于是撸了一台软云的服务器，然后搭了几个不常用的服务如</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/chenguo-life-icp/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 WP-CLI 给 WordPress 网站重新生成缩略图]]></title>
-        <id>https://www.shephe.com/post/wp-cli-wp-media-regenerate/</id>
-        <link href="https://www.shephe.com/post/wp-cli-wp-media-regenerate/"/>
-        <updated>2024-06-10T17:44:34.276Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/wp-cli-wp-media-regenerate/" rel="bookmark" target="_blank"><span class="screen-reader-text">用 WP-CLI 给 WordPress 网站重新生成缩略图</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/wordpress.png 1460w, https://staticfile.shephe.com/wp-content/uploads/2024/04/wordpress-768x384.png 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-10T23:47:05+08:00">
-				06/10/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 WP-CLI 给 WordPress 网站重新生成缩略图</span></h2>						<p>此前为了保证图片浏览质量和节省磁盘空间，我几乎关闭了 WordPress 所有缩略图的输出，以前更新少流量低，也没觉得这么干有啥问题。近来博客更新比较频繁，流量也越来越高，一查发现这个博客消耗的宽带竟然比另一个主站还高（访问量远不及另一个）…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/wp-cli-wp-media-regenerate/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
