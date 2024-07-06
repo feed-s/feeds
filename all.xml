@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-06T05:44:44.662Z</updated>
+    <updated>2024-07-06T17:44:38.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -516,7 +516,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -534,7 +534,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -804,7 +804,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -822,7 +822,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -840,7 +840,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -858,7 +858,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7017,11 +7017,11 @@ on
           </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[私有化知识库问答平台的部署与使用 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html</id>
-        <link href="https://www.eula.club/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html"/>
-        <updated>2024-06-11T05:46:25.308Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E7%A7%81%E6%9C%89%E5%8C%96%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E4%BD%BF%E7%94%A8.html" data-v-3fa1a62e="" class="">私有化知识库问答平台的部署与使用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">llama.cpp</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">RAPTOR</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span></i></div>]]></content>
+        <title type="html"><![CDATA[基于RAG的知识库问答平台使用指南 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
+        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
+        <updated>2024-07-06T17:44:16.409Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">基于RAG的知识库问答平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">llama.cpp</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">RAPTOR</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GaLore及BAdam实现低显存全量微调 (Quantum Bit)]]></title>
@@ -7080,11 +7080,11 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html" data-v-3fa1a62e="" class="">对OpenAI的ChatGPT大模型进行微调</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/23/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">ChatGPT</span><span class="tag-item" data-v-1e62957f="">大模型微调</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangChain及LangFlow使用指南 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
-        <link href="https://www.eula.club/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
-        <updated>2024-05-26T05:44:22.694Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%8F%8ALangFlow%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">LangChain及LangFlow使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">LangFlow</span><span class="tag-item" data-v-1e62957f="">LangChain-Extract</span></i></div>]]></content>
+        <title type="html"><![CDATA[LangChain工具链开发大模型应用 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/LangChain%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8.html</id>
+        <link href="https://www.eula.club/blogs/LangChain%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8.html"/>
+        <updated>2024-07-06T17:44:16.423Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/LangChain%E5%B7%A5%E5%85%B7%E9%93%BE%E5%BC%80%E5%8F%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BA%94%E7%94%A8.html" data-v-3fa1a62e="" class="">LangChain工具链开发大模型应用</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/7/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">LangFlow</span><span class="tag-item" data-v-1e62957f="">LangChain-Extract</span><span class="tag-item" data-v-1e62957f="">TypeChat</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7467,7 +7467,7 @@ on
 多年前来过济南一次，但是没有逛景区，这次再次造访逛了逛几个出名的景区，简单来说除了天气太热，其他的都还不错。...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7499,7 +7499,7 @@ on
 刚毕业的几年每年都要去一次杭州和同学小聚一下，最近几年都没有再去了。这次去也没联系谁，独自绕着西湖走了一圈，风景...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-28T16:40:29+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-28T16:40:29+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7514,7 +7514,7 @@ on
             首先就是如果你不是没有域名和服务器，我完全不推荐你使用静态网页生成器，简单点说，静态博客能干的动态博客都能干，反过来...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 8 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 9 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7529,7 +7529,7 @@ on
             本文主要讲解 hugo 目录结构和主题目录结构的基本逻辑。Hugo 中有一些概念如 UnionFS,Hugo pipes 对普通用户来说很难理解，我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 8 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 9 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7545,7 +7545,7 @@ on
 五年前去过一次青岛，当时去的时候是淡季，除了风大点，感觉都还蛮不错的，大大小小的景点都逛了一次，如今再次造访...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-24T15:39:00+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-24T15:39:00+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7562,7 +7562,7 @@ build 命令
 除了基础的 hugo build 其实 build命令支持不少参数，下面介绍一下比较有用的参...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7578,7 +7578,7 @@ build 命令
 多年以前曾经在郑州短暂待过几天，当时知识去了周边的少林寺、洛阳，郑州只是去了下二七广场，这次短暂的City Walk 去了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-19T15:15:09+08:00">发布于 16 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-19T15:15:09+08:00">发布于 17 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7594,7 +7594,7 @@ build 命令
 本系列文章均可参考我的 hugo博客项目，具体内容在里面均有体...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-17T17:22:35+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
