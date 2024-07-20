@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-07-20T05:44:28.328Z</updated>
+    <updated>2024-07-20T17:44:45.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -21,7 +21,7 @@ iphone xs 64 成色很好，电池不行了 458
 apple watch s6 铝合...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-09T16:00:05+08:00">发布于 10 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-09T16:00:05+08:00">发布于 11 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -37,7 +37,7 @@ apple watch s6 铝合...        </div>
 多年前来过济南一次，但是没有逛景区，这次再次造访逛了逛几个出名的景区，简单来说除了天气太热，其他的都还不错。...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 17 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 18 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -69,7 +69,7 @@ apple watch s6 铝合...        </div>
 刚毕业的几年每年都要去一次杭州和同学小聚一下，最近几年都没有再去了。这次去也没联系谁，独自绕着西湖走了一圈，风景...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-28T16:40:29+08:00">发布于 21 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-28T16:40:29+08:00">发布于 22 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -84,7 +84,7 @@ apple watch s6 铝合...        </div>
             首先就是如果你不是没有域名和服务器，我完全不推荐你使用静态网页生成器，简单点说，静态博客能干的动态博客都能干，反过来...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 22 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 23 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -99,7 +99,7 @@ apple watch s6 铝合...        </div>
             本文主要讲解 hugo 目录结构和主题目录结构的基本逻辑。Hugo 中有一些概念如 UnionFS,Hugo pipes 对普通用户来说很难理解，我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 22 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 23 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -115,7 +115,7 @@ apple watch s6 铝合...        </div>
 五年前去过一次青岛，当时去的时候是淡季，除了风大点，感觉都还蛮不错的，大大小小的景点都逛了一次，如今再次造访...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-24T15:39:00+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-24T15:39:00+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -132,7 +132,7 @@ build 命令
 除了基础的 hugo build 其实 build命令支持不少参数，下面介绍一下比较有用的参...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
