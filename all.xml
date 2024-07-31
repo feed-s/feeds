@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-31T05:45:09.058Z</updated>
+    <updated>2024-07-31T17:44:53.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -7467,7 +7467,7 @@ on
 前几天去了一次沈阳，本来想着也是一次 City Walk 之旅，但是延误险赌输了让本人兴致全无，实际并没有按照原...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7483,7 +7483,7 @@ on
 多年前来过济南一次，但是没有逛景区，这次再次造访逛了逛几个出名的景区，简单来说除了天气太热，其他的都还不错。...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 28 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 29 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7837,6 +7837,193 @@ build 命令
 <p class="item-description">It's finally over.</p>
 <div class="badge hide-on-narrowest"></div>
 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt-Life 从入门到精通开源路由器日常固件 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/47.html</id>
+        <link href="https://iyzm.net/openwrt/47.html"/>
+        <updated>2024-07-31T17:44:43.834Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/47.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2020/03/openwrt-logo.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/47.html" rel="bookmark">OpenWrt-Life 从入门到精通开源路由器日常固件</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-06-24T10:28:45+08:00" itemprop="dateModified">2024年6月24日</time><time class="entry-date published" datetime="2020-03-09T17:01:35+08:00" itemprop="datePublished">2020年3月9日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>关于 OpenWrt-Life 固件项目的介绍，固件下载，查询支持的路由器型号等。</p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两性关系之恋爱关系入门 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/3818.html</id>
+        <link href="https://iyzm.net/life/3818.html"/>
+        <updated>2024-07-31T17:44:43.836Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3818.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/life-014.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3818.html" rel="bookmark">两性关系之恋爱关系入门</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-07-16T22:06:38+08:00" itemprop="dateModified">2024年7月16日</time><time class="entry-date published" datetime="2024-02-18T13:51:33+08:00" itemprop="datePublished">2024年2月18日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>恋爱关系本质上是人类繁衍本能所催生的一种个人行为，心理学上爱是社交与文化的表现。 在文学作品中，以及心理学家、哲学家、生物化学家和其他职业的专家的著作中，我们都 … <a title="两性关系之恋爱关系入门" class="read-more" href="https://iyzm.net/life/3818.html" aria-label="更多 两性关系之恋爱关系入门"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两性关系之婚姻关系入门 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/3796.html</id>
+        <link href="https://iyzm.net/life/3796.html"/>
+        <updated>2024-07-31T17:44:43.837Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3796.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/life-013.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3796.html" rel="bookmark">两性关系之婚姻关系入门</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-07-15T00:56:07+08:00" itemprop="dateModified">2024年7月15日</time><time class="entry-date published" datetime="2024-02-14T22:14:17+08:00" itemprop="datePublished">2024年2月14日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>婚姻从法律层面来讲是一种男女双方组成了家庭的一种法律证明，从文化层面来讲是男女双方情感上的一种社会证明。 婚姻从表现形式上看，是双方财富、心理和生理的结合；从本 … <a title="两性关系之婚姻关系入门" class="read-more" href="https://iyzm.net/life/3796.html" aria-label="更多 两性关系之婚姻关系入门"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.04 安装 Nvidia 显卡驱动教程 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/linux/3727.html</id>
+        <link href="https://iyzm.net/linux/3727.html"/>
+        <updated>2024-07-31T17:44:43.838Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/linux/3727.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2024/02/Linux-118.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/linux/3727.html" rel="bookmark">Ubuntu 22.04 安装 Nvidia 显卡驱动教程</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-06-19T16:24:33+08:00" itemprop="dateModified">2024年6月19日</time><time class="entry-date published" datetime="2024-02-06T16:36:43+08:00" itemprop="datePublished">2024年2月6日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>Linux 系统如果安装了独立显卡，则必须要额外安装显卡驱动才能正常使用，与最常见的 Windows 系统不同，Linux 系统安装显卡驱动往往更为繁琐，且容易 … <a title="Ubuntu 22.04 安装 Nvidia 显卡驱动教程" class="read-more" href="https://iyzm.net/linux/3727.html" aria-label="更多 Ubuntu 22.04 安装 Nvidia 显卡驱动教程"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奇的国家之中国特色初步解析 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/3653.html</id>
+        <link href="https://iyzm.net/life/3653.html"/>
+        <updated>2024-07-31T17:44:43.841Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3653.html">
+<img width="176" height="150" src="https://iyzm.net/wp-content/uploads/2023/11/life-012.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-06-06T23:12:22+08:00" itemprop="dateModified">2024年6月6日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>外国的民众通过各种新闻和道听途说的信息来了解中国，由于中共强大的宣传部门主导了几乎所有的对外新闻，于是让外界的民众以为现在的中国已经是一个现代化的法制国家，和自 … <a title="神奇的国家之中国特色初步解析" class="read-more" href="https://iyzm.net/life/3653.html" aria-label="更多 神奇的国家之中国特色初步解析"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国特色解析，中国与美国的总体概览对比。 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/3446.html</id>
+        <link href="https://iyzm.net/life/3446.html"/>
+        <updated>2024-07-31T17:44:43.842Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3446.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/06/life-011.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-07-28T17:05:21+08:00" itemprop="dateModified">2024年7月28日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>尽管中国与美国从经济、政治、文化都完全不是同一个种类，不适合进行相互对比，但在中文舆论环境中，却常常喜欢进行中美对比，并把中国的现状称为“中国特色”，自诩为要优 … <a title="中国特色解析，中国与美国的总体概览对比。" class="read-more" href="https://iyzm.net/life/3446.html" aria-label="更多 中国特色解析，中国与美国的总体概览对比。"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优秀的无损音视频剪辑软件 LosslessCut (爱一枝梅)]]></title>
+        <id>https://iyzm.net/windows/3375.html</id>
+        <link href="https://iyzm.net/windows/3375.html"/>
+        <updated>2024-07-31T17:44:43.843Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/windows/3375.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/04/Win-048.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3375.html" rel="bookmark">优秀的无损音视频剪辑软件 LosslessCut</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-04-08T22:19:46+08:00" itemprop="dateModified">2023年4月8日</time><time class="entry-date published" datetime="2023-04-08T17:51:33+08:00" itemprop="datePublished">2023年4月8日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>从各种途径获取到音视频文件后，有时会发现原始文件中含有不需要的片段，想要简单去除掉无用的内容，这时如果使用各类专业级的视频编辑软件，不仅操作繁琐且耗时，还可能会 … <a title="优秀的无损音视频剪辑软件 LosslessCut" class="read-more" href="https://iyzm.net/windows/3375.html" aria-label="更多 优秀的无损音视频剪辑软件 LosslessCut"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt 防火墙配置入门指南 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/3313.html</id>
+        <link href="https://iyzm.net/openwrt/3313.html"/>
+        <updated>2024-07-31T17:44:43.845Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/3313.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-446.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3313.html" rel="bookmark">OpenWrt 防火墙配置入门指南</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="entry-date published" datetime="2023-03-16T17:22:38+08:00" itemprop="datePublished">2023年3月16日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>OpenWrt 路由器作为网关设备时，防火墙的管理也是日常需要接触的部分，OpenWrt 的防火墙规则可以通过界面进行直观的管理，无需熟记复杂的命令行操作，下面 … <a title="OpenWrt 防火墙配置入门指南" class="read-more" href="https://iyzm.net/openwrt/3313.html" aria-label="更多 OpenWrt 防火墙配置入门指南"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt IPv6 设置与 DHCPv6 设置入门指南 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/openwrt/3308.html</id>
+        <link href="https://iyzm.net/openwrt/3308.html"/>
+        <updated>2024-07-31T17:44:43.848Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/openwrt/3308.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/openwrt-445.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/openwrt/3308.html" rel="bookmark">OpenWrt IPv6 设置与 DHCPv6 设置入门指南</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-06-29T12:15:10+08:00" itemprop="dateModified">2023年6月29日</time><time class="entry-date published" datetime="2023-03-16T16:59:45+08:00" itemprop="datePublished">2023年3月16日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>当前互联网的 IPv4 地址池已彻底分配完毕，因此 IPv6 地址也得以基本普及，使用 OpenWrt 的各技术人员有必要了解相关的 IPv6 基础信息，本文介 … <a title="OpenWrt IPv6 设置与 DHCPv6 设置入门指南" class="read-more" href="https://iyzm.net/openwrt/3308.html" aria-label="更多 OpenWrt IPv6 设置与 DHCPv6 设置入门指南"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国求职面试参考指南-生活经验 (爱一枝梅)]]></title>
+        <id>https://iyzm.net/life/3077.html</id>
+        <link href="https://iyzm.net/life/3077.html"/>
+        <updated>2024-07-31T17:44:43.849Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/life/3077.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/life-010.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3077.html" rel="bookmark">中国求职面试参考指南-生活经验</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2023-10-06T19:23:40+08:00" itemprop="dateModified">2023年10月6日</time><time class="entry-date published" datetime="2023-03-15T22:51:43+08:00" itemprop="datePublished">2023年3月15日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>每个人都会经历的事情之一，这是一个让大多数人十分头痛的问题，网络上已经有海量的各种教程、求职攻略、求职秘籍等，但本文从实用性角度出发，分享关于求职更本质的来龙去 … <a title="中国求职面试参考指南-生活经验" class="read-more" href="https://iyzm.net/life/3077.html" aria-label="更多 中国求职面试参考指南-生活经验"> </a></p>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 平台优秀的全功能下载工具 Motrix (爱一枝梅)]]></title>
+        <id>https://iyzm.net/windows/3237.html</id>
+        <link href="https://iyzm.net/windows/3237.html"/>
+        <updated>2024-07-31T17:44:43.851Z</updated>
+        <content type="html"><![CDATA[<div class="post-image">
+<a href="https://iyzm.net/windows/3237.html">
+<img width="220" height="150" src="https://iyzm.net/wp-content/uploads/2023/03/Win-047.png" class="attachment-full size-full wp-post-image" alt="" itemprop="image" decoding="async" loading="lazy">
+</a>
+</div> <header class="entry-header">
+<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/windows/3237.html" rel="bookmark">Windows 平台优秀的全功能下载工具 Motrix</a></h2> <div class="entry-meta">
+<span class="posted-on"><time class="updated" datetime="2024-06-15T10:32:36+08:00" itemprop="dateModified">2024年6月15日</time><time class="entry-date published" datetime="2023-03-11T21:56:23+08:00" itemprop="datePublished">2023年3月11日</time></span> </div>
+</header>
+<div class="entry-summary" itemprop="text">
+<p>Motrix 是一款全功能下载工具软件，界面简洁易用，支持下载 HTTP(s)、FTP、BT、磁力链等资源，下载各类文件稳定可靠，速度优秀，非常适合作为一款日常 … <a title="Windows 平台优秀的全功能下载工具 Motrix" class="read-more" href="https://iyzm.net/windows/3237.html" aria-label="更多 Windows 平台优秀的全功能下载工具 Motrix"> </a></p>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[更换宏碁 Swift 3 SF314-511 笔记本键盘 (牧羊人)]]></title>
