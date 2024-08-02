@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-08-02T05:44:48.479Z</updated>
+    <updated>2024-08-02T17:44:51.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[西安 City Walk]]></title>
+        <id>https://fatesinger.com/103648</id>
+        <link href="https://fatesinger.com/103648"/>
+        <updated>2024-08-02T17:44:33.521Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103648" aria-label="西安 City Walk" title="西安 City Walk">西安 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            其实西安在我心里一直是属于西北地区的，但地图上看西安其实算是东部，给人这种错觉的原因是西北实在是过于荒芜，如果以人为...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 8 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沈阳康莱德]]></title>
         <id>https://fatesinger.com/103668</id>
@@ -18,7 +33,7 @@
 前几天去了一次沈阳，本来想着也是一次 City Walk 之旅，但是延误险赌输了让本人兴致全无，实际并没有按照原...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -130,22 +145,6 @@ build 命令
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[郑州 City Walk]]></title>
-        <id>https://fatesinger.com/103435</id>
-        <link href="https://fatesinger.com/103435"/>
-        <updated>2024-06-19T17:44:00.326Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103435" aria-label="郑州 City Walk" title="郑州 City Walk">郑州 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            洲际
-多年以前曾经在郑州短暂待过几天，当时知识去了周边的少林寺、洛阳，郑州只是去了下二七广场，这次短暂的City Walk 去了...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-19T15:15:09+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
