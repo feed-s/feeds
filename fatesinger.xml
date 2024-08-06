@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-08-06T05:44:33.203Z</updated>
+    <updated>2024-08-06T17:44:56.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[大阪 City Walk]]></title>
+        <id>https://fatesinger.com/103717</id>
+        <link href="https://fatesinger.com/103717"/>
+        <updated>2024-08-06T17:44:39.223Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103717" aria-label="大阪 City Walk" title="大阪 City Walk">大阪 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            大阪
+本次行程属于被动，为了省钱买了西安-深圳-大阪的国际联程票，刚好那几天深圳下雨，赌一下延误免费退掉后半段，没想到第...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-08-06T19:29:56+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[西安 City Walk]]></title>
         <id>https://fatesinger.com/103648</id>
@@ -17,7 +33,7 @@
             其实西安在我心里一直是属于西北地区的，但地图上看西安其实算是东部，给人这种错觉的原因是西北实在是过于荒芜，如果以人为...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -33,7 +49,7 @@
 前几天去了一次沈阳，本来想着也是一次 City Walk 之旅，但是延误险赌输了让本人兴致全无，实际并没有按照原...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -128,23 +144,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-06-24T15:39:00+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hugo 简明教程 04]]></title>
-        <id>https://fatesinger.com/103467</id>
-        <link href="https://fatesinger.com/103467"/>
-        <updated>2024-06-20T17:44:28.195Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103467" aria-label="Hugo 简明教程 04" title="Hugo 简明教程 04">Hugo 简明教程 04</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            本文主要讲解 hugo 的部署方法。
-build 命令
-除了基础的 hugo build 其实 build命令支持不少参数，下面介绍一下比较有用的参...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-20T14:49:44+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
