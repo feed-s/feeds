@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-14T17:45:02.056Z</updated>
+    <updated>2024-08-15T05:44:33.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -2611,7 +2611,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2627,7 +2627,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-title-link">杜导正是谁？</a></div>
+                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-title-link" tabindex="-1">杜导正是谁？</a></div>
             
 
             
@@ -2664,7 +2664,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2688,7 +2688,7 @@ on
 
               
                 
-                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2726,7 +2726,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2782,7 +2782,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -2798,7 +2798,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-title-link">欧中关系的范式转移与历史轮回: ——处于大转折中的欧洲对华关系</a></div>
+                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-title-link" tabindex="-1">欧中关系的范式转移与历史轮回: ——处于大转折中的欧洲对华关系</a></div>
             
 
             
@@ -2835,7 +2835,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -2859,7 +2859,7 @@ on
 
               
                 
-                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2897,7 +2897,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -2953,7 +2953,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2969,7 +2969,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/nbsp-nbsp" class="summary-title-link">&nbsp; &nbsp;故山知好在，孤客自悲凉——遥祭张思之先生</a></div>
+                <a href="/articles/nbsp-nbsp" class="summary-title-link" tabindex="-1">&nbsp; &nbsp;故山知好在，孤客自悲凉——遥祭张思之先生</a></div>
             
 
             
@@ -3006,7 +3006,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3030,7 +3030,7 @@ on
 
               
                 
-                <a href="/articles/nbsp-nbsp" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/nbsp-nbsp" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3068,7 +3068,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3124,7 +3124,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -3140,7 +3140,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-title-link">反思社会学：托马斯.索维尔与雷蒙.阿隆的启示</a></div>
+                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-title-link" tabindex="-1">反思社会学：托马斯.索维尔与雷蒙.阿隆的启示</a></div>
             
 
             
@@ -3177,7 +3177,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -3201,7 +3201,7 @@ on
 
               
                 
-                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3239,7 +3239,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -8033,7 +8033,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/08/20240811-DJS-AIR-2S.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/08/20240811-DJS-AIR-2S-768x512.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/08/20240811-DJS-AIR-2S-4.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/08/20240811-DJS-AIR-2S-4-768x512.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
