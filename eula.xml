@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-08-19T17:45:27.565Z</updated>
+    <updated>2024-08-20T05:44:32.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[基于ChatTTS和EchoMimic的虚拟数字人]]></title>
+        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EChatTTS%E5%92%8CEchoMimic%E7%9A%84%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html</id>
+        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EChatTTS%E5%92%8CEchoMimic%E7%9A%84%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html"/>
+        <updated>2024-08-20T05:44:10.069Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EChatTTS%E5%92%8CEchoMimic%E7%9A%84%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html" data-v-3fa1a62e="">基于ChatTTS和EchoMimic的虚拟数字人</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/18/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">虚拟数字人</span><span class="tag-item" data-v-1e62957f="">Whisper语音识别</span><span class="tag-item" data-v-1e62957f="">ChatTTS语音合成</span><span class="tag-item" data-v-1e62957f="">EchoMimic对口型</span></i></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GraphRAG知识图谱检索增强生成]]></title>
         <id>https://www.eula.club/blogs/GraphRAG%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90.html</id>
@@ -45,7 +52,7 @@
         <id>https://www.eula.club/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html</id>
         <link href="https://www.eula.club/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html"/>
         <updated>2024-04-08T17:44:10.922Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html" data-v-3fa1a62e="">GPT-SoVITS音频处理及语音克隆</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPT-SoVITS语音克隆</span><span class="tag-item" data-v-1e62957f="">VITS语音合成</span><span class="tag-item" data-v-1e62957f="">Whisper语音识别</span><span class="tag-item" data-v-1e62957f="">ChatTTS语音合成</span><span class="tag-item" data-v-1e62957f="">UVR5提取人声</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html" data-v-3fa1a62e="">GPT-SoVITS音频处理及语音克隆</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPT-SoVITS语音克隆</span><span class="tag-item" data-v-1e62957f="">VITS语音合成</span><span class="tag-item" data-v-1e62957f="">UVR5提取人声</span><span class="tag-item" data-v-1e62957f="">OpenVoice语音克隆</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[检索增强大语言模型生成RAG]]></title>
@@ -67,12 +74,5 @@
         <link href="https://www.eula.club/blogs/%E9%9D%9E%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%A1%A3%E5%86%85%E5%AE%B9%E8%A7%A3%E6%9E%90%E5%8F%8A%E7%BF%BB%E8%AF%91%E4%B8%93%E9%A2%98.html"/>
         <updated>2024-06-22T17:44:04.318Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E9%9D%9E%E7%BB%93%E6%9E%84%E5%8C%96%E6%96%87%E6%A1%A3%E5%86%85%E5%AE%B9%E8%A7%A3%E6%9E%90%E5%8F%8A%E7%BF%BB%E8%AF%91%E4%B8%93%E9%A2%98.html" data-v-3fa1a62e="">非结构化文档内容解析及翻译专题</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">9/29/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">MinerU</span><span class="tag-item" data-v-1e62957f="">PDF-Extract-Kit</span><span class="tag-item" data-v-1e62957f="">Marker</span><span class="tag-item" data-v-1e62957f="">OmniParse</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">LangChain</span><span class="tag-item" data-v-1e62957f="">文档解析</span><span class="tag-item" data-v-1e62957f="">文档翻译</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对OpenAI的ChatGPT大模型进行微调]]></title>
-        <id>https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html</id>
-        <link href="https://www.eula.club/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html"/>
-        <updated>2024-04-08T17:44:10.928Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%AF%B9OpenAI%E7%9A%84ChatGPT%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%BE%AE%E8%B0%83.html" data-v-3fa1a62e="">对OpenAI的ChatGPT大模型进行微调</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/24/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">ChatGPT</span><span class="tag-item" data-v-1e62957f="">大模型微调</span></i></div>]]></content>
     </entry>
 </feed>
