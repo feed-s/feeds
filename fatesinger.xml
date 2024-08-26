@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-08-26T05:44:46.637Z</updated>
+    <updated>2024-08-26T17:45:02.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[再回东北农村]]></title>
+        <id>https://fatesinger.com/103784</id>
+        <link href="https://fatesinger.com/103784"/>
+        <updated>2024-08-26T17:44:46.532Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103784" aria-label="再回东北农村" title="再回东北农村">再回东北农村</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            哈尔滨西站
+前阵子回了一趟东北农村，是我小时候长大的地方，已经很多年没回过了，已经完全陌生了。现在的农村基本上没啥人了...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 9 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪 City Walk]]></title>
         <id>https://fatesinger.com/103717</id>
@@ -18,7 +34,7 @@
 本次行程属于被动，为了省钱买了西安-深圳-大阪的国际联程票，刚好那几天深圳下雨，赌一下延误免费退掉后半段，没想到第...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-06T19:29:56+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-06T19:29:56+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -33,7 +49,7 @@
             其实西安在我心里一直是属于西北地区的，但地图上看西安其实算是东部，给人这种错觉的原因是西北实在是过于荒芜，如果以人为...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 23 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 24 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -112,7 +128,7 @@
             首先就是如果你不是没有域名和服务器，我完全不推荐你使用静态网页生成器，简单点说，静态博客能干的动态博客都能干，反过来...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 1月前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -127,23 +143,7 @@
             本文主要讲解 hugo 目录结构和主题目录结构的基本逻辑。Hugo 中有一些概念如 UnionFS,Hugo pipes 对普通用户来说很难理解，我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青岛瑞吉]]></title>
-        <id>https://fatesinger.com/103441</id>
-        <link href="https://fatesinger.com/103441"/>
-        <updated>2024-06-24T17:44:52.862Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103441" aria-label="青岛瑞吉" title="青岛瑞吉">青岛瑞吉</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            青岛瑞吉
-五年前去过一次青岛，当时去的时候是淡季，除了风大点，感觉都还蛮不错的，大大小小的景点都逛了一次，如今再次造访...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-24T15:39:00+08:00">发布于 2月前</time>
+            <time itemprop="datePublished" datetime="2024-06-27T16:05:06+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
 </feed>
