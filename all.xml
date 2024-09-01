@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-01T05:44:37.047Z</updated>
+    <updated>2024-09-01T17:44:20.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -7024,13 +7024,6 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9B%86%E7%BE%A4%E4%B8%AD%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E7%9A%84%E6%8E%92%E6%9F%A5%E4%BF%AE%E5%A4%8D.html" data-v-3fa1a62e="" class="">服务器集群中挖矿病毒的排查修复</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/30/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">挖矿病毒</span><span class="tag-item" data-v-1e62957f="">BusyBox</span><span class="tag-item" data-v-1e62957f="">UnHide</span><span class="tag-item" data-v-1e62957f="">GScan</span></i></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于ChatTTS和EchoMimic的虚拟数字人 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EChatTTS%E5%92%8CEchoMimic%E7%9A%84%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EChatTTS%E5%92%8CEchoMimic%E7%9A%84%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html"/>
-        <updated>2024-08-20T05:44:10.069Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EChatTTS%E5%92%8CEchoMimic%E7%9A%84%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html" data-v-3fa1a62e="" class="">基于ChatTTS和EchoMimic的虚拟数字人</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/18/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">虚拟数字人</span><span class="tag-item" data-v-1e62957f="">Whisper语音识别</span><span class="tag-item" data-v-1e62957f="">ChatTTS语音合成</span><span class="tag-item" data-v-1e62957f="">EchoMimic对口型</span></i></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GraphRAG知识图谱检索增强生成 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/GraphRAG%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90.html</id>
         <link href="https://www.eula.club/blogs/GraphRAG%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E7%94%9F%E6%88%90.html"/>
@@ -7070,7 +7063,14 @@ on
         <id>https://www.eula.club/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html</id>
         <link href="https://www.eula.club/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html"/>
         <updated>2024-04-08T17:44:10.922Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html" data-v-3fa1a62e="" class="">GPT-SoVITS音频处理及语音克隆</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPT-SoVITS语音克隆</span><span class="tag-item" data-v-1e62957f="">VITS语音合成</span><span class="tag-item" data-v-1e62957f="">UVR5提取人声</span><span class="tag-item" data-v-1e62957f="">OpenVoice语音克隆</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/GPT-SoVITS%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86%E5%8F%8A%E8%AF%AD%E9%9F%B3%E5%85%8B%E9%9A%86.html" data-v-3fa1a62e="" class="">GPT-SoVITS音频处理及语音克隆</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPT-SoVITS语音克隆</span><span class="tag-item" data-v-1e62957f="">Whisper语音识别</span><span class="tag-item" data-v-1e62957f="">VITS语音合成</span><span class="tag-item" data-v-1e62957f="">UVR5提取人声</span></i></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多模态深度伪造技术与虚拟数字人 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/%E5%A4%9A%E6%A8%A1%E6%80%81%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0%E6%8A%80%E6%9C%AF%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html</id>
+        <link href="https://www.eula.club/blogs/%E5%A4%9A%E6%A8%A1%E6%80%81%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0%E6%8A%80%E6%9C%AF%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html"/>
+        <updated>2024-09-01T17:43:56.713Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%A4%9A%E6%A8%A1%E6%80%81%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0%E6%8A%80%E6%9C%AF%E4%B8%8E%E8%99%9A%E6%8B%9F%E6%95%B0%E5%AD%97%E4%BA%BA.html" data-v-3fa1a62e="" class="">多模态深度伪造技术与虚拟数字人</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/28/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">ChatTTS语音合成</span><span class="tag-item" data-v-1e62957f="">OpenVoice语音克隆</span><span class="tag-item" data-v-1e62957f="">OOTDiffusion服装试穿</span><span class="tag-item" data-v-1e62957f="">EchoMimic口型同步</span><span class="tag-item" data-v-1e62957f="">Deep-Live-Cam视频换脸</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[检索增强大语言模型生成RAG (Quantum Bit)]]></title>
@@ -7084,7 +7084,7 @@ on
         <id>https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html</id>
         <link href="https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html"/>
         <updated>2024-04-08T17:44:10.926Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会发布内容概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI</span><span class="tag-item" data-v-1e62957f="">开发者大会</span><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">GPT-Store</span><span class="tag-item" data-v-1e62957f="">API升级与降价</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant-API</span><span class="tag-item" data-v-1e62957f="">文档问答助手</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会发布内容概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7467,7 +7467,7 @@ on
 本包是遭到了椒老师的恶评，不过我在调研多个后最后还是选择了这款 30l 的 travel bag。我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7483,7 +7483,7 @@ on
 前阵子回了一趟东北农村，是我小时候长大的地方，已经很多年没回过了，已经完全陌生了。现在的农村基本上没啥人了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7499,7 +7499,7 @@ on
 本次行程属于被动，为了省钱买了西安-深圳-大阪的国际联程票，刚好那几天深圳下雨，赌一下延误免费退掉后半段，没想到第...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-06T19:29:56+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-06T19:29:56+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7514,7 +7514,7 @@ on
             其实西安在我心里一直是属于西北地区的，但地图上看西安其实算是东部，给人这种错觉的原因是西北实在是过于荒芜，如果以人为...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
