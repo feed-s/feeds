@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-09-16T05:45:20.331Z</updated>
+    <updated>2024-09-16T17:45:03.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[台风后的徐汇]]></title>
+        <id>https://fatesinger.com/103851</id>
+        <link href="https://fatesinger.com/103851"/>
+        <updated>2024-09-16T17:44:46.899Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103851" aria-label="台风后的徐汇" title="台风后的徐汇">台风后的徐汇</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            上海
+台风刚过人很少，环卫工人已经清理过一次，明早一切又将恢复如常，记录一下安静又略显凌乱的徐汇街道。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-09-16T22:13:17+08:00">发布于 3 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Bag Travel]]></title>
         <id>https://fatesinger.com/103062</id>
@@ -18,7 +49,7 @@
 本包是遭到了椒老师的恶评，不过我在调研多个后最后还是选择了这款 30l 的 travel bag。我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +65,7 @@
 前阵子回了一趟东北农村，是我小时候长大的地方，已经很多年没回过了，已经完全陌生了。现在的农村基本上没啥人了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 20 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 21 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -130,21 +161,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-06-28T16:40:29+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hugo 简明教程 01]]></title>
-        <id>https://fatesinger.com/103519</id>
-        <link href="https://fatesinger.com/103519"/>
-        <updated>2024-06-27T17:44:17.726Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103519" aria-label="Hugo 简明教程 01" title="Hugo 简明教程 01">Hugo 简明教程 01</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            首先就是如果你不是没有域名和服务器，我完全不推荐你使用静态网页生成器，简单点说，静态博客能干的动态博客都能干，反过来...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/codex" rel="category tag">Codex</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-27T18:39:33+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
 </feed>
