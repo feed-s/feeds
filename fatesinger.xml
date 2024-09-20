@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-09-20T05:44:48.741Z</updated>
+    <updated>2024-09-20T17:44:39.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[梧桐区 City Walk]]></title>
+        <id>https://fatesinger.com/103859</id>
+        <link href="https://fatesinger.com/103859"/>
+        <updated>2024-09-20T17:44:22.612Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103859" aria-label="梧桐区 City Walk" title="梧桐区 City Walk">梧桐区 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            上海图书馆
+同为一线城市，我觉得上海比深圳好的地方就是既有最为便捷的当代生活，也有独特的历史风韵。上海来过很多次，基本...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-09-21T00:37:05+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[喜提 iPhone 16 Pro]]></title>
+        <id>https://fatesinger.com/103835</id>
+        <link href="https://fatesinger.com/103835"/>
+        <updated>2024-09-20T17:44:22.613Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103835" aria-label="喜提 iPhone 16 Pro" title="喜提 iPhone 16 Pro">喜提 iPhone 16 Pro</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            iPhone 16 Pro Max
+不知道是不是上了年纪了，喜欢金色的东西。不过今年暂时还不打算更新了，去年在手机壳上投入过多，又不通...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/shopping" rel="category tag">我买故我在</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-09-20T17:58:07+08:00">发布于 7 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[台风后的徐汇]]></title>
         <id>https://fatesinger.com/103851</id>
@@ -33,7 +65,7 @@
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-09-16T22:13:17+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-09-16T22:13:17+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -49,7 +81,7 @@
 本包是遭到了椒老师的恶评，不过我在调研多个后最后还是选择了这款 30l 的 travel bag。我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 22 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 23 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -65,7 +97,7 @@
 前阵子回了一趟东北农村，是我小时候长大的地方，已经很多年没回过了，已经完全陌生了。现在的农村基本上没啥人了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-26T16:38:47+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -129,38 +161,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[北京 City Walk]]></title>
-        <id>https://fatesinger.com/103575</id>
-        <link href="https://fatesinger.com/103575"/>
-        <updated>2024-07-01T05:44:17.408Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103575" aria-label="北京 City Walk" title="北京 City Walk">北京 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            鸟巢景观
-本次算是去了两个地方，一是奥体中心，也就是鸟巢和水立方，还有就是北海公园和景山公园，想想我也是在北京生活过的...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-01T12:13:34+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[杭州 City Walk]]></title>
-        <id>https://fatesinger.com/103463</id>
-        <link href="https://fatesinger.com/103463"/>
-        <updated>2024-06-28T17:44:44.951Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103463" aria-label="杭州 City Walk" title="杭州 City Walk">杭州 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            西湖
-刚毕业的几年每年都要去一次杭州和同学小聚一下，最近几年都没有再去了。这次去也没联系谁，独自绕着西湖走了一圈，风景...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-06-28T16:40:29+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
 </feed>
