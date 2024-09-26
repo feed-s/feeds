@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-26T05:44:50.451Z</updated>
+    <updated>2024-09-26T17:45:20.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -516,7 +516,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -534,7 +534,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -804,7 +804,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -822,7 +822,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -840,7 +840,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -858,7 +858,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7455,6 +7455,38 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[麦积山访古 II (大发贱志)]]></title>
+        <id>https://fatesinger.com/103923</id>
+        <link href="https://fatesinger.com/103923"/>
+        <updated>2024-09-26T17:45:01.636Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103923" aria-label="麦积山访古 II" title="麦积山访古 II">麦积山访古 II</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            洞窟标牌
+4窟位于东崖最高处，又称上七佛阁，也是网红哼哈二将所在处，是目前所见北朝石窟中仿木构建筑规模最大的一处石窟，...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-09-26T19:47:20+08:00">发布于 5 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麦积山访古 (大发贱志)]]></title>
+        <id>https://fatesinger.com/103904</id>
+        <link href="https://fatesinger.com/103904"/>
+        <updated>2024-09-26T17:45:01.638Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103904" aria-label="麦积山访古" title="麦积山访古">麦积山访古</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            麦积山石窟
+麦积山石窟一般介绍的时候都说是中国四大石窟，不过维基百科上中国四大石窟是敦煌莫高窟、大同云冈石窟、洛阳龙门...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-09-26T17:54:06+08:00">发布于 7 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[梧桐区 City Walk (大发贱志)]]></title>
         <id>https://fatesinger.com/103859</id>
         <link href="https://fatesinger.com/103859"/>
@@ -7467,7 +7499,7 @@ on
 同为一线城市，我觉得上海比深圳好的地方就是既有最为便捷的当代生活，也有独特的历史风韵。上海来过很多次，基本...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-09-21T00:37:05+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2024-09-21T00:37:05+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7483,7 +7515,7 @@ on
 不知道是不是上了年纪了，喜欢金色的东西。不过今年暂时还不打算更新了，去年在手机壳上投入过多，又不通...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/shopping" rel="category tag">我买故我在</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-09-20T17:58:07+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2024-09-20T17:58:07+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7514,7 +7546,7 @@ on
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-09-16T22:13:17+08:00">发布于 9 天前</time>
+            <time itemprop="datePublished" datetime="2024-09-16T22:13:17+08:00">发布于 10 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7530,7 +7562,7 @@ on
 本包是遭到了椒老师的恶评，不过我在调研多个后最后还是选择了这款 30l 的 travel bag。我...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 28 天前</time>
+            <time itemprop="datePublished" datetime="2024-08-28T16:20:00+08:00">发布于 29 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7578,38 +7610,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-08-02T17:20:05+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沈阳康莱德 (大发贱志)]]></title>
-        <id>https://fatesinger.com/103668</id>
-        <link href="https://fatesinger.com/103668"/>
-        <updated>2024-07-25T17:44:23.731Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103668" aria-label="沈阳康莱德" title="沈阳康莱德">沈阳康莱德</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            Conrad Shenyang
-前几天去了一次沈阳，本来想着也是一次 City Walk 之旅，但是延误险赌输了让本人兴致全无，实际并没有按照原...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-25T16:25:05+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[济南 City Walk (大发贱志)]]></title>
-        <id>https://fatesinger.com/103479</id>
-        <link href="https://fatesinger.com/103479"/>
-        <updated>2024-07-02T17:44:20.977Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103479" aria-label="济南 City Walk" title="济南 City Walk">济南 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            济南洲际
-多年前来过济南一次，但是没有逛景区，这次再次造访逛了逛几个出名的景区，简单来说除了天气太热，其他的都还不错。...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-07-02T16:23:09+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
