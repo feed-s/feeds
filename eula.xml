@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2024-10-04T17:44:39.125Z</updated>
+    <updated>2024-10-05T05:44:28.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI辅助编程工具Cursor使用指南]]></title>
+        <id>https://www.eula.club/blogs/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7Cursor%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
+        <link href="https://www.eula.club/blogs/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7Cursor%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
+        <updated>2024-10-05T05:43:59.723Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/AI%E8%BE%85%E5%8A%A9%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7Cursor%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">AI辅助编程工具Cursor使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">10/4/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Cursor</span><span class="tag-item" data-v-1e62957f="">Github-Copilot</span><span class="tag-item" data-v-1e62957f="">ChatGPT-4o-with-canvas</span><span class="tag-item" data-v-1e62957f="">AI辅助编程</span></i></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[服务器集群中挖矿病毒的排查修复]]></title>
         <id>https://www.eula.club/blogs/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9B%86%E7%BE%A4%E4%B8%AD%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E7%9A%84%E6%8E%92%E6%9F%A5%E4%BF%AE%E5%A4%8D.html</id>
@@ -67,12 +74,5 @@
         <link href="https://www.eula.club/blogs/%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90RAG.html"/>
         <updated>2024-04-08T17:44:10.924Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90RAG.html" data-v-3fa1a62e="" class="">检索增强大语言模型生成RAG</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">12/17/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">检索增强生成RAG</span><span class="tag-item" data-v-1e62957f="">BM25及BGE检索</span><span class="tag-item" data-v-1e62957f="">Agentic-RAG</span><span class="tag-item" data-v-1e62957f="">RAG效果优化</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI首届开发者大会发布内容概要]]></title>
-        <id>https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html</id>
-        <link href="https://www.eula.club/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html"/>
-        <updated>2024-04-08T17:44:10.926Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/OpenAI%E9%A6%96%E5%B1%8A%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81.html" data-v-3fa1a62e="" class="">OpenAI首届开发者大会发布内容概要</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">11/10/2023</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">OpenAI开发者大会</span><span class="tag-item" data-v-1e62957f="">GPT-Store</span><span class="tag-item" data-v-1e62957f="">GPTs</span><span class="tag-item" data-v-1e62957f="">多模态API</span><span class="tag-item" data-v-1e62957f="">Assistant-API</span></i></div>]]></content>
     </entry>
 </feed>
