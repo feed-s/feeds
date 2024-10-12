@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-10-12T05:44:33.904Z</updated>
+    <updated>2024-10-12T17:44:30.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[二〇二四·国庆出行记录：西昌建昌古城、邛海泸山景区与汉源湖]]></title>
+        <id>https://www.shephe.com/post/%e8%a5%bf%e6%98%8c%e5%85%ad%e6%97%a5/</id>
+        <link href="https://www.shephe.com/post/%e8%a5%bf%e6%98%8c%e5%85%ad%e6%97%a5/"/>
+        <updated>2024-10-12T17:44:28.008Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e8%a5%bf%e6%98%8c%e5%85%ad%e6%97%a5/" rel="bookmark" target="_blank"><span class="screen-reader-text">二〇二四·国庆出行记录：西昌建昌古城、邛海泸山景区与汉源湖</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/20241006-汉源湖的风景-4.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2024/10/20241006-汉源湖的风景-4-768x432.jpg 768w, https://staticfile.shephe.com/wp-content/uploads/2024/10/20241006-汉源湖的风景-4-1920x1080.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/10/20241006-汉源湖的风景-4-1390x782.jpg 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-10-12T16:08:15+08:00">
+				10/12/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>二〇二四·国庆出行记录：西昌建昌古城、邛海泸山景区与汉源湖</span></h2>						<p>老婆是西昌人，那地方距离重庆主城六七百公里，虽说不算很远，不过现在有个小孩总归不是那么方便，不能“说走就走”，况且老婆因工作原因，平时并不是那么自由。这不又逢大假，我也已经一整年没过去了，这必须得去看看啊。 我们 30 号下班后先驱车回到我…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e8%a5%bf%e6%98%8c%e5%85%ad%e6%97%a5/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何拍出最佳美食照片？食物拍摄相机参数]]></title>
         <id>https://www.shephe.com/photography/%e7%be%8e%e9%a3%9f%e6%91%84%e5%bd%b1/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DJI MAVIC AIR2S 飞行中电池自燃如何处理</span></h2>						<p>友友们，您各位七夕节都去哪儿玩了吖？我奶奶七月初八生辰，每年我们都会给她老人家庆生，所以一般这天都会回到老家，今年也不意外。只是今年恰好是周末，所以我们两头一天早早就回去了，当天下午我们一家三口（其他人都打麻将去了）睡了午觉以后出门闲逛，我…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/dji-mavic-air2s-battery-fire/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更换宏碁 Swift 3 SF314-511 笔记本键盘]]></title>
-        <id>https://www.shephe.com/post/replace-acer-swift-3-sf314-511-keyboard/</id>
-        <link href="https://www.shephe.com/post/replace-acer-swift-3-sf314-511-keyboard/"/>
-        <updated>2024-07-26T05:44:26.881Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/replace-acer-swift-3-sf314-511-keyboard/" rel="bookmark" target="_blank"><span class="screen-reader-text">更换宏碁 Swift 3 SF314-511 笔记本键盘</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/07/Swift3-SF314-511-501B-13.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/07/Swift3-SF314-511-501B-13-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-25T21:22:19+08:00">
-				07/25/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>更换宏碁 Swift 3 SF314-511 笔记本键盘</span></h2>						<p>几年前给老婆买了这台宏碁 Swift 3 笔记本电脑，单从配置（11Gen I5/16GB RAM/512G SSD，当时四千多买的全新机）来看它的性能并不算高，但一直以来用着都还不错，不论是响应速度和续航体验都挺好，甚至超过了我那台</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/replace-acer-swift-3-sf314-511-keyboard/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
