@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T05:46:34.710Z</updated>
+    <updated>2024-10-30T17:44:25.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -2671,7 +2671,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2687,7 +2687,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/4kxh5jx676nwf65chkz7fthbdb4rxh" class="summary-title-link">以色列宪法与巴以冲突</a></div>
+                <a href="/articles/4kxh5jx676nwf65chkz7fthbdb4rxh" class="summary-title-link" tabindex="-1">以色列宪法与巴以冲突</a></div>
             
 
             
@@ -2724,7 +2724,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2748,7 +2748,7 @@ on
 
               
                 
-                <a href="/articles/4kxh5jx676nwf65chkz7fthbdb4rxh" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/4kxh5jx676nwf65chkz7fthbdb4rxh" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2786,7 +2786,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -2842,7 +2842,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2858,7 +2858,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-title-link">杜导正是谁？</a></div>
+                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-title-link" tabindex="-1">杜导正是谁？</a></div>
             
 
             
@@ -2895,7 +2895,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -2919,7 +2919,7 @@ on
 
               
                 
-                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/zdxhdkcslzg7flezd9wennxgyf5j9t" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -2957,7 +2957,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3013,7 +3013,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -3029,7 +3029,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-title-link">欧中关系的范式转移与历史轮回: ——处于大转折中的欧洲对华关系</a></div>
+                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-title-link" tabindex="-1">欧中关系的范式转移与历史轮回: ——处于大转折中的欧洲对华关系</a></div>
             
 
             
@@ -3066,7 +3066,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -3090,7 +3090,7 @@ on
 
               
                 
-                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/46g3pt3mj3jwbh6244f9t8lbslp2h9" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3128,7 +3128,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -3184,7 +3184,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3200,7 +3200,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/nbsp-nbsp" class="summary-title-link">&nbsp; &nbsp;故山知好在，孤客自悲凉——遥祭张思之先生</a></div>
+                <a href="/articles/nbsp-nbsp" class="summary-title-link" tabindex="-1">&nbsp; &nbsp;故山知好在，孤客自悲凉——遥祭张思之先生</a></div>
             
 
             
@@ -3237,7 +3237,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3261,7 +3261,7 @@ on
 
               
                 
-                <a href="/articles/nbsp-nbsp" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/nbsp-nbsp" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3299,7 +3299,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3355,7 +3355,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -3371,7 +3371,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-title-link">反思社会学：托马斯.索维尔与雷蒙.阿隆的启示</a></div>
+                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-title-link" tabindex="-1">反思社会学：托马斯.索维尔与雷蒙.阿隆的启示</a></div>
             
 
             
@@ -3408,7 +3408,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -3432,7 +3432,7 @@ on
 
               
                 
-                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/l84lk9mwfe7782rrk2h95nyz2ey7s7" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3470,7 +3470,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -3526,7 +3526,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -3542,7 +3542,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-title-link">文明秩序的构造机理与历史趋势</a></div>
+                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-title-link" tabindex="-1">文明秩序的构造机理与历史趋势</a></div>
             
 
             
@@ -3579,7 +3579,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -3603,7 +3603,7 @@ on
 
               
                 
-                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/w9bzag76fb64ehz57lw47ajymsar7p" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3641,7 +3641,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -3697,7 +3697,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -3713,7 +3713,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-title-link">在历史的长河中观察共产党、习近平和中国的政治改革</a></div>
+                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-title-link" tabindex="-1">在历史的长河中观察共产党、习近平和中国的政治改革</a></div>
             
 
             
@@ -3750,7 +3750,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -3774,7 +3774,7 @@ on
 
               
                 
-                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/w8dx7tdpt3jcwercgbnp5lf4ge86cy" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3812,7 +3812,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -3868,7 +3868,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3884,7 +3884,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/19866" class="summary-title-link">道术将为天下裂：1986、富强胡同6号与当代中国知识分子的分野</a></div>
+                <a href="/articles/19866" class="summary-title-link" tabindex="-1">道术将为天下裂：1986、富强胡同6号与当代中国知识分子的分野</a></div>
             
 
             
@@ -3921,7 +3921,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -3945,7 +3945,7 @@ on
 
               
                 
-                <a href="/articles/19866" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/19866" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -3983,7 +3983,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -4039,7 +4039,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4055,7 +4055,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-title-link">语言与国家：建构一个国家形成的政治理论 （下）</a></div>
+                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-title-link" tabindex="-1">语言与国家：建构一个国家形成的政治理论 （下）</a></div>
             
 
             
@@ -4092,7 +4092,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4116,7 +4116,7 @@ on
 
               
                 
-                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/c4srfk6p88p7hye88lh5y38lj4ksh6" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -4154,7 +4154,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4210,7 +4210,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4226,7 +4226,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/nbspnbsp-" class="summary-title-link">&nbsp;&nbsp; 语言与国家：建构一个国家形成的政治理论 （上）</a></div>
+                <a href="/articles/nbspnbsp-" class="summary-title-link" tabindex="-1">&nbsp;&nbsp; 语言与国家：建构一个国家形成的政治理论 （上）</a></div>
             
 
             
@@ -4263,7 +4263,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4287,7 +4287,7 @@ on
 
               
                 
-                <a href="/articles/nbspnbsp-" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/nbspnbsp-" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -4325,7 +4325,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4381,7 +4381,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4397,7 +4397,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/nbspnbsp-nbsp-" class="summary-title-link">也谈« 为儒家正名 » —- 短评张千帆老师的《为儒家“正名”》</a></div>
+                <a href="/articles/nbspnbsp-nbsp-" class="summary-title-link" tabindex="-1">也谈« 为儒家正名 » —- 短评张千帆老师的《为儒家“正名”》</a></div>
             
 
             
@@ -4434,7 +4434,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4458,7 +4458,7 @@ on
 
               
                 
-                <a href="/articles/nbspnbsp-nbsp-" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/nbspnbsp-nbsp-" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -4496,7 +4496,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4552,7 +4552,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4568,7 +4568,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/yd7tbbyfs5c9586her4tab9adlzzg4" class="summary-title-link">为儒家正名</a></div>
+                <a href="/articles/yd7tbbyfs5c9586her4tab9adlzzg4" class="summary-title-link" tabindex="-1">为儒家正名</a></div>
             
 
             
@@ -4605,7 +4605,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4629,7 +4629,7 @@ on
 
               
                 
-                <a href="/articles/yd7tbbyfs5c9586her4tab9adlzzg4" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/yd7tbbyfs5c9586her4tab9adlzzg4" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -4667,7 +4667,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96">文化</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%96%87%E5%8C%96" tabindex="-1">文化</a></span>
 
 
 
@@ -4723,7 +4723,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -4739,7 +4739,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/wzdx4557cm7g6tppzwftj6kxj8abkr" class="summary-title-link">俄乌战争结局及未来世界图景</a></div>
+                <a href="/articles/wzdx4557cm7g6tppzwftj6kxj8abkr" class="summary-title-link" tabindex="-1">俄乌战争结局及未来世界图景</a></div>
             
 
             
@@ -4776,7 +4776,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -4800,7 +4800,7 @@ on
 
               
                 
-                <a href="/articles/wzdx4557cm7g6tppzwftj6kxj8abkr" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/wzdx4557cm7g6tppzwftj6kxj8abkr" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -4838,7 +4838,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -4894,7 +4894,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -4910,7 +4910,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/2dp6xe5xpzrj6ykfebyrtbm4t2bkja" class="summary-title-link">被误读的中日密约：也谈巴黎和会上的外交事故</a></div>
+                <a href="/articles/2dp6xe5xpzrj6ykfebyrtbm4t2bkja" class="summary-title-link" tabindex="-1">被误读的中日密约：也谈巴黎和会上的外交事故</a></div>
             
 
             
@@ -4947,7 +4947,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -4971,7 +4971,7 @@ on
 
               
                 
-                <a href="/articles/2dp6xe5xpzrj6ykfebyrtbm4t2bkja" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/2dp6xe5xpzrj6ykfebyrtbm4t2bkja" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -5009,7 +5009,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2">历史</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
@@ -5065,7 +5065,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -5081,7 +5081,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/hrp2fmjgwzblt7m3b8edatax9g3f2e" class="summary-title-link">习近平政权是人类极权统治的黄昏</a></div>
+                <a href="/articles/hrp2fmjgwzblt7m3b8edatax9g3f2e" class="summary-title-link" tabindex="-1">习近平政权是人类极权统治的黄昏</a></div>
             
 
             
@@ -5118,7 +5118,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -5142,7 +5142,7 @@ on
 
               
                 
-                <a href="/articles/hrp2fmjgwzblt7m3b8edatax9g3f2e" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/hrp2fmjgwzblt7m3b8edatax9g3f2e" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -5180,7 +5180,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -5236,7 +5236,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -5252,7 +5252,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/y7ztgkxprlkkmg5kghw3fjyx33rgj7" class="summary-title-link">普京和习近平的战争泥淖与极权主义企图</a></div>
+                <a href="/articles/y7ztgkxprlkkmg5kghw3fjyx33rgj7" class="summary-title-link" tabindex="-1">普京和习近平的战争泥淖与极权主义企图</a></div>
             
 
             
@@ -5289,7 +5289,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -5313,7 +5313,7 @@ on
 
               
                 
-                <a href="/articles/y7ztgkxprlkkmg5kghw3fjyx33rgj7" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/y7ztgkxprlkkmg5kghw3fjyx33rgj7" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -5351,7 +5351,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C">中国与世界</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%B8%96%E7%95%8C" tabindex="-1">中国与世界</a></span>
 
 
 
@@ -5407,7 +5407,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E9%95%9C%E4%B8%8E%E7%81%AF">镜与灯</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E9%95%9C%E4%B8%8E%E7%81%AF" tabindex="-1">镜与灯</a></span>
 
 
 
@@ -5423,7 +5423,7 @@ on
             
               
               <div class="summary-title">
-                <a href="/articles/jejhhj422npmlm6fxemh7hdzk4823k" class="summary-title-link">乌克兰的危机与前途</a></div>
+                <a href="/articles/jejhhj422npmlm6fxemh7hdzk4823k" class="summary-title-link" tabindex="-1">乌克兰的危机与前途</a></div>
             
 
             
@@ -5460,7 +5460,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E9%95%9C%E4%B8%8E%E7%81%AF">镜与灯</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E9%95%9C%E4%B8%8E%E7%81%AF" tabindex="-1">镜与灯</a></span>
 
 
 
@@ -5484,7 +5484,7 @@ on
 
               
                 
-                <a href="/articles/jejhhj422npmlm6fxemh7hdzk4823k" class="summary-read-more-link">Read More →</a>
+                <a href="/articles/jejhhj422npmlm6fxemh7hdzk4823k" class="summary-read-more-link" tabindex="-1">Read More →</a>
               
             
 
@@ -5522,7 +5522,7 @@ on
 
 
 	<!-- Categories -->
-	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E9%95%9C%E4%B8%8E%E7%81%AF">镜与灯</a></span>
+	<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E9%95%9C%E4%B8%8E%E7%81%AF" tabindex="-1">镜与灯</a></span>
 
 
 
@@ -7527,7 +7527,7 @@ on
 本次出行是去港岛那边遛弯儿，顺便探探入境事务处的路线，回程选择了高铁，实测还是深圳湾过关坐公交车方便，高铁进...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7543,7 +7543,7 @@ on
 本次出行出发的时候选择了穷鬼路线，深圳湾过关坐公交到赤腊角机场，先乘坐B3X 到红桥站，然后换乘A36 到机场，总花费30...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:11:53+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-24T00:11:53+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7559,7 +7559,7 @@ on
 这几年其实去香港的次数不少，不过一般都是去机场，唯一一次过夜是在港岛那边，九龙这边还真没怎么来，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-05T22:12:44+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-05T22:12:44+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7575,7 +7575,7 @@ on
 本次只是在西安中转一晚，本来已经安排了兵马俑的行程，但是最后还是放弃了，选择了体验一把国产大飞机C919。酒...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-09-30T14:25:54+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-09-30T14:25:54+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8109,10 +8109,60 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[拍照时如何找到适合自己脸型的角度 (牧羊人)]]></title>
+        <id>https://www.shephe.com/photography/how-to-find-the-best-angle-for-any-face/</id>
+        <link href="https://www.shephe.com/photography/how-to-find-the-best-angle-for-any-face/"/>
+        <updated>2024-10-30T17:44:22.571Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/how-to-find-the-best-angle-for-any-face/" rel="bookmark" target="_blank"><span class="screen-reader-text">拍照时如何找到适合自己脸型的角度</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/07/facial-symmetry.jpg 2000w, https://staticfile.shephe.com/wp-content/uploads/2024/07/facial-symmetry-768x512.jpg 768w, https://staticfile.shephe.com/wp-content/uploads/2024/07/facial-symmetry-1920x1280.jpg 1920w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-08T23:09:56+08:00">
+				07/08/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>拍照时如何找到适合自己脸型的角度</span></h3>						<p>每个人都有自己独特的脸型，且大多数脸型都是不对称的，在人像拍摄时找到适合自己脸型的角度可以让你自信满满，展现最美的一面。了解自己的脸型及其理想的角度，可以帮助你提高摄影技巧，打造更漂亮的整体外观。 在本文中，我们将引导您识别自己的脸型，并为…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/how-to-find-the-best-angle-for-any-face/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 添加友情链接页面 & 样式参考 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-flink-page/</id>
+        <link href="https://www.shephe.com/website/wordpress-flink-page/"/>
+        <updated>2024-10-30T17:44:22.574Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-flink-page/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 添加友情链接页面 &amp; 样式参考</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/SEO-LINKS-WEB.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/10/SEO-LINKS-WEB-768x456.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-10-30T22:44:58+08:00">
+				10/30/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 添加友情链接页面 &amp; 样式参考</span></h3>						<p>Kevin's 的“友情链接”模块 / 页面已经丢失几年了，主要是因为现下的友链既无法联络感情又无法释放 SEO 的功能性，且有更高效的方案去实现博友互访。所以，既然 WordPress 官方都把这个模块砍了，我也就一直没弄。 在此，我非常…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-flink-page/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BBTools Shadow Photoshop 一键生成阴影插件 (牧羊人)]]></title>
         <id>https://www.shephe.com/resources/photoshop-bbtools-shadow-free-download/</id>
         <link href="https://www.shephe.com/resources/photoshop-bbtools-shadow-free-download/"/>
-        <updated>2024-10-30T05:46:32.136Z</updated>
+        <updated>2024-10-30T17:44:22.575Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-bbtools-shadow-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">BBTools Shadow Photoshop 一键生成阴影插件</span></a>
 
 					<div class="grve-post-media">
@@ -8137,7 +8187,7 @@ on
         <title type="html"><![CDATA[网页常用字体 & CSS 字体设置详细介绍 (牧羊人)]]></title>
         <id>https://www.shephe.com/website/css-font-family/</id>
         <link href="https://www.shephe.com/website/css-font-family/"/>
-        <updated>2024-10-30T05:46:32.141Z</updated>
+        <updated>2024-10-30T17:44:22.578Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/css-font-family/" rel="bookmark" target="_blank"><span class="screen-reader-text">网页常用字体 &amp; CSS 字体设置详细介绍</span></a>
 
 					<div class="grve-post-media">
@@ -8162,7 +8212,7 @@ on
         <title type="html"><![CDATA[Aria2：一个轻量、高效的开源下载工具 (牧羊人)]]></title>
         <id>https://www.shephe.com/tutorial/aria2-a-lightweight-multi-protocol-download-utility/</id>
         <link href="https://www.shephe.com/tutorial/aria2-a-lightweight-multi-protocol-download-utility/"/>
-        <updated>2024-10-30T05:46:32.142Z</updated>
+        <updated>2024-10-30T17:44:22.581Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/aria2-a-lightweight-multi-protocol-download-utility/" rel="bookmark" target="_blank"><span class="screen-reader-text">Aria2：一个轻量、高效的开源下载工具</span></a>
 
 					<div class="grve-post-media">
@@ -8187,7 +8237,7 @@ on
         <title type="html"><![CDATA[记录阿里云新增 ICP 域名备案（重庆） (牧羊人)]]></title>
         <id>https://www.shephe.com/website/chenguo-life-icp/</id>
         <link href="https://www.shephe.com/website/chenguo-life-icp/"/>
-        <updated>2024-10-30T05:46:32.145Z</updated>
+        <updated>2024-10-30T17:44:22.583Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/chenguo-life-icp/" rel="bookmark" target="_blank"><span class="screen-reader-text">记录阿里云新增 ICP 域名备案（重庆）</span></a>
 
 					<div class="grve-post-media">
@@ -8203,56 +8253,6 @@ on
 				<div class="grve-post-content">
 			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>记录阿里云新增 ICP 域名备案（重庆）</span></h3>						<p>四月底的时候，我看评价还不错于是撸了一台软云的服务器，然后搭了几个不常用的服务如</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/chenguo-life-icp/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二〇一八年底的见闻与思索（近况记录） (牧羊人)]]></title>
-        <id>https://www.shephe.com/life/%e8%bf%9e%e6%97%a5%e9%98%b4%e9%9c%be/</id>
-        <link href="https://www.shephe.com/life/%e8%bf%9e%e6%97%a5%e9%98%b4%e9%9c%be/"/>
-        <updated>2024-10-30T05:46:32.146Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/%e8%bf%9e%e6%97%a5%e9%98%b4%e9%9c%be/" rel="bookmark" target="_blank"><span class="screen-reader-text">二〇一八年底的见闻与思索（近况记录）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2018/10/in-2018.10.07-at-重庆·民国街-DELUXE-STORE.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2018/10/in-2018.10.07-at-重庆·民国街-DELUXE-STORE-768x526.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2018-10-31T20:52:00+08:00">
-				10/31/2018			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>二〇一八年底的见闻与思索（近况记录）</span></h3>						<p>距离上一次更新博客已经四个月之久了，自己都没想到，时间会过的这么快…疏于走访，不知道各位博友最近都怎么样，有什么样的的见闻和感悟。这段时间呢发生很多事，还是老规矩吧，用这么一篇《近况》记录记录，以求多年以后还能忆起也不失美事对吧。</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/%e8%bf%9e%e6%97%a5%e9%98%b4%e9%9c%be/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lumenzia 11.7.7 PS 亮度蒙版插件免费下载 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/photoshop-lumenzia-free-download/</id>
-        <link href="https://www.shephe.com/resources/photoshop-lumenzia-free-download/"/>
-        <updated>2024-10-30T05:46:32.149Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-lumenzia-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Lumenzia 11.7.7 PS 亮度蒙版插件免费下载</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/photoshop-plugin-Photoshop-panel.webp 2586w, https://staticfile.shephe.com/wp-content/uploads/2024/04/photoshop-plugin-Photoshop-panel-768x381.webp 768w, https://staticfile.shephe.com/wp-content/uploads/2024/04/photoshop-plugin-Photoshop-panel-1920x952.webp 1920w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-22T19:20:15+08:00">
-				05/22/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Lumenzia 11.7.7 PS 亮度蒙版插件免费下载</span></h3>						<p>Lumenzia 是一款功能强大的 Photoshop 插件，旨在帮助摄影师和图形设计师更轻松地进行图像处理和色彩分离。它由 Greg Benz 开发，可以作为一个简单但高效的工具来创建和控制遮罩、调整图像的亮度、对比度、颜色和细节。Lum…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/photoshop-lumenzia-free-download/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
