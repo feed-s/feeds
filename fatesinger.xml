@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-10-31T05:45:02.152Z</updated>
+    <updated>2024-10-31T17:45:05.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[澳门 City Walk]]></title>
+        <id>https://fatesinger.com/103776</id>
+        <link href="https://fatesinger.com/103776"/>
+        <updated>2024-10-31T17:44:49.041Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103776" aria-label="澳门 City Walk" title="澳门 City Walk">澳门 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            葡京娱乐场
+多年以前来说一次澳门，当时从珠海过关，当日往返，甚至当时还换了钱，直到今天都没花完，当时为了省钱手机都没开...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-10-31T21:18:18+08:00">发布于 4 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港 City Walk II]]></title>
         <id>https://fatesinger.com/104021</id>
@@ -18,7 +34,7 @@
 本次出行是去港岛那边遛弯儿，顺便探探入境事务处的路线，回程选择了高铁，实测还是深圳湾过关坐公交车方便，高铁进...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +50,7 @@
 本次出行出发的时候选择了穷鬼路线，深圳湾过关坐公交到赤腊角机场，先乘坐B3X 到红桥站，然后换乘A36 到机场，总花费30...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:11:53+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-24T00:11:53+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -50,7 +66,7 @@
 这几年其实去香港的次数不少，不过一般都是去机场，唯一一次过夜是在港岛那边，九龙这边还真没怎么来，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-05T22:12:44+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-05T22:12:44+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -131,22 +147,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-09-26T17:54:06+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梧桐区 City Walk]]></title>
-        <id>https://fatesinger.com/103859</id>
-        <link href="https://fatesinger.com/103859"/>
-        <updated>2024-09-20T17:44:22.612Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103859" aria-label="梧桐区 City Walk" title="梧桐区 City Walk">梧桐区 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            上海图书馆
-同为一线城市，我觉得上海比深圳好的地方就是既有最为便捷的当代生活，也有独特的历史风韵。上海来过很多次，基本...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-09-21T00:37:05+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
