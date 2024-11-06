@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-11-06T05:44:41.252Z</updated>
+    <updated>2024-11-06T17:44:32.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[首尔转机游记]]></title>
+        <id>https://fatesinger.com/103060</id>
+        <link href="https://fatesinger.com/103060"/>
+        <updated>2024-11-06T17:44:13.580Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103060" aria-label="首尔转机游记" title="首尔转机游记">首尔转机游记</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            青岛胶东机场
+昨天小押注川普成功，顺便写一下之前转机入住的川普同款酒店。
+春节的时候返深机票很贵，加上想去台北转机，就...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-11-06T18:48:06+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原生美国手机卡 Ultra Mobile PayGo]]></title>
         <id>https://fatesinger.com/104171</id>
@@ -18,7 +35,7 @@
 此卡基本是最便宜的实体美国手机卡了，月费也几乎最低，3美金每月。本来已经在CMHK 上台对境外手机号没啥...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-05T23:45:59+08:00">发布于 13 小时前</time>
+            <time itemprop="datePublished" datetime="2024-11-05T23:45:59+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +51,7 @@
 这台机器也是我很早就买了，现在差不多也是三千多快门数，买的契机是在京东抢到一台X-S20 套机，体验了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/shopping" rel="category tag">我买故我在</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-04T23:28:41+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-04T23:28:41+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -50,7 +67,7 @@
 理光和富士这两年风很大，价格都炒的飞起，随着出行逐渐变多，富士在有些时候已经成为负担，于是有了购...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/shopping" rel="category tag">我买故我在</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-03T23:52:52+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-03T23:52:52+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -66,7 +83,7 @@
 前阵子申请了香港高才，过程不是太顺利，但最后也过了。这东西目前并没有太大意义，7年才能拿到永居，有了永居才...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-02T23:50:30+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-02T23:50:30+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -82,7 +99,7 @@
 首发卖掉之后买新机欲望一直不是很强烈，一方面是新机器在是没啥变化，二就是手机尺寸发生了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-01T16:45:28+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-01T16:45:28+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -98,7 +115,7 @@
 多年以前来说一次澳门，当时从珠海过关，当日往返，甚至当时还换了钱，直到今天都没花完，当时为了省钱手机都没开...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-31T21:18:18+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-31T21:18:18+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -114,7 +131,7 @@
 本次出行是去港岛那边遛弯儿，顺便探探入境事务处的路线，回程选择了高铁，实测还是深圳湾过关坐公交车方便，高铁进...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 13 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 14 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -130,23 +147,7 @@
 本次出行出发的时候选择了穷鬼路线，深圳湾过关坐公交到赤腊角机场，先乘坐B3X 到红桥站，然后换乘A36 到机场，总花费30...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:11:53+08:00">发布于 13 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港 City Walk]]></title>
-        <id>https://fatesinger.com/102142</id>
-        <link href="https://fatesinger.com/102142"/>
-        <updated>2024-10-05T17:44:10.021Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102142" aria-label="香港 City Walk" title="香港 City Walk">香港 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            香港君悦酒店客房景观
-这几年其实去香港的次数不少，不过一般都是去机场，唯一一次过夜是在港岛那边，九龙这边还真没怎么来，...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-05T22:12:44+08:00">发布于 1月前</time>
+            <time itemprop="datePublished" datetime="2024-10-24T00:11:53+08:00">发布于 14 天前</time>
         </div>]]></content>
     </entry>
 </feed>
