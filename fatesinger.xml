@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-11-08T05:44:41.894Z</updated>
+    <updated>2024-11-08T17:44:36.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[答问卷]]></title>
+        <id>https://fatesinger.com/104248</id>
+        <link href="https://fatesinger.com/104248"/>
+        <updated>2024-11-08T17:44:18.414Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104248" aria-label="答问卷" title="答问卷">答问卷</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            没人喊我，自己看到就参加了，上一次还是十年问卷。前阵子不少人参与的问卷我并有参与，最近表达欲爆棚，而且上次都是三年前...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-11-08T20:53:36+08:00">发布于 4 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港申请美国签证]]></title>
         <id>https://fatesinger.com/104149</id>
@@ -19,7 +34,7 @@
 因为有香港临时身份证，而且香...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-07T18:27:53+08:00">发布于 19 小时前</time>
+            <time itemprop="datePublished" datetime="2024-11-07T18:27:53+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -36,7 +51,7 @@
 春节的时候返深机票很贵，加上想去台北转机，就...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-06T18:48:06+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-06T18:48:06+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -52,7 +67,7 @@
 此卡基本是最便宜的实体美国手机卡了，月费也几乎最低，3美金每月。本来已经在CMHK 上台对境外手机号没啥...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-05T23:45:59+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-05T23:45:59+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -68,7 +83,7 @@
 这台机器也是我很早就买了，现在差不多也是三千多快门数，买的契机是在京东抢到一台X-S20 套机，体验了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/shopping" rel="category tag">我买故我在</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-04T23:28:41+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-04T23:28:41+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -84,7 +99,7 @@
 理光和富士这两年风很大，价格都炒的飞起，随着出行逐渐变多，富士在有些时候已经成为负担，于是有了购...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/shopping" rel="category tag">我买故我在</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-03T23:52:52+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-03T23:52:52+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -100,7 +115,7 @@
 前阵子申请了香港高才，过程不是太顺利，但最后也过了。这东西目前并没有太大意义，7年才能拿到永居，有了永居才...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-02T23:50:30+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-02T23:50:30+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -116,7 +131,7 @@
 首发卖掉之后买新机欲望一直不是很强烈，一方面是新机器在是没啥变化，二就是手机尺寸发生了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-01T16:45:28+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-01T16:45:28+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -132,23 +147,7 @@
 多年以前来说一次澳门，当时从珠海过关，当日往返，甚至当时还换了钱，直到今天都没花完，当时为了省钱手机都没开...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-31T21:18:18+08:00">发布于 7 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港 City Walk II]]></title>
-        <id>https://fatesinger.com/104021</id>
-        <link href="https://fatesinger.com/104021"/>
-        <updated>2024-10-23T17:44:16.961Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104021" aria-label="香港 City Walk II" title="香港 City Walk II">香港 City Walk II</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            世界和平
-本次出行是去港岛那边遛弯儿，顺便探探入境事务处的路线，回程选择了高铁，实测还是深圳湾过关坐公交车方便，高铁进...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-10-24T00:22:02+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2024-10-31T21:18:18+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
 </feed>
