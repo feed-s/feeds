@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2024-11-14T17:45:40.555Z</updated>
+    <updated>2024-11-15T05:45:43.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[显示器检测应从哪些方面入手，有哪些检测点？]]></title>
+        <id>https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/</id>
+        <link href="https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/"/>
+        <updated>2024-11-15T05:45:40.513Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/" rel="bookmark" target="_blank"><span class="screen-reader-text">显示器检测应从哪些方面入手，有哪些检测点？</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-skin-scroll-bg-01.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-skin-scroll-bg-01-768x422.jpg 768w, https://staticfile.shephe.com/wp-content/uploads/2020/10/impeka-skin-scroll-bg-01-1920x1056.jpg 1920w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-11-15T11:43:40+08:00">
+				11/15/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>显示器检测应从哪些方面入手，有哪些检测点？</span></h3>						<p>随着显示器应用的多样化，尤其在专业设计、摄影等领域，对显示效果的要求日益提高。本文列出了检测显示器各方面性能的关键点，合理选购和检测调教显示器可以确保你获得最佳使用体验。 为什么会有这篇文章呢？一则是因为我这边最近新增加…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress RSS 排除特定分类 & 推送旧文更新]]></title>
         <id>https://www.shephe.com/website/wordpress-rss-enhance/</id>
@@ -106,29 +131,48 @@
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress 博客年度更新：全新首页上线，用户中心与问答社区优化升级]]></title>
-        <id>https://www.shephe.com/website/wordpress-blog-enhance-2024/</id>
-        <link href="https://www.shephe.com/website/wordpress-blog-enhance-2024/"/>
-        <updated>2024-10-31T05:44:59.604Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-blog-enhance-2024/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 博客年度更新：全新首页上线，用户中心与问答社区优化升级</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-4.jpg 2560w, https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-4-768x523.jpg 768w, https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-featured-img-4-1920x1307.jpg 1920w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-10-29T10:29:06+08:00">
-				10/29/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 博客年度更新：全新首页上线，用户中心与问答社区优化升级</span></h3>						<p>这几天疯狂折腾，给我这 WordPress 博客换了个全新主页，以及增加了问答社区和用户中心。本文陆陆续续讲解各个区块的功能…随后会把主题分享出来。现在： 首先各位博友：我这</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-blog-enhance-2024/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[显示器检测应从哪些方面入手，有哪些检测点？]]></title>
+        <id>https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/</id>
+        <link href="https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/"/>
+        <updated>2024-11-15T05:45:40.524Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e5%9c%a8%e7%ba%bf%e6%98%be%e7%a4%ba%e5%99%a8%e6%a3%80%e6%b5%8b/" rel="bookmark" target="_blank"><span class="screen-reader-text">显示器检测应从哪些方面入手，有哪些检测点？</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>显示器检测应从哪些方面入手，有哪些检测点？</span></h3>			<p>随着显示器应用的多样化，尤其在专业设计、摄影等领域，对显示效果的要求日益提高。本文列出了检测显示器各方面性能的关键点，合理选购和检测调教显示器可以确保你获得最佳使用体验。…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>66</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电脑显示器选购攻略大全！摄影师该怎么选]]></title>
+        <id>https://www.shephe.com/post/%e6%98%be%e7%a4%ba%e5%99%a8%e9%80%89%e8%b4%ad%e6%8c%87%e5%8d%97/</id>
+        <link href="https://www.shephe.com/post/%e6%98%be%e7%a4%ba%e5%99%a8%e9%80%89%e8%b4%ad%e6%8c%87%e5%8d%97/"/>
+        <updated>2024-11-15T05:45:40.528Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e6%98%be%e7%a4%ba%e5%99%a8%e9%80%89%e8%b4%ad%e6%8c%87%e5%8d%97/" rel="bookmark" target="_blank"><span class="screen-reader-text">电脑显示器选购攻略大全！摄影师该怎么选</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>电脑显示器选购攻略大全！摄影师该怎么选</span></h3>			<p>选择显示器时，随着显示技术的发展，用户需求越来越多样化。无论是办公、游戏，还是设计和视频编辑，都需要关注色彩、分辨率、响应时间等参数。本文将介绍显示器选购的关键技术参数，…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>60</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>1</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tiny，一个优雅的响应式博客主题下载]]></title>
@@ -170,7 +214,7 @@
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>0</span></div>
+			<span>1</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -215,50 +259,6 @@
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
 			<span>30</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[敬酒时不知道说什么？记住这一篇敬酒指南]]></title>
-        <id>https://www.shephe.com/post/%e6%95%ac%e9%85%92%e6%8c%87%e5%8d%97/</id>
-        <link href="https://www.shephe.com/post/%e6%95%ac%e9%85%92%e6%8c%87%e5%8d%97/"/>
-        <updated>2024-11-14T17:45:37.884Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e6%95%ac%e9%85%92%e6%8c%87%e5%8d%97/" rel="bookmark" target="_blank"><span class="screen-reader-text">敬酒时不知道说什么？记住这一篇敬酒指南</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>敬酒时不知道说什么？记住这一篇敬酒指南</span></h3>			<p>在职场打拼的我们，应酬聚会已成为家常便饭。饭局上，喝酒调节气氛、谈妥生意是常见的场合。因此，向领导敬酒的情形时常会出现。然而，很多不善言辞的人在这样的情况下往往感到尴尬与…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>12</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>2</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 结婚登记照换装，登记照服装模板]]></title>
-        <id>https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/</id>
-        <link href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/"/>
-        <updated>2024-11-14T05:45:12.184Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 结婚登记照换装，登记照服装模板</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 结婚登记照换装，登记照服装模板</span></h3>			<p>近期 Kevin's 发布分享了不少证件照换装、换头发的免费资源，需要使用这些模板无非是因为客户预算低，不想换衣服……Well，有些客户拍婚纱登记证其实也想省省不麻烦，比…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>22</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>14</span></div>
 							</div>
 			</div>]]></content>
     </entry>
