@@ -2,9 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akarat.xyz/archives/</id>
     <title>Tristram</title>
-    <updated>2024-11-21T05:45:38.185Z</updated>
+    <updated>2024-11-21T17:44:56.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://akarat.xyz/images/favicon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Changing kubernetes CIDR live on production]]></title>
+        <id>https://akarat.xyz/Changing-kubernetes-CIDR-live-on-production/</id>
+        <link href="https://akarat.xyz/Changing-kubernetes-CIDR-live-on-production/"/>
+        <updated>2024-11-21T17:44:21.143Z</updated>
+        <content type="html"><![CDATA[<div class="meta">
+        <time datetime="2024-11-21T09:12:45.000Z" itemprop="datePublished">2024-11-21</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/Changing-kubernetes-CIDR-live-on-production/">Changing kubernetes CIDR live on production</a>
+    
+
+
+<span>
+      </span></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[linux 透明代理原理]]></title>
         <id>https://akarat.xyz/steam-deck-transparent-proxy/</id>
@@ -170,25 +189,6 @@
         <span>
     
         <a class="" href="/I-just-beat-bandit/">打通 bandit 以后，我希望自己以前是通过这个入门终端</a>
-    
-
-
-<span>
-      </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[you don't even need a browser to watch youtube video]]></title>
-        <id>https://akarat.xyz/you-don-t-even-need-a-browser-to-watch-youtube-video/</id>
-        <link href="https://akarat.xyz/you-don-t-even-need-a-browser-to-watch-youtube-video/"/>
-        <updated>2022-12-09T00:59:17.771Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2021-05-13T00:59:38.000Z" itemprop="datePublished">2021-05-13</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/you-don-t-even-need-a-browser-to-watch-youtube-video/">you don't even need a browser to watch youtube video</a>
     
 
 
