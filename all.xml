@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T17:44:23.156Z</updated>
+    <updated>2024-11-30T05:45:53.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[mp4文件加入字幕显示 (heartnn的自留地)]]></title>
@@ -576,7 +576,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -594,7 +594,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -864,7 +864,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -882,7 +882,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -900,7 +900,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -918,7 +918,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7527,7 +7527,7 @@ on
 深圳我唯一愿意去的公园，因为连接深圳湾万象城，不管是遛弯儿完吃饭还是吃完饭消食都很好，配备塑胶跑道，也很...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 2 小时前</time>
+            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 14 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8018,6 +8018,31 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[本站进一步完善了用户系统，欢迎使用 & 测试 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/</id>
+        <link href="https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/"/>
+        <updated>2024-11-30T05:45:51.325Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/" rel="bookmark" target="_blank"><span class="screen-reader-text">本站进一步完善了用户系统，欢迎使用 &amp; 测试</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www.webp 1440w, https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www-768x485.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-11-30T10:28:32+08:00">
+				11/30/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>本站进一步完善了用户系统，欢迎使用 &amp; 测试</span></h3>						<p>本站近期对用户系统进行了全面优化，新增了多种注册和登录方式，包括手机号注册、微信扫码、QQ、微博以及邮箱登录等，为用户提供了更多便利。同时，Kevin 还改进了用户设置和主页的显示效果，使界面更直观、更美观。此外，充值系…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[零基础 WordPress 网站建设全攻略：域名注册、环境搭建及内容创作（2024.11） (牧羊人)]]></title>
         <id>https://www.shephe.com/tutorial/wordpress-website-building/</id>
         <link href="https://www.shephe.com/tutorial/wordpress-website-building/"/>
@@ -8118,29 +8143,48 @@ on
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[推荐摄影师 & 设计师们使用 Ardfry PSD Codec (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/ardfry-psd-codec/</id>
-        <link href="https://www.shephe.com/resources/ardfry-psd-codec/"/>
-        <updated>2024-11-06T05:44:38.594Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/ardfry-psd-codec/" rel="bookmark" target="_blank"><span class="screen-reader-text">推荐摄影师 &amp; 设计师们使用 Ardfry PSD Codec</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2015/07/header-pic.jpg 1000w, https://staticfile.shephe.com/wp-content/uploads/2015/07/header-pic-768x614.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-11-06T00:34:29+08:00">
-				11/06/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>推荐摄影师 &amp; 设计师们使用 Ardfry PSD Codec</span></h3>						<p>推荐使用 Ardfry PSD Codec 实现在 Windows 资源管理器中直接预览 PSD 文件！Ardfry PSD Codec 是一款专为 Windows 用户开发的解码工具，使用户能够直接在 Windows …</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/ardfry-psd-codec/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[本站进一步完善了用户系统，欢迎使用 & 测试 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/</id>
+        <link href="https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/"/>
+        <updated>2024-11-30T05:45:51.340Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%bc%ba%e5%88%b6%e7%99%bb%e5%bd%95/" rel="bookmark" target="_blank"><span class="screen-reader-text">本站进一步完善了用户系统，欢迎使用 &amp; 测试</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>本站进一步完善了用户系统，欢迎使用 &amp; 测试</span></h3>			<p>本站近期对用户系统进行了全面优化，新增了多种注册和登录方式，包括手机号注册、微信扫码、QQ、微博以及邮箱登录等，为用户提供了更多便利。同时，Kevin 还改进了用户设置和…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>43</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 博客年度更新：全新首页上线，用户中心与问答社区优化升级 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-blog-enhance-2024/</id>
+        <link href="https://www.shephe.com/website/wordpress-blog-enhance-2024/"/>
+        <updated>2024-11-30T05:45:51.340Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-blog-enhance-2024/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 博客年度更新：全新首页上线，用户中心与问答社区优化升级</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 博客年度更新：全新首页上线，用户中心与问答社区优化升级</span></h3>			<p>自从 2022 年 8 月开始，我便用上了 WordPress 的 Impeka 主题。虽然期间文章和页面不断更新，但这两年一直沿用一款简单的首页设计，看着看着也就“审美…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>16</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>39</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[第一次约小姐姐拍照（园博园银杏人像互免约拍） (牧羊人)]]></title>
@@ -8227,50 +8271,6 @@ on
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
 			<span>81</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google SEO：浅谈英文网站优化指南 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/google-seo-tutorial/</id>
-        <link href="https://www.shephe.com/website/google-seo-tutorial/"/>
-        <updated>2024-11-29T17:44:20.588Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/google-seo-tutorial/" rel="bookmark" target="_blank"><span class="screen-reader-text">Google SEO：浅谈英文网站优化指南</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Google SEO：浅谈英文网站优化指南</span></h3>			<p>SEO（Search Engine Optimization），即搜索引擎优化，是通过研究和利用搜索引擎规则，提高网站在相关搜索结果中自然排名的一种方法。 这篇教程来源于…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>20</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>7</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝塔面板安装第三方 SSL 证书（已失效） (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/bt-panel-install-ssl/</id>
-        <link href="https://www.shephe.com/website/bt-panel-install-ssl/"/>
-        <updated>2024-11-29T17:44:20.590Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/bt-panel-install-ssl/" rel="bookmark" target="_blank"><span class="screen-reader-text">宝塔面板安装第三方 SSL 证书（已失效）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宝塔面板安装第三方 SSL 证书（已失效）</span></h3>			<p>SSL 在谷歌的推动和胁迫下，现在几乎是每个网站必上的产品了，因此这几年随着</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>20</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>4</span></div>
 							</div>
 			</div>]]></content>
     </entry>
