@@ -2,9 +2,47 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akarat.xyz/archives/</id>
     <title>Tristram</title>
-    <updated>2024-12-06T05:46:17.582Z</updated>
+    <updated>2024-12-06T17:45:05.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://akarat.xyz/images/favicon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Comparing kubernetes yaml files]]></title>
+        <id>https://akarat.xyz/Comparing-kubernetes-yaml-files/</id>
+        <link href="https://akarat.xyz/Comparing-kubernetes-yaml-files/"/>
+        <updated>2024-12-06T17:44:26.782Z</updated>
+        <content type="html"><![CDATA[<div class="meta">
+        <time datetime="2024-12-06T15:41:37.000Z" itemprop="datePublished">2024-12-06</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/Comparing-kubernetes-yaml-files/">Comparing kubernetes yaml files</a>
+    
+
+
+<span>
+      </span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I made a static page to visualize tailscale ACL]]></title>
+        <id>https://akarat.xyz/I-made-a-static-page-to-visualize-tailscale-ACL/</id>
+        <link href="https://akarat.xyz/I-made-a-static-page-to-visualize-tailscale-ACL/"/>
+        <updated>2024-12-06T17:44:26.785Z</updated>
+        <content type="html"><![CDATA[<div class="meta">
+        <time datetime="2024-11-22T10:48:23.000Z" itemprop="datePublished">2024-11-22</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/I-made-a-static-page-to-visualize-tailscale-ACL/">I made a static page to visualize tailscale ACL</a>
+    
+
+
+<span>
+      </span></span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changing kubernetes CIDR live on production]]></title>
         <id>https://akarat.xyz/Changing-kubernetes-CIDR-live-on-production/</id>
@@ -151,44 +189,6 @@
         <span>
     
         <a class="" href="/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/">GNOME 又激怒了所有人</a>
-    
-
-
-<span>
-      </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 HashiCorp Vault 代替在线密码管理器]]></title>
-        <id>https://akarat.xyz/%E7%94%A8-HashiCorp-Vault-%E4%BB%A3%E6%9B%BF%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/</id>
-        <link href="https://akarat.xyz/%E7%94%A8-HashiCorp-Vault-%E4%BB%A3%E6%9B%BF%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/"/>
-        <updated>2022-12-09T00:59:17.770Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2021-08-05T12:59:22.000Z" itemprop="datePublished">2021-08-05</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E7%94%A8-HashiCorp-Vault-%E4%BB%A3%E6%9B%BF%E5%9C%A8%E7%BA%BF%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E5%99%A8/">用 HashiCorp Vault 代替在线密码管理器</a>
-    
-
-
-<span>
-      </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打通 bandit 以后，我希望自己以前是通过这个入门终端]]></title>
-        <id>https://akarat.xyz/I-just-beat-bandit/</id>
-        <link href="https://akarat.xyz/I-just-beat-bandit/"/>
-        <updated>2022-12-09T00:59:17.771Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2021-06-04T13:42:51.000Z" itemprop="datePublished">2021-06-04</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/I-just-beat-bandit/">打通 bandit 以后，我希望自己以前是通过这个入门终端</a>
     
 
 
