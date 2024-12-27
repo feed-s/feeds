@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-12-27T05:44:51.823Z</updated>
+    <updated>2024-12-27T17:45:58.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[苏州金普顿 II]]></title>
+        <id>https://fatesinger.com/104393</id>
+        <link href="https://fatesinger.com/104393"/>
+        <updated>2024-12-27T17:44:21.967Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104393" aria-label="苏州金普顿 II" title="苏州金普顿 II">苏州金普顿 II</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            前几天飞了一次无锡，本来想着当日往返，刚好航班取消，就在苏州金普顿住了一晚，赶了个秋天尾巴，还不错。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[香港 City Walk IV]]></title>
         <id>https://fatesinger.com/104406</id>
@@ -17,7 +32,7 @@
             因为四季度业绩实在过于惨淡，最近经常无所事事，总是要找一点事情消磨一下精力，本着能省一点是一点的原则，香港遛弯儿成了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -32,7 +47,7 @@
             海上世界是我以前非常喜欢来的地方，后面万象天地喝深圳湾万象城崛起，就很少再过来了。尤其中信36+1取消spa 权益后，几乎没...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -48,7 +63,7 @@
 深圳我唯一愿意去的公园，因为连接深圳湾万象城，不管是遛弯儿完吃饭还是吃完饭消食都很好，配备塑胶跑道，也很...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 27 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 28 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -63,7 +78,7 @@
             收到工银亚洲卡的网点的短信，过去拿卡，网店选的尖沙咀分行，正好带上宝丽来拍了两盒，工银办业务很慢，从网点出来天都要黑...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-27T16:47:27+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-27T16:47:27+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -127,23 +142,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-11-08T20:53:36+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港申请美国签证]]></title>
-        <id>https://fatesinger.com/104149</id>
-        <link href="https://fatesinger.com/104149"/>
-        <updated>2024-11-07T17:44:40.629Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104149" aria-label="香港申请美国签证" title="香港申请美国签证">香港申请美国签证</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            221G表单
-办理之前我就已经下定决心了，美签我只申请这一次，不过就算了，不会再主动申请了。
-因为有香港临时身份证，而且香...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-07T18:27:53+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
