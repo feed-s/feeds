@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-12-29T05:49:34.921Z</updated>
+    <updated>2024-12-30T05:45:23.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[合肥 City Walk]]></title>
+        <id>https://fatesinger.com/104430</id>
+        <link href="https://fatesinger.com/104430"/>
+        <updated>2024-12-30T05:44:10.619Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104430" aria-label="合肥 City Walk" title="合肥 City Walk">合肥 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            合肥在省会里存在感不是太强，我最早有所了解还是因为中科大在合肥，后面为了打卡所有省会也来了合肥一次，记得当时还住了不止一晚，当时去的大部分地方都已经记不清了。
+
+        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-12-30T11:42:31+08:00">发布于 2 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南京 City Walk II]]></title>
+        <id>https://fatesinger.com/104519</id>
+        <link href="https://fatesinger.com/104519"/>
+        <updated>2024-12-30T05:44:10.620Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104519" aria-label="南京 City Walk II" title="南京 City Walk II">南京 City Walk II</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            南京城墙
+南京来的次数挺多的，这还是我第一次看到南京城墙，南京城墙是一处收费景点，登上城墙应该就能看到玄武湖了，不想花...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 16 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南京 City Walk]]></title>
+        <id>https://fatesinger.com/104443</id>
+        <link href="https://fatesinger.com/104443"/>
+        <updated>2024-12-30T05:44:10.622Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104443" aria-label="南京 City Walk" title="南京 City Walk">南京 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            小康咖啡合作社
+误打误撞接机地址定位到了国金中心，以为是新街口那片区域，结果到了发现不是，地图看了一下，居然是我第一次...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 16 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[苏州金普顿 II]]></title>
         <id>https://fatesinger.com/104393</id>
@@ -17,7 +66,7 @@
             前几天飞了一次无锡，本来想着当日往返，刚好航班取消，就在苏州金普顿住了一晚，赶了个秋天尾巴，还不错。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -32,7 +81,7 @@
             因为四季度业绩实在过于惨淡，最近经常无所事事，总是要找一点事情消磨一下精力，本着能省一点是一点的原则，香港遛弯儿成了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 21 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 22 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -47,7 +96,7 @@
             海上世界是我以前非常喜欢来的地方，后面万象天地喝深圳湾万象城崛起，就很少再过来了。尤其中信36+1取消spa 权益后，几乎没...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 27 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 28 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -63,7 +112,7 @@
 深圳我唯一愿意去的公园，因为连接深圳湾万象城，不管是遛弯儿完吃饭还是吃完饭消食都很好，配备塑胶跑道，也很...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -95,53 +144,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-11-12T22:42:23+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港银行卡开户]]></title>
-        <id>https://fatesinger.com/104266</id>
-        <link href="https://fatesinger.com/104266"/>
-        <updated>2024-11-10T17:44:07.561Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104266" aria-label="香港银行卡开户" title="香港银行卡开户">香港银行卡开户</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            HSBC HK 扣账卡
-首先就是没需求必然无需折腾，如果有美股投资需求，港卡必开，说实话最简单的定投纳斯达克和标普500 就是稳稳...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-10T23:01:36+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peak Design 碳纤维旅行三脚架]]></title>
-        <id>https://fatesinger.com/102696</id>
-        <link href="https://fatesinger.com/102696"/>
-        <updated>2024-11-09T17:44:28.815Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/102696" aria-label="Peak Design 碳纤维旅行三脚架" title="Peak Design 碳纤维旅行三脚架">Peak Design 碳纤维旅行三脚架</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            Peak Design 碳纤维旅行三脚架
-一晃今年双十一又到了，这款三角架我都买了快一年了，这款Peak Design 的三脚架价格一直挺高的...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-09T23:53:35+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[答问卷]]></title>
-        <id>https://fatesinger.com/104248</id>
-        <link href="https://fatesinger.com/104248"/>
-        <updated>2024-11-08T17:44:18.414Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104248" aria-label="答问卷" title="答问卷">答问卷</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            没人喊我，自己看到就参加了，上一次还是十年问卷。前阵子不少人参与的问卷我并有参与，最近表达欲爆棚，而且上次都是三年前...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-08T20:53:36+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
