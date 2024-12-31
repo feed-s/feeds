@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2024-12-30T17:44:48.137Z</updated>
+    <updated>2024-12-31T05:45:21.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -19,7 +19,7 @@
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-30T11:42:31+08:00">发布于 14 小时前</time>
+            <time itemprop="datePublished" datetime="2024-12-30T11:42:31+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
