@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-31T05:45:21.307Z</updated>
+    <updated>2024-12-31T17:50:22.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7513,6 +7513,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 – 2025 跨年博客 (大发贱志)]]></title>
+        <id>https://fatesinger.com/103771</id>
+        <link href="https://fatesinger.com/103771"/>
+        <updated>2024-12-31T17:49:47.028Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/103771" aria-label="2024 – 2025 跨年博客" title="2024 – 2025 跨年博客">2024 – 2025 跨年博客</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            最近两年每到年底的时候都会有一种这一年什么都没干的感觉，靠着翻照片才能慢慢回忆起来自己干了什么，仔细一看，原来自己做了不少事情呢。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2024-12-31T19:39:53+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[合肥 City Walk (大发贱志)]]></title>
         <id>https://fatesinger.com/104430</id>
         <link href="https://fatesinger.com/104430"/>
@@ -7542,7 +7557,7 @@ on
 南京来的次数挺多的，这还是我第一次看到南京城墙，南京城墙是一处收费景点，登上城墙应该就能看到玄武湖了，不想花...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7558,7 +7573,7 @@ on
 误打误撞接机地址定位到了国金中心，以为是新街口那片区域，结果到了发现不是，地图看了一下，居然是我第一次...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7573,7 +7588,7 @@ on
             前几天飞了一次无锡，本来想着当日往返，刚好航班取消，就在苏州金普顿住了一晚，赶了个秋天尾巴，还不错。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7588,7 +7603,7 @@ on
             因为四季度业绩实在过于惨淡，最近经常无所事事，总是要找一点事情消磨一下精力，本着能省一点是一点的原则，香港遛弯儿成了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 23 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 24 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7603,7 +7618,7 @@ on
             海上世界是我以前非常喜欢来的地方，后面万象天地喝深圳湾万象城崛起，就很少再过来了。尤其中信36+1取消spa 权益后，几乎没...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7635,22 +7650,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-11-27T16:47:27+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[晶彩轩 (大发贱志)]]></title>
-        <id>https://fatesinger.com/103781</id>
-        <link href="https://fatesinger.com/103781"/>
-        <updated>2024-11-12T17:44:30.570Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103781" aria-label="晶彩轩" title="晶彩轩">晶彩轩</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            晶彩轩
-这家是我经常吃饭的餐厅之一，每次基本上都点固定的菜，他们家茶味茶不错，想喝茶的时候就会过来吃一顿。他们家也是少...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-12T22:42:23+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8199,7 +8198,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>16</span></div>
+			<span>18</span></div>
 							</div>
 			</div>]]></content>
     </entry>
