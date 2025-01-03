@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szclsya.me/zh-cn/posts/</id>
     <title>Leo's Field</title>
-    <updated>2025-01-02T05:44:52.806Z</updated>
+    <updated>2025-01-03T05:45:34.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[回望 2024：漂泊]]></title>
+        <id>https://szclsya.me/zh-cn/posts/life/2024-recap/</id>
+        <link href="https://szclsya.me/zh-cn/posts/life/2024-recap/"/>
+        <updated>2025-01-03T05:44:06.976Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+              <span class="item-preinfo">2025-01-01</span>
+              <div class="hide-on-wide" style="display: inline"></div>
+            </div>
+            <a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2024-recap/">
+              <h1 class="item-title">回望 2024：漂泊</h1>
+              <p class="item-description">日子在日历的方格中流逝</p>
+              <div class="badge hide-on-narrowest"></div>
+            </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[发邮件，但只用 netcat]]></title>
         <id>https://szclsya.me/zh-cn/posts/net/send-email-with-netcat/</id>
@@ -138,21 +153,6 @@
               <h1 class="item-title">重新设计博客主题</h1>
               <p class="item-description">Leo's Field, mkII.</p>
               <div class="badge hide-on-narrowest"><span>blog</span></div>
-            </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[回望2020: 混乱与重生]]></title>
-        <id>https://szclsya.me/zh-cn/posts/life/2020-recap/</id>
-        <link href="https://szclsya.me/zh-cn/posts/life/2020-recap/"/>
-        <updated>2023-02-25T22:11:26.528Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-              <span class="item-preinfo">2020-12-31</span>
-              <div class="hide-on-wide" style="display: inline"></div>
-            </div>
-            <a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2020-recap/">
-              <h1 class="item-title">回望2020: 混乱与重生</h1>
-              <p class="item-description">It's finally over.</p>
-              <div class="badge hide-on-narrowest"></div>
             </a>]]></content>
     </entry>
 </feed>
