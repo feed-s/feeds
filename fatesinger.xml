@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-01-13T05:45:44.208Z</updated>
+    <updated>2025-01-13T17:44:36.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[金边 City Walk II]]></title>
+        <id>https://fatesinger.com/104615</id>
+        <link href="https://fatesinger.com/104615"/>
+        <updated>2025-01-13T17:44:19.821Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104615" aria-label="金边 City Walk II" title="金边 City Walk II">金边 City Walk II</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            金边作为首都，看上去真的不怎么发达，有点国内县城的感觉，加上各种中文招牌，真的感觉就是在国内县城了。
+        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-13T19:09:14+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金边 City Walk]]></title>
+        <id>https://fatesinger.com/104592</id>
+        <link href="https://fatesinger.com/104592"/>
+        <updated>2025-01-13T17:44:19.822Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104592" aria-label="金边 City Walk" title="金边 City Walk">金边 City Walk</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            金边，柬埔寨首都，因为最近的热门事件，现在显然已经是令人闻风丧胆的地方，旅行经验较多的我自然不会相信网上那些话，还是按照计划游览了吴哥窟，因为深圳没有直飞暹粒的航班，所以选择在金边中转一天。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-13T19:08:43+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 主题 Hera]]></title>
         <id>https://fatesinger.com/104289</id>
@@ -17,7 +48,7 @@
             本主题使用古法制作，不依赖三方框架,依然不是区块主题，颜色选择了最新的潘通年度色。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-02T17:24:43+08:00">发布于 10 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-02T17:24:43+08:00">发布于 11 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -32,7 +63,7 @@
             最近两年每到年底的时候都会有一种这一年什么都没干的感觉，靠着翻照片才能慢慢回忆起来自己干了什么，仔细一看，原来自己做了不少事情呢。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-31T19:39:53+08:00">发布于 12 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-31T19:39:53+08:00">发布于 13 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -65,7 +96,7 @@
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -81,7 +112,7 @@
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -96,7 +127,7 @@
             前几天飞了一次无锡，本来想着当日往返，刚好航班取消，就在苏州金普顿住了一晚，赶了个秋天尾巴，还不错。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 16 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 17 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -112,37 +143,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[海上世界]]></title>
-        <id>https://fatesinger.com/104397</id>
-        <link href="https://fatesinger.com/104397"/>
-        <updated>2024-12-01T17:44:33.919Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104397" aria-label="海上世界" title="海上世界">海上世界</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            海上世界是我以前非常喜欢来的地方，后面万象天地喝深圳湾万象城崛起，就很少再过来了。尤其中信36+1取消spa 权益后，几乎没...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-01T18:45:40+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深圳人才公园]]></title>
-        <id>https://fatesinger.com/104374</id>
-        <link href="https://fatesinger.com/104374"/>
-        <updated>2024-11-29T17:44:06.061Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104374" aria-label="深圳人才公园" title="深圳人才公园">深圳人才公园</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            深圳人才公园
-深圳我唯一愿意去的公园，因为连接深圳湾万象城，不管是遛弯儿完吃饭还是吃完饭消食都很好，配备塑胶跑道，也很...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-11-29T23:26:50+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
