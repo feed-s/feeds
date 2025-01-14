@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-14T05:44:35.444Z</updated>
+    <updated>2025-01-14T17:49:09.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7513,6 +7513,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Banteay Srei 女王宫 (大发贱志)]]></title>
+        <id>https://fatesinger.com/104622</id>
+        <link href="https://fatesinger.com/104622"/>
+        <updated>2025-01-14T17:47:05.425Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104622" aria-label="Banteay Srei 女王宫" title="Banteay Srei 女王宫">Banteay Srei 女王宫</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            吴哥窟外圈必看景点是女王宫(Banteay Srei)和崩密列(Beng Mealea)，还有柏威夏寺 (Preah Vihear)、罗洛斯遗址 (包含 Lolei、Preah Ko、Bakong)、洞里萨湖 空邦鲁 (Kampong Phluk) 游船。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-14T15:44:36+08:00">发布于 10 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[金边 City Walk II (大发贱志)]]></title>
         <id>https://fatesinger.com/104615</id>
         <link href="https://fatesinger.com/104615"/>
@@ -7525,7 +7540,7 @@ on
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-13T19:09:14+08:00">发布于 18 小时前</time>
+            <time itemprop="datePublished" datetime="2025-01-13T19:09:14+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7540,7 +7555,7 @@ on
             金边，柬埔寨首都，因为最近的热门事件，现在显然已经是令人闻风丧胆的地方，旅行经验较多的我自然不会相信网上那些话，还是按照计划游览了吴哥窟，因为深圳没有直飞暹粒的航班，所以选择在金边中转一天。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-13T19:08:43+08:00">发布于 18 小时前</time>
+            <time itemprop="datePublished" datetime="2025-01-13T19:08:43+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7555,7 +7570,7 @@ on
             本主题使用古法制作，不依赖三方框架,依然不是区块主题，颜色选择了最新的潘通年度色。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-02T17:24:43+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-02T17:24:43+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7570,7 +7585,7 @@ on
             最近两年每到年底的时候都会有一种这一年什么都没干的感觉，靠着翻照片才能慢慢回忆起来自己干了什么，仔细一看，原来自己做了不少事情呢。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-31T19:39:53+08:00">发布于 13 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-31T19:39:53+08:00">发布于 14 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7603,7 +7618,7 @@ on
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7619,7 +7634,7 @@ on
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2024-12-29T21:39:13+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7634,22 +7649,7 @@ on
             前几天飞了一次无锡，本来想着当日往返，刚好航班取消，就在苏州金普顿住了一晚，赶了个秋天尾巴，还不错。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 17 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[香港 City Walk IV (大发贱志)]]></title>
-        <id>https://fatesinger.com/104406</id>
-        <link href="https://fatesinger.com/104406"/>
-        <updated>2024-12-07T17:44:14.230Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104406" aria-label="香港 City Walk IV" title="香港 City Walk IV">香港 City Walk IV</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            因为四季度业绩实在过于惨淡，最近经常无所事事，总是要找一点事情消磨一下精力，本着能省一点是一点的原则，香港遛弯儿成了...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-07T22:53:51+08:00">发布于 1月前</time>
+            <time itemprop="datePublished" datetime="2024-12-28T00:03:45+08:00">发布于 18 天前</time>
         </div>]]></content>
     </entry>
     <entry>
