@@ -2,9 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-01-20T05:45:40.580Z</updated>
+    <updated>2025-01-20T17:44:32.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[柬埔寨休闲舒适游]]></title>
+        <id>https://fatesinger.com/104810</id>
+        <link href="https://fatesinger.com/104810"/>
+        <updated>2025-01-20T17:44:13.613Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104810" aria-label="柬埔寨休闲舒适游" title="柬埔寨休闲舒适游">柬埔寨休闲舒适游</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            本文介绍一些花费和行程安排，本人休闲舒适游，不特种兵，仅供参考。
+对大部分人来说，柬埔寨并不是一个很好的旅行目的地，核...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-21T00:27:55+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angkor Wat 吴哥窟]]></title>
+        <id>https://fatesinger.com/104602</id>
+        <link href="https://fatesinger.com/104602"/>
+        <updated>2025-01-20T17:44:13.613Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104602" aria-label="Angkor Wat 吴哥窟" title="Angkor Wat 吴哥窟">Angkor Wat 吴哥窟</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            一般人们常说的吴哥窟就是小吴哥Angkor Wat，小吴哥是著名的世界文化遗产，更是高棉人最引以为傲的象征，小吴哥是印在柬埔寨国旗上的，可见其地位。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-21T00:07:56+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bayon Temple 巴戎寺]]></title>
+        <id>https://fatesinger.com/104606</id>
+        <link href="https://fatesinger.com/104606"/>
+        <updated>2025-01-20T17:44:13.614Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104606" aria-label="Bayon Temple 巴戎寺" title="Bayon Temple 巴戎寺">Bayon Temple 巴戎寺</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            巴戎寺就是著名的高棉的微笑。巴扬寺是吴哥最后一座国庙，在阇耶跋摩七世过世后，高棉的繁华不再，渐渐淡忘在辉煌的历史灰烬里，进入了百年的寂静。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-20T17:21:23+08:00">发布于 8 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ta Prohm 塔普伦寺]]></title>
+        <id>https://fatesinger.com/104610</id>
+        <link href="https://fatesinger.com/104610"/>
+        <updated>2025-01-20T17:44:13.615Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104610" aria-label="Ta Prohm 塔普伦寺" title="Ta Prohm 塔普伦寺">Ta Prohm 塔普伦寺</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            塔普伦寺位于吴哥遗址群的正中央，属于小圈的行程。因为是电影古墓丽影的取景地，游客还是很多的。塔普伦寺也是我吴哥执行的第一个目的地。
+        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-20T16:18:46+08:00">发布于 9 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preah Khan 圣剑寺]]></title>
         <id>https://fatesinger.com/104608</id>
@@ -17,7 +79,7 @@
             圣剑寺属于大圈的一处景点，因为有很多石雕的手上都握著宝剑，所以该寺庙成为圣剑寺，圣剑寺也是吴哥古迹中未完全修复的状态寺庙之一。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-17T21:03:25+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-17T21:03:25+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -32,7 +94,7 @@
             女王宫虽然美丽精致，但崩密列才是外圈我最想去的地方，吴哥窟虽然壮观，但都是修复之后的样子了，而崩密列则完全是未修复的状态，身临其境才能感受那种宏伟与衰败交织的感觉。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-15T16:08:32+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-15T16:08:32+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -47,7 +109,7 @@
             吴哥窟外圈必看景点是女王宫(Banteay Srei)和崩密列(Beng Mealea)，还有柏威夏寺 (Preah Vihear)、罗洛斯遗址 (包含 Lolei、Preah Ko、Bakong)、洞里萨湖 空邦鲁 (Kampong Phluk) 游船。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-14T15:44:36+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-14T15:44:36+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -63,7 +125,7 @@
         </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-13T19:09:14+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-13T19:09:14+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -78,70 +140,7 @@
             金边，柬埔寨首都，因为最近的热门事件，现在显然已经是令人闻风丧胆的地方，旅行经验较多的我自然不会相信网上那些话，还是按照计划游览了吴哥窟，因为深圳没有直飞暹粒的航班，所以选择在金边中转一天。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-13T19:08:43+08:00">发布于 6 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 主题 Hera]]></title>
-        <id>https://fatesinger.com/104289</id>
-        <link href="https://fatesinger.com/104289"/>
-        <updated>2025-01-03T05:44:02.070Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104289" aria-label="WordPress 主题 Hera" title="WordPress 主题 Hera">WordPress 主题 Hera</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            本主题使用古法制作，不依赖三方框架,依然不是区块主题，颜色选择了最新的潘通年度色。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-02T17:24:43+08:00">发布于 17 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 – 2025 跨年博客]]></title>
-        <id>https://fatesinger.com/103771</id>
-        <link href="https://fatesinger.com/103771"/>
-        <updated>2024-12-31T17:49:47.028Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/103771" aria-label="2024 – 2025 跨年博客" title="2024 – 2025 跨年博客">2024 – 2025 跨年博客</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            最近两年每到年底的时候都会有一种这一年什么都没干的感觉，靠着翻照片才能慢慢回忆起来自己干了什么，仔细一看，原来自己做了不少事情呢。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/zine" rel="category tag">贱志</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-31T19:39:53+08:00">发布于 19 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合肥 City Walk]]></title>
-        <id>https://fatesinger.com/104430</id>
-        <link href="https://fatesinger.com/104430"/>
-        <updated>2024-12-30T05:44:10.619Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104430" aria-label="合肥 City Walk" title="合肥 City Walk">合肥 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            合肥在省会里存在感不是太强，我最早有所了解还是因为中科大在合肥，后面为了打卡所有省会也来了合肥一次，记得当时还住了不止一晚，当时去的大部分地方都已经记不清了。
-
-        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-30T11:42:31+08:00">发布于 21 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南京 City Walk II]]></title>
-        <id>https://fatesinger.com/104519</id>
-        <link href="https://fatesinger.com/104519"/>
-        <updated>2024-12-30T05:44:10.620Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104519" aria-label="南京 City Walk II" title="南京 City Walk II">南京 City Walk II</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            南京来的次数挺多的，这还是我第一次看到南京城墙，南京城墙是一处收费景点，登上城墙应该就能看到玄武湖了，不想花钱，没登。
-        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2024-12-29T21:41:13+08:00">发布于 21 天前</time>
+            <time itemprop="datePublished" datetime="2025-01-13T19:08:43+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
 </feed>
