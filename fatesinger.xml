@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-01-21T17:44:42.510Z</updated>
+    <updated>2025-01-22T05:44:48.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[国内信用卡]]></title>
+        <id>https://fatesinger.com/104293</id>
+        <link href="https://fatesinger.com/104293"/>
+        <updated>2025-01-22T05:44:29.826Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104293" aria-label="国内信用卡" title="国内信用卡">国内信用卡</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            2025 年开始，国内信用卡的权益已经没法看了，除了超高端顶级卡，不管是免年费的还是刚性年费的，依然有稳定权益的一个手就能...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/minimalism" rel="category tag">极简主义</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-01-22T11:52:09+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[柬埔寨休闲舒适游]]></title>
         <id>https://fatesinger.com/104810</id>
@@ -126,21 +141,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-01-13T19:09:14+08:00">发布于 8 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[金边 City Walk]]></title>
-        <id>https://fatesinger.com/104592</id>
-        <link href="https://fatesinger.com/104592"/>
-        <updated>2025-01-13T17:44:19.822Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104592" aria-label="金边 City Walk" title="金边 City Walk">金边 City Walk</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            金边，柬埔寨首都，因为最近的热门事件，现在显然已经是令人闻风丧胆的地方，旅行经验较多的我自然不会相信网上那些话，还是按照计划游览了吴哥窟，因为深圳没有直飞暹粒的航班，所以选择在金边中转一天。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-13T19:08:43+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
 </feed>
