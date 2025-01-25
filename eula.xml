@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2025-01-25T05:44:38.827Z</updated>
+    <updated>2025-01-25T17:44:42.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes高可用集群的部署与配置]]></title>
+        <id>https://www.eula.club/blogs/Kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E9%85%8D%E7%BD%AE.html</id>
+        <link href="https://www.eula.club/blogs/Kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E9%85%8D%E7%BD%AE.html"/>
+        <updated>2025-01-25T17:44:14.844Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Kubernetes%E9%AB%98%E5%8F%AF%E7%94%A8%E9%9B%86%E7%BE%A4%E7%9A%84%E9%83%A8%E7%BD%B2%E4%B8%8E%E9%85%8D%E7%BD%AE.html" data-v-3fa1a62e="" class="">Kubernetes高可用集群的部署与配置</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/26/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Kubernetes</span><span class="tag-item" data-v-1e62957f="">KubeKey</span><span class="tag-item" data-v-1e62957f="">KubeSphere</span><span class="tag-item" data-v-1e62957f="">云原生</span><span class="tag-item" data-v-1e62957f="">高可用集群</span></i></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mac-Mini作为轻量服务器的配置教程]]></title>
         <id>https://www.eula.club/blogs/Mac-Mini%E4%BD%9C%E4%B8%BA%E8%BD%BB%E9%87%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html</id>
         <link href="https://www.eula.club/blogs/Mac-Mini%E4%BD%9C%E4%B8%BA%E8%BD%BB%E9%87%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html"/>
         <updated>2025-01-25T05:44:12.278Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Mac-Mini%E4%BD%9C%E4%B8%BA%E8%BD%BB%E9%87%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html" data-v-3fa1a62e="" class="">Mac-Mini作为轻量服务器的配置教程</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/23/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Mac-Mini</span><span class="tag-item" data-v-1e62957f="">轻量服务器</span><span class="tag-item" data-v-1e62957f="">Rustdesk</span><span class="tag-item" data-v-1e62957f="">远程控制访问</span><span class="tag-item" data-v-1e62957f="">Docker迁移</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Mac-Mini%E4%BD%9C%E4%B8%BA%E8%BD%BB%E9%87%8F%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.html" data-v-3fa1a62e="" class="">Mac-Mini作为轻量服务器的配置教程</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">1/23/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Mac-Mini</span><span class="tag-item" data-v-1e62957f="">轻量服务器</span><span class="tag-item" data-v-1e62957f="">Rustdesk</span><span class="tag-item" data-v-1e62957f="">远程控制访问</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI-12天新品发布会内容总结]]></title>
@@ -67,12 +74,5 @@
         <link href="https://www.eula.club/blogs/Qwen-VL%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BE%AE%E8%B0%83%E4%B8%8E%E6%8E%A8%E7%90%86.html"/>
         <updated>2025-01-23T17:44:03.047Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/Qwen-VL%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BE%AE%E8%B0%83%E4%B8%8E%E6%8E%A8%E7%90%86.html" data-v-3fa1a62e="" class="">Qwen-VL多模态大模型的微调与推理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/21/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Qwen-VL</span><span class="tag-item" data-v-1e62957f="">多模态大模型</span><span class="tag-item" data-v-1e62957f="">Qwen-VL在线量化</span><span class="tag-item" data-v-1e62957f="">Qwen-VL微调</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于vLLM加速大模型推理并评估性能]]></title>
-        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EvLLM%E5%8A%A0%E9%80%9F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%B9%B6%E8%AF%84%E4%BC%B0%E6%80%A7%E8%83%BD.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8EvLLM%E5%8A%A0%E9%80%9F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%B9%B6%E8%AF%84%E4%BC%B0%E6%80%A7%E8%83%BD.html"/>
-        <updated>2025-01-23T17:44:03.049Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8EvLLM%E5%8A%A0%E9%80%9F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%B9%B6%E8%AF%84%E4%BC%B0%E6%80%A7%E8%83%BD.html" data-v-3fa1a62e="" class="">基于vLLM加速大模型推理并评估性能</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/22/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">推理性能优化</span><span class="tag-item" data-v-1e62957f="">vLLM</span><span class="tag-item" data-v-1e62957f="">CPU-Offload</span><span class="tag-item" data-v-1e62957f="">LLaMA-Factory</span><span class="tag-item" data-v-1e62957f="">EvalScope</span><span class="tag-item" data-v-1e62957f="">推理性能评估</span></i></div>]]></content>
     </entry>
 </feed>
