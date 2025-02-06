@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2025-02-06T05:44:55.551Z</updated>
+    <updated>2025-02-06T17:44:34.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://www.eula.club/blogs/DeepSeek-R1%E4%B8%8ECoT%E6%80%9D%E7%BB%B4%E9%93%BE%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
         <link href="https://www.eula.club/blogs/DeepSeek-R1%E4%B8%8ECoT%E6%80%9D%E7%BB%B4%E9%93%BE%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
         <updated>2025-02-04T17:43:59.913Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/DeepSeek-R1%E4%B8%8ECoT%E6%80%9D%E7%BB%B4%E9%93%BE%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">DeepSeek-R1与CoT思维链大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/4/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">DeepSeek-R1</span><span class="tag-item" data-v-1e62957f="">o3-mini</span><span class="tag-item" data-v-1e62957f="">CoT思维链</span><span class="tag-item" data-v-1e62957f="">欠思考问题</span><span class="tag-item" data-v-1e62957f="">简洁解码策略</span><span class="tag-item" data-v-1e62957f="">模型蒸馏</span><span class="tag-item" data-v-1e62957f="">Deep-Research</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/DeepSeek-R1%E4%B8%8ECoT%E6%80%9D%E7%BB%B4%E9%93%BE%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">DeepSeek-R1与CoT思维链大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/4/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">DeepSeek-R1</span><span class="tag-item" data-v-1e62957f="">o3-mini</span><span class="tag-item" data-v-1e62957f="">CoT思维链</span><span class="tag-item" data-v-1e62957f="">简洁解码策略</span><span class="tag-item" data-v-1e62957f="">模型蒸馏</span><span class="tag-item" data-v-1e62957f="">动态量化</span><span class="tag-item" data-v-1e62957f="">Deep-Research</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mac-Mini作为轻量服务器的配置教程]]></title>
