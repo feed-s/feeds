@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-02-25T05:45:22.555Z</updated>
+    <updated>2025-02-25T17:45:29.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[澳门乘机体验]]></title>
+        <id>https://fatesinger.com/104937</id>
+        <link href="https://fatesinger.com/104937"/>
+        <updated>2025-02-25T17:45:11.802Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104937" aria-label="澳门乘机体验" title="澳门乘机体验">澳门乘机体验</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            Macou – Bangkok
+澳门作为最后一个没打卡的省会级机场，一直想找机会打卡，澳门能飞的航线不是特别多，大部份价格都不...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 3 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUMA 5.0]]></title>
         <id>https://fatesinger.com/104892</id>
@@ -17,7 +33,7 @@
             今年是Puma 发布的第十年，春节期间我把主题重写了一下，主要是替换掉比较老的PHP 代码，新增了后台设置，同时对主题细节进行了调整，更加符合现代设计风格。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 10 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 11 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -125,21 +141,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-01-15T16:08:32+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Banteay Srei 女王宫]]></title>
-        <id>https://fatesinger.com/104622</id>
-        <link href="https://fatesinger.com/104622"/>
-        <updated>2025-01-14T17:47:05.425Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104622" aria-label="Banteay Srei 女王宫" title="Banteay Srei 女王宫">Banteay Srei 女王宫</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            吴哥窟外圈必看景点是女王宫(Banteay Srei)和崩密列(Beng Mealea)，还有柏威夏寺 (Preah Vihear)、罗洛斯遗址 (包含 Lolei、Preah Ko、Bakong)、洞里萨湖 空邦鲁 (Kampong Phluk) 游船。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-14T15:44:36+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
