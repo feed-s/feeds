@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-02T05:44:41.613Z</updated>
+    <updated>2025-03-02T17:44:46.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7524,7 +7524,7 @@ on
             自从去年办了逗留签，香港逐渐由陌生变得熟悉，其实城市和人一样，相处久了都会产生复杂的情感。无法说自己多喜欢香港，但不管怎么样这座城市已经在自己的岁月长河中留下了不少的印记了。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-28T15:48:36+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-28T15:48:36+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7540,7 +7540,7 @@ on
 澳门作为最后一个没打卡的省会级机场，一直想找机会打卡，澳门能飞的航线不是特别多，大部份价格都不...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7555,7 +7555,7 @@ on
             今年是Puma 发布的第十年，春节期间我把主题重写了一下，主要是替换掉比较老的PHP 代码，新增了后台设置，同时对主题细节进行了调整，更加符合现代设计风格。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7979,7 +7979,7 @@ on
 						</a>
 					</div>			<header class="entry-header">
 				<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2>		<div class="entry-meta">
-			<span class="posted-on"><time class="updated" datetime="2025-01-29T18:51:53+08:00" itemprop="dateModified">2025年1月29日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> 		</div>
+			<span class="posted-on"><time class="updated" datetime="2025-03-02T17:19:12+08:00" itemprop="dateModified">2025年3月2日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> 		</div>
 					</header>
 			
 			<div class="entry-summary" itemprop="text">
@@ -8265,7 +8265,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>28</span></div>
+			<span>29</span></div>
 							</div>
 			</div>]]></content>
     </entry>
