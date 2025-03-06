@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-06T05:46:03.727Z</updated>
+    <updated>2025-03-06T17:44:53.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7505,6 +7505,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[再逛曼谷 (大发贱志)]]></title>
+        <id>https://fatesinger.com/104604</id>
+        <link href="https://fatesinger.com/104604"/>
+        <updated>2025-03-06T17:44:36.440Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104604" aria-label="再逛曼谷" title="再逛曼谷">再逛曼谷</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            多次来到曼谷，不需要再去那些景点打卡，压压马路，热了找家咖啡店喝一杯或者进商场吹吹空调就挺舒服，湿热的气候真是我的最爱。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 10 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[凯悦系酒店总结 (大发贱志)]]></title>
         <id>https://fatesinger.com/105015</id>
         <link href="https://fatesinger.com/105015"/>
@@ -7516,7 +7531,7 @@ on
             失去了环球客，以后大概率也不怎么会住凯悦系的酒店了，本文简评下住过的凯悦系酒店吧，给大家一个参考。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-05T18:00:24+08:00">发布于 19 小时前</time>
+            <time itemprop="datePublished" datetime="2025-03-05T18:00:24+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7531,7 +7546,7 @@ on
             自从去年办了逗留签，香港逐渐由陌生变得熟悉，其实城市和人一样，相处久了都会产生复杂的情感。无法说自己多喜欢香港，但不管怎么样这座城市已经在自己的岁月长河中留下了不少的印记了。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-28T15:48:36+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-28T15:48:36+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7546,7 +7561,7 @@ on
             澳门航空该有的服务还是都有的，没有网上说的那么差，另外就是澳门的普通话普及程度非常之高，和香港完全不是一个风格。不出意外的话以后不太会从澳门出发了，至此打卡全部34 个机场完成，完美谢幕。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 8 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 9 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7561,7 +7576,7 @@ on
             今年是Puma 发布的第十年，春节期间我把主题重写了一下，主要是替换掉比较老的PHP 代码，新增了后台设置，同时对主题细节进行了调整，更加符合现代设计风格。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7622,22 +7637,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-01-20T17:21:23+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ta Prohm 塔普伦寺 (大发贱志)]]></title>
-        <id>https://fatesinger.com/104610</id>
-        <link href="https://fatesinger.com/104610"/>
-        <updated>2025-01-20T17:44:13.615Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104610" aria-label="Ta Prohm 塔普伦寺" title="Ta Prohm 塔普伦寺">Ta Prohm 塔普伦寺</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            塔普伦寺位于吴哥遗址群的正中央，属于小圈的行程。因为是电影古墓丽影的取景地，游客还是很多的。塔普伦寺也是我吴哥执行的第一个目的地。
-        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-20T16:18:46+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8343,7 +8342,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>16</span></div>
+			<span>17</span></div>
 							</div>
 			</div>]]></content>
     </entry>
