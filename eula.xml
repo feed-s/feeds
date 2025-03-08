@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.eula.club/</id>
     <title>Quantum Bit</title>
-    <updated>2025-03-07T17:45:04.730Z</updated>
+    <updated>2025-03-08T05:44:25.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.eula.club/favicon.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERay%E5%92%8CvLLM%E5%AE%9E%E7%8E%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERay%E5%92%8CvLLM%E5%AE%9E%E7%8E%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86.html"/>
         <updated>2025-03-05T17:44:05.817Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ERay%E5%92%8CvLLM%E5%AE%9E%E7%8E%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86.html" data-v-3fa1a62e="" class="">基于Ray和vLLM实现大模型分布式推理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/26/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ray分布式计算</span><span class="tag-item" data-v-1e62957f="">vLLM推理加速</span><span class="tag-item" data-v-1e62957f="">NFS文件系统</span><span class="tag-item" data-v-1e62957f="">LLaMA-Factory</span><span class="tag-item" data-v-1e62957f="">大模型分布式推理</span></i></div>]]></content>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ERay%E5%92%8CvLLM%E5%AE%9E%E7%8E%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86.html" data-v-3fa1a62e="" class="">基于Ray和vLLM实现大模型分布式推理</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">3/5/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ray分布式计算</span><span class="tag-item" data-v-1e62957f="">vLLM推理加速</span><span class="tag-item" data-v-1e62957f="">NFS文件系统</span><span class="tag-item" data-v-1e62957f="">LLaMA-Factory</span><span class="tag-item" data-v-1e62957f="">大模型分布式推理</span></i></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek开源周发布内容概要总结]]></title>
+        <id>https://www.eula.club/blogs/DeepSeek%E5%BC%80%E6%BA%90%E5%91%A8%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81%E6%80%BB%E7%BB%93.html</id>
+        <link href="https://www.eula.club/blogs/DeepSeek%E5%BC%80%E6%BA%90%E5%91%A8%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81%E6%80%BB%E7%BB%93.html"/>
+        <updated>2025-03-08T05:43:59.781Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/DeepSeek%E5%BC%80%E6%BA%90%E5%91%A8%E5%8F%91%E5%B8%83%E5%86%85%E5%AE%B9%E6%A6%82%E8%A6%81%E6%80%BB%E7%BB%93.html" data-v-3fa1a62e="" class="">DeepSeek开源周发布内容概要总结</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">2/25/2025</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">FlashMLA</span><span class="tag-item" data-v-1e62957f="">DeepEP</span><span class="tag-item" data-v-1e62957f="">DeepGEMM</span><span class="tag-item" data-v-1e62957f="">DualPipe和EPLB</span><span class="tag-item" data-v-1e62957f="">3FS文件系统</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DeepSeek-R1技术解读及推理部署]]></title>
@@ -67,12 +74,5 @@
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2025-01-23T17:44:03.044Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">基于RAG的知识库问答平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">llama.cpp</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">Dify</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于LLaMA-Factory微调开源大模型]]></title>
-        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELLaMA-Factory%E5%BE%AE%E8%B0%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELLaMA-Factory%E5%BE%AE%E8%B0%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
-        <updated>2025-01-26T05:44:08.777Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELLaMA-Factory%E5%BE%AE%E8%B0%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LLaMA-Factory微调开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/21/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA-Factory</span><span class="tag-item" data-v-1e62957f="">大模型微调</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">LabelU</span><span class="tag-item" data-v-1e62957f="">多模态数据标注</span><span class="tag-item" data-v-1e62957f="">SemHash</span><span class="tag-item" data-v-1e62957f="">Qwen-VL</span><span class="tag-item" data-v-1e62957f="">模型训练经验</span></i></div>]]></content>
     </entry>
 </feed>
