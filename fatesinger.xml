@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-03-27T17:44:51.266Z</updated>
+    <updated>2025-03-28T05:47:49.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[去大理 Chapter 6]]></title>
+        <id>https://fatesinger.com/104596</id>
+        <link href="https://fatesinger.com/104596"/>
+        <updated>2025-03-28T05:47:30.605Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104596" aria-label="去大理 Chapter 6" title="去大理 Chapter 6">去大理 Chapter 6</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            经典蓝调时刻
+时隔近两年，本系列再次更新，连载强度堪比香港City Walk 系列。联程起点是昆明，本来没打算来大理，但是落地昆...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-03-28T13:41:15+08:00">发布于 6 分钟前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[星海湾小逛]]></title>
         <id>https://fatesinger.com/104954</id>
@@ -124,21 +140,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/minimalism" rel="category tag">极简主义</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-01-22T11:52:09+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[柬埔寨休闲舒适游]]></title>
-        <id>https://fatesinger.com/104810</id>
-        <link href="https://fatesinger.com/104810"/>
-        <updated>2025-01-20T17:44:13.613Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104810" aria-label="柬埔寨休闲舒适游" title="柬埔寨休闲舒适游">柬埔寨休闲舒适游</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            总计消费约1300 美金，总体上消费还是比较高的，当然交通占了大头，如果节约一下还是可以省点的，但是打车、门票真的属于很贵那一档了，而且受制于硬件，体验较差，不是对历史特别感兴趣的还是不太推荐柬埔寨旅行。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-21T00:27:55+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
 </feed>
