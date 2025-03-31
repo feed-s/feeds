@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-03-31T05:45:54.758Z</updated>
+    <updated>2025-03-31T17:44:45.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[多哈小逛]]></title>
+        <id>https://fatesinger.com/104935</id>
+        <link href="https://fatesinger.com/104935"/>
+        <updated>2025-03-31T17:44:27.331Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104935" aria-label="多哈小逛" title="多哈小逛">多哈小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            绝大多数人来多哈都是转机，我这次则是因为三月是深圳航空淡季运价商务舱只需要 31500 里程，因为卡塔尔属于亚洲，税费也只有...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[去大理 Chapter 6]]></title>
         <id>https://fatesinger.com/104596</id>
@@ -34,7 +49,7 @@
 前阵子去了一趟大连，因为深圳航空国外直飞深圳和加一段国内航线在深圳中转价格是一样的，所以选了一个距离长...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 12 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 13 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -49,7 +64,7 @@
             京都其实上次有来过，但因为时间关系只在京都站附近简单逛了下，上次来的时候天气很好，这次天气很差，应该是算是淡季了，游客不怎么多，走在京都的街道上很清静。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -64,7 +79,7 @@
             多次来到曼谷，不需要再去那些景点打卡，压压马路，热了找家咖啡店喝一杯或者进商场吹吹空调就挺舒服，湿热的气候真是我的最爱。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -79,7 +94,7 @@
             失去了环球客，以后大概率也不怎么会住凯悦系的酒店了，本文简评下住过的凯悦系酒店吧，给大家一个参考。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-05T18:00:24+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-05T18:00:24+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -125,21 +140,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内信用卡]]></title>
-        <id>https://fatesinger.com/104293</id>
-        <link href="https://fatesinger.com/104293"/>
-        <updated>2025-01-22T05:44:29.826Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104293" aria-label="国内信用卡" title="国内信用卡">国内信用卡</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            2025 年开始，国内信用卡的权益已经没法看了，除了超高端顶级卡，不管是免年费的还是刚性年费的，依然有稳定权益的一个手就能数过来了。本人主攒东航里程，虽然我自己主要乘坐国航系，但是东航里程滚动不过期，兑换国内两舱及其划算，主要用来给父母们兑换里程票了。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/minimalism" rel="category tag">极简主义</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-01-22T11:52:09+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
 </feed>
