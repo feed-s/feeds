@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-04-05T05:44:53.966Z</updated>
+    <updated>2025-04-05T17:44:53.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[吉萨金字塔]]></title>
+        <id>https://fatesinger.com/105001</id>
+        <link href="https://fatesinger.com/105001"/>
+        <updated>2025-04-05T17:44:35.698Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105001" aria-label="吉萨金字塔" title="吉萨金字塔">吉萨金字塔</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            落地开罗，uber 去酒店，遇到堵车看到当地小哥直接就来擦车，司机咒骂并狂按喇叭，恍惚间好像自己参演了一场电影。
+在国内养...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 4 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多哈小逛]]></title>
         <id>https://fatesinger.com/104935</id>
@@ -17,7 +33,7 @@
             绝大多数人来多哈都是转机，我这次则是因为三月是深圳航空淡季运价商务舱只需要 31500 里程，因为卡塔尔属于亚洲，税费也只有...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -49,7 +65,7 @@
 前阵子去了一趟大连，因为深圳航空国外直飞深圳和加一段国内航线在深圳中转价格是一样的，所以选了一个距离长...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 17 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 18 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -64,7 +80,7 @@
             京都其实上次有来过，但因为时间关系只在京都站附近简单逛了下，上次来的时候天气很好，这次天气很差，应该是算是淡季了，游客不怎么多，走在京都的街道上很清静。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -79,7 +95,7 @@
             多次来到曼谷，不需要再去那些景点打卡，压压马路，热了找家咖啡店喝一杯或者进商场吹吹空调就挺舒服，湿热的气候真是我的最爱。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -125,21 +141,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUMA 5.0]]></title>
-        <id>https://fatesinger.com/104892</id>
-        <link href="https://fatesinger.com/104892"/>
-        <updated>2025-02-14T17:44:23.200Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104892" aria-label="PUMA 5.0" title="PUMA 5.0">PUMA 5.0</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            今年是Puma 发布的第十年，春节期间我把主题重写了一下，主要是替换掉比较老的PHP 代码，新增了后台设置，同时对主题细节进行了调整，更加符合现代设计风格。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-14T18:27:44+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
