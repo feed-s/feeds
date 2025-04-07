@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-04-07T05:47:06.075Z</updated>
+    <updated>2025-04-07T17:44:34.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[让博客“秒开”：Instant.page 插件介绍与实测效果]]></title>
+        <id>https://www.shephe.com/website/instant-page-plugin/</id>
+        <link href="https://www.shephe.com/website/instant-page-plugin/"/>
+        <updated>2025-04-07T17:44:31.741Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/instant-page-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">让博客“秒开”：Instant.page 插件介绍与实测效果</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www.webp 1440w, https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www-768x485.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-04-07T21:28:14+08:00">
+				04/07/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>让博客“秒开”：Instant.page 插件介绍与实测效果</span></h3>						<p>如果你像我一样经常在各类博客间闲逛，可能也会有类似的体验：每次点击进入一篇新文章时，总需要“等一等”。这种等待在使用普通虚拟主机或轻量云服务器的站点上尤其明显。虽然如今的网络带宽早已不是瓶颈，但用户真正感受到的“快”与“…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/instant-page-plugin/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[开源 Gif 录制工具 ScreenToGif v2.41 免费下载]]></title>
         <id>https://www.shephe.com/resources/screentogif-free-download/</id>
@@ -106,29 +131,92 @@
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[解锁 Win 新插件，使用 OneQuick 助你效率倍增！]]></title>
-        <id>https://www.shephe.com/post/onequick/</id>
-        <link href="https://www.shephe.com/post/onequick/"/>
-        <updated>2025-01-09T17:44:25.340Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/onequick/" rel="bookmark" target="_blank"><span class="screen-reader-text">解锁 Win 新插件，使用 OneQuick 助你效率倍增！</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/12/Windows.webp 960w, https://staticfile.shephe.com/wp-content/uploads/2024/12/Windows-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-01-09T10:02:40+08:00">
-				01/09/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>解锁 Win 新插件，使用 OneQuick 助你效率倍增！</span></h3>						<p>OneQuick 是一款高效实用的 Windows 增强工具，提供快捷操作、手势控制和功能扩展，让你的电脑使用更快捷、更流畅。我在</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/onequick/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[让博客“秒开”：Instant.page 插件介绍与实测效果]]></title>
+        <id>https://www.shephe.com/website/instant-page-plugin/</id>
+        <link href="https://www.shephe.com/website/instant-page-plugin/"/>
+        <updated>2025-04-07T17:44:31.757Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/instant-page-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">让博客“秒开”：Instant.page 插件介绍与实测效果</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>让博客“秒开”：Instant.page 插件介绍与实测效果</span></h3>			<p>如果你像我一样经常在各类博客间闲逛，可能也会有类似的体验：每次点击进入一篇新文章时，总需要“等一等”。这种等待在使用普通虚拟主机或轻量云服务器的站点上尤其明显。虽然如今的…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>56</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfectly Clear WorkBench 4.6.1.2736 人像智能处理软件破解下载]]></title>
+        <id>https://www.shephe.com/resources/perfectly-clear-workbench-crack-download/</id>
+        <link href="https://www.shephe.com/resources/perfectly-clear-workbench-crack-download/"/>
+        <updated>2025-04-07T17:44:31.758Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/perfectly-clear-workbench-crack-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Perfectly Clear WorkBench 4.6.1.2736 人像智能处理软件破解下载</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Perfectly Clear WorkBench 4.6.1.2736 人像智能处理软件破解下载</span></h3>			<p>Perfectly Clear WorkBench 是一款用于图像处理的智能化工具，广泛应用于摄影和设计领域。它利用 AI 技术和高级算法自动优化图像，特别在人像修复和场…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>12</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>25</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topaz Gigapixel AI 8.3.3 AI 图片无损缩放软件下载]]></title>
+        <id>https://www.shephe.com/resources/topaz-gigapixel-ai-free-download/</id>
+        <link href="https://www.shephe.com/resources/topaz-gigapixel-ai-free-download/"/>
+        <updated>2025-04-07T17:44:31.759Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-gigapixel-ai-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz Gigapixel AI 8.3.3 AI 图片无损缩放软件下载</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz Gigapixel AI 8.3.3 AI 图片无损缩放软件下载</span></h3>			<p>Topaz Gigapixel AI 是一款强大的 AI 驱动图片无损缩放软件，通过运用先进的人工智能技术，能够显著提升图像的分辨率和细节。它的核心功能是利用深度学习模型…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>15</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>37</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topaz Photo AI v3.6 人工智能图片处理软件下载]]></title>
+        <id>https://www.shephe.com/resources/topaz-photo-ai-free-download/</id>
+        <link href="https://www.shephe.com/resources/topaz-photo-ai-free-download/"/>
+        <updated>2025-04-07T17:44:31.760Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-photo-ai-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz Photo AI v3.6 人工智能图片处理软件下载</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz Photo AI v3.6 人工智能图片处理软件下载</span></h3>			<p>Topaz Photo AI 不仅仅是一款图像处理软件，更是一种强大的创意工具，让用户能够释放想象力，探索无限的图像可能性。其独特的人工智能技术能够智能识别照片中的元素和…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>29</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>31</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Photoshop 2025 26.5 中文破解版下载（直装版 & 便携版长期更新）]]></title>
@@ -171,94 +259,6 @@
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
 			<span>43</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz DeNoise AI v3.7.2 降噪插件中文破解版下载]]></title>
-        <id>https://www.shephe.com/resources/topaz-denoise-ai-free-download/</id>
-        <link href="https://www.shephe.com/resources/topaz-denoise-ai-free-download/"/>
-        <updated>2025-04-05T17:44:51.132Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-denoise-ai-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz DeNoise AI v3.7.2 降噪插件中文破解版下载</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz DeNoise AI v3.7.2 降噪插件中文破解版下载</span></h3>			<p>Topaz DeNoise AI v3.7.2 是一款功能非常强大且实用的图片降噪软件，用户只需调整基础参数即可马上消除图片中的噪点，让图片变得更加的精美，让图片的细节得…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>30</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>28</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[免插件为 WordPress 添加 XML 网站地图（作废）]]></title>
-        <id>https://www.shephe.com/website/wordpress-add-xml-sitemap/</id>
-        <link href="https://www.shephe.com/website/wordpress-add-xml-sitemap/"/>
-        <updated>2025-04-05T17:44:51.133Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-add-xml-sitemap/" rel="bookmark" target="_blank"><span class="screen-reader-text">免插件为 WordPress 添加 XML 网站地图（作废）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>免插件为 WordPress 添加 XML 网站地图（作废）</span></h3>			<p>自从萌生了</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>28</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>28</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 文字助手 (textAssistant)插件下载和使用]]></title>
-        <id>https://www.shephe.com/resources/photoshop-textassistant/</id>
-        <link href="https://www.shephe.com/resources/photoshop-textassistant/"/>
-        <updated>2025-03-29T17:44:15.544Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-textassistant/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 文字助手 (textAssistant)插件下载和使用</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 文字助手 (textAssistant)插件下载和使用</span></h3>			<p>文字助手（textAssistant）是一款用于 Photoshop 的字体批处理插件，专为设计师和摄影师提供高效的字体管理工具，配合 Kevin's Space 分享的…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>16</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>49</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop DR5 至臻版插件优化版下载 & 使用教程]]></title>
-        <id>https://www.shephe.com/resources/photoshop-dr5-free-download/</id>
-        <link href="https://www.shephe.com/resources/photoshop-dr5-free-download/"/>
-        <updated>2025-03-26T17:45:15.784Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-dr5-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop DR5 至臻版插件优化版下载 &amp; 使用教程</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop DR5 至臻版插件优化版下载 &amp; 使用教程</span></h3>			<p>DR5 至臻版是一种专为 Photoshop 设计的高级磨皮和美容插件，它通过内置对话框中的滑块和选项，允许用户控制所有重要的功能设置。这款插件与以往版本相比，整合了磨皮…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>57</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>80</span></div>
 							</div>
 			</div>]]></content>
     </entry>
