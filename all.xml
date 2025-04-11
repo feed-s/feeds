@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-11T05:48:24.891Z</updated>
+    <updated>2025-04-11T17:46:00.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7505,6 +7505,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[尔滨小逛 (大发贱志)]]></title>
+        <id>https://fatesinger.com/104589</id>
+        <link href="https://fatesinger.com/104589"/>
+        <updated>2025-04-11T17:45:42.859Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104589" aria-label="尔滨小逛" title="尔滨小逛">尔滨小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            因为晕车，我小时候最怕的事情之一就是去哈尔滨。生活在农村，去哈尔滨要先坐巴士，然后再转各种公交车，几乎每次都吐的不行...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 3 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[吉萨金字塔 (大发贱志)]]></title>
         <id>https://fatesinger.com/105001</id>
         <link href="https://fatesinger.com/105001"/>
@@ -7517,7 +7532,7 @@ on
 在国内养...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7532,7 +7547,7 @@ on
             绝大多数人来多哈都是转机，我这次则是因为三月是深圳航空淡季运价商务舱只需要 31500 里程，因为卡塔尔属于亚洲，税费也只有...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 10 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 11 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7564,7 +7579,7 @@ on
 前阵子去了一趟大连，因为深圳航空国外直飞深圳和加一段国内航线在深圳中转价格是一样的，所以选了一个距离长...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 23 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 24 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7579,7 +7594,7 @@ on
             京都其实上次有来过，但因为时间关系只在京都站附近简单逛了下，上次来的时候天气很好，这次天气很差，应该是算是淡季了，游客不怎么多，走在京都的街道上很清静。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7625,21 +7640,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-02-28T15:48:36+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[澳门乘机体验 (大发贱志)]]></title>
-        <id>https://fatesinger.com/104937</id>
-        <link href="https://fatesinger.com/104937"/>
-        <updated>2025-02-25T17:45:11.802Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104937" aria-label="澳门乘机体验" title="澳门乘机体验">澳门乘机体验</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            澳门航空该有的服务还是都有的，没有网上说的那么差，另外就是澳门的普通话普及程度非常之高，和香港完全不是一个风格。不出意外的话以后不太会从澳门出发了，至此打卡全部34 个机场完成，完美谢幕。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-02-25T21:48:27+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
