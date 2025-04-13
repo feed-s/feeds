@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-12T17:45:59.133Z</updated>
+    <updated>2025-04-13T05:47:50.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7518,7 +7518,7 @@ on
 本次依然乘坐金巴，然后转公交直...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-12T20:40:58+08:00">发布于 5 小时前</time>
+            <time itemprop="datePublished" datetime="2025-04-12T20:40:58+08:00">发布于 17 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7580,7 +7580,7 @@ on
 时隔近两年，本系列再次更新，连载强度堪比香港City Walk 系列。联程起点是昆明，本来没打算来大理，但是落地昆...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-28T13:41:15+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-28T13:41:15+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8259,7 +8259,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>14</span></div>
+			<span>15</span></div>
 							</div>
 			</div>]]></content>
     </entry>
