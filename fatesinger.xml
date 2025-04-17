@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-04-17T14:14:16.128Z</updated>
+    <updated>2025-04-17T17:45:05.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Coffin 2.0]]></title>
+        <id>https://fatesinger.com/104894</id>
+        <link href="https://fatesinger.com/104894"/>
+        <updated>2025-04-17T17:44:46.032Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104894" aria-label="Coffin 2.0" title="Coffin 2.0">Coffin 2.0</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            WordPress 主题 Coffin
+当年写这个主题是在一款chrome 插件上看到了卡片列表的样式，就拖过来了制作成了一款主题，其实是缺失...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 49 分钟前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[路氹小逛]]></title>
         <id>https://fatesinger.com/105039</id>
@@ -34,7 +50,7 @@
             因为晕车，我小时候最怕的事情之一就是去哈尔滨。生活在农村，去哈尔滨要先坐巴士，然后再转各种公交车，几乎每次都吐的不行...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -65,7 +81,7 @@
             绝大多数人来多哈都是转机，我这次则是因为三月是深圳航空淡季运价商务舱只需要 31500 里程，因为卡塔尔属于亚洲，税费也只有...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 16 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 17 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -97,7 +113,7 @@
 前阵子去了一趟大连，因为深圳航空国外直飞深圳和加一段国内航线在深圳中转价格是一样的，所以选了一个距离长...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 29 天前</time>
+            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -128,21 +144,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[凯悦系酒店总结]]></title>
-        <id>https://fatesinger.com/105015</id>
-        <link href="https://fatesinger.com/105015"/>
-        <updated>2025-03-05T17:44:13.058Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105015" aria-label="凯悦系酒店总结" title="凯悦系酒店总结">凯悦系酒店总结</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            失去了环球客，以后大概率也不怎么会住凯悦系的酒店了，本文简评下住过的凯悦系酒店吧，给大家一个参考。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-05T18:00:24+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
