@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-18T00:15:18.434Z</updated>
+    <updated>2025-04-18T00:26:25.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -8354,142 +8354,272 @@ on
     </entry>
     <entry>
         <title type="html"><![CDATA[自建音乐串流服务探索 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.641Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/selfhosted-music-streaming-server/</id>
+        <link href="https://atpx.com/blog/selfhosted-music-streaming-server/"/>
+        <updated>2025-04-18T00:26:24.463Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/selfhosted-music-streaming-server/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0120-selfhosted-music-streaming-server.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-blue">Tech</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">自建音乐串流服务探索</h2>
-                            <div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div>]]></content>
+                            <div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div>
+                        </div>
+                        <div class="post-tile-time">March 28, 2025</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我停止了探索 Fediverse (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.641Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/i-stopped-exploring-the-fediverse/</id>
+        <link href="https://atpx.com/blog/i-stopped-exploring-the-fediverse/"/>
+        <updated>2025-04-18T00:26:24.465Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/i-stopped-exploring-the-fediverse/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0119-give-up-fediverse.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-purple">Thoughts</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">我停止了探索 Fediverse</h2>
-                            <div class="post-tile-description">我选择放弃自建 Fediverse 服务器，并停止探索，回归一个单纯的用户。</div>]]></content>
+                            <div class="post-tile-description">我选择放弃自建 Fediverse 服务器，并停止探索，回归一个单纯的用户。</div>
+                        </div>
+                        <div class="post-tile-time">February 23, 2025</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[互联网背景噪音 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.642Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/the-internet-background-noise/</id>
+        <link href="https://atpx.com/blog/the-internet-background-noise/"/>
+        <updated>2025-04-18T00:26:24.466Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/the-internet-background-noise/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg">
+                    
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-purple">Thoughts</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">互联网背景噪音</h2>
-                            <div class="post-tile-description">网络扫描、引战、争吵，我们似乎已经对这些无处不在的互联网背景噪音无能为力了。</div>]]></content>
+                            <div class="post-tile-description">网络扫描、引战、争吵，我们似乎已经对这些无处不在的互联网背景噪音无能为力了。</div>
+                        </div>
+                        <div class="post-tile-time">December 30, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的数字生活降级 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.643Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/my-digital-life-downgrade/</id>
+        <link href="https://atpx.com/blog/my-digital-life-downgrade/"/>
+        <updated>2025-04-18T00:26:24.477Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/my-digital-life-downgrade/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0117-my-digital-downgrade.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-orange">Nichijou</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">我的数字生活降级</h2>
-                            <div class="post-tile-description">2024 年，数字生活降级的一年。</div>]]></content>
+                            <div class="post-tile-description">2024 年，数字生活降级的一年。</div>
+                        </div>
+                        <div class="post-tile-time">December 20, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小城与确定性的墙 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.645Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/the-city-and-its-certain-walls/</id>
+        <link href="https://atpx.com/blog/the-city-and-its-certain-walls/"/>
+        <updated>2025-04-18T00:26:24.477Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/the-city-and-its-certain-walls/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0116-the-city-and-its-uncertain-walls.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-purple">Thoughts</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">小城与确定性的墙</h2>
-                            <div class="post-tile-description">村上春树新书《小城与不确定性的墙》，与确定的想法。</div>]]></content>
+                            <div class="post-tile-description">村上春树新书《小城与不确定性的墙》，与确定的想法。</div>
+                        </div>
+                        <div class="post-tile-time">November 3, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一只特立独行的猪 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.646Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/a-unique-pig/</id>
+        <link href="https://atpx.com/blog/a-unique-pig/"/>
+        <updated>2025-04-18T00:26:24.478Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/a-unique-pig/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0115-a-unique-pig.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-purple">Thoughts</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">一只特立独行的猪</h2>
-                            <div class="post-tile-description">一位朋友告诉我的关于一只特立独行的猪的故事。</div>]]></content>
+                            <div class="post-tile-description">一位朋友告诉我的关于一只特立独行的猪的故事。</div>
+                        </div>
+                        <div class="post-tile-time">October 29, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fediverse 与社交 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.647Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/fediverse-and-social-interaction/</id>
+        <link href="https://atpx.com/blog/fediverse-and-social-interaction/"/>
+        <updated>2025-04-18T00:26:24.479Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/fediverse-and-social-interaction/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0114-mastodon.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-purple">Thoughts</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">Fediverse 与社交</h2>
-                            <div class="post-tile-description">Fediverse 很美好，但并不完美，与社交也似乎不是那么合拍。</div>]]></content>
+                            <div class="post-tile-description">Fediverse 很美好，但并不完美，与社交也似乎不是那么合拍。</div>
+                        </div>
+                        <div class="post-tile-time">October 17, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[承认的勇气 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.648Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/the-courage-to-admit/</id>
+        <link href="https://atpx.com/blog/the-courage-to-admit/"/>
+        <updated>2025-04-18T00:26:24.486Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/the-courage-to-admit/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg">
+                    
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-purple">Thoughts</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">承认的勇气</h2>
-                            <div class="post-tile-description">承认自己傻过，这是一种美德。</div>]]></content>
+                            <div class="post-tile-description">承认自己傻过，这是一种美德。</div>
+                        </div>
+                        <div class="post-tile-time">October 3, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[mediaX - 轻量书影音记录管理工具 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.650Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/go-mediax/</id>
+        <link href="https://atpx.com/blog/go-mediax/"/>
+        <updated>2025-04-18T00:26:24.490Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/go-mediax/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0112-mediax.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-blue">Tech</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">mediaX - 轻量书影音记录管理工具</h2>
-                            <div class="post-tile-description">mediaX，一款使用 Go 语言开发的简单轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。</div>]]></content>
+                            <div class="post-tile-description">mediaX，一款使用 Go 语言开发的简单轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。</div>
+                        </div>
+                        <div class="post-tile-time">August 22, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我的博客写作流程 (ATP)]]></title>
-        <id>https://feed-s.github.io/feeds/all.xml</id>
-        <link href="https://feed-s.github.io/feeds/all.xml"/>
-        <updated>2025-04-18T00:15:17.651Z</updated>
-        <content type="html"><![CDATA[<div class="post-tile-categories">
+        <id>https://atpx.com/blog/my-blog-writing-process/</id>
+        <link href="https://atpx.com/blog/my-blog-writing-process/"/>
+        <updated>2025-04-18T00:26:24.492Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/my-blog-writing-process/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0111-my-blog-writing-process.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
                                 
                                 <span class="c-orange">Nichijou</span>
                                 
                             </div>
                             
                             <h2 class="post-tile-title">我的博客写作流程</h2>
-                            <div class="post-tile-description">我的一篇博客文章从开始写到最后发布都经历了什么。</div>]]></content>
+                            <div class="post-tile-description">我的一篇博客文章从开始写到最后发布都经历了什么。</div>
+                        </div>
+                        <div class="post-tile-time">August 2, 2024</div> 
+                    </div>
+                </a>]]></content>
     </entry>
 </feed>
