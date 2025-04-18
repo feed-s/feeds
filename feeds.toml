@@ -109,5 +109,4 @@ entrySelector = " li.post-tile-item"
 titleSelector = "h2[class*='tile-title']"
 linkSelector = "a[class*='tile-url']"
 dateSelector = "div[class*='tile-time']"
-dateFormat = "F j, Y"
 timeout = 120
