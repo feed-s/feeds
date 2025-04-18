@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-17T17:45:05.141Z</updated>
+    <updated>2025-04-18T00:15:18.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7517,7 +7517,7 @@ on
 当年写这个主题是在一款chrome 插件上看到了卡片列表的样式，就拖过来了制作成了一款主题，其实是缺失...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 49 分钟前</time>
+            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 7 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8322,7 +8322,7 @@ on
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			<span>49</span></div>
+			<span>50</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
@@ -8351,5 +8351,145 @@ on
 			<span>97</span></div>
 							</div>
 			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建音乐串流服务探索 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.641Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-blue">Tech</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">自建音乐串流服务探索</h2>
+                            <div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我停止了探索 Fediverse (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.641Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">我停止了探索 Fediverse</h2>
+                            <div class="post-tile-description">我选择放弃自建 Fediverse 服务器，并停止探索，回归一个单纯的用户。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网背景噪音 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.642Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">互联网背景噪音</h2>
+                            <div class="post-tile-description">网络扫描、引战、争吵，我们似乎已经对这些无处不在的互联网背景噪音无能为力了。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的数字生活降级 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.643Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-orange">Nichijou</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">我的数字生活降级</h2>
+                            <div class="post-tile-description">2024 年，数字生活降级的一年。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小城与确定性的墙 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.645Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">小城与确定性的墙</h2>
+                            <div class="post-tile-description">村上春树新书《小城与不确定性的墙》，与确定的想法。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一只特立独行的猪 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.646Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">一只特立独行的猪</h2>
+                            <div class="post-tile-description">一位朋友告诉我的关于一只特立独行的猪的故事。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fediverse 与社交 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.647Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">Fediverse 与社交</h2>
+                            <div class="post-tile-description">Fediverse 很美好，但并不完美，与社交也似乎不是那么合拍。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[承认的勇气 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.648Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">承认的勇气</h2>
+                            <div class="post-tile-description">承认自己傻过，这是一种美德。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mediaX - 轻量书影音记录管理工具 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.650Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-blue">Tech</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">mediaX - 轻量书影音记录管理工具</h2>
+                            <div class="post-tile-description">mediaX，一款使用 Go 语言开发的简单轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的博客写作流程 (ATP)]]></title>
+        <id>https://feed-s.github.io/feeds/all.xml</id>
+        <link href="https://feed-s.github.io/feeds/all.xml"/>
+        <updated>2025-04-18T00:15:17.651Z</updated>
+        <content type="html"><![CDATA[<div class="post-tile-categories">
+                                
+                                <span class="c-orange">Nichijou</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">我的博客写作流程</h2>
+                            <div class="post-tile-description">我的一篇博客文章从开始写到最后发布都经历了什么。</div>]]></content>
     </entry>
 </feed>
