@@ -105,7 +105,9 @@ timeout = 120
 [atpx]
 title = "ATP"
 url = "https://atpx.com/blog/"
-entrySelector = " div.post-tile-head"
-titleSelector = "h2.post-tile-title"
-linkSelector = "h2.post-tile-title"
+entrySelector = " li.post-tile-item"
+titleSelector = "h2[class*='tile-title']"
+linkSelector = "a[class*='tile-url']"
+dateSelector = "div[class*='tile-time']"
+dateFormat = "F j, Y"
 timeout = 120
