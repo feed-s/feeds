@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-19T05:45:24.012Z</updated>
+    <updated>2025-04-19T17:44:18.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -574,7 +574,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -592,7 +592,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -880,7 +880,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -898,7 +898,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -916,7 +916,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7123,18 +7123,18 @@ on
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%9B%86%E7%BE%A4%E4%B8%AD%E6%8C%96%E7%9F%BF%E7%97%85%E6%AF%92%E7%9A%84%E6%8E%92%E6%9F%A5%E4%BF%AE%E5%A4%8D.html" data-v-3fa1a62e="" class="">服务器集群中挖矿病毒的排查修复</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">8/30/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">CPU挖矿病毒</span><span class="tag-item" data-v-1e62957f="">BusyBox替代系统命令</span><span class="tag-item" data-v-1e62957f="">UnHide查找隐藏进程</span><span class="tag-item" data-v-1e62957f="">云沙箱分析病毒</span></i></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RAG技术综述及效果优化策略 (Quantum Bit)]]></title>
+        <id>https://www.eula.club/blogs/RAG%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0%E5%8F%8A%E6%95%88%E6%9E%9C%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5.html</id>
+        <link href="https://www.eula.club/blogs/RAG%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0%E5%8F%8A%E6%95%88%E6%9E%9C%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5.html"/>
+        <updated>2025-04-19T17:43:53.508Z</updated>
+        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/RAG%E6%8A%80%E6%9C%AF%E7%BB%BC%E8%BF%B0%E5%8F%8A%E6%95%88%E6%9E%9C%E4%BC%98%E5%8C%96%E7%AD%96%E7%95%A5.html" data-v-3fa1a62e="" class="">RAG技术综述及效果优化策略</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">7/20/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">RAG技术综述</span><span class="tag-item" data-v-1e62957f="">检索增强生成</span><span class="tag-item" data-v-1e62957f="">知识库构建</span><span class="tag-item" data-v-1e62957f="">信息检索算法</span><span class="tag-item" data-v-1e62957f="">RAG效果优化</span></i></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[基于RAG的知识库问答平台使用指南 (Quantum Bit)]]></title>
         <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html</id>
         <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html"/>
         <updated>2025-01-23T17:44:03.044Z</updated>
         <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ERAG%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%97%AE%E7%AD%94%E5%B9%B3%E5%8F%B0%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.html" data-v-3fa1a62e="" class="">基于RAG的知识库问答平台使用指南</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">5/2/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">Ollama</span><span class="tag-item" data-v-1e62957f="">llama.cpp</span><span class="tag-item" data-v-1e62957f="">RAGFlow</span><span class="tag-item" data-v-1e62957f="">DeepDoc</span><span class="tag-item" data-v-1e62957f="">Dify</span><span class="tag-item" data-v-1e62957f="">MaxKB</span><span class="tag-item" data-v-1e62957f="">QAnything</span><span class="tag-item" data-v-1e62957f="">AnythingLLM</span></i></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于LLaMA-Factory微调开源大模型 (Quantum Bit)]]></title>
-        <id>https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELLaMA-Factory%E5%BE%AE%E8%B0%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html</id>
-        <link href="https://www.eula.club/blogs/%E5%9F%BA%E4%BA%8ELLaMA-Factory%E5%BE%AE%E8%B0%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html"/>
-        <updated>2025-03-30T05:44:27.088Z</updated>
-        <content type="html"><![CDATA[<!----> <div class="title" data-v-3fa1a62e=""><!----> <a href="/blogs/%E5%9F%BA%E4%BA%8ELLaMA-Factory%E5%BE%AE%E8%B0%83%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B.html" data-v-3fa1a62e="" class="">基于LLaMA-Factory微调开源大模型</a></div> <div class="abstract" data-v-3fa1a62e=""></div> <div data-v-1e62957f="" data-v-3fa1a62e=""><i class="iconfont reco-account" data-v-1e62957f=""><span data-v-1e62957f="">yoyo</span></i> <i class="iconfont reco-date" data-v-1e62957f=""><span data-v-1e62957f="">4/21/2024</span></i> <!----> <i class="tags iconfont reco-tag" data-v-1e62957f=""><span class="tag-item" data-v-1e62957f="">LLaMA-Factory</span><span class="tag-item" data-v-1e62957f="">大模型微调</span><span class="tag-item" data-v-1e62957f="">LoRA</span><span class="tag-item" data-v-1e62957f="">LabelU</span><span class="tag-item" data-v-1e62957f="">多模态数据标注</span><span class="tag-item" data-v-1e62957f="">多模态大模型</span><span class="tag-item" data-v-1e62957f="">大模型训练经验</span></i></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MySQL知识概要 (CZM有点冷)]]></title>
@@ -7505,6 +7505,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[万豪系酒店总结 (大发贱志)]]></title>
+        <id>https://fatesinger.com/105297</id>
+        <link href="https://fatesinger.com/105297"/>
+        <updated>2025-04-19T17:44:00.282Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105297" aria-label="万豪系酒店总结" title="万豪系酒店总结">万豪系酒店总结</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            和凯悦不同，万豪系酒店时间跨度非常大，我第一次星级酒店是喜达屋，当时还没有和万豪合并，后面喜达屋和万豪合并，无论会员...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-04-20T00:25:32+08:00">发布于 1 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coffin 2.0 (大发贱志)]]></title>
         <id>https://fatesinger.com/104894</id>
         <link href="https://fatesinger.com/104894"/>
@@ -7517,7 +7532,7 @@ on
 当年写这个主题是在一款chrome 插件上看到了卡片列表的样式，就拖过来了制作成了一款主题，其实是缺失...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7534,7 +7549,7 @@ on
 本次依然乘坐金巴，然后转公交直...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-12T20:40:58+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-12T20:40:58+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7549,7 +7564,7 @@ on
             因为晕车，我小时候最怕的事情之一就是去哈尔滨。生活在农村，去哈尔滨要先坐巴士，然后再转各种公交车，几乎每次都吐的不行...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7565,7 +7580,7 @@ on
 在国内养...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 13 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 14 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7580,7 +7595,7 @@ on
             绝大多数人来多哈都是转机，我这次则是因为三月是深圳航空淡季运价商务舱只需要 31500 里程，因为卡塔尔属于亚洲，税费也只有...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7628,21 +7643,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-03-16T14:07:46+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再逛曼谷 (大发贱志)]]></title>
-        <id>https://fatesinger.com/104604</id>
-        <link href="https://fatesinger.com/104604"/>
-        <updated>2025-03-07T05:44:43.720Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104604" aria-label="再逛曼谷" title="再逛曼谷">再逛曼谷</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            多次来到曼谷，不需要再去那些景点打卡，压压马路，热了找家咖啡店喝一杯或者进商场吹吹空调就挺舒服，湿热的气候真是我的最爱。        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-06T15:01:14+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7974,7 +7974,7 @@ on
 						</a>
 					</div>			<header class="entry-header">
 				<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2>		<div class="entry-meta">
-			<span class="posted-on"><time class="updated" datetime="2025-03-04T09:18:41+08:00" itemprop="dateModified">2025年3月4日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> 		</div>
+			<span class="posted-on"><time class="updated" datetime="2025-04-19T17:15:07+08:00" itemprop="dateModified">2025年4月19日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> 		</div>
 					</header>
 			
 			<div class="entry-summary" itemprop="text">
