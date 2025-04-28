@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2025-04-27T17:44:50.523Z</updated>
+    <updated>2025-04-28T05:57:25.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[过去的一年]]></title>
+        <id>https://www.yinwang.org/blog-cn/2025/04/27/sabbatical</id>
+        <link href="https://www.yinwang.org/blog-cn/2025/04/27/sabbatical"/>
+        <updated>2025-04-28T05:56:54.240Z</updated>
+        <content type="html"><![CDATA[<div class="date">2025年04月27日</div><br>
+            <a href="/blog-cn/2025/04/27/sabbatical">过去的一年</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机科学基础班第 5 期成功结束]]></title>
+        <id>https://www.yinwang.org/blog-cn/2024/05/03/cs5-completed</id>
+        <link href="https://www.yinwang.org/blog-cn/2024/05/03/cs5-completed"/>
+        <updated>2025-04-28T05:56:54.240Z</updated>
+        <content type="html"><![CDATA[<div class="date">2024年05月03日</div><br>
+            <a href="/blog-cn/2024/05/03/cs5-completed">计算机科学基础班第 5 期成功结束</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计算机科学基础班（第5期，现实接轨班）招生]]></title>
         <id>https://www.yinwang.org/blog-cn/2023/12/23/cs-course-5</id>
