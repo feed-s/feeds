@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-01T05:46:40.840Z</updated>
+    <updated>2025-05-01T17:45:03.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7521,6 +7521,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[中西区闲逛 (大发贱志)]]></title>
+        <id>https://fatesinger.com/105398</id>
+        <link href="https://fatesinger.com/105398"/>
+        <updated>2025-05-01T17:44:41.836Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105398" aria-label="中西区闲逛" title="中西区闲逛">中西区闲逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            天气晴朗，本来想乘坐南港岛线到南区海边逛一逛，结果过于自信坐过换乘站了，索性就随便找个出口随便 walk 一下，因为我讨厌...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-05-01T13:56:15+08:00">发布于 11 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[首陀罗签证小记 (大发贱志)]]></title>
         <id>https://fatesinger.com/105377</id>
         <link href="https://fatesinger.com/105377"/>
@@ -7534,7 +7549,7 @@ on
 这几次签证真的...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-30T17:02:50+08:00">发布于 20 小时前</time>
+            <time itemprop="datePublished" datetime="2025-04-30T17:02:50+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7549,7 +7564,7 @@ on
             和凯悦不同，万豪系酒店时间跨度非常大，我第一次星级酒店是喜达屋，当时还没有和万豪合并，后面喜达屋和万豪合并，无论会员...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-20T00:25:32+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-20T00:25:32+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7565,7 +7580,7 @@ on
 当年写这个主题是在一款chrome 插件上看到了卡片列表的样式，就拖过来了制作成了一款主题，其实是缺失...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 13 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-18T00:54:51+08:00">发布于 14 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7582,7 +7597,7 @@ on
 本次依然乘坐金巴，然后转公交直...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-12T20:40:58+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-12T20:40:58+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7597,7 +7612,7 @@ on
             因为晕车，我小时候最怕的事情之一就是去哈尔滨。生活在农村，去哈尔滨要先坐巴士，然后再转各种公交车，几乎每次都吐的不行...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-11T22:26:40+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7613,7 +7628,7 @@ on
 在国内养...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7645,22 +7660,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-03-28T13:41:15+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星海湾小逛 (大发贱志)]]></title>
-        <id>https://fatesinger.com/104954</id>
-        <link href="https://fatesinger.com/104954"/>
-        <updated>2025-03-18T17:44:18.183Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104954" aria-label="星海湾小逛" title="星海湾小逛">星海湾小逛</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            大连周水子机场
-前阵子去了一趟大连，因为深圳航空国外直飞深圳和加一段国内航线在深圳中转价格是一样的，所以选了一个距离长...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-18T22:35:01+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7992,7 +7991,7 @@ on
 						</a>
 					</div>			<header class="entry-header">
 				<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3653.html" rel="bookmark">神奇的国家之中国特色初步解析</a></h2>		<div class="entry-meta">
-			<span class="posted-on"><time class="updated" datetime="2025-05-01T11:42:23+08:00" itemprop="dateModified">2025年5月1日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> 		</div>
+			<span class="posted-on"><time class="updated" datetime="2025-05-01T22:53:06+08:00" itemprop="dateModified">2025年5月1日</time><time class="entry-date published" datetime="2023-11-05T12:45:01+08:00" itemprop="datePublished">2023年11月5日</time></span> 		</div>
 					</header>
 			
 			<div class="entry-summary" itemprop="text">
@@ -8011,7 +8010,7 @@ on
 						</a>
 					</div>			<header class="entry-header">
 				<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3446.html" rel="bookmark">中国特色解析，中国与美国的总体概览对比。</a></h2>		<div class="entry-meta">
-			<span class="posted-on"><time class="updated" datetime="2024-08-10T17:20:46+08:00" itemprop="dateModified">2024年8月10日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> 		</div>
+			<span class="posted-on"><time class="updated" datetime="2025-05-02T00:07:03+08:00" itemprop="dateModified">2025年5月2日</time><time class="entry-date published" datetime="2023-06-18T15:13:38+08:00" itemprop="datePublished">2023年6月18日</time></span> 		</div>
 					</header>
 			
 			<div class="entry-summary" itemprop="text">
