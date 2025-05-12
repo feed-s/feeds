@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2025-05-12T05:47:43.299Z</updated>
+    <updated>2025-05-12T17:46:16.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[从 WHOIS 到 RDAP]]></title>
+        <id>https://atpx.com/blog/from-whois-to-rdap/</id>
+        <link href="https://atpx.com/blog/from-whois-to-rdap/"/>
+        <updated>2025-05-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/from-whois-to-rdap/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0122-whois-atpx-com.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-blue">Tech</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">从 WHOIS 到 RDAP</h2>
+                            <div class="post-tile-description">ICANN 于 2025 年正式终止了 WHOIS 协议支持，用更现代的 RDAP 协议作为替代。</div>
+                        </div>
+                        <div class="post-tile-time">May 12, 2025</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[通过 WireGuard 访问 NFS 共享文件]]></title>
         <id>https://atpx.com/blog/nfs-share-over-wireguard/</id>
@@ -245,33 +272,6 @@
                             <div class="post-tile-description">承认自己傻过，这是一种美德。</div>
                         </div>
                         <div class="post-tile-time">October 3, 2024</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mediaX - 轻量书影音记录管理工具]]></title>
-        <id>https://atpx.com/blog/go-mediax/</id>
-        <link href="https://atpx.com/blog/go-mediax/"/>
-        <updated>2025-04-18T00:26:24.490Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/go-mediax/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0112-mediax.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-blue">Tech</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">mediaX - 轻量书影音记录管理工具</h2>
-                            <div class="post-tile-description">mediaX，一款使用 Go 语言开发的简单轻量的个人阅读/观影/看剧/追番/游戏记录 Web 管理工具。</div>
-                        </div>
-                        <div class="post-tile-time">August 22, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
