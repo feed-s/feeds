@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2025-05-11T17:44:20.127Z</updated>
+    <updated>2025-05-12T05:47:43.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[过去的一年]]></title>
+        <id>https://www.yinwang.org/blog-cn/2025/04/27/past-year</id>
+        <link href="https://www.yinwang.org/blog-cn/2025/04/27/past-year"/>
+        <updated>2025-05-12T05:47:05.452Z</updated>
+        <content type="html"><![CDATA[<div class="date">2025年04月27日</div><br>
+            <a href="/blog-cn/2025/04/27/past-year">过去的一年</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计算机科学基础班第 5 期成功结束]]></title>
         <id>https://www.yinwang.org/blog-cn/2024/05/03/cs5-completed</id>
