@@ -2,15 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-05-16T05:47:19.689Z</updated>
+    <updated>2025-05-16T17:45:52.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[注册一台阿里云小主机用于 WordPress 教程编写]]></title>
-        <id>https://www.shephe.com/website/wordpress-test-host/</id>
-        <link href="https://www.shephe.com/website/wordpress-test-host/"/>
-        <updated>2025-05-15T17:45:29.932Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-test-host/" rel="bookmark" target="_blank"><span class="screen-reader-text">注册一台阿里云小主机用于 WordPress 教程编写</span></a>
+        <title type="html"><![CDATA[全面解读 WordPress 设置：详细配置指南]]></title>
+        <id>https://www.shephe.com/website/wordpress-setting/</id>
+        <link href="https://www.shephe.com/website/wordpress-setting/"/>
+        <updated>2025-05-16T17:45:49.834Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-setting/" rel="bookmark" target="_blank"><span class="screen-reader-text">全面解读 WordPress 设置：详细配置指南</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/10/hellomy-name-is.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2017/10/hellomy-name-is-768x432.jpg 768w, https://staticfile.shephe.com/wp-content/uploads/2017/10/hellomy-name-is-1390x782.jpg 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T17:53:15+08:00">
+				05/16/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全面解读 WordPress 设置：详细配置指南</span></h3>						<p>WordPress 后台的“设置”选项是网站管理的核心部分，它允许你调整网站的基本配置，以确保站点的顺利运行和优化。通过“设置”菜单，你可以修改网站名称、时区、语言，设置永久链接结构、讨论与评论选项，甚至配置阅读与写作设…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-setting/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入了解 WordPress 管理后台：功能与操作指南]]></title>
+        <id>https://www.shephe.com/website/wordpress-adminbar/</id>
+        <link href="https://www.shephe.com/website/wordpress-adminbar/"/>
+        <updated>2025-05-16T17:45:49.836Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-adminbar/" rel="bookmark" target="_blank"><span class="screen-reader-text">深入了解 WordPress 管理后台：功能与操作指南</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-font-manager-menu-e1614867754226.jpg 800w, https://staticfile.shephe.com/wp-content/uploads/2021/01/impeka-font-manager-menu-e1614867754226-768x530.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T15:39:52+08:00">
+				05/16/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>深入了解 WordPress 管理后台：功能与操作指南</span></h3>						<p>在搭建好 WordPress 网站之后，最重要的一步便是熟悉其管理后台。WordPress 后台是你管理网站内容、设置功能、安装插件、调整主题等的核心区域。通过对后台的了解和掌握，你能够高效地管理网站并保证其顺利运行。 …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-adminbar/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 程序安装向导 & 注意事项]]></title>
+        <id>https://www.shephe.com/website/wordpress-install-wizard/</id>
+        <link href="https://www.shephe.com/website/wordpress-install-wizard/"/>
+        <updated>2025-05-16T17:45:49.837Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-install-wizard/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序安装向导 &amp; 注意事项</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2020/11/wordpress-768x512.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T15:02:16+08:00">
+				05/16/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序安装向导 &amp; 注意事项</span></h3>						<p>按照之前的步骤，我们已经完成了域名解析、服务器绑定，并成功将 WordPress 主程序上传到网站的根目录。接下来，只需在浏览器中打开网址，运行 WordPress 安装向导。通过向导，你将设置网站名称、配置用户信息等。…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-install-wizard/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 程序上传至服务器的方式与注意事项]]></title>
+        <id>https://www.shephe.com/website/upload-wordpress-to-server/</id>
+        <link href="https://www.shephe.com/website/upload-wordpress-to-server/"/>
+        <updated>2025-05-16T17:45:49.839Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/upload-wordpress-to-server/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序上传至服务器的方式与注意事项</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
@@ -19,160 +94,41 @@
 				</div>
 			</div>
 		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-15T19:51:50+08:00">
-				05/15/2025			</time>
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T14:26:09+08:00">
+				05/16/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>注册一台阿里云小主机用于 WordPress 教程编写</span></h3>						<p>本站目前托管在阿里云的 ECS 服务器上，基本配置如下：2 核 CPU、4GB RAM、40GB + 10GB SSD 存储和 100M 宽带（按量计费）。目前该服务器上运行着三个主要网站，日均总流量不到 2000 PV…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-test-host/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序上传至服务器的方式与注意事项</span></h3>						<p>俗话说“条条大路通罗马”，如果你有一定的命令行基础，那么通过命令行远程操作无疑是最好的选择。除此之外，通过宝塔面板或 FTP 上传文件也是完全可行的，另外，使用宝塔面板自带 WP Tools 或“一键部署”功能在新建站点…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/upload-wordpress-to-server/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 WordPress 建设网站选什么服务器比较好？]]></title>
-        <id>https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/</id>
-        <link href="https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/"/>
-        <updated>2025-05-15T17:45:29.932Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/" rel="bookmark" target="_blank"><span class="screen-reader-text">使用 WordPress 建设网站选什么服务器比较好？</span></a>
+        <title type="html"><![CDATA[宝塔面板中添加网站、绑定域名并设置 SSL 证书]]></title>
+        <id>https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/</id>
+        <link href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/"/>
+        <updated>2025-05-16T17:45:49.841Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/" rel="bookmark" target="_blank"><span class="screen-reader-text">宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2025/05/Server-Room.webp 1200w, https://staticfile.shephe.com/wp-content/uploads/2025/05/Server-Room-768x432.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www.webp 1440w, https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www-768x485.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-15T15:35:01+08:00">
-				05/15/2025			</time>
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T10:43:10+08:00">
+				05/16/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>使用 WordPress 建设网站选什么服务器比较好？</span></h3>						<p>使用 WordPress 建设网站选什么服务器比较好？这似乎是个简单的问题，但初学者或者外行可能不知道的是，这里的“服务器”包含了虚拟主机、VPS、云服务器、独立服务器（裸金属），甚至是自建的测试平台。 下表简要对比了不…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></h3>						<p>在上文中，我们已经安装了完整的宝塔服务器面板。本文将详细介绍如何在宝塔面板中添加网站、绑定域名，并设置 SSL 证书。首先，设置域名解析和绑定是确保您能够通过自定义域名访问网站的关键步骤。您需要在域名提供商的控制面板中，…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是域名 ICP 备案？个人网站是否需要备案？]]></title>
-        <id>https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e5%a4%87%e6%a1%88/</id>
-        <link href="https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e5%a4%87%e6%a1%88/"/>
-        <updated>2025-05-15T17:45:29.932Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e5%a4%87%e6%a1%88/" rel="bookmark" target="_blank"><span class="screen-reader-text">什么是域名 ICP 备案？个人网站是否需要备案？</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2025/05/domain.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2025/05/domain-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-15T13:38:44+08:00">
-				05/15/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>什么是域名 ICP 备案？个人网站是否需要备案？</span></h3>						<p>ICP 备案（Internet Content Provider Record），即互联网信息服务提供者备案，是中国大陆地区对所有提供互联网信息服务的网站和应用程序所要求的登记手续。根据《互联网信息服务管理办法》规定，所…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e5%a4%87%e6%a1%88/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云域名注册全流程解析（流程 & 注意事项）]]></title>
-        <id>https://www.shephe.com/website/%e9%98%bf%e9%87%8c%e4%ba%91%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c/</id>
-        <link href="https://www.shephe.com/website/%e9%98%bf%e9%87%8c%e4%ba%91%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c/"/>
-        <updated>2025-05-15T17:45:29.934Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e9%98%bf%e9%87%8c%e4%ba%91%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c/" rel="bookmark" target="_blank"><span class="screen-reader-text">阿里云域名注册全流程解析（流程 &amp; 注意事项）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2025/05/alicloud-aliyun.jpg 1200w, https://staticfile.shephe.com/wp-content/uploads/2025/05/alicloud-aliyun-768x432.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-15T13:10:36+08:00">
-				05/15/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>阿里云域名注册全流程解析（流程 &amp; 注意事项）</span></h3>						<p>阿里云的前身是万网，早在许多年前就已经是国内最大的域名注册服务商。目前，阿里云已成为国内最大的云服务提供商，并在国际上享有盛誉。在这里，我们以阿里云为例，详细介绍域名注册的完整流程。 大概的流程如下：登录阿里云账号 → …</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e9%98%bf%e9%87%8c%e4%ba%91%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在哪里注册域名更好？常用域名注册商推荐]]></title>
-        <id>https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c%e5%95%86/</id>
-        <link href="https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c%e5%95%86/"/>
-        <updated>2025-05-15T17:45:29.936Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c%e5%95%86/" rel="bookmark" target="_blank"><span class="screen-reader-text">在哪里注册域名更好？常用域名注册商推荐</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2025/05/domain.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2025/05/domain-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-15T12:16:14+08:00">
-				05/15/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>在哪里注册域名更好？常用域名注册商推荐</span></h3>						<p>通过前面几篇文章，你已经找到了合适的、有价值的、尚未被注册的域名了。现在要开始花咱们网站建设的第一笔钱，注册域名了。那么在哪里注册域名更好呢？想必看这《</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e5%9f%9f%e5%90%8d%e6%b3%a8%e5%86%8c%e5%95%86/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Cold Turkey Blocker 高效限制应用与网站访问]]></title>
-        <id>https://www.shephe.com/post/using-cold-turkey-blocker-restrict-apps-websites/</id>
-        <link href="https://www.shephe.com/post/using-cold-turkey-blocker-restrict-apps-websites/"/>
-        <updated>2025-05-16T05:47:16.803Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/using-cold-turkey-blocker-restrict-apps-websites/" rel="bookmark" target="_blank"><span class="screen-reader-text">使用 Cold Turkey Blocker 高效限制应用与网站访问</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>使用 Cold Turkey Blocker 高效限制应用与网站访问</span></h3>			<p>天将降大任于斯人也，然我却沉迷于美色娱乐，未能苦练心志，增益我所不能，嗟叹，这道题太难了！我一直自制力薄弱，稍有不慎便会偏离目标，抖音一刷就停不下来那种。使用了本文所述的…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>68</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>28</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[注册一台阿里云小主机用于 WordPress 教程编写]]></title>
-        <id>https://www.shephe.com/website/wordpress-test-host/</id>
-        <link href="https://www.shephe.com/website/wordpress-test-host/"/>
-        <updated>2025-05-15T17:45:29.932Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-test-host/" rel="bookmark" target="_blank"><span class="screen-reader-text">注册一台阿里云小主机用于 WordPress 教程编写</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>注册一台阿里云小主机用于 WordPress 教程编写</span></h3>			<p>本站目前托管在阿里云的 ECS 服务器上，基本配置如下：2 核 CPU、4GB RAM、40GB + 10GB SSD 存储和 100M 宽带（按量计费）。目前该服务器上…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>31</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>1</span></div>
-							</div>
-			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WordPress 网站建设入门教程（2025.05 更新）]]></title>
@@ -197,14 +153,36 @@
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 WordPress 建设网站选什么服务器比较好？]]></title>
-        <id>https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/</id>
-        <link href="https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/"/>
-        <updated>2025-05-15T17:45:29.932Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e6%9c%8d%e5%8a%a1%e5%99%a8%e9%80%89%e6%8b%a9/" rel="bookmark" target="_blank"><span class="screen-reader-text">使用 WordPress 建设网站选什么服务器比较好？</span></a>
+        <title type="html"><![CDATA[全面解读 WordPress 设置：详细配置指南]]></title>
+        <id>https://www.shephe.com/website/wordpress-setting/</id>
+        <link href="https://www.shephe.com/website/wordpress-setting/"/>
+        <updated>2025-05-16T17:45:49.844Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-setting/" rel="bookmark" target="_blank"><span class="screen-reader-text">全面解读 WordPress 设置：详细配置指南</span></a>
 				
 		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>使用 WordPress 建设网站选什么服务器比较好？</span></h3>			<p>使用 WordPress 建设网站选什么服务器比较好？这似乎是个简单的问题，但初学者或者外行可能不知道的是，这里的“服务器”包含了虚拟主机、VPS、云服务器、独立服务器（…</p>		</div>
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全面解读 WordPress 设置：详细配置指南</span></h3>			<p>WordPress 后台的“设置”选项是网站管理的核心部分，它允许你调整网站的基本配置，以确保站点的顺利运行和优化。通过“设置”菜单，你可以修改网站名称、时区、语言，设置…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>68</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>1</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入了解 WordPress 管理后台：功能与操作指南]]></title>
+        <id>https://www.shephe.com/website/wordpress-adminbar/</id>
+        <link href="https://www.shephe.com/website/wordpress-adminbar/"/>
+        <updated>2025-05-16T17:45:49.845Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-adminbar/" rel="bookmark" target="_blank"><span class="screen-reader-text">深入了解 WordPress 管理后台：功能与操作指南</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>深入了解 WordPress 管理后台：功能与操作指南</span></h3>			<p>在搭建好 WordPress 网站之后，最重要的一步便是熟悉其管理后台。WordPress 后台是你管理网站内容、设置功能、安装插件、调整主题等的核心区域。通过对后台的了…</p>		</div>
 			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
 						<div class="grve-meta-wrapper">
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
@@ -219,42 +197,64 @@
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一个 Amazon 英文 Niche 站完整建设案例]]></title>
-        <id>https://www.shephe.com/website/amazon-niche-website/</id>
-        <link href="https://www.shephe.com/website/amazon-niche-website/"/>
-        <updated>2025-05-15T17:45:29.942Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/amazon-niche-website/" rel="bookmark" target="_blank"><span class="screen-reader-text">一个 Amazon 英文 Niche 站完整建设案例</span></a>
+        <title type="html"><![CDATA[WordPress 程序安装向导 & 注意事项]]></title>
+        <id>https://www.shephe.com/website/wordpress-install-wizard/</id>
+        <link href="https://www.shephe.com/website/wordpress-install-wizard/"/>
+        <updated>2025-05-16T17:45:49.846Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-install-wizard/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序安装向导 &amp; 注意事项</span></a>
 				
 		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>一个 Amazon 英文 Niche 站完整建设案例</span></h3>			<p>本篇案例是一个向导性质的，告诉你怎么去做一个成功的</p>		</div>
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序安装向导 &amp; 注意事项</span></h3>			<p>按照之前的步骤，我们已经完成了域名解析、服务器绑定，并成功将 WordPress 主程序上传到网站的根目录。接下来，只需在浏览器中打开网址，运行 WordPress 安装…</p>		</div>
 			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
 						<div class="grve-meta-wrapper">
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			<span>15</span></div>
+			<span>44</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>8</span></div>
+			<span>1</span></div>
 							</div>
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[什么是 EMD / KRD / NKD 域名，如何选择？]]></title>
-        <id>https://www.shephe.com/website/exact-match-domain/</id>
-        <link href="https://www.shephe.com/website/exact-match-domain/"/>
-        <updated>2025-05-15T17:45:29.944Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/exact-match-domain/" rel="bookmark" target="_blank"><span class="screen-reader-text">什么是 EMD / KRD / NKD 域名，如何选择？</span></a>
+        <title type="html"><![CDATA[WordPress 程序上传至服务器的方式与注意事项]]></title>
+        <id>https://www.shephe.com/website/upload-wordpress-to-server/</id>
+        <link href="https://www.shephe.com/website/upload-wordpress-to-server/"/>
+        <updated>2025-05-16T17:45:49.848Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/upload-wordpress-to-server/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序上传至服务器的方式与注意事项</span></a>
 				
 		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>什么是 EMD / KRD / NKD 域名，如何选择？</span></h3>			<p>刚在看论坛，又学习了几个名词，EMD。EMD （Exact Match Domain）域名就是（名词, 完全匹配域名），比如说，我的博客孤独的牧羊人（TheLonelyS…</p>		</div>
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序上传至服务器的方式与注意事项</span></h3>			<p>俗话说“条条大路通罗马”，如果你有一定的命令行基础，那么通过命令行远程操作无疑是最好的选择。除此之外，通过宝塔面板或 FTP 上传文件也是完全可行的，另外，使用宝塔面板自…</p>		</div>
 			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
 						<div class="grve-meta-wrapper">
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			<span>13</span></div>
+			<span>39</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>1</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝塔面板中添加网站、绑定域名并设置 SSL 证书]]></title>
+        <id>https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/</id>
+        <link href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/"/>
+        <updated>2025-05-16T17:45:49.852Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/" rel="bookmark" target="_blank"><span class="screen-reader-text">宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></h3>			<p>在上文中，我们已经安装了完整的宝塔服务器面板。本文将详细介绍如何在宝塔面板中添加网站、绑定域名，并设置 SSL 证书。首先，设置域名解析和绑定是确保您能够通过自定义域名访…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>59</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
