@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-16T17:45:52.890Z</updated>
+    <updated>2025-05-17T05:45:35.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -921,12 +921,12 @@ on
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[成立校友会暨第一次会议 (当然我在扯淡)]]></title>
+        <title type="html"><![CDATA[成立校友会 (当然我在扯淡)]]></title>
         <id>https://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</id>
         <link href="https://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting"/>
         <updated>2025-05-15T17:45:00.180Z</updated>
         <content type="html"><![CDATA[<div class="date">2025年05月15日</div><br>
-            <a href="/blog-cn/2025/05/15/alumni-meeting">成立校友会暨第一次会议</a>]]></content>
+            <a href="/blog-cn/2025/05/15/alumni-meeting">成立校友会</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[计算机科学视频班（第一期）招生 (当然我在扯淡)]]></title>
@@ -1959,6 +1959,14 @@ on
         <updated>2022-12-09T00:59:30.078Z</updated>
         <content type="html"><![CDATA[<div class="date">2012年07月25日</div><br>
             <a href="/blog-cn/2012/07/25/semantics">什么是语义学</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我和 Google 的故事（2012 年原版） (当然我在扯淡)]]></title>
+        <id>https://www.yinwang.org/blog-cn/2012/07/12/google-story</id>
+        <link href="https://www.yinwang.org/blog-cn/2012/07/12/google-story"/>
+        <updated>2025-05-17T05:45:01.876Z</updated>
+        <content type="html"><![CDATA[<div class="date">2012年07月12日</div><br>
+            <a href="/blog-cn/2012/07/12/google-story">我和 Google 的故事（2012 年原版）</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GTF - Great Teacher Friedman (当然我在扯淡)]]></title>
@@ -8137,6 +8145,56 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[深度解析 WordPress 设置中的讨论设置（评论） (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-discussion-settings/</id>
+        <link href="https://www.shephe.com/website/wordpress-discussion-settings/"/>
+        <updated>2025-05-17T05:45:32.038Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-discussion-settings/" rel="bookmark" target="_blank"><span class="screen-reader-text">深度解析 WordPress 设置中的讨论设置（评论）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard.webp 2000w, https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-768x576.webp 768w, https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-1920x1440.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/04/Type-Faster-keyboard-900x675.webp 900w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-17T00:21:41+08:00">
+				05/17/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>深度解析 WordPress 设置中的讨论设置（评论）</span></h3>						<p>WordPress 的“讨论设置”主要管理网站上的评论功能，包括评论的显示方式、评论审核、评论通知等。它帮助站点管理员控制用户如何评论、评论的审批流程以及如何与访客互动。主要设置包括评论默认状态、评论者信息要求、黑名单设…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-discussion-settings/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 固定链接设置：最佳结构与修改指南 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-permalinks/</id>
+        <link href="https://www.shephe.com/website/wordpress-permalinks/"/>
+        <updated>2025-05-17T05:45:32.040Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-permalinks/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 固定链接设置：最佳结构与修改指南</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/SEO-LINKS-WEB.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/10/SEO-LINKS-WEB-768x456.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T20:40:08+08:00">
+				05/16/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 固定链接设置：最佳结构与修改指南</span></h3>						<p>WordPress 的固定链接是指网站中每个页面或文章的永久 URL 结构。合理的固定链接结构不仅有助于提高网站的可读性，还能优化 SEO 表现。通常，我们可以在仪表盘-设置-固定连接中对其进行自定义。 WordPres…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-permalinks/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全面解读 WordPress 设置：详细配置指南 (牧羊人)]]></title>
         <id>https://www.shephe.com/website/wordpress-setting/</id>
         <link href="https://www.shephe.com/website/wordpress-setting/"/>
@@ -8212,56 +8270,6 @@ on
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress 程序上传至服务器的方式与注意事项 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/upload-wordpress-to-server/</id>
-        <link href="https://www.shephe.com/website/upload-wordpress-to-server/"/>
-        <updated>2025-05-16T17:45:49.839Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/upload-wordpress-to-server/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序上传至服务器的方式与注意事项</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2025/05/server-room-1.webp 1920w, https://staticfile.shephe.com/wp-content/uploads/2025/05/server-room-1-768x431.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T14:26:09+08:00">
-				05/16/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序上传至服务器的方式与注意事项</span></h3>						<p>俗话说“条条大路通罗马”，如果你有一定的命令行基础，那么通过命令行远程操作无疑是最好的选择。除此之外，通过宝塔面板或 FTP 上传文件也是完全可行的，另外，使用宝塔面板自带 WP Tools 或“一键部署”功能在新建站点…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/upload-wordpress-to-server/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝塔面板中添加网站、绑定域名并设置 SSL 证书 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/</id>
-        <link href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/"/>
-        <updated>2025-05-16T17:45:49.841Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/" rel="bookmark" target="_blank"><span class="screen-reader-text">宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www.webp 1440w, https://staticfile.shephe.com/wp-content/uploads/2024/10/link-website-http-www-768x485.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T10:43:10+08:00">
-				05/16/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></h3>						<p>在上文中，我们已经安装了完整的宝塔服务器面板。本文将详细介绍如何在宝塔面板中添加网站、绑定域名，并设置 SSL 证书。首先，设置域名解析和绑定是确保您能够通过自定义域名访问网站的关键步骤。您需要在域名提供商的控制面板中，…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[WordPress 网站建设入门教程（2025.05 更新） (牧羊人)]]></title>
         <id>https://www.shephe.com/tutorial/wordpress-website-building/</id>
         <link href="https://www.shephe.com/tutorial/wordpress-website-building/"/>
@@ -8284,10 +8292,76 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[全球头像服务：Gravatar 与 Cravatar 的应用与优化 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/gravatar-and-cravatar/</id>
+        <link href="https://www.shephe.com/website/gravatar-and-cravatar/"/>
+        <updated>2025-05-17T05:45:32.048Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/gravatar-and-cravatar/" rel="bookmark" target="_blank"><span class="screen-reader-text">全球头像服务：Gravatar 与 Cravatar 的应用与优化</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全球头像服务：Gravatar 与 Cravatar 的应用与优化</span></h3>			<p>Gravatar 作为全球通用的头像服务，极大方便了互联网用户在多个平台上统一展示个人形象的需求。然而，由于中国大陆的网络限制，Gravatar 在本地区的使用面临诸多挑…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>25</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>1</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深度解析 WordPress 设置中的讨论设置（评论） (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-discussion-settings/</id>
+        <link href="https://www.shephe.com/website/wordpress-discussion-settings/"/>
+        <updated>2025-05-17T05:45:32.050Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-discussion-settings/" rel="bookmark" target="_blank"><span class="screen-reader-text">深度解析 WordPress 设置中的讨论设置（评论）</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>深度解析 WordPress 设置中的讨论设置（评论）</span></h3>			<p>WordPress 的“讨论设置”主要管理网站上的评论功能，包括评论的显示方式、评论审核、评论通知等。它帮助站点管理员控制用户如何评论、评论的审批流程以及如何与访客互动。…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>70</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 固定链接设置：最佳结构与修改指南 (牧羊人)]]></title>
+        <id>https://www.shephe.com/website/wordpress-permalinks/</id>
+        <link href="https://www.shephe.com/website/wordpress-permalinks/"/>
+        <updated>2025-05-17T05:45:32.052Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-permalinks/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 固定链接设置：最佳结构与修改指南</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 固定链接设置：最佳结构与修改指南</span></h3>			<p>WordPress 的固定链接是指网站中每个页面或文章的永久 URL 结构。合理的固定链接结构不仅有助于提高网站的可读性，还能优化 SEO 表现。通常，我们可以在仪表盘-…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>30</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>1</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[全面解读 WordPress 设置：详细配置指南 (牧羊人)]]></title>
         <id>https://www.shephe.com/website/wordpress-setting/</id>
         <link href="https://www.shephe.com/website/wordpress-setting/"/>
-        <updated>2025-05-16T17:45:49.844Z</updated>
+        <updated>2025-05-16T17:45:49.834Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-setting/" rel="bookmark" target="_blank"><span class="screen-reader-text">全面解读 WordPress 设置：详细配置指南</span></a>
 				
 		<div class="grve-post-content">
@@ -8309,7 +8383,7 @@ on
         <title type="html"><![CDATA[深入了解 WordPress 管理后台：功能与操作指南 (牧羊人)]]></title>
         <id>https://www.shephe.com/website/wordpress-adminbar/</id>
         <link href="https://www.shephe.com/website/wordpress-adminbar/"/>
-        <updated>2025-05-16T17:45:49.845Z</updated>
+        <updated>2025-05-16T17:45:49.836Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-adminbar/" rel="bookmark" target="_blank"><span class="screen-reader-text">深入了解 WordPress 管理后台：功能与操作指南</span></a>
 				
 		<div class="grve-post-content">
@@ -8320,72 +8394,6 @@ on
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
 			<span>38</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>1</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 程序安装向导 & 注意事项 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/wordpress-install-wizard/</id>
-        <link href="https://www.shephe.com/website/wordpress-install-wizard/"/>
-        <updated>2025-05-16T17:45:49.846Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-install-wizard/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序安装向导 &amp; 注意事项</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序安装向导 &amp; 注意事项</span></h3>			<p>按照之前的步骤，我们已经完成了域名解析、服务器绑定，并成功将 WordPress 主程序上传到网站的根目录。接下来，只需在浏览器中打开网址，运行 WordPress 安装…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>44</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>1</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 程序上传至服务器的方式与注意事项 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/upload-wordpress-to-server/</id>
-        <link href="https://www.shephe.com/website/upload-wordpress-to-server/"/>
-        <updated>2025-05-16T17:45:49.848Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/upload-wordpress-to-server/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 程序上传至服务器的方式与注意事项</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 程序上传至服务器的方式与注意事项</span></h3>			<p>俗话说“条条大路通罗马”，如果你有一定的命令行基础，那么通过命令行远程操作无疑是最好的选择。除此之外，通过宝塔面板或 FTP 上传文件也是完全可行的，另外，使用宝塔面板自…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>39</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>1</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宝塔面板中添加网站、绑定域名并设置 SSL 证书 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/</id>
-        <link href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/"/>
-        <updated>2025-05-16T17:45:49.852Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/%e5%ae%9d%e5%a1%94%e5%bb%ba%e7%ab%99/" rel="bookmark" target="_blank"><span class="screen-reader-text">宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宝塔面板中添加网站、绑定域名并设置 SSL 证书</span></h3>			<p>在上文中，我们已经安装了完整的宝塔服务器面板。本文将详细介绍如何在宝塔面板中添加网站、绑定域名，并设置 SSL 证书。首先，设置域名解析和绑定是确保您能够通过自定义域名访…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>59</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
