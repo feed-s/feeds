@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-05-17T17:44:07.476Z</updated>
+    <updated>2025-05-18T05:46:14.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wordfence：适合国人使用的 WordPress 安全插件]]></title>
+        <id>https://www.shephe.com/website/wordfence-wordpress-plugin/</id>
+        <link href="https://www.shephe.com/website/wordfence-wordpress-plugin/"/>
+        <updated>2025-05-18T05:46:11.509Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordfence-wordpress-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">Wordfence：适合国人使用的 WordPress 安全插件</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2024/11/wordpress-security-1920x1009.png 1920w, https://staticfile.shephe.com/wp-content/uploads/2024/11/wordpress-security-768x403.png 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-18T07:37:53+08:00">
+				05/18/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Wordfence：适合国人使用的 WordPress 安全插件</span></h3>						<p>随着 WordPress 在国内外的广泛应用，网站安全问题也日益凸显。尤其是对于国内用户来说，由于网络环境复杂、攻击手段多样，选择一款稳定、易用且功能强大的安全插件至关重要。本文将重点介绍一款备受欢迎的 WordPres…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordfence-wordpress-plugin/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[几种 WordPress 插件安装的方法 & 常见问题解析]]></title>
         <id>https://www.shephe.com/website/wordpress-plugin-install/</id>
@@ -106,39 +131,36 @@
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全面解读 WordPress 设置：详细配置指南]]></title>
-        <id>https://www.shephe.com/website/wordpress-setting/</id>
-        <link href="https://www.shephe.com/website/wordpress-setting/"/>
-        <updated>2025-05-16T17:45:49.834Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-setting/" rel="bookmark" target="_blank"><span class="screen-reader-text">全面解读 WordPress 设置：详细配置指南</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://staticfile.shephe.com/wp-content/uploads/2017/10/hellomy-name-is.jpg 1920w, https://staticfile.shephe.com/wp-content/uploads/2017/10/hellomy-name-is-768x432.jpg 768w, https://staticfile.shephe.com/wp-content/uploads/2017/10/hellomy-name-is-1390x782.jpg 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-16T17:53:15+08:00">
-				05/16/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全面解读 WordPress 设置：详细配置指南</span></h3>						<p>WordPress 后台的“设置”选项是网站管理的核心部分，它允许你调整网站的基本配置，以确保站点的顺利运行和优化。通过“设置”菜单，你可以修改网站名称、时区、语言，设置永久链接结构、讨论与评论选项，甚至配置阅读与写作设…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-setting/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 网站建设入门教程（2025.05 更新）]]></title>
-        <id>https://www.shephe.com/tutorial/wordpress-website-building/</id>
-        <link href="https://www.shephe.com/tutorial/wordpress-website-building/"/>
-        <updated>2025-05-14T17:44:27.970Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/wordpress-website-building/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 网站建设入门教程（2025.05 更新）</span></a>
+        <title type="html"><![CDATA[Wordfence：适合国人使用的 WordPress 安全插件]]></title>
+        <id>https://www.shephe.com/website/wordfence-wordpress-plugin/</id>
+        <link href="https://www.shephe.com/website/wordfence-wordpress-plugin/"/>
+        <updated>2025-05-18T05:46:11.517Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordfence-wordpress-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">Wordfence：适合国人使用的 WordPress 安全插件</span></a>
 				
 		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 网站建设入门教程（2025.05 更新）</span></h3>			<p>本零基础 WordPress 网站建设教程涉及内容非常广泛，将从一个小白的视角（老鸟&amp;大神请点右上角）浅显地介绍有关建设网站的方方面面，包括但不限于：域名注册、服…</p>		</div>
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Wordfence：适合国人使用的 WordPress 安全插件</span></h3>			<p>随着 WordPress 在国内外的广泛应用，网站安全问题也日益凸显。尤其是对于国内用户来说，由于网络环境复杂、攻击手段多样，选择一款稳定、易用且功能强大的安全插件至关重…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>42</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何将 Gravatar 头像源切换到国内镜像加速]]></title>
+        <id>https://www.shephe.com/website/wordpress-gravatar-change-resource/</id>
+        <link href="https://www.shephe.com/website/wordpress-gravatar-change-resource/"/>
+        <updated>2025-05-18T05:46:11.518Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-gravatar-change-resource/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何将 Gravatar 头像源切换到国内镜像加速</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何将 Gravatar 头像源切换到国内镜像加速</span></h3>			<p>由于你懂的原因，Gravatar 在国内的访问极其不稳定，而这项服务又是蓝星上使用范围最广的头像服务，免费且认知度极高。比如咱博客圈WordPress 和 Typecho…</p>		</div>
 			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
 						<div class="grve-meta-wrapper">
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
@@ -153,10 +175,32 @@
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用 WP-CLI 工具给 WordPress 网站重新生成缩略图]]></title>
+        <id>https://www.shephe.com/post/wp-cli-wp-media-regenerate/</id>
+        <link href="https://www.shephe.com/post/wp-cli-wp-media-regenerate/"/>
+        <updated>2025-05-18T05:46:11.520Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/wp-cli-wp-media-regenerate/" rel="bookmark" target="_blank"><span class="screen-reader-text">用 WP-CLI 工具给 WordPress 网站重新生成缩略图</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 WP-CLI 工具给 WordPress 网站重新生成缩略图</span></h3>			<p>此前为了保证图片浏览质量和节省磁盘空间，我几乎关闭了 WordPress 所有缩略图的输出，以前更新少流量低，也没觉得这么干有啥问题。近来博客更新比较频繁，流量也越来越高…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>20</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>32</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[几种 WordPress 插件安装的方法 & 常见问题解析]]></title>
         <id>https://www.shephe.com/website/wordpress-plugin-install/</id>
         <link href="https://www.shephe.com/website/wordpress-plugin-install/"/>
-        <updated>2025-05-17T17:44:04.585Z</updated>
+        <updated>2025-05-17T17:44:04.577Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-plugin-install/" rel="bookmark" target="_blank"><span class="screen-reader-text">几种 WordPress 插件安装的方法 &amp; 常见问题解析</span></a>
 				
 		<div class="grve-post-content">
@@ -170,95 +214,51 @@
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>0</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 WordPress 网站安装了哪些插件（2025.06）]]></title>
-        <id>https://www.shephe.com/website/wordpress-plugin-recommendations/</id>
-        <link href="https://www.shephe.com/website/wordpress-plugin-recommendations/"/>
-        <updated>2025-05-17T17:44:04.586Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-plugin-recommendations/" rel="bookmark" target="_blank"><span class="screen-reader-text">我的 WordPress 网站安装了哪些插件（2025.06）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>我的 WordPress 网站安装了哪些插件（2025.06）</span></h3>			<p>WordPress 插件是扩展网站功能的强大工具，用户无需编写代码即可轻松添加各种特性和功能。插件种类繁多，包括 SEO 优化、社交分享、电子商务、网站安全等，用户可以根…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>37</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>0</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress 文章星级评分插件哪款好（2024）]]></title>
-        <id>https://www.shephe.com/website/wordpress-post-star-rating-plugin/</id>
-        <link href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/"/>
-        <updated>2025-05-17T17:44:04.588Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-post-star-rating-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 文章星级评分插件哪款好（2024）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 文章星级评分插件哪款好（2024）</span></h3>			<p>前儿在搜资料的时候，看到一个结果页（Google SERP）有星级评分，于是想着自己也搞一个…稍一对比后装上了我熟悉的 kk star ratings 评分插件，然后就是…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>22</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>12</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球头像服务：Gravatar 与 Cravatar 的应用与优化]]></title>
-        <id>https://www.shephe.com/website/gravatar-and-cravatar/</id>
-        <link href="https://www.shephe.com/website/gravatar-and-cravatar/"/>
-        <updated>2025-05-17T05:45:32.048Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/gravatar-and-cravatar/" rel="bookmark" target="_blank"><span class="screen-reader-text">全球头像服务：Gravatar 与 Cravatar 的应用与优化</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全球头像服务：Gravatar 与 Cravatar 的应用与优化</span></h3>			<p>Gravatar 作为全球通用的头像服务，极大方便了互联网用户在多个平台上统一展示个人形象的需求。然而，由于中国大陆的网络限制，Gravatar 在本地区的使用面临诸多挑…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>25</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>1</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深度解析 WordPress 设置中的讨论设置（评论）]]></title>
-        <id>https://www.shephe.com/website/wordpress-discussion-settings/</id>
-        <link href="https://www.shephe.com/website/wordpress-discussion-settings/"/>
-        <updated>2025-05-17T05:45:32.038Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-discussion-settings/" rel="bookmark" target="_blank"><span class="screen-reader-text">深度解析 WordPress 设置中的讨论设置（评论）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>深度解析 WordPress 设置中的讨论设置（评论）</span></h3>			<p>WordPress 的“讨论设置”主要管理网站上的评论功能，包括评论的显示方式、评论审核、评论通知等。它帮助站点管理员控制用户如何评论、评论的审批流程以及如何与访客互动。…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>70</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
 			<span>2</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测试文章（主题各种功能）]]></title>
+        <id>https://www.shephe.com/post/%e6%b5%8b%e8%af%95%e6%96%87%e7%ab%a0%e5%bd%a2bbaa/</id>
+        <link href="https://www.shephe.com/post/%e6%b5%8b%e8%af%95%e6%96%87%e7%ab%a0%e5%bd%a2bbaa/"/>
+        <updated>2025-05-18T05:46:11.523Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e6%b5%8b%e8%af%95%e6%96%87%e7%ab%a0%e5%bd%a2bbaa/" rel="bookmark" target="_blank"><span class="screen-reader-text">测试文章（主题各种功能）</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>测试文章（主题各种功能）</span></h3>			<p>在安装 WordPress 插件时，通常会遇到的问题有服/wp-content/plugins/务器权限 CTRL + V 不足、插件与主题或其他扩展不兼容、缺少必/wp…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>16</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>4</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 有哪些缩略图，如何禁用并批量删除（2025）]]></title>
+        <id>https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/</id>
+        <link href="https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/"/>
+        <updated>2025-05-18T05:46:11.526Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/disable-wordpress-generated-and-batch-deletion-images/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 有哪些缩略图，如何禁用并批量删除（2025）</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 有哪些缩略图，如何禁用并批量删除（2025）</span></h3>			<p>在测试本站 EXIF 显示的时候，发现 uploads 目录中单幅图片的缩略图竟然多达 9 个，这能忍？？然后我开始思考并查阅：WordPress 为什么会生成这么多缩略…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>18</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>20</span></div>
 							</div>
 			</div>]]></content>
     </entry>
