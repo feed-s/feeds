@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-05-20T05:48:55.761Z</updated>
+    <updated>2025-05-20T17:46:26.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BERRY 2.0]]></title>
+        <id>https://fatesinger.com/105431</id>
+        <link href="https://fatesinger.com/105431"/>
+        <updated>2025-05-20T17:46:09.398Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105431" aria-label="BERRY 2.0" title="BERRY 2.0">BERRY 2.0</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            WordPress 主题 Berry
+这个主题当时只是随手一弄，就是个半成品，功能严重缺失，名字的由来其实来自品牌burberry，我把单词做...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-05-20T18:48:36+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中西区闲逛]]></title>
         <id>https://fatesinger.com/105398</id>
@@ -17,7 +33,7 @@
             天气晴朗，本来想乘坐南港岛线到南区海边逛一逛，结果过于自信坐过换乘站了，索性就随便找个出口随便 walk 一下，因为我讨厌...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-05-01T13:56:15+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2025-05-01T13:56:15+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +50,7 @@
 这几次签证真的...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-30T17:02:50+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2025-04-30T17:02:50+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -129,22 +145,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去大理 Chapter 6]]></title>
-        <id>https://fatesinger.com/104596</id>
-        <link href="https://fatesinger.com/104596"/>
-        <updated>2025-03-28T05:47:30.605Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104596" aria-label="去大理 Chapter 6" title="去大理 Chapter 6">去大理 Chapter 6</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            经典蓝调时刻
-时隔近两年，本系列再次更新，连载强度堪比香港City Walk 系列。联程起点是昆明，本来没打算来大理，但是落地昆...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-03-28T13:41:15+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
 </feed>
