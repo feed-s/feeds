@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-08T05:47:34.010Z</updated>
+    <updated>2025-06-08T17:45:55.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -574,7 +574,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -592,7 +592,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -880,7 +880,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -898,7 +898,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -916,7 +916,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -2337,6 +2337,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[纽约散记 – Blade 初体验 (大发贱志)]]></title>
+        <id>https://fatesinger.com/105182</id>
+        <link href="https://fatesinger.com/105182"/>
+        <updated>2025-06-08T17:45:36.209Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105182" aria-label="纽约散记 – Blade 初体验" title="纽约散记 – Blade 初体验">纽约散记 – Blade 初体验</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            从曼岛到JFK，会绕过曼岛南部，相当于半观光飞行，那么260 刀就显得有一丝丝性价比了，毕竟打车过去也要一百多刀，而且飞过去仅需五分钟，大大的方便。        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-06-09T01:15:54+08:00">发布于 29 分钟前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BERRY 2.0 (大发贱志)]]></title>
         <id>https://fatesinger.com/105431</id>
         <link href="https://fatesinger.com/105431"/>
@@ -2349,7 +2364,7 @@ on
 这个主题当时只是随手一弄，就是个半成品，功能严重缺失，名字的由来其实来自品牌burberry，我把单词做...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-05-20T18:48:36+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2025-05-20T18:48:36+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2461,21 +2476,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-04-05T21:12:36+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多哈小逛 (大发贱志)]]></title>
-        <id>https://fatesinger.com/104935</id>
-        <link href="https://fatesinger.com/104935"/>
-        <updated>2025-03-31T17:44:27.331Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104935" aria-label="多哈小逛" title="多哈小逛">多哈小逛</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            绝大多数人来多哈都是转机，我这次则是因为三月是深圳航空淡季运价商务舱只需要 31500 里程，因为卡塔尔属于亚洲，税费也只有...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-01T00:18:02+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
