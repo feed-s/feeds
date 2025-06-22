@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-06-21T17:45:35.229Z</updated>
+    <updated>2025-06-22T05:47:45.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[如何拍出秋天的感觉？试试这些落叶摄影技巧]]></title>
+        <id>https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/</id>
+        <link href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/"/>
+        <updated>2025-06-22T05:47:41.708Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何拍出秋天的感觉？试试这些落叶摄影技巧</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/秋叶拍摄2.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/06/秋叶拍摄2-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-22T11:43:27+08:00">
+				06/22/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何拍出秋天的感觉？试试这些落叶摄影技巧</span></h3>						<p>虽然重庆的春秋稍纵即逝，常常是一秒入夏、一夜入冬，但其实只要往郊区或周边山区走走，还是能邂逅一片片层林尽染的秋色。夏天太热不宜出门，那不如现在就开始为秋天做点准备，拍点好看的素材吧！🍁 秋天一直是摄影师们最钟爱的季节之一…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何让 WordPress 支持 AVIF 格式图片？提升速度]]></title>
+        <id>https://www.shephe.com/website/wordpress-support-avif-images/</id>
+        <link href="https://www.shephe.com/website/wordpress-support-avif-images/"/>
+        <updated>2025-06-22T05:47:41.717Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-support-avif-images/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何让 WordPress 支持 AVIF 格式图片？提升速度</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/avif-logo.webp 1200w, https://www.shephe.com/wp-content/uploads/2025/06/avif-logo-768x384.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-22T11:41:24+08:00">
+				06/22/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何让 WordPress 支持 AVIF 格式图片？提升速度</span></h3>						<p>AVIF 是一种图像格式，它基于 AV1 视频编解码器，提供了比传统的 JPEG、PNG 和 WebP 更高的压缩率和更小的文件大小。相较于其他图像格式，AVIF 不仅能够在保证较高图像质量的同时大幅减小文件体积，还支持…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-support-avif-images/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客突遭江苏封禁？反诈中心黑名单的意外风波]]></title>
         <id>https://www.shephe.com/life/%e5%8d%9a%e5%ae%a2%e8%a2%ab%e6%b1%9f%e8%8b%8f%e5%b0%81%e7%a6%81/</id>
@@ -81,54 +131,92 @@
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何在 Lightroom 中导入预设、配置文件和滤镜]]></title>
-        <id>https://www.shephe.com/photography/lightroom-import-presets-and-filters/</id>
-        <link href="https://www.shephe.com/photography/lightroom-import-presets-and-filters/"/>
-        <updated>2025-06-13T17:47:24.461Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/lightroom-import-presets-and-filters/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何在 Lightroom 中导入预设、配置文件和滤镜</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Lightroom.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-13T14:21:44+08:00">
-				06/13/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何在 Lightroom 中导入预设、配置文件和滤镜</span></h3>						<p>本文介绍如何在桌面端 Adobe Lightroom Classic 中导入预设、配置文件和滤镜。需要注意的是，桌面端 Lightroom 其实有两个版本：一个是 Lightroom（基于云的新版），另一个是 Light…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/lightroom-import-presets-and-filters/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[如何拍出秋天的感觉？试试这些落叶摄影技巧]]></title>
+        <id>https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/</id>
+        <link href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/"/>
+        <updated>2025-06-22T05:47:41.725Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何拍出秋天的感觉？试试这些落叶摄影技巧</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何拍出秋天的感觉？试试这些落叶摄影技巧</span></h3>			<p>虽然重庆的春秋稍纵即逝，常常是一秒入夏、一夜入冬，但其实只要往郊区或周边山区走走，还是能邂逅一片片层林尽染的秋色。夏天太热不宜出门，那不如现在就开始为秋天做点准备，拍点好…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>32</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[宠物摄影指南：从器材选型到拍摄误区全面解析]]></title>
-        <id>https://www.shephe.com/photography/pet-photography-full-guide/</id>
-        <link href="https://www.shephe.com/photography/pet-photography-full-guide/"/>
-        <updated>2025-06-21T17:45:31.990Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/pet-photography-full-guide/" rel="bookmark" target="_blank"><span class="screen-reader-text">宠物摄影指南：从器材选型到拍摄误区全面解析</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/girl-cats.webp 1920w, https://www.shephe.com/wp-content/uploads/2025/06/girl-cats-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-10T21:53:57+08:00">
-				06/10/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宠物摄影指南：从器材选型到拍摄误区全面解析</span></h3>						<p>宠物摄影不仅是一门技术，更是一种记录爱与陪伴的艺术。无论是家里的猫狗还是其他小动物，宠物总能带给我们无尽的欢乐与感动。通过镜头捕捉它们灵动的瞬间，不仅能留下珍贵的回忆，还能分享给亲朋好友，传递这份美好。然而，宠物摄影并非…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/pet-photography-full-guide/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[如何让 WordPress 支持 AVIF 格式图片？提升速度]]></title>
+        <id>https://www.shephe.com/website/wordpress-support-avif-images/</id>
+        <link href="https://www.shephe.com/website/wordpress-support-avif-images/"/>
+        <updated>2025-06-22T05:47:41.731Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-support-avif-images/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何让 WordPress 支持 AVIF 格式图片？提升速度</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何让 WordPress 支持 AVIF 格式图片？提升速度</span></h3>			<p>AVIF 是一种图像格式，它基于 AV1 视频编解码器，提供了比传统的 JPEG、PNG 和 WebP 更高的压缩率和更小的文件大小。相较于其他图像格式，AVIF 不仅能…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>51</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>0</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DxO PureRAW v5.2.0.7 安装使用，最强 AI 图像降噪]]></title>
+        <id>https://www.shephe.com/resources/dxo-pureraw-download/</id>
+        <link href="https://www.shephe.com/resources/dxo-pureraw-download/"/>
+        <updated>2025-06-21T05:47:24.396Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-pureraw-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">DxO PureRAW v5.2.0.7 安装使用，最强 AI 图像降噪</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DxO PureRAW v5.2.0.7 安装使用，最强 AI 图像降噪</span></h3>			<p>随着摄影设备的普及与拍摄需求的提升，越来越多摄影爱好者开始以 RAW 格式记录画面，以便在后期处理中保留更多细节与动态范围。但随之而来的，是如何在繁琐的调色、降噪与镜头校…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>39</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>9</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop DR5 至臻版插件优化版下载 & 使用教程]]></title>
+        <id>https://www.shephe.com/resources/photoshop-dr5-free-download/</id>
+        <link href="https://www.shephe.com/resources/photoshop-dr5-free-download/"/>
+        <updated>2025-06-22T05:47:41.734Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-dr5-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop DR5 至臻版插件优化版下载 &amp; 使用教程</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop DR5 至臻版插件优化版下载 &amp; 使用教程</span></h3>			<p>DR5 至臻版是一种专为 Photoshop 设计的高级磨皮和美容插件，它通过内置对话框中的滑块和选项，允许用户控制所有重要的功能设置。这款插件与以往版本相比，整合了磨皮…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>59</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>88</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Photoshop 2025 26.8 中文破解版下载（直装版 & 便携版长期更新）]]></title>
@@ -153,28 +241,6 @@
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DxO PureRAW v5.2.0.7 安装使用，最强 AI 图像降噪]]></title>
-        <id>https://www.shephe.com/resources/dxo-pureraw-download/</id>
-        <link href="https://www.shephe.com/resources/dxo-pureraw-download/"/>
-        <updated>2025-06-21T05:47:24.396Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-pureraw-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">DxO PureRAW v5.2.0.7 安装使用，最强 AI 图像降噪</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DxO PureRAW v5.2.0.7 安装使用，最强 AI 图像降噪</span></h3>			<p>随着摄影设备的普及与拍摄需求的提升，越来越多摄影爱好者开始以 RAW 格式记录画面，以便在后期处理中保留更多细节与动态范围。但随之而来的，是如何在繁琐的调色、降噪与镜头校…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>39</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>1</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DxO Nik Collection v8.0.12 中文破解版免费下载 ⏬]]></title>
         <id>https://www.shephe.com/resources/dxo-nik-collection-free-download/</id>
         <link href="https://www.shephe.com/resources/dxo-nik-collection-free-download/"/>
@@ -193,72 +259,6 @@
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
 			<span>95</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 账号租赁购买，支持 AI 创成式填充 👏]]></title>
-        <id>https://www.shephe.com/post/adobe-photoshop-temp-account/</id>
-        <link href="https://www.shephe.com/post/adobe-photoshop-temp-account/"/>
-        <updated>2025-06-19T17:49:39.923Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-photoshop-temp-account/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 账号租赁购买，支持 AI 创成式填充 👏</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 账号租赁购买，支持 AI 创成式填充 👏</span></h3>			<p>不少朋友在修图、设计、制作简历时，只是临时用到 Photoshop，而正版订阅价格较高，短期使用显得不太划算。此时，租赁或购买临时账号就成了一种更灵活的选择，按天计费、即…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>108</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>0</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DxO PhotoLab Elite 8.7.0.601 图像处理软件优化版]]></title>
-        <id>https://www.shephe.com/resources/dxo-photolab-elite-free-download/</id>
-        <link href="https://www.shephe.com/resources/dxo-photolab-elite-free-download/"/>
-        <updated>2025-06-21T05:47:24.414Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-photolab-elite-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">DxO PhotoLab Elite 8.7.0.601 图像处理软件优化版</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DxO PhotoLab Elite 8.7.0.601 图像处理软件优化版</span></h3>			<p>DxO PhotoLab 是一款专业级 RAW 图像处理软件，专为摄影师和影像工作者打造。它不仅可以优化 RAW 和 JPEG 照片的质量，还提供了一整套智能校正工具，帮…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>14</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>19</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DxO FilmPack Elite 7.15.0.1 免费下载&安装，教你完美还原经典胶片效果]]></title>
-        <id>https://www.shephe.com/resources/dxo-filmpack-free-download/</id>
-        <link href="https://www.shephe.com/resources/dxo-filmpack-free-download/"/>
-        <updated>2025-06-21T05:47:24.415Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-filmpack-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">DxO FilmPack Elite 7.15.0.1 免费下载&amp;安装，教你完美还原经典胶片效果</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DxO FilmPack Elite 7.15.0.1 免费下载&amp;安装，教你完美还原经典胶片效果</span></h3>			<p>DxO FilmPack 7 是摄影后期制作的强大工具，它让你能够轻松地将数码照片转换为经典胶片风格的作品，并通过丰富的自定义选项和创意效果进行个性化创作。无论你是胶片爱…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>16</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>24</span></div>
 							</div>
 			</div>]]></content>
     </entry>
