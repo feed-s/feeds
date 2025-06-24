@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-22T17:46:49.608Z</updated>
+    <updated>2025-06-24T05:49:48.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -2337,6 +2337,21 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[安特卫普小逛 (大发贱志)]]></title>
+        <id>https://fatesinger.com/105365</id>
+        <link href="https://fatesinger.com/105365"/>
+        <updated>2025-06-24T05:49:30.054Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105365" aria-label="安特卫普小逛" title="安特卫普小逛">安特卫普小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            小时候没有发达网络，基本上都是看电视，而且只能电视播什么看什么，当时王志文主演的《刑警本色》里面常闯讲的一个比利时人...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-06-23T17:49:55+08:00">发布于 19 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[街溜子的精神故乡 (大发贱志)]]></title>
         <id>https://fatesinger.com/105367</id>
         <link href="https://fatesinger.com/105367"/>
@@ -2348,7 +2363,7 @@ on
             以前没想过自己会来荷兰，因为提前安排好了纽约的行程，欧洲出发飞行比较合适的是里斯本和阿姆斯特丹，纠结了一下最后选择了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-20T21:45:14+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-20T21:45:14+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2363,7 +2378,7 @@ on
             前一天按照标准的游客路线逛了高迪三件套，所以本日选择了另外一个游客较为稀少的路线，吃过早餐之后开始按计划city walk，街...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-18T15:08:45+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-18T15:08:45+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2378,7 +2393,7 @@ on
             今年来了两次伊斯坦布尔，运气都非常不好正赶上下雨，第二次来的时候离开当天居然放晴了，虽然不是万里无云，但也算不错了，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-17T01:23:48+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-17T01:23:48+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2393,7 +2408,7 @@ on
             因为洲际的位置不那么中心，所以可以选择不同方向进行city walk，原计划直接走到四个盒子的，走到帆船俱乐部这边发现绕过去有...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-13T16:36:22+08:00">发布于 9 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-13T16:36:22+08:00">发布于 10 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2408,7 +2423,7 @@ on
             从曼岛到JFK，会绕过曼岛南部，相当于半观光飞行，那么260 刀就显得有一丝丝性价比了，毕竟打车过去也要一百多刀，而且飞过去仅需五分钟，大大的方便。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-09T01:15:54+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-09T01:15:54+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2457,21 +2472,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-04-30T17:02:50+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[万豪系酒店总结 (大发贱志)]]></title>
-        <id>https://fatesinger.com/105297</id>
-        <link href="https://fatesinger.com/105297"/>
-        <updated>2025-04-19T17:44:00.282Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105297" aria-label="万豪系酒店总结" title="万豪系酒店总结">万豪系酒店总结</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            和凯悦不同，万豪系酒店时间跨度非常大，我第一次星级酒店是喜达屋，当时还没有和万豪合并，后面喜达屋和万豪合并，无论会员...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/lifista" rel="category tag">生活家</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-20T00:25:32+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -3050,58 +3050,14 @@ on
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photoshop 正版体验：临时账号完整使用教程 (牧羊人)]]></title>
-        <id>https://www.shephe.com/tutorial/photoshop-temp-account-guide/</id>
-        <link href="https://www.shephe.com/tutorial/photoshop-temp-account-guide/"/>
-        <updated>2025-06-22T17:46:46.026Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/photoshop-temp-account-guide/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 正版体验：临时账号完整使用教程</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 正版体验：临时账号完整使用教程</span></h3>			<p>如果你通过本站购买了 Adobe Photoshop 的正版临时账号，可以按照本篇文章的教程进行安装、登录和使用。本教程旨在帮助您快速上手，充分利用正版 Photosho…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>97</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>0</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Lightroom Classic 2025 v14.4.0.8 中文破解版下载（长期更新） (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/adobe-lightroom-free-download/</id>
-        <link href="https://www.shephe.com/resources/adobe-lightroom-free-download/"/>
-        <updated>2025-06-22T17:46:46.027Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-lightroom-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom Classic 2025 v14.4.0.8 中文破解版下载（长期更新）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 2025 v14.4.0.8 中文破解版下载（长期更新）</span></h3>			<p>Adobe Lightroom Classic 2025 提供全面的桌面编辑工具，助您将照片魅力发挥到极致。从提亮色彩、优化暗淡画面，到污点修复和镜头校正，无论是基础调整…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>88</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>155</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 账号租赁购买，支持 AI 创成式填充 👏 (牧羊人)]]></title>
+        <title type="html"><![CDATA[Photoshop 账号租赁购买，支持 AI 创成式填充 ✨ (牧羊人)]]></title>
         <id>https://www.shephe.com/post/adobe-photoshop-temp-account/</id>
         <link href="https://www.shephe.com/post/adobe-photoshop-temp-account/"/>
         <updated>2025-06-22T17:46:46.029Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-photoshop-temp-account/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 账号租赁购买，支持 AI 创成式填充 👏</span></a>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-photoshop-temp-account/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 账号租赁购买，支持 AI 创成式填充 ✨</span></a>
 				
 		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 账号租赁购买，支持 AI 创成式填充 👏</span></h3>			<p>不少朋友在修图、设计、制作简历时，只是临时用到 Photoshop，而正版订阅价格较高，短期使用显得不太划算。此时，租赁或购买临时账号就成了一种更灵活的选择，按天计费、即…</p>		</div>
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 账号租赁购买，支持 AI 创成式填充 ✨</span></h3>			<p>不少朋友在修图、设计、制作简历时，只是临时用到 Photoshop，而正版订阅价格较高，短期使用显得不太划算。此时，租赁或购买临时账号就成了一种更灵活的选择，按天计费、即…</p>		</div>
 			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
 						<div class="grve-meta-wrapper">
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
@@ -3116,46 +3072,24 @@ on
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[如何拍出秋天的感觉？试试这些落叶摄影技巧 (牧羊人)]]></title>
-        <id>https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/</id>
-        <link href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/"/>
-        <updated>2025-06-22T05:47:41.708Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何拍出秋天的感觉？试试这些落叶摄影技巧</span></a>
+        <title type="html"><![CDATA[WordPress 网站建设入门教程（2025.06 更新 ✨） (牧羊人)]]></title>
+        <id>https://www.shephe.com/tutorial/wordpress-website-building/</id>
+        <link href="https://www.shephe.com/tutorial/wordpress-website-building/"/>
+        <updated>2025-06-24T05:49:45.584Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/wordpress-website-building/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 网站建设入门教程（2025.06 更新 ✨）</span></a>
 				
 		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何拍出秋天的感觉？试试这些落叶摄影技巧</span></h3>			<p>虽然重庆的春秋稍纵即逝，常常是一秒入夏、一夜入冬，但其实只要往郊区或周边山区走走，还是能邂逅一片片层林尽染的秋色。夏天太热不宜出门，那不如现在就开始为秋天做点准备，拍点好…</p>		</div>
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 网站建设入门教程（2025.06 更新 ✨）</span></h3>			<p>本零基础 WordPress 网站建设教程涉及内容非常广泛，将从一个小白的视角（老鸟&amp;大神请点右上角）浅显地介绍有关建设网站的方方面面，包括但不限于：域名注册、服…</p>		</div>
 			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
 						<div class="grve-meta-wrapper">
 								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			<span>32</span></div>
+			<span>24</span></div>
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>4</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何让 WordPress 支持 AVIF 格式图片？提升速度 (牧羊人)]]></title>
-        <id>https://www.shephe.com/website/wordpress-support-avif-images/</id>
-        <link href="https://www.shephe.com/website/wordpress-support-avif-images/"/>
-        <updated>2025-06-22T05:47:41.717Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-support-avif-images/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何让 WordPress 支持 AVIF 格式图片？提升速度</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何让 WordPress 支持 AVIF 格式图片？提升速度</span></h3>			<p>AVIF 是一种图像格式，它基于 AV1 视频编解码器，提供了比传统的 JPEG、PNG 和 WebP 更高的压缩率和更小的文件大小。相较于其他图像格式，AVIF 不仅能…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>51</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>0</span></div>
+			<span>12</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -3177,7 +3111,73 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>15</span></div>
+			<span>28</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aria2：一个轻量高效的开源下载工具使用教程 (牧羊人)]]></title>
+        <id>https://www.shephe.com/tutorial/aria2-a-lightweight-multi-protocol-download-utility/</id>
+        <link href="https://www.shephe.com/tutorial/aria2-a-lightweight-multi-protocol-download-utility/"/>
+        <updated>2025-06-24T05:49:45.587Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/aria2-a-lightweight-multi-protocol-download-utility/" rel="bookmark" target="_blank"><span class="screen-reader-text">Aria2：一个轻量高效的开源下载工具使用教程</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Aria2：一个轻量高效的开源下载工具使用教程</span></h3>			<p>各位 PC 端一般在使用什么工具下载文件和应用呢？据我所知呢当下大家用的比较多的有迅雷、IDM、百度网盘、比特彗星、uTorrent，以及常规浏览器等。我本人一直使用的是…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>14</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>79</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Syncthing 搭建个人同步服务器（2025.07） (牧羊人)]]></title>
+        <id>https://www.shephe.com/tutorial/use-syncthing-to-synchronize-your-own-files/</id>
+        <link href="https://www.shephe.com/tutorial/use-syncthing-to-synchronize-your-own-files/"/>
+        <updated>2025-06-24T05:49:45.588Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/use-syncthing-to-synchronize-your-own-files/" rel="bookmark" target="_blank"><span class="screen-reader-text">使用 Syncthing 搭建个人同步服务器（2025.07）</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>使用 Syncthing 搭建个人同步服务器（2025.07）</span></h3>			<p>笔者作为一个 IT 销售人员，除了要会推销自己的产品，处理报价、合同等商务工作，还得熟悉方案，甚至有时候还要着手给客户写技术方案，因此平时手头有大量的文档处理，工作时间一…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>26</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>43</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《饥饿的盛世》：遥看乾隆盛世，读懂当下中国 (牧羊人)]]></title>
+        <id>https://www.shephe.com/post/%e9%a5%a5%e9%a5%bf%e7%9a%84%e7%9b%9b%e4%b8%96/</id>
+        <link href="https://www.shephe.com/post/%e9%a5%a5%e9%a5%bf%e7%9a%84%e7%9b%9b%e4%b8%96/"/>
+        <updated>2025-06-24T05:49:45.591Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e9%a5%a5%e9%a5%bf%e7%9a%84%e7%9b%9b%e4%b8%96/" rel="bookmark" target="_blank"><span class="screen-reader-text">《饥饿的盛世》：遥看乾隆盛世，读懂当下中国</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>《饥饿的盛世》：遥看乾隆盛世，读懂当下中国</span></h3>			<p>乾隆盛世是传统中国的巅峰，GDP 和人口数量均占到全球三分之一左右，国库充盈，四海臣服，威加海内，但光鲜的外表却掩盖不了内在的腐烂。盛世虚妄的数字背后是民不聊生、种族灭绝…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>26</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>21</span></div>
 							</div>
 			</div>]]></content>
     </entry>
