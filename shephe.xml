@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-06-24T17:49:16.264Z</updated>
+    <updated>2025-06-25T05:49:54.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[如何通过参数控制，让 Bilibili 嵌入播放器更清爽]]></title>
+        <id>https://www.shephe.com/tutorial/simple-bilibili-iframe/</id>
+        <link href="https://www.shephe.com/tutorial/simple-bilibili-iframe/"/>
+        <updated>2025-06-25T05:49:51.362Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/simple-bilibili-iframe/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何通过参数控制，让 Bilibili 嵌入播放器更清爽</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/折腾.jpg 1066w, https://www.shephe.com/wp-content/uploads/2024/04/折腾-768x429.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-24T23:29:40+08:00">
+				06/24/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何通过参数控制，让 Bilibili 嵌入播放器更清爽</span></h3>						<p>近期，我尝试录制了几条视频用于推广网站页面，本打算发网抖音、B 站和西瓜视频，结果发现西瓜已经被砍了，抖音也不太适合，最后只剩下 Bilibili 了。而且也只有它支持再嵌入到咱们的网页中，但 B 站的默认嵌入太丑了！ …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/simple-bilibili-iframe/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何拍出秋天的感觉？试试这些落叶摄影技巧]]></title>
         <id>https://www.shephe.com/photography/fall-leaves-photography-tips-and-ideas/</id>
@@ -106,29 +131,26 @@
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 Photoshop Neural Filters 神经滤镜给老照片上色]]></title>
-        <id>https://www.shephe.com/photography/photoshop-neural-filters-old-photo-colorization/</id>
-        <link href="https://www.shephe.com/photography/photoshop-neural-filters-old-photo-colorization/"/>
-        <updated>2025-06-13T17:47:24.460Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/photoshop-neural-filters-old-photo-colorization/" rel="bookmark" target="_blank"><span class="screen-reader-text">用 Photoshop Neural Filters 神经滤镜给老照片上色</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/20240413-果果在家-bw.webp 1920w, https://www.shephe.com/wp-content/uploads/2025/06/20240413-果果在家-bw-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-13T18:35:00+08:00">
-				06/13/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 Photoshop Neural Filters 神经滤镜给老照片上色</span></h3>						<p>刚才录了一个视频，介绍 Photoshop Neural Filters 神经滤镜的下载、安装和使用体验，尽管我对这神经滤镜的整体评价不高，但有一说一它的着色滤镜确实不错。实测着色（Colorize）滤镜对老照片的识别能…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/photoshop-neural-filters-old-photo-colorization/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[如何通过参数控制，让 Bilibili 嵌入播放器更清爽]]></title>
+        <id>https://www.shephe.com/tutorial/simple-bilibili-iframe/</id>
+        <link href="https://www.shephe.com/tutorial/simple-bilibili-iframe/"/>
+        <updated>2025-06-25T05:49:51.369Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/simple-bilibili-iframe/" rel="bookmark" target="_blank"><span class="screen-reader-text">如何通过参数控制，让 Bilibili 嵌入播放器更清爽</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>如何通过参数控制，让 Bilibili 嵌入播放器更清爽</span></h3>			<p>近期，我尝试录制了几条视频用于推广网站页面，本打算发网抖音、B 站和西瓜视频，结果发现西瓜已经被砍了，抖音也不太适合，最后只剩下 Bilibili 了。而且也只有它支持再…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>108</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>3</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Photoshop 账号租赁购买，支持 AI 创成式填充 ✨]]></title>
@@ -237,28 +259,6 @@
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
 			<span>43</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《饥饿的盛世》：遥看乾隆盛世，读懂当下中国]]></title>
-        <id>https://www.shephe.com/post/%e9%a5%a5%e9%a5%bf%e7%9a%84%e7%9b%9b%e4%b8%96/</id>
-        <link href="https://www.shephe.com/post/%e9%a5%a5%e9%a5%bf%e7%9a%84%e7%9b%9b%e4%b8%96/"/>
-        <updated>2025-06-24T05:49:45.591Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/%e9%a5%a5%e9%a5%bf%e7%9a%84%e7%9b%9b%e4%b8%96/" rel="bookmark" target="_blank"><span class="screen-reader-text">《饥饿的盛世》：遥看乾隆盛世，读懂当下中国</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>《饥饿的盛世》：遥看乾隆盛世，读懂当下中国</span></h3>			<p>乾隆盛世是传统中国的巅峰，GDP 和人口数量均占到全球三分之一左右，国库充盈，四海臣服，威加海内，但光鲜的外表却掩盖不了内在的腐烂。盛世虚妄的数字背后是民不聊生、种族灭绝…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>26</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>21</span></div>
 							</div>
 			</div>]]></content>
     </entry>
