@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-26T05:49:42.149Z</updated>
+    <updated>2025-06-26T17:47:35.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -2337,6 +2337,22 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[华沙小逛 (大发贱志)]]></title>
+        <id>https://fatesinger.com/105385</id>
+        <link href="https://fatesinger.com/105385"/>
+        <updated>2025-06-26T17:47:17.323Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105385" aria-label="华沙小逛" title="华沙小逛">华沙小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            华沙萧邦机场
+华沙和其他欧洲城市不太一样，有点像北京，而且班味不轻，不好玩。本次入住华沙洲际酒店，位置不错，因为到达已...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-06-26T21:19:17+08:00">发布于 4 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[安特卫普小逛 (大发贱志)]]></title>
         <id>https://fatesinger.com/105365</id>
         <link href="https://fatesinger.com/105365"/>
@@ -2348,7 +2364,7 @@ on
             小时候没有发达网络，基本上都是看电视，而且只能电视播什么看什么，当时王志文主演的《刑警本色》里面常闯讲的一个比利时人...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-23T17:49:55+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-23T17:49:55+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2363,7 +2379,7 @@ on
             以前没想过自己会来荷兰，因为提前安排好了纽约的行程，欧洲出发飞行比较合适的是里斯本和阿姆斯特丹，纠结了一下最后选择了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-20T21:45:14+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-20T21:45:14+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2378,7 +2394,7 @@ on
             前一天按照标准的游客路线逛了高迪三件套，所以本日选择了另外一个游客较为稀少的路线，吃过早餐之后开始按计划city walk，街...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-18T15:08:45+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-18T15:08:45+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2393,7 +2409,7 @@ on
             今年来了两次伊斯坦布尔，运气都非常不好正赶上下雨，第二次来的时候离开当天居然放晴了，虽然不是万里无云，但也算不错了，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-17T01:23:48+08:00">发布于 9 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-17T01:23:48+08:00">发布于 10 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2408,7 +2424,7 @@ on
             因为洲际的位置不那么中心，所以可以选择不同方向进行city walk，原计划直接走到四个盒子的，走到帆船俱乐部这边发现绕过去有...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-13T16:36:22+08:00">发布于 12 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-13T16:36:22+08:00">发布于 13 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2423,7 +2439,7 @@ on
             从曼岛到JFK，会绕过曼岛南部，相当于半观光飞行，那么260 刀就显得有一丝丝性价比了，毕竟打车过去也要一百多刀，而且飞过去仅需五分钟，大大的方便。        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-09T01:15:54+08:00">发布于 17 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-09T01:15:54+08:00">发布于 18 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -2455,23 +2471,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-05-01T13:56:15+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[首陀罗签证小记 (大发贱志)]]></title>
-        <id>https://fatesinger.com/105377</id>
-        <link href="https://fatesinger.com/105377"/>
-        <updated>2025-04-30T17:45:06.039Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105377" aria-label="首陀罗签证小记" title="首陀罗签证小记">首陀罗签证小记</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            法签开盲盒
-最新加办澳大利亚签证和申根签证，现在财力和精力都下降了不少，我估计以后不太可能长途旅行了。
-这几次签证真的...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-04-30T17:02:50+08:00">发布于 1月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -3155,7 +3154,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>4</span></div>
+			<span>5</span></div>
 							</div>
 			</div>]]></content>
     </entry>
@@ -3177,7 +3176,7 @@ on
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>2</span></div>
+			<span>7</span></div>
 							</div>
 			</div>]]></content>
     </entry>
