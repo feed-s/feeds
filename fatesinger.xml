@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-07-08T17:50:21.198Z</updated>
+    <updated>2025-07-09T05:52:23.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[布达佩斯小逛 III]]></title>
+        <id>https://fatesinger.com/105687</id>
+        <link href="https://fatesinger.com/105687"/>
+        <updated>2025-07-09T05:52:05.794Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105687" aria-label="布达佩斯小逛 III" title="布达佩斯小逛 III">布达佩斯小逛 III</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            从链桥下来就到了佩斯区。
+匈牙利科学院
+匈牙利科学院于2023年成为一带一路国际科学组织联盟成员单位，可见匈牙利和中国的关...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-07-09T13:23:03+08:00">发布于 29 分钟前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[布达佩斯小逛 II]]></title>
         <id>https://fatesinger.com/105184</id>
@@ -17,7 +34,7 @@
             匈牙利也是本次北半球之旅最后一个国家，现在回头看来如果不是从纽约直接回大陆应该至少还可以去三个欧洲国家的，长途旅行不...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-09T00:58:32+08:00">发布于 51 分钟前</time>
+            <time itemprop="datePublished" datetime="2025-07-09T00:58:32+08:00">发布于 12 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -128,21 +145,6 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-06-20T21:45:14+08:00">发布于 18 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴塞罗那 City Walk II]]></title>
-        <id>https://fatesinger.com/105353</id>
-        <link href="https://fatesinger.com/105353"/>
-        <updated>2025-06-18T17:50:15.838Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105353" aria-label="巴塞罗那 City Walk II" title="巴塞罗那 City Walk II">巴塞罗那 City Walk II</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            前一天按照标准的游客路线逛了高迪三件套，所以本日选择了另外一个游客较为稀少的路线，吃过早餐之后开始按计划city walk，街...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-18T15:08:45+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
 </feed>
