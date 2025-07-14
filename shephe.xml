@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-07-13T17:48:29.332Z</updated>
+    <updated>2025-07-14T05:53:10.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[用 Umami 代替 Matomo，实现轻量高效流量监控]]></title>
+        <id>https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/</id>
+        <link href="https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/"/>
+        <updated>2025-07-14T05:53:07.557Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/" rel="bookmark" target="_blank"><span class="screen-reader-text">用 Umami 代替 Matomo，实现轻量高效流量监控</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/05/chrome-devtools-performance-tab-1920x1008.png 1920w, https://www.shephe.com/wp-content/uploads/2025/05/chrome-devtools-performance-tab-768x403.png 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-14T07:38:13+08:00">
+				07/14/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 Umami 代替 Matomo，实现轻量高效流量监控</span></h3>						<p>为什么我要用 Umami 替代 Matomo，作为我网站的流量监控工具？原因说来也简单，就发生在这个炎热的周日。我偶然发现，Matomo 的 MySQL 数据库居然膨胀到了惊人的 600MB+，而我的主站数据库不过几十兆…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Photoshop 2025 26.8.1.8 最新中文精简便携版]]></title>
         <id>https://www.shephe.com/resources/adobe-photoshop-chn-lite/</id>
@@ -106,29 +131,48 @@
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[服务器迁移记录：最终还是退回到了阿里云...！]]></title>
-        <id>https://www.shephe.com/website/aliyun-to-tencent-cloud-migration/</id>
-        <link href="https://www.shephe.com/website/aliyun-to-tencent-cloud-migration/"/>
-        <updated>2025-06-28T05:48:40.711Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/aliyun-to-tencent-cloud-migration/" rel="bookmark" target="_blank"><span class="screen-reader-text">服务器迁移记录：最终还是退回到了阿里云...！</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Tencent-Cloud-1920x887.png 1920w, https://www.shephe.com/wp-content/uploads/2025/06/Tencent-Cloud-768x355.png 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-27T21:08:41+08:00">
-				06/27/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>服务器迁移记录：最终还是退回到了阿里云...！</span></h3>						<p>❌❌❌ 腾讯云！我也没想到我会干这么件事儿，毕竟我曾多次说过腾讯云不咋地（之前有过惨痛经历），再加上我的阿里云 ECS 都已经续费到了 2027 年，照理说完全没必要折腾。但腾讯云这价格实在太便宜了，让人难以拒绝。 昨天…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/aliyun-to-tencent-cloud-migration/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[购入 Kindle Oasis 电纸书阅读器，六年后出掉了]]></title>
+        <id>https://www.shephe.com/life/kindle-oasis-unbox/</id>
+        <link href="https://www.shephe.com/life/kindle-oasis-unbox/"/>
+        <updated>2025-07-14T05:53:07.564Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/kindle-oasis-unbox/" rel="bookmark" target="_blank"><span class="screen-reader-text">购入 Kindle Oasis 电纸书阅读器，六年后出掉了</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>购入 Kindle Oasis 电纸书阅读器，六年后出掉了</span></h3>			<p>购入 Kindle Oasis 电纸书阅读器，当了六年泡面盖……呃，实际都没用它盖过泡面，现在以不到六百块出手了，我原本想继续留着，万一哪天闲下来想看书了呢？这毕竟是个好…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>17</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>33</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Umami 代替 Matomo，实现轻量高效流量监控]]></title>
+        <id>https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/</id>
+        <link href="https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/"/>
+        <updated>2025-07-14T05:53:07.566Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/umami-self-hosted-analytics-replace-matomo/" rel="bookmark" target="_blank"><span class="screen-reader-text">用 Umami 代替 Matomo，实现轻量高效流量监控</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>用 Umami 代替 Matomo，实现轻量高效流量监控</span></h3>			<p>为什么我要用 Umami 替代 Matomo，作为我网站的流量监控工具？原因说来也简单，就发生在这个炎热的周日。我偶然发现，Matomo 的 MySQL 数据库居然膨胀到…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>41</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>3</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Capture One Pro/Enterprise 16.6.2.2975 RAW 图像编辑处理软件破解版下载]]></title>
@@ -215,50 +259,6 @@
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
 			<span>29</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci Resolve Studio 20.0.49 达芬奇中文优化版⏬]]></title>
-        <id>https://www.shephe.com/resources/davinci-resolve-studio-crack-download/</id>
-        <link href="https://www.shephe.com/resources/davinci-resolve-studio-crack-download/"/>
-        <updated>2025-06-30T05:50:46.399Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/davinci-resolve-studio-crack-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">DaVinci Resolve Studio 20.0.49 达芬奇中文优化版⏬</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DaVinci Resolve Studio 20.0.49 达芬奇中文优化版⏬</span></h3>			<p>DaVinci Resolve 是一款集剪辑、调色、视觉特效、动态图形和音频后期制作于一体的专业软件，提供一站式视频与图片后期制作解决方案。其界面直观优雅，易学易用，适合…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>35</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>32</span></div>
-							</div>
-			</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Lightroom Classic 2025 v14.4.0.8 中文破解版下载（长期更新）]]></title>
-        <id>https://www.shephe.com/resources/adobe-lightroom-free-download/</id>
-        <link href="https://www.shephe.com/resources/adobe-lightroom-free-download/"/>
-        <updated>2025-07-10T17:49:14.734Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-lightroom-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom Classic 2025 v14.4.0.8 中文破解版下载（长期更新）</span></a>
-				
-		<div class="grve-post-content">
-						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 2025 v14.4.0.8 中文破解版下载（长期更新）</span></h3>			<p>Adobe Lightroom Classic 2025 提供全面的桌面编辑工具，助您将照片魅力发挥到极致。从提亮色彩、优化暗淡画面，到污点修复和镜头校正，无论是基础调整…</p>		</div>
-			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
-						<div class="grve-meta-wrapper">
-								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
-				</svg>
-			<span>90</span></div>
-									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
-					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
-				</svg>
-			<span>159</span></div>
 							</div>
 			</div>]]></content>
     </entry>
