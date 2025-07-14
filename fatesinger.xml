@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-07-14T05:53:10.585Z</updated>
+    <updated>2025-07-14T17:50:17.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[伊斯坦布尔小逛]]></title>
+        <id>https://fatesinger.com/105372</id>
+        <link href="https://fatesinger.com/105372"/>
+        <updated>2025-07-14T17:49:56.975Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105372" aria-label="伊斯坦布尔小逛" title="伊斯坦布尔小逛">伊斯坦布尔小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            伊斯坦布尔机场
+乘坐东航上海直飞伊斯坦布尔，落地时间是上午，因为之前被伊斯坦布尔的机场地铁坑过，所以本次选择乘坐机场大...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-07-15T01:06:45+08:00">发布于 43 分钟前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[维也纳小逛]]></title>
         <id>https://fatesinger.com/105383</id>
@@ -17,7 +33,7 @@
             运气不错，上午下过雨之后天空居然逐渐放晴了，又可以进行我的谷歌地图式游览了。对于生活在维也纳的人来说我不知道，但是对...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-13T22:24:37+08:00">发布于 15 小时前</time>
+            <time itemprop="datePublished" datetime="2025-07-13T22:24:37+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -33,7 +49,7 @@
 从布达佩斯乘坐火车到维也纳，RegioJet 属于欧洲比较便宜的火车票了，商务座200块左右，行程时间不到3小时，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-11T21:59:24+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2025-07-11T21:59:24+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -65,7 +81,7 @@
             匈牙利也是本次北半球之旅最后一个国家，现在回头看来如果不是从纽约直接回大陆应该至少还可以去三个欧洲国家的，长途旅行不...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-09T00:58:32+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-07-09T00:58:32+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -81,7 +97,7 @@
 The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred and the goal of all ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-07T23:56:00+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2025-07-07T23:56:00+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -97,7 +113,7 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
 因为东航可以出伊斯坦布尔的里程票，所以往返欧洲我非常喜欢在伊斯坦布尔转机，不过现在飞欧洲经常有五千左右...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-05T19:13:55+08:00">发布于 8 天前</time>
+            <time itemprop="datePublished" datetime="2025-07-05T19:13:55+08:00">发布于 9 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -113,7 +129,7 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
 阿姆斯特丹美联航飞纽约纽瓦克，边检人不是很多，到我的时候已经只有我一个人了，可能因为拿的是一年签，被问了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-29T01:04:54+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-29T01:04:54+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -129,23 +145,7 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
 本人并不是博物馆爱好者，当日下雨，无法正常 city walk，只能进行室内浏览，就选择了维也纳艺术史博物馆...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-28T00:47:01+08:00">发布于 16 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华沙小逛]]></title>
-        <id>https://fatesinger.com/105385</id>
-        <link href="https://fatesinger.com/105385"/>
-        <updated>2025-06-26T17:47:17.323Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105385" aria-label="华沙小逛" title="华沙小逛">华沙小逛</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            华沙萧邦机场
-华沙和其他欧洲城市不太一样，有点像北京，而且班味不轻，不好玩。本次入住华沙洲际酒店，位置不错，因为到达已...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-06-26T21:19:17+08:00">发布于 17 天前</time>
+            <time itemprop="datePublished" datetime="2025-06-28T00:47:01+08:00">发布于 17 天前</time>
         </div>]]></content>
     </entry>
 </feed>
