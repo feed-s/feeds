@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://akarat.xyz/archives/</id>
     <title>Tristram</title>
-    <updated>2025-07-28T17:51:07.520Z</updated>
+    <updated>2025-07-29T17:52:52.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://akarat.xyz/images/favicon-192x192.png</icon>
     <entry>
@@ -56,6 +56,44 @@
         <span>
     
         <a class="" href="/Changing-kubernetes-CIDR-live-on-production/">Changing kubernetes CIDR live on production</a>
+    
+
+
+<span>
+      </span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零宕机更改生产环境 k8s CIDR 网段(PodCIDR篇)]]></title>
+        <id>https://akarat.xyz/%E9%9B%B6%E5%AE%95%E6%9C%BA%E6%9B%B4%E6%94%B9%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83-k8s-CIDR-%E7%BD%91%E6%AE%B5-PodCIDR%E7%AF%87/</id>
+        <link href="https://akarat.xyz/%E9%9B%B6%E5%AE%95%E6%9C%BA%E6%9B%B4%E6%94%B9%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83-k8s-CIDR-%E7%BD%91%E6%AE%B5-PodCIDR%E7%AF%87/"/>
+        <updated>2025-07-29T17:52:12.282Z</updated>
+        <content type="html"><![CDATA[<div class="meta">
+        <time datetime="2024-11-21T09:12:45.000Z" itemprop="datePublished">2024-11-21</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E9%9B%B6%E5%AE%95%E6%9C%BA%E6%9B%B4%E6%94%B9%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83-k8s-CIDR-%E7%BD%91%E6%AE%B5-PodCIDR%E7%AF%87/">零宕机更改生产环境 k8s CIDR 网段(PodCIDR篇)</a>
+    
+
+
+<span>
+      </span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零宕机更改生产环境 k8s CIDR 网段(ServiceCIDR篇)]]></title>
+        <id>https://akarat.xyz/%E9%9B%B6%E5%AE%95%E6%9C%BA%E6%9B%B4%E6%94%B9%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83-k8s-CIDR-%E7%BD%91%E6%AE%B5/</id>
+        <link href="https://akarat.xyz/%E9%9B%B6%E5%AE%95%E6%9C%BA%E6%9B%B4%E6%94%B9%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83-k8s-CIDR-%E7%BD%91%E6%AE%B5/"/>
+        <updated>2025-07-29T17:52:12.283Z</updated>
+        <content type="html"><![CDATA[<div class="meta">
+        <time datetime="2024-11-21T09:12:45.000Z" itemprop="datePublished">2024-11-21</time>
+    </div>
+
+
+        <span>
+    
+        <a class="" href="/%E9%9B%B6%E5%AE%95%E6%9C%BA%E6%9B%B4%E6%94%B9%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83-k8s-CIDR-%E7%BD%91%E6%AE%B5/">零宕机更改生产环境 k8s CIDR 网段(ServiceCIDR篇)</a>
     
 
 
@@ -151,44 +189,6 @@
         <span>
     
         <a class="" href="/How-to-mock-Kubernetes-the-hard-way-with-local-vms/">如何在本地虚拟机模拟 Kubernetes the hard way</a>
-    
-
-
-<span>
-      </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用免费 S3 自建类 Firefox Send 快传服务]]></title>
-        <id>https://akarat.xyz/%E5%88%A9%E7%94%A8%E5%85%8D%E8%B4%B9-S3-%E8%87%AA%E5%BB%BA-Firefox-Send/</id>
-        <link href="https://akarat.xyz/%E5%88%A9%E7%94%A8%E5%85%8D%E8%B4%B9-S3-%E8%87%AA%E5%BB%BA-Firefox-Send/"/>
-        <updated>2022-12-09T00:59:17.759Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2021-09-28T05:37:19.000Z" itemprop="datePublished">2021-09-28</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/%E5%88%A9%E7%94%A8%E5%85%8D%E8%B4%B9-S3-%E8%87%AA%E5%BB%BA-Firefox-Send/">利用免费 S3 自建类 Firefox Send 快传服务</a>
-    
-
-
-<span>
-      </span></span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 又激怒了所有人]]></title>
-        <id>https://akarat.xyz/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/</id>
-        <link href="https://akarat.xyz/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/"/>
-        <updated>2022-12-09T00:59:17.770Z</updated>
-        <content type="html"><![CDATA[<div class="meta">
-        <time datetime="2021-09-23T02:13:08.000Z" itemprop="datePublished">2021-09-23</time>
-    </div>
-
-
-        <span>
-    
-        <a class="" href="/GNOME-%E5%8F%88%E6%BF%80%E6%80%92%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA/">GNOME 又激怒了所有人</a>
     
 
 
