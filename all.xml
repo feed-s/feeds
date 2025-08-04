@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-08-03T17:50:27.792Z</updated>
+    <updated>2025-08-04T06:02:21.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -574,7 +574,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -592,7 +592,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -880,7 +880,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -898,7 +898,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -916,7 +916,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -7558,7 +7558,7 @@ on
 匈牙利科学院于2023年成为一带一路国际科学组织联盟成员单位，可见匈牙利和中国的关...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-09T13:23:03+08:00">发布于 25 天前</time>
+            <time itemprop="datePublished" datetime="2025-07-09T13:23:03+08:00">发布于 26 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7623,97 +7623,6 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-06-29T01:04:54+08:00">发布于 1月前</time>
         </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[缝纫记录-2024上半年我做过的衣服 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/s</id>
-        <link href="https://dongfeng.space/blog/s"/>
-        <updated>2025-01-03T05:44:04.936Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/s" class="summary-title-link">缝纫记录-2024上半年我做过的衣服</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台北推荐 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/tai-pei-1</id>
-        <link href="https://dongfeng.space/blog/tai-pei-1"/>
-        <updated>2025-01-03T05:44:04.936Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/tai-pei-1" class="summary-title-link">台北推荐</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消费主义系列：小宽脚要入坑美式工装皮靴 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/red-wing-moc-toe</id>
-        <link href="https://dongfeng.space/blog/red-wing-moc-toe"/>
-        <updated>2025-01-03T05:44:04.937Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/red-wing-moc-toe" class="summary-title-link">消费主义系列：小宽脚要入坑美式工装皮靴</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年总结陈词 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/2022</id>
-        <link href="https://dongfeng.space/blog/2022"/>
-        <updated>2025-01-03T05:44:04.938Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/2022" class="summary-title-link">2022年总结陈词</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freeform 风信子围巾 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/freeform-</id>
-        <link href="https://dongfeng.space/blog/freeform-"/>
-        <updated>2025-01-03T05:44:04.939Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/freeform-" class="summary-title-link">Freeform 风信子围巾</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beginner Knitting: Sophie Scarf (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/sophie-scarf</id>
-        <link href="https://dongfeng.space/blog/sophie-scarf"/>
-        <updated>2025-01-03T05:44:04.940Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/sophie-scarf" class="summary-title-link">Beginner Knitting: Sophie Scarf</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crochet 合集 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/2-crochet-shrimp-tempura-whmwh</id>
-        <link href="https://dongfeng.space/blog/2-crochet-shrimp-tempura-whmwh"/>
-        <updated>2025-01-03T05:44:04.941Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/2-crochet-shrimp-tempura-whmwh" class="summary-title-link">Crochet 合集</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crochet Shrimp Tempura 天妇罗虾 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/2-crochet-shrimp-tempura</id>
-        <link href="https://dongfeng.space/blog/2-crochet-shrimp-tempura"/>
-        <updated>2025-01-03T05:44:04.942Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/2-crochet-shrimp-tempura" class="summary-title-link">Crochet Shrimp Tempura 天妇罗虾</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国家公园户外行需要导游吗之Mount Rainier (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/rainier-national-park</id>
-        <link href="https://dongfeng.space/blog/rainier-national-park"/>
-        <updated>2025-01-03T05:44:04.944Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/rainier-national-park" class="summary-title-link">国家公园户外行需要导游吗之Mount Rainier</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于自我审查和敏感词 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/about-self-sensoring-and-sensorships</id>
-        <link href="https://dongfeng.space/blog/about-self-sensoring-and-sensorships"/>
-        <updated>2025-01-03T05:44:04.952Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/about-self-sensoring-and-sensorships" class="summary-title-link">关于自我审查和敏感词</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拉面店兼职打工记 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/ramen</id>
-        <link href="https://dongfeng.space/blog/ramen"/>
-        <updated>2025-01-03T05:44:04.952Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/ramen" class="summary-title-link">拉面店兼职打工记</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crochet - Bobbi Puppy (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/1-crochet-amigurumi-bobbi-puppy</id>
-        <link href="https://dongfeng.space/blog/1-crochet-amigurumi-bobbi-puppy"/>
-        <updated>2025-01-03T05:44:04.952Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/1-crochet-amigurumi-bobbi-puppy" class="summary-title-link">Crochet - Bobbi Puppy</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[话题解构：跨性别者与性别刻板印象 (东风吹柳)]]></title>
-        <id>https://dongfeng.space/blog/about-trans-rights-and-gender</id>
-        <link href="https://dongfeng.space/blog/about-trans-rights-and-gender"/>
-        <updated>2025-01-03T05:44:04.952Z</updated>
-        <content type="html"><![CDATA[<a href="/blog/about-trans-rights-and-gender" class="summary-title-link">话题解构：跨性别者与性别刻板印象</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[回望 2024：漂泊 (Leo's Field)]]></title>
@@ -8239,7 +8148,7 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
 									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
 					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
 				</svg>
-			<span>150</span></div>
+			<span>153</span></div>
 							</div>
 			</div>]]></content>
     </entry>
