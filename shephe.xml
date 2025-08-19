@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-08-18T17:49:49.670Z</updated>
+    <updated>2025-08-19T05:47:06.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -134,7 +134,7 @@
         <title type="html"><![CDATA[斐讯 N1 重装 Armbian：从家用小 NAS 到容器管理]]></title>
         <id>https://www.shephe.com/post/phicomm-n1-setup-armbian/</id>
         <link href="https://www.shephe.com/post/phicomm-n1-setup-armbian/"/>
-        <updated>2025-08-18T17:49:46.501Z</updated>
+        <updated>2025-08-18T17:49:46.493Z</updated>
         <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/phicomm-n1-setup-armbian/" rel="bookmark" target="_blank"><span class="screen-reader-text">斐讯 N1 重装 Armbian：从家用小 NAS 到容器管理</span></a>
 				
 		<div class="grve-post-content">
