@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2025-08-27T05:45:41.773Z</updated>
+    <updated>2025-08-27T17:46:19.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
     <entry>
@@ -558,14 +558,6 @@
             <a href="/blog-cn/2015/12/21/tesla-model-x">Tesla Model X的车门设计问题</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[编程的智慧]]></title>
-        <id>https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy</id>
-        <link href="https://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy"/>
-        <updated>2022-12-09T00:59:30.032Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年11月21日</div><br>
-            <a href="/blog-cn/2015/11/21/programming-philosophy">编程的智慧</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[图灵的光环]]></title>
         <id>https://www.yinwang.org/blog-cn/2015/10/18/turing</id>
         <link href="https://www.yinwang.org/blog-cn/2015/10/18/turing"/>
@@ -1028,14 +1020,6 @@
         <updated>2022-12-09T00:59:30.072Z</updated>
         <content type="html"><![CDATA[<div class="date">2012年09月18日</div><br>
             <a href="/blog-cn/2012/09/18/texmacs">TeXmacs：一个真正“所见即所得”的排版系统</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎样写一个解释器]]></title>
-        <id>https://www.yinwang.org/blog-cn/2012/08/01/interpreter</id>
-        <link href="https://www.yinwang.org/blog-cn/2012/08/01/interpreter"/>
-        <updated>2022-12-09T00:59:30.078Z</updated>
-        <content type="html"><![CDATA[<div class="date">2012年08月01日</div><br>
-            <a href="/blog-cn/2012/08/01/interpreter">怎样写一个解释器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[什么是语义学]]></title>
