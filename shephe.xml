@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-08-28T05:48:01.729Z</updated>
+    <updated>2025-08-28T17:45:32.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, Memos]]></title>
+        <id>https://www.shephe.com/life/goodbye-memos/</id>
+        <link href="https://www.shephe.com/life/goodbye-memos/"/>
+        <updated>2025-08-28T17:45:29.867Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/goodbye-memos/" rel="bookmark" target="_blank"><span class="screen-reader-text">Goodbye, Memos</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyloading" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39.webp 1600w, https://assets.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39-768x432.webp 768w, https://assets.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39-1390x782.webp 1390w"><picture style="display: none;"><source data-srcset="https://assets.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39.webp 1600w, https://assets.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39-768x432.webp 768w, https://assets.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39-1390x782.webp 1390w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-08-28T11:19:10+08:00">
+				08/28/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Goodbye, Memos</span></h2>						<p>我翻了翻自己在 Memos 上的第一条动态，是在 2024 年年中发的。那时候应该是看了五木大神的帖子「</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/goodbye-memos/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClassicFilm 2 - Pro Lightroom 配置文件 / 电影感调色]]></title>
         <id>https://www.shephe.com/resources/classicfilm-2-pro-lightroom-profile/</id>
@@ -15,7 +40,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/08/ClassicFilm-2-Pro-Lightroom.webp" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/08/ClassicFilm-2-Pro-Lightroom.webp"><picture style="display: none;"><source data-srcset="https://assets.shephe.com/wp-content/uploads/2025/08/ClassicFilm-2-Pro-Lightroom.webp"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -40,7 +65,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/05/Server-Room.webp 1200w, https://assets.shephe.com/wp-content/uploads/2025/05/Server-Room-768x432.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/05/Server-Room.webp 1200w, https://assets.shephe.com/wp-content/uploads/2025/05/Server-Room-768x432.webp 768w"><picture style="display: none;"><source data-srcset="https://assets.shephe.com/wp-content/uploads/2025/05/Server-Room.webp 1200w, https://assets.shephe.com/wp-content/uploads/2025/05/Server-Room-768x432.webp 768w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -65,7 +90,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/08/chair.jpg 1000w, https://assets.shephe.com/wp-content/uploads/2025/08/chair-768x512.jpg 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyloading" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/08/chair.jpg 1000w, https://assets.shephe.com/wp-content/uploads/2025/08/chair-768x512.jpg 768w"><picture style="display: none;"><source data-srcset="https://assets.shephe.com/wp-content/uploads/2025/08/chair.jpg 1000w, https://assets.shephe.com/wp-content/uploads/2025/08/chair-768x512.jpg 768w"><img alt="" class="lazyload" data-sizes="auto"></picture></div>					</div>
 				</div>
 			</div>
 		
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Skylum Aperty 1.4.0 AI 人像后期修图软件优化版 💃</span></h2>						<p>Aperty 是什么？这么说吧，它是像素蛋糕平替……Aperty 是一款为肖像摄影师提供快速的人工智能辅助图像修饰和编辑工具，提供独特的工具包，让用户以最快的速度完成完美的人像处理，轻松增强您的肖像，Aperty 有助于节省时间和提高工作效…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/aperty-ai-for-portrait/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satoru Akiba 秋叶悟日系小清新蓝调 LR 调色预设]]></title>
-        <id>https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/</id>
-        <link href="https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/"/>
-        <updated>2025-08-27T05:45:38.613Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/" rel="bookmark" target="_blank"><span class="screen-reader-text">Satoru Akiba 秋叶悟日系小清新蓝调 LR 调色预设</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/07/341809857_2236358399894522_4847319991059496954_n.webp 1200w, https://assets.shephe.com/wp-content/uploads/2025/07/341809857_2236358399894522_4847319991059496954_n-768x514.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-27T11:20:19+08:00">
-				07/27/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Satoru Akiba 秋叶悟日系小清新蓝调 LR 调色预设</span></h2>						<p>Satoru Akiba（秋叶悟）是一位来自日本的摄影师，他的作品以日系小清新风格著称，尤其擅长用冷暖交织的色彩表达画面的通透感和情绪感。他的照片里常常带着柔和的蓝调和清爽的光影，既保留了日系写真一贯的细腻，又增添了都市感和故事感。这种色彩…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>

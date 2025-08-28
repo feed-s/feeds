@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.yinwang.org/</id>
     <title>当然我在扯淡</title>
-    <updated>2025-08-28T05:48:01.687Z</updated>
+    <updated>2025-08-28T17:45:32.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.yinwang.org/favicon.ico</icon>
     <entry>
@@ -934,14 +934,6 @@
             <a href="/blog-cn/2013/03/29/scripting-language">什么是“脚本语言”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chez Scheme 的传说]]></title>
-        <id>https://www.yinwang.org/blog-cn/2013/03/28/chez-scheme</id>
-        <link href="https://www.yinwang.org/blog-cn/2013/03/28/chez-scheme"/>
-        <updated>2022-12-09T00:59:30.063Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月28日</div><br>
-            <a href="/blog-cn/2013/03/28/chez-scheme">Chez Scheme 的传说</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lisp 已死，Lisp 万岁！]]></title>
         <id>https://www.yinwang.org/blog-cn/2013/03/26/lisp-dead-alive</id>
         <link href="https://www.yinwang.org/blog-cn/2013/03/26/lisp-dead-alive"/>
@@ -1014,14 +1006,6 @@
             <a href="/blog-cn/2013/03/04/braid">Braid - 一个发人深思的游戏</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TeXmacs：一个真正“所见即所得”的排版系统]]></title>
-        <id>https://www.yinwang.org/blog-cn/2012/09/18/texmacs</id>
-        <link href="https://www.yinwang.org/blog-cn/2012/09/18/texmacs"/>
-        <updated>2022-12-09T00:59:30.072Z</updated>
-        <content type="html"><![CDATA[<div class="date">2012年09月18日</div><br>
-            <a href="/blog-cn/2012/09/18/texmacs">TeXmacs：一个真正“所见即所得”的排版系统</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[什么是语义学]]></title>
         <id>https://www.yinwang.org/blog-cn/2012/07/25/semantics</id>
         <link href="https://www.yinwang.org/blog-cn/2012/07/25/semantics"/>
@@ -1036,14 +1020,6 @@
         <updated>2025-05-17T05:45:01.876Z</updated>
         <content type="html"><![CDATA[<div class="date">2012年07月12日</div><br>
             <a href="/blog-cn/2012/07/12/google-story">我和 Google 的故事（2012 年原版）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTF - Great Teacher Friedman]]></title>
-        <id>https://www.yinwang.org/blog-cn/2012/07/04/dan-friedman</id>
-        <link href="https://www.yinwang.org/blog-cn/2012/07/04/dan-friedman"/>
-        <updated>2022-12-09T00:59:30.078Z</updated>
-        <content type="html"><![CDATA[<div class="date">2012年07月04日</div><br>
-            <a href="/blog-cn/2012/07/04/dan-friedman">GTF - Great Teacher Friedman</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[什么是“对用户友好”]]></title>
