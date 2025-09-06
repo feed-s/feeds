@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-09-04T05:44:54.926Z</updated>
+    <updated>2025-09-06T17:44:19.683Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -23,8 +23,8 @@
 				08/29/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>仿钟祖兵色调预设，纪实电影感婚礼照片 LR 预设</span></h2>						<p>在婚礼摄影中，调色的风格往往决定了作品的气质与灵魂。近年来，“钟祖兵风格”成为许多摄影师和新人喜欢的风格。这种以暗调电影感为核心的审美突破了传统明亮、饱和的婚礼影像，营造出如同电影场景般的氛围感，让婚礼影像不再只是记录，而是具有温度与情绪的…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/%e4%bb%bf%e9%92%9f%e7%a5%96%e5%85%b5%e9%a2%84%e8%ae%be/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>仿钟祖兵色调预设，纪实电影感婚礼照片 LR 预设</span></h3>						<p>在婚礼摄影中，调色的风格往往决定了作品的气质与灵魂。近年来，“钟祖兵风格”成为许多摄影师和新人喜欢的风格。这种以暗调电影感为核心的审美突破了传统明亮、饱和的婚礼影像，营造出如同电影场景般的氛围感，让婚礼影像不再只是记录，…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/%e4%bb%bf%e9%92%9f%e7%a5%96%e5%85%b5%e9%a2%84%e8%ae%be/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -48,8 +48,8 @@
 				08/28/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Goodbye, Memos</span></h2>						<p>我翻了翻自己在 Memos 上的第一条动态，是在 2024 年年中发的。那时候应该是看了五木大神的帖子「</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/goodbye-memos/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Goodbye, Memos</span></h3>						<p>我翻了翻自己在 Memos 上的第一条动态，是在 2024 年年中发的。那时候应该是看了五木大神的帖子「</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/goodbye-memos/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -73,8 +73,8 @@
 				08/26/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 服务器性能测试优化方案 &amp; 迁移记录</span></h2>						<p>前段时间，我抢了一台腾讯的轻量云服务器，本来都已经把本站迁移过去了，但结果发现那台机器的性能实在太差了，动不动就卡爆，只好回退到阿里云这边了。通过这次迁移，我倒是把整个过程走了一遍，积累了一些经验。同时，也让我重新考虑换服务器的事。这仔细一…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/aliyun-to-baidu-cloud-migration/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 服务器性能测试优化方案 &amp; 迁移记录</span></h3>						<p>前段时间，我抢了一台腾讯的轻量云服务器，本来都已经把本站迁移过去了，但结果发现那台机器的性能实在太差了，动不动就卡爆，只好回退到阿里云这边了。通过这次迁移，我倒是把整个过程走了一遍，积累了一些经验。同时，也让我重新考虑换…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/aliyun-to-baidu-cloud-migration/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -82,10 +82,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[索尼 A7R3A 还值得买么？怎么设置颜色最好看？]]></title>
-        <id>https://www.shephe.com/photography/sony-a7r3a-setting/</id>
-        <link href="https://www.shephe.com/photography/sony-a7r3a-setting/"/>
-        <updated>2025-08-20T17:46:13.829Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/sony-a7r3a-setting/" rel="bookmark" target="_blank"><span class="screen-reader-text">索尼 A7R3A 还值得买么？怎么设置颜色最好看？</span></a>
+        <id>https://www.shephe.com/photography/sony-a7r3-setting/</id>
+        <link href="https://www.shephe.com/photography/sony-a7r3-setting/"/>
+        <updated>2025-09-06T17:44:16.480Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/sony-a7r3-setting/" rel="bookmark" target="_blank"><span class="screen-reader-text">索尼 A7R3A 还值得买么？怎么设置颜色最好看？</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
@@ -98,8 +98,8 @@
 				08/20/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>索尼 A7R3A 还值得买么？怎么设置颜色最好看？</span></h2>						<p>Sony A7R3A 是 A7R3 的换皮版本，发布于 2021 年 10 月，主要升级了品木和一个接口（USB 3.2），大的升级几乎没有。而索尼 A7R3 发布于 2017 年，它是当时影像领域的经典之作，搭载了 4240 万像素的全画…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/sony-a7r3a-setting/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>索尼 A7R3A 还值得买么？怎么设置颜色最好看？</span></h3>						<p>Sony A7R3A 是 A7R3 的换皮版本，发布于 2021 年 10 月，主要升级了品木和一个接口（USB 3.2），大的升级几乎没有。而索尼 A7R3 发布于 2017 年，它是当时影像领域的经典之作，搭载了 4…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/sony-a7r3-setting/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -123,111 +123,143 @@
 				08/18/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>斐讯 N1 重装 Armbian：从家用小 NAS 到容器管理</span></h2>						<p>前不久，我忘了斐讯 N1 的密码登不进系统了，尽管尝试了几天，依然无法找回正确的密码。更糟糕的是，一些需要手动启动的服务也无法正常运行。经过一番挣扎后，我决定重装系统，看看这台六年前花了一百多块钱买的小机器，是否还能承载新的系统，看看它在时…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/phicomm-n1-setup-armbian/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>斐讯 N1 重装 Armbian：从家用小 NAS 到容器管理</span></h3>						<p>前不久，我忘了斐讯 N1 的密码登不进系统了，尽管尝试了几天，依然无法找回正确的密码。更糟糕的是，一些需要手动启动的服务也无法正常运行。经过一番挣扎后，我决定重装系统，看看这台六年前花了一百多块钱买的小机器，是否还能承载…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/phicomm-n1-setup-armbian/"><span>阅读全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rybbit Analytics：开源流量统计安装 & 简单体验]]></title>
-        <id>https://www.shephe.com/tutorial/rybbit-analytics/</id>
-        <link href="https://www.shephe.com/tutorial/rybbit-analytics/"/>
-        <updated>2025-08-30T05:45:12.128Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/rybbit-analytics/" rel="bookmark" target="_blank"><span class="screen-reader-text">Rybbit Analytics：开源流量统计安装 &amp; 简单体验</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/05/chrome-devtools-performance-tab-1920x1008.png 1920w, https://assets.shephe.com/wp-content/uploads/2025/05/chrome-devtools-performance-tab-768x403.png 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-29T17:37:41+08:00">
-				07/29/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Rybbit Analytics：开源流量统计安装 &amp; 简单体验</span></h2>						<p>大概两周前，我把网站的流量统计系统从 Matomo 换成了 Umami。这是一款开源、免费、界面简洁的流量分析工具，部署方便，使用起来也比较顺畅。但实际体验下来，问题也不少。最让我无法忽视的一点是数据失真：访问量看起来非常可疑，怀疑是把搜索…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/rybbit-analytics/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[Adobe Lightroom/CameraRAW 醒图预设配置（醒图滤镜电脑版）]]></title>
+        <id>https://www.shephe.com/resources/lightroom-acr-xingtu-filter/</id>
+        <link href="https://www.shephe.com/resources/lightroom-acr-xingtu-filter/"/>
+        <updated>2025-09-06T17:44:16.482Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/lightroom-acr-xingtu-filter/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom/CameraRAW 醒图预设配置（醒图滤镜电脑版）</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom/CameraRAW 醒图预设配置（醒图滤镜电脑版）</span></h3>			<p>本文分享十六组约两百个 Adobe Lightroom/CameraRAW 醒图预设配置文件（醒图滤镜电脑版），同时兼容 Capture One，都是 XMP 格式的文件…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>35</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>57</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Satoru Akiba 秋叶悟日系小清新蓝调 LR 调色预设]]></title>
-        <id>https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/</id>
-        <link href="https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/"/>
-        <updated>2025-08-31T17:45:10.478Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/" rel="bookmark" target="_blank"><span class="screen-reader-text">Satoru Akiba 秋叶悟日系小清新蓝调 LR 调色预设</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/07/341809857_2236358399894522_4847319991059496954_n.webp 1200w, https://assets.shephe.com/wp-content/uploads/2025/07/341809857_2236358399894522_4847319991059496954_n-768x514.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-27T11:20:19+08:00">
-				07/27/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Satoru Akiba 秋叶悟日系小清新蓝调 LR 调色预设</span></h2>						<p>Satoru Akiba（秋叶悟）是一位来自日本的摄影师，他的作品以日系小清新风格著称，尤其擅长用冷暖交织的色彩表达画面的通透感和情绪感。他的照片里常常带着柔和的蓝调和清爽的光影，既保留了日系写真一贯的细腻，又增添了都市感和故事感。这种色彩…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/satoru-akiba-lightroom-photoshop-preset/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[Photoshop Neural Filters 神经滤镜离线包(2025.05)]]></title>
+        <id>https://www.shephe.com/resources/photoshop-neural-filters-free-download/</id>
+        <link href="https://www.shephe.com/resources/photoshop-neural-filters-free-download/"/>
+        <updated>2025-09-06T17:44:16.484Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-neural-filters-free-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop Neural Filters 神经滤镜离线包(2025.05)</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop Neural Filters 神经滤镜离线包(2025.05)</span></h3>			<p>PhotoShop 从 2021 版本开始就新增了 Neural Filters 神经滤镜功能，为用户提供了一系列创意的可能性，主要对人像进行智能修改和图像处理，例如可以…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>34</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>163</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[摄影师 Luna  花间摄影学院调色预设（LR / PS）]]></title>
-        <id>https://www.shephe.com/photography/luna-lightroom-photoshop-preset/</id>
-        <link href="https://www.shephe.com/photography/luna-lightroom-photoshop-preset/"/>
-        <updated>2025-08-31T05:45:48.193Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/luna-lightroom-photoshop-preset/" rel="bookmark" target="_blank"><span class="screen-reader-text">摄影师 Luna  花间摄影学院调色预设（LR / PS）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/07/LUNA花间摄影学院逆光2-1.webp 1200w, https://assets.shephe.com/wp-content/uploads/2025/07/LUNA花间摄影学院逆光2-1-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-27T10:50:19+08:00">
-				07/27/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>摄影师 Luna  花间摄影学院调色预设（LR / PS）</span></h2>						<p>本文分享女摄影师 Luna 在她的花间摄影学院教学班上发布的一套调色预设，数量不多只有五个，但每一个都非常实用。Luna 本人是中国摄影师，同时作为一名女性，她在色彩审美和人像修图细节上有着非常细腻的把握，更贴近国内宝宝们的视觉偏好。 这几…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/luna-lightroom-photoshop-preset/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[信达 MAX 证照大师优化版免费下载（含素材）]]></title>
+        <id>https://www.shephe.com/resources/%e4%bf%a1%e8%be%bemax%e8%af%81%e7%85%a7%e5%a4%a7%e5%b8%88/</id>
+        <link href="https://www.shephe.com/resources/%e4%bf%a1%e8%be%bemax%e8%af%81%e7%85%a7%e5%a4%a7%e5%b8%88/"/>
+        <updated>2025-09-06T17:44:16.489Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/%e4%bf%a1%e8%be%bemax%e8%af%81%e7%85%a7%e5%a4%a7%e5%b8%88/" rel="bookmark" target="_blank"><span class="screen-reader-text">信达 MAX 证照大师优化版免费下载（含素材）</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>信达 MAX 证照大师优化版免费下载（含素材）</span></h3>			<p>在当今数字化时代，证件照的需求无处不在，尤其是对于企业和个人在各种行政审批、申请和认证过程中。然而，拍摄标准的证件照通常需要满足一系列严格的要求，包括尺寸、背景颜色和面部…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>29</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>73</span></div>
+							</div>
+			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[从预览到编辑：为何 RAW 照片在 LR 中突然变暗]]></title>
-        <id>https://www.shephe.com/photography/why-raw-photos-darken-in-lightroom/</id>
-        <link href="https://www.shephe.com/photography/why-raw-photos-darken-in-lightroom/"/>
-        <updated>2025-08-31T05:45:48.196Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/why-raw-photos-darken-in-lightroom/" rel="bookmark" target="_blank"><span class="screen-reader-text">从预览到编辑：为何 RAW 照片在 LR 中突然变暗</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://assets.shephe.com/wp-content/uploads/2025/06/Lightroom-blue.webp 1536w, https://assets.shephe.com/wp-content/uploads/2025/06/Lightroom-blue-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-21T23:14:39+08:00">
-				07/21/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>从预览到编辑：为何 RAW 照片在 LR 中突然变暗</span></h2>						<p>我长期使用 Lightroom 编辑 Sony A7R3A 相机拍摄的照片时，总是为按下 D 键后画面突然变暗而困扰。我其实大致知道原因，但不太明确。今儿个深夜突然兴致来了，于是我向 Grok 提问： 假设我在相机中调整了白平衡、锐度等的设…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/why-raw-photos-darken-in-lightroom/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+        <title type="html"><![CDATA[Capture One Pro/Enterprise 16.6.4.3044 RAW 图像编辑处理软件破解版下载]]></title>
+        <id>https://www.shephe.com/resources/capture-one-download/</id>
+        <link href="https://www.shephe.com/resources/capture-one-download/"/>
+        <updated>2025-09-06T17:44:16.490Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/capture-one-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Capture One Pro/Enterprise&nbsp;16.6.4.3044 RAW 图像编辑处理软件破解版下载</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Capture One Pro/Enterprise&nbsp;16.6.4.3044 RAW 图像编辑处理软件破解版下载</span></h3>			<p>Capture One 是由 Phase One 开发的专业图像编辑软件，以其卓越的色彩处理和 RAW 文件转换功能而广受赞誉。它支持多种相机品牌的 RAW 文件格式，提…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
 				</svg>
-			</a>]]></content>
+			<span>23</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>46</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用 Docker Compose 安装 Awesome TTRSS]]></title>
+        <id>https://www.shephe.com/tutorial/docker-compose-install-awesome-ttrss/</id>
+        <link href="https://www.shephe.com/tutorial/docker-compose-install-awesome-ttrss/"/>
+        <updated>2025-09-06T17:44:16.492Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/docker-compose-install-awesome-ttrss/" rel="bookmark" target="_blank"><span class="screen-reader-text">利用 Docker Compose 安装 Awesome TTRSS</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>利用 Docker Compose 安装 Awesome TTRSS</span></h3>			<p>Tiny Tiny RSS 是一款基于 PHP 的免费开源 RSS 聚合阅读器，但官方似乎已经长期没有更新，于是有人热心网友封装了这个 Awesome TTRSS，一个“…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>12</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>15</span></div>
+							</div>
+			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS 光束大师插件，一键添加丁达尔光效插件]]></title>
+        <id>https://www.shephe.com/resources/flair-for-ps/</id>
+        <link href="https://www.shephe.com/resources/flair-for-ps/"/>
+        <updated>2025-09-06T17:44:16.493Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/flair-for-ps/" rel="bookmark" target="_blank"><span class="screen-reader-text">PS 光束大师插件，一键添加丁达尔光效插件</span></a>
+				
+		<div class="grve-post-content">
+						<h3 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>PS 光束大师插件，一键添加丁达尔光效插件</span></h3>			<p>作为一个摄影爱好者，你是否经常看到网上那些个热门博主分享的风光大片，仿佛他们出门总能遇到好天气，拍到好照片…比如美丽壮观的丁达尔光线。其实，很多大片上的丁达尔光都是后期添…</p>		</div>
+			<div class="grve-post-meta grve-style-3 grve-text-dark-grey grve-svg-dark-grey">
+						<div class="grve-meta-wrapper">
+								<div class="grve-post-likes grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M16,4 C18.7614237,4 21,6.23857625 21,9 L20.9979707,9.14384363 C21,13.09813 18,17.049065 12,21 C6.13043478,17.1349549 3.13185255,13.2699098 3.00425331,9.40486468 L3,9 C3,6.23857625 5.23857625,4 8,4 C9.63573058,4 11.0880049,4.7854695 12.0002202,5.99980567 C12.9119951,4.7854695 14.3642694,4 16,4 Z M16,6 C15.1111332,6 14.2899521,6.38707926 13.7252504,7.04426723 L13.5995734,7.20066758 L12.0006064,9.33023224 L10.4011455,7.20103842 C9.83618754,6.44896935 8.95727871,6 8,6 C6.40231912,6 5.09633912,7.24891996 5.00499374,8.80488898 L4.99988964,8.97899015 L5.0031643,9.33887334 C5.09535291,12.1313127 7.2531301,15.1613039 11.6695429,18.3451961 L11.999,18.58 L12.3276908,18.3472272 C16.7356425,15.170173 18.8904316,12.1482009 18.9942273,9.33186537 L19,9 C19,7.34314575 17.6568542,6 16,6 Z"></path>
+				</svg>
+			<span>24</span></div>
+									<div class="grve-post-comments grve-small-text">				<svg width="24px" height="24px" viewBox="0 0 24 24" stroke-width="0">
+					<path d="M21,4 C21.5522847,4 22,4.44585139 22,4.99583694 L22,16.9458803 C22,17.4958658 21.5522847,17.9417172 21,17.9417172 L15.071,17.9417172 L12,21 L8.929,17.9417172 L3,17.9417172 C2.44771525,17.9417172 2,17.4958658 2,16.9458803 L2,4.99583694 C2,4.44585139 2.44771525,4 3,4 L21,4 Z M20,5.99167389 L4,5.99167389 L4,15.9500433 L9.75744006,15.9500433 L12,18.1827098 L14.2425599,15.9500433 L20,15.9500433 L20,5.99167389 Z M18,12 L18,14 L6,14 L6,12 L18,12 Z M18,8 L18,10 L6,10 L6,8 L18,8 Z"></path>
+				</svg>
+			<span>31</span></div>
+							</div>
+			</div>]]></content>
     </entry>
 </feed>
