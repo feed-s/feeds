@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-09-06T17:44:19.684Z</updated>
+    <updated>2025-09-07T05:45:10.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -15,11 +15,11 @@
         </h2>
         <div class="block-snippet" itemprop="about">
             WordPress 主题 Jaguar
-最新版本为3.0.8，强烈建议使用最新版本的主题和WordPress。
+最新版本为3.1.0，强烈建议使用最新版本的主题和WordPress。
 又翻新了一个主题，之前的设计现在已经完...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 4 小时前</time>
+            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 16 小时前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -113,7 +113,7 @@
 匈牙利科学院于2023年成为一带一路国际科学组织联盟成员单位，可见匈牙利和中国的关...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-09T13:23:03+08:00">发布于 1月前</time>
+            <time itemprop="datePublished" datetime="2025-07-09T13:23:03+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
