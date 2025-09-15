@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-09-15T05:47:26.176Z</updated>
+    <updated>2025-09-15T17:44:21.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Marker Pro 使用教程]]></title>
+        <id>https://fatesinger.com/105679</id>
+        <link href="https://fatesinger.com/105679"/>
+        <updated>2025-09-15T17:44:00.799Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105679" aria-label="Marker Pro 使用教程" title="Marker Pro 使用教程">Marker Pro 使用教程</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            本文仅为插件使用帮助，插件更新内容请关注站内另一篇文章。
+本轮更新已接近尾声，因为加了不少功能，干脆写一篇说明书。
+卸...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 5 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jaguar 3.0]]></title>
         <id>https://fatesinger.com/105389</id>
@@ -19,7 +36,7 @@
 又翻新了一个主题，之前的设计现在已经完...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 8 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 9 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +51,7 @@
             作为一款多年前的插件我推出之后就一直几乎没更新，最近有博友推出了开源版，鉴于本插件价格较为昂贵，本人直接做了个大版本...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -129,22 +146,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-07-09T00:58:32+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约散记 – 大苹果与晴天]]></title>
-        <id>https://fatesinger.com/105381</id>
-        <link href="https://fatesinger.com/105381"/>
-        <updated>2025-07-07T17:49:20.406Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105381" aria-label="纽约散记 – 大苹果与晴天" title="纽约散记 – 大苹果与晴天">纽约散记 – 大苹果与晴天</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            上班路上的纽约人
-The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred and the goal of all ...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-07T23:56:00+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
 </feed>

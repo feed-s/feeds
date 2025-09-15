@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-15T05:47:26.204Z</updated>
+    <updated>2025-09-15T17:44:21.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7443,6 +7443,23 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marker Pro 使用教程 (大发贱志)]]></title>
+        <id>https://fatesinger.com/105679</id>
+        <link href="https://fatesinger.com/105679"/>
+        <updated>2025-09-15T17:44:00.799Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105679" aria-label="Marker Pro 使用教程" title="Marker Pro 使用教程">Marker Pro 使用教程</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            本文仅为插件使用帮助，插件更新内容请关注站内另一篇文章。
+本轮更新已接近尾声，因为加了不少功能，干脆写一篇说明书。
+卸...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 5 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jaguar 3.0 (大发贱志)]]></title>
         <id>https://fatesinger.com/105389</id>
         <link href="https://fatesinger.com/105389"/>
@@ -7456,7 +7473,7 @@ on
 又翻新了一个主题，之前的设计现在已经完...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 8 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 9 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7471,7 +7488,7 @@ on
             作为一款多年前的插件我推出之后就一直几乎没更新，最近有博友推出了开源版，鉴于本插件价格较为昂贵，本人直接做了个大版本...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 11 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 12 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7566,22 +7583,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-07-09T00:58:32+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约散记 – 大苹果与晴天 (大发贱志)]]></title>
-        <id>https://fatesinger.com/105381</id>
-        <link href="https://fatesinger.com/105381"/>
-        <updated>2025-07-07T17:49:20.406Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105381" aria-label="纽约散记 – 大苹果与晴天" title="纽约散记 – 大苹果与晴天">纽约散记 – 大苹果与晴天</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            上班路上的纽约人
-The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred and the goal of all ...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-07T23:56:00+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -8169,6 +8170,33 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
 			</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[公交车上的时间 (ATP)]]></title>
+        <id>https://atpx.com/blog/time-on-the-bus/</id>
+        <link href="https://atpx.com/blog/time-on-the-bus/"/>
+        <updated>2025-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/time-on-the-bus/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0123-time-on-the-bus.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-orange">Nichijou</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">公交车上的时间</h2>
+                            <div class="post-tile-description">长时间的公交车通勤，该做什么好呢？写于公交车上的时间。</div>
+                        </div>
+                        <div class="post-tile-time">September 15, 2025</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从 WHOIS 到 RDAP (ATP)]]></title>
         <id>https://atpx.com/blog/from-whois-to-rdap/</id>
         <link href="https://atpx.com/blog/from-whois-to-rdap/"/>
@@ -8408,33 +8436,6 @@ The Big Apple. The dream of every lad that ever threw a leg over a thoroughbred 
                             <div class="post-tile-description">Fediverse 很美好，但并不完美，与社交也似乎不是那么合拍。</div>
                         </div>
                         <div class="post-tile-time">October 17, 2024</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[承认的勇气 (ATP)]]></title>
-        <id>https://atpx.com/blog/the-courage-to-admit/</id>
-        <link href="https://atpx.com/blog/the-courage-to-admit/"/>
-        <updated>2025-04-18T00:26:24.486Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/the-courage-to-admit/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg">
-                    
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">承认的勇气</h2>
-                            <div class="post-tile-description">承认自己傻过，这是一种美德。</div>
-                        </div>
-                        <div class="post-tile-time">October 3, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
