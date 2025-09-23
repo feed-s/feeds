@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2025-09-23T05:45:24.317Z</updated>
+    <updated>2025-09-23T17:46:06.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[新玩具 AirPods Pro 3]]></title>
+        <id>https://atpx.com/blog/airpods-pro-3/</id>
+        <link href="https://atpx.com/blog/airpods-pro-3/"/>
+        <updated>2025-09-23T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/airpods-pro-3/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0124-airpods-pro-3.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-orange">Nichijou</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">新玩具 AirPods Pro 3</h2>
+                            <div class="post-tile-description">出于降噪需求，新入手 AirPods Pro 3 体验。</div>
+                        </div>
+                        <div class="post-tile-time">September 23, 2025</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[公交车上的时间]]></title>
         <id>https://atpx.com/blog/time-on-the-bus/</id>
@@ -245,33 +272,6 @@
                             <div class="post-tile-description">一位朋友告诉我的关于一只特立独行的猪的故事。</div>
                         </div>
                         <div class="post-tile-time">October 29, 2024</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fediverse 与社交]]></title>
-        <id>https://atpx.com/blog/fediverse-and-social-interaction/</id>
-        <link href="https://atpx.com/blog/fediverse-and-social-interaction/"/>
-        <updated>2025-04-18T00:26:24.479Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/fediverse-and-social-interaction/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0114-mastodon.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">Fediverse 与社交</h2>
-                            <div class="post-tile-description">Fediverse 很美好，但并不完美，与社交也似乎不是那么合拍。</div>
-                        </div>
-                        <div class="post-tile-time">October 17, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
