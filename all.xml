@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-01T05:47:06.587Z</updated>
+    <updated>2025-10-01T17:46:14.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7456,7 +7456,7 @@ on
 卸...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 15 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 16 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7473,7 +7473,7 @@ on
 又翻新了一个主题，之前的设计现在已经完...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7488,7 +7488,7 @@ on
             作为一款多年前的插件我推出之后就一直几乎没更新，最近有博友推出了开源版，鉴于本插件价格较为昂贵，本人直接做了个大版本...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 27 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 28 天前</time>
         </div>]]></content>
     </entry>
     <entry>
