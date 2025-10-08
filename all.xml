@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-07T17:44:42.076Z</updated>
+    <updated>2025-10-08T05:45:52.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -7443,6 +7443,31 @@ on
       </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[大阪行 (大发贱志)]]></title>
+        <id>https://fatesinger.com/104598</id>
+        <link href="https://fatesinger.com/104598"/>
+        <updated>2025-10-08T05:45:33.859Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/104598" aria-label="大阪行" title="大阪行">大阪行</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            难波
+戎桥筋商店街，筋在大阪是南北向道路的意思。
+戎桥筋商店街
+路人
+灯牌
+街边小店
+法善寺
+经典日本元素
+游客很多
+道頓堀
+...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-10-08T11:32:50+08:00">发布于 2 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[神户行 (大发贱志)]]></title>
         <id>https://fatesinger.com/105120</id>
         <link href="https://fatesinger.com/105120"/>
@@ -7581,23 +7606,6 @@ on
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-07-11T21:59:24+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布达佩斯小逛 III (大发贱志)]]></title>
-        <id>https://fatesinger.com/105687</id>
-        <link href="https://fatesinger.com/105687"/>
-        <updated>2025-07-09T05:52:05.794Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105687" aria-label="布达佩斯小逛 III" title="布达佩斯小逛 III">布达佩斯小逛 III</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            从链桥下来就到了佩斯区。
-匈牙利科学院
-匈牙利科学院于2023年成为一带一路国际科学组织联盟成员单位，可见匈牙利和中国的关...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-09T13:23:03+08:00">发布于 3月前</time>
         </div>]]></content>
     </entry>
     <entry>
