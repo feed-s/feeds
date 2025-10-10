@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-10-10T05:45:44.304Z</updated>
+    <updated>2025-10-10T17:45:24.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -57,7 +57,7 @@
 ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -74,7 +74,7 @@
 卸...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 24 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 25 天前</time>
         </div>]]></content>
     </entry>
     <entry>
