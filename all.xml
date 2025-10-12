@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-12T05:46:03.484Z</updated>
+    <updated>2025-10-12T17:45:41.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21 (heartnn的自留地)]]></title>
@@ -574,7 +574,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000块搭建家庭网络——国际流量转发</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -592,7 +592,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000块搭建家庭网络——前言</div>
+            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -862,7 +862,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理dotnet core Redis超时异常</div>
+            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -880,7 +880,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在Eclipse中调用Algs4库</div>
+            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -898,7 +898,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在Windows上安装「算法 第四版」组件</div>
+            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -916,1033 +916,9 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于C#的蚁群算法实现</div>
+            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学视频班课程介绍 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2025/05/12/cs-video-course</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2025/05/12/cs-video-course"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2025年05月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2025/05/12/cs-video-course">计算机科学视频班课程介绍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学基础班第 5 期成功结束 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2024/05/03/cs5-completed</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2024/05/03/cs5-completed"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2024年05月03日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2024/05/03/cs5-completed">计算机科学基础班第 5 期成功结束</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学基础班（第5期，现实接轨班）招生 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2023/12/23/cs-course-5</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2023/12/23/cs-course-5"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2023年12月23日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2023/12/23/cs-course-5">计算机科学基础班（第5期，现实接轨班）招生</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[continuation 和并发计算专项班 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/12/12/continuation-course</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/12/12/continuation-course"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年12月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2022/12/12/continuation-course">continuation 和并发计算专项班</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学阅读班提供疫情特价 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/12/01/tuition-for-covid</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/12/01/tuition-for-covid"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年12月01日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2022/12/01/tuition-for-covid">计算机科学阅读班提供疫情特价</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自然视力恢复法 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/02/22/myopia</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/02/22/myopia"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年02月22日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2022/02/22/myopia">自然视力恢复法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学进阶班招生 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/02/22/advanced-cs-course</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/02/22/advanced-cs-course"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年02月22日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2022/02/22/advanced-cs-course">计算机科学进阶班招生</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学阅读班招生说明 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/02/07/reading-course</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2022/02/07/reading-course"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2022年02月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2022/02/07/reading-course">计算机科学阅读班招生说明</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一位“计算机科学少年班”学生毕业 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/09/16/youth-cs-student</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/09/16/youth-cs-student"/>
-        <updated>2025-10-10T17:44:51.624Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年09月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/09/16/youth-cs-student">第一位“计算机科学少年班”学生毕业</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“超人类机器视觉”是不存在的 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/07/29/super-human-level-vision</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/07/29/super-human-level-vision"/>
-        <updated>2025-10-10T17:44:51.625Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年07月29日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/07/29/super-human-level-vision">“超人类机器视觉”是不存在的</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『Ground-Up Computer Science』样章 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/05/11/gucs-sample</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/05/11/gucs-sample"/>
-        <updated>2025-10-10T17:44:51.625Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年05月11日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/05/11/gucs-sample">『Ground-Up Computer Science』样章</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学基础班（第 4 期）报名 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/05/10/cs4</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/05/10/cs4"/>
-        <updated>2025-10-10T17:44:51.625Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年05月10日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/05/10/cs4">计算机科学基础班（第 4 期）报名</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大提琴为什么这么难学 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/04/16/cello-technique</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/04/16/cello-technique"/>
-        <updated>2025-10-10T17:44:51.626Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年04月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/04/16/cello-technique">大提琴为什么这么难学</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学阅读班（实验） (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/02/16/cs-reading-course</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/02/16/cs-reading-course"/>
-        <updated>2025-10-10T17:44:51.626Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年02月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/02/16/cs-reading-course">计算机科学阅读班（实验）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学基础班（第三期）报名 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/02/15/cs3</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2021/02/15/cs3"/>
-        <updated>2025-10-10T17:44:51.626Z</updated>
-        <content type="html"><![CDATA[<div class="date">2021年02月15日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2021/02/15/cs3">计算机科学基础班（第三期）报名</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学集体班（第二期）报名 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/09/24/cs-class2</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/09/24/cs-class2"/>
-        <updated>2025-10-10T17:44:51.626Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年09月24日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/09/24/cs-class2">计算机科学集体班（第二期）报名</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几个需要避免的美国英语习惯 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/05/23/american-english-problems</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/05/23/american-english-problems"/>
-        <updated>2025-10-10T17:44:51.626Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年05月23日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/05/23/american-english-problems">几个需要避免的美国英语习惯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一对一教学计划 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/04/30/individualized-learning</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/04/30/individualized-learning"/>
-        <updated>2025-10-10T17:44:51.626Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年04月30日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/04/30/individualized-learning">一对一教学计划</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学入门班报名 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/26/entry-level-class</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/26/entry-level-class"/>
-        <updated>2025-10-10T17:44:51.629Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年03月26日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/03/26/entry-level-class">计算机科学入门班报名</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对智商的怀疑 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/23/wisdom-of-intelligence</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/23/wisdom-of-intelligence"/>
-        <updated>2025-10-10T17:44:51.630Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年03月23日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/03/23/wisdom-of-intelligence">对智商的怀疑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英语学习的一些经验 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/06/english-learning-tips</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/06/english-learning-tips"/>
-        <updated>2025-10-10T17:44:51.631Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年03月06日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/03/06/english-learning-tips">英语学习的一些经验</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[计算机科学课程 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/03/cs-course</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/03/03/cs-course"/>
-        <updated>2025-10-10T17:44:51.632Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年03月03日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/03/03/cs-course">计算机科学课程</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一道 Java 面试题 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/02/13/java-type-system</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/02/13/java-type-system"/>
-        <updated>2025-10-10T17:44:51.633Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年02月13日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/02/13/java-type-system">一道 Java 面试题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何阅读别人的代码 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/02/05/how-to-read-code</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2020/02/05/how-to-read-code"/>
-        <updated>2025-10-10T17:44:51.635Z</updated>
-        <content type="html"><![CDATA[<div class="date">2020年02月05日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2020/02/05/how-to-read-code">如何阅读别人的代码</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我不是编译器专家 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/12/24/compilers</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/12/24/compilers"/>
-        <updated>2025-10-10T17:44:51.636Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年12月24日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/12/24/compilers">我不是编译器专家</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自动驾驶车的责任和风险分析 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/30/autopilot-responsibility</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/30/autopilot-responsibility"/>
-        <updated>2025-10-10T17:44:51.638Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年09月30日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/09/30/autopilot-responsibility">自动驾驶车的责任和风险分析</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器与人类视觉能力的差距（3） (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/16/machine-vs-human-3</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/16/machine-vs-human-3"/>
-        <updated>2025-10-10T17:44:51.639Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年09月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/09/16/machine-vs-human-3">机器与人类视觉能力的差距（3）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器与人类视觉能力的差距（2） (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/15/machine-vs-human-2</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/15/machine-vs-human-2"/>
-        <updated>2025-10-10T17:44:51.640Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年09月15日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/09/15/machine-vs-human-2">机器与人类视觉能力的差距（2）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器与人类视觉能力的差距（1） (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/14/machine-vs-human</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/14/machine-vs-human"/>
-        <updated>2025-10-10T17:44:51.641Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年09月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/09/14/machine-vs-human">机器与人类视觉能力的差距（1）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talk is not cheap (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/11/talk-is-not-cheap</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/09/11/talk-is-not-cheap"/>
-        <updated>2025-10-10T17:44:51.643Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年09月11日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/09/11/talk-is-not-cheap">Talk is not cheap</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于微内核的对话 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/08/19/microkernel</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/08/19/microkernel"/>
-        <updated>2025-10-10T17:44:51.644Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年08月19日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/08/19/microkernel">关于微内核的对话</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[再谈“P vs NP”问题 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/07/21/pnp2</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/07/21/pnp2"/>
-        <updated>2025-10-10T17:44:51.647Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年07月21日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/07/21/pnp2">再谈“P vs NP”问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学习的智慧 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/07/12/learning-philosophy</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2019/07/12/learning-philosophy"/>
-        <updated>2025-10-10T17:44:51.649Z</updated>
-        <content type="html"><![CDATA[<div class="date">2019年07月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2019/07/12/learning-philosophy">学习的智慧</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解谜英语语法 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/11/23/grammar</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/11/23/grammar"/>
-        <updated>2025-10-10T17:44:51.650Z</updated>
-        <content type="html"><![CDATA[<div class="date">2018年11月23日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2018/11/23/grammar">解谜英语语法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解谜计算机科学 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/04/13/computer-science</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/04/13/computer-science"/>
-        <updated>2025-10-10T17:44:51.651Z</updated>
-        <content type="html"><![CDATA[<div class="date">2018年04月13日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2018/04/13/computer-science">解谜计算机科学</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能合约和形式验证 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/02/22/smart-contract</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/02/22/smart-contract"/>
-        <updated>2025-10-10T17:44:51.652Z</updated>
-        <content type="html"><![CDATA[<div class="date">2018年02月22日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2018/02/22/smart-contract">智能合约和形式验证</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[成都的雾霾 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/02/16/chengdu-pollution</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2018/02/16/chengdu-pollution"/>
-        <updated>2025-10-10T17:44:51.654Z</updated>
-        <content type="html"><![CDATA[<div class="date">2018年02月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2018/02/16/chengdu-pollution">成都的雾霾</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天才是不存在的 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/11/genius</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/11/genius"/>
-        <updated>2025-10-10T17:44:51.655Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年11月11日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/11/11/genius">天才是不存在的</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络用语 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/05/words</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/05/words"/>
-        <updated>2025-10-10T17:44:51.657Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年11月05日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/11/05/words">网络用语</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaGo Zero 和强人工智能 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/04/alphago-zero</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/04/alphago-zero"/>
-        <updated>2025-10-10T17:44:51.666Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年11月04日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/11/04/alphago-zero">AlphaGo Zero 和强人工智能</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理性的力量 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/01/power-of-reasoning</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/11/01/power-of-reasoning"/>
-        <updated>2025-10-10T17:44:51.668Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年11月01日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/11/01/power-of-reasoning">理性的力量</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人体工学 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/10/16/ergonomics</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/10/16/ergonomics"/>
-        <updated>2025-10-10T17:44:51.669Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年10月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/10/16/ergonomics">人体工学</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旅行的智慧 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/08/14/travel-wisdom</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/08/14/travel-wisdom"/>
-        <updated>2025-10-10T17:44:51.670Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年08月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/08/14/travel-wisdom">旅行的智慧</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生活的智慧 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/07/08/living-philosophy</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/07/08/living-philosophy"/>
-        <updated>2025-10-10T17:44:51.672Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年07月08日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/07/08/living-philosophy">生活的智慧</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何掌握所有的程序语言 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/07/06/master-pl</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/07/06/master-pl"/>
-        <updated>2025-10-10T17:44:51.673Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年07月06日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/07/06/master-pl">如何掌握所有的程序语言</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[带猫回国经历 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/07/06/cat-travel-china</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/07/06/cat-travel-china"/>
-        <updated>2025-10-10T17:44:51.674Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年07月06日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/07/06/cat-travel-china">带猫回国经历</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSL 的误区 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/05/25/dsl</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/05/25/dsl"/>
-        <updated>2025-10-10T17:44:51.675Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年05月25日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/05/25/dsl">DSL 的误区</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotlin 和 Checked Exception (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/05/23/kotlin</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/05/23/kotlin"/>
-        <updated>2025-10-10T17:44:51.677Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年05月23日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/05/23/kotlin">Kotlin 和 Checked Exception</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是现实理想主义者 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/05/17/practical-idealism</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/05/17/practical-idealism"/>
-        <updated>2025-10-10T17:44:51.678Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年05月17日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/05/17/practical-idealism">什么是现实理想主义者</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[人工智能的局限性 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/04/23/ai</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/04/23/ai"/>
-        <updated>2025-10-10T17:44:51.679Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年04月23日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/04/23/ai">人工智能的局限性</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[经验和洞察力 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/04/14/experience-and-insight</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2017/04/14/experience-and-insight"/>
-        <updated>2025-10-10T17:44:51.681Z</updated>
-        <content type="html"><![CDATA[<div class="date">2017年04月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2017/04/14/experience-and-insight">经验和洞察力</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C# 的 IDisposable 接口 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/10/13/c-sharp-disposable</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/10/13/c-sharp-disposable"/>
-        <updated>2025-10-10T17:44:51.682Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年10月13日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/10/13/c-sharp-disposable">C# 的 IDisposable 接口</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C 编译器优化的 Bug (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/10/12/compiler-bug</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/10/12/compiler-bug"/>
-        <updated>2025-10-10T17:44:51.683Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年10月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/10/12/compiler-bug">C 编译器优化的 Bug</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对 Rust 语言的分析 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/09/18/rust</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/09/18/rust"/>
-        <updated>2025-10-10T17:44:51.685Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年09月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/09/18/rust">对 Rust 语言的分析</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试的道理 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/09/14/tests</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/09/14/tests"/>
-        <updated>2025-10-10T17:44:51.686Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年09月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/09/14/tests">测试的道理</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla autopilot 引起致命车祸 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/07/10/tesla-autopilot-fatal-crash"/>
-        <updated>2025-10-10T17:44:51.687Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年07月10日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/07/10/tesla-autopilot-fatal-crash">Tesla autopilot 引起致命车祸</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[养生节目的危害 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/06/28/yangsheng</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/06/28/yangsheng"/>
-        <updated>2025-10-10T17:44:51.688Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年06月28日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/06/28/yangsheng">养生节目的危害</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 有值类型吗？ (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/06/08/java-value-type</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/06/08/java-value-type"/>
-        <updated>2025-10-10T17:44:51.689Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年06月08日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/06/08/java-value-type">Java 有值类型吗？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swift 语言的设计错误 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/06/06/swift</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/06/06/swift"/>
-        <updated>2025-10-10T17:44:51.691Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年06月06日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/06/06/swift">Swift 语言的设计错误</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[正面思维的误区 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/05/22/positive-thinking</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/05/22/positive-thinking"/>
-        <updated>2025-10-10T17:44:51.692Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年05月22日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/05/22/positive-thinking">正面思维的误区</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博文的自愿付费方式 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/04/13/pay-blog</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/04/13/pay-blog"/>
-        <updated>2025-10-10T17:44:51.700Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年04月13日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/04/13/pay-blog">博文的自愿付费方式</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[到底是谁在欺负我们读书少？ (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/04/07/cfa</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/04/07/cfa"/>
-        <updated>2025-10-10T17:44:51.700Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年04月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/04/07/cfa">到底是谁在欺负我们读书少？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为什么不再做 PL 人 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/03/31/no-longer-pl</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/03/31/no-longer-pl"/>
-        <updated>2025-10-10T17:44:51.700Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年03月31日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/03/31/no-longer-pl">我为什么不再做 PL 人</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么自动车完全不可以犯错误 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/03/19/self-driving-car-liability</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/03/19/self-driving-car-liability"/>
-        <updated>2025-10-10T17:44:51.701Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年03月19日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/03/19/self-driving-car-liability">为什么自动车完全不可以犯错误</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlphaGo与人工智能 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/03/09/alpha-go</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/03/09/alpha-go"/>
-        <updated>2025-10-10T17:44:51.701Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年03月09日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/03/09/alpha-go">AlphaGo与人工智能</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我看自动驾驶技术 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/02/12/self-driving-car</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/02/12/self-driving-car"/>
-        <updated>2025-10-10T17:44:51.703Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年02月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/02/12/self-driving-car">我看自动驾驶技术</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[给Java说句公道话 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/01/18/java</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/01/18/java"/>
-        <updated>2025-10-10T17:44:51.704Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年01月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/01/18/java">给Java说句公道话</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Autopilot (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/01/10/tesla-autopilot</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2016/01/10/tesla-autopilot"/>
-        <updated>2025-10-10T17:44:51.705Z</updated>
-        <content type="html"><![CDATA[<div class="date">2016年01月10日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2016/01/10/tesla-autopilot">Tesla Autopilot</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Model X的车门设计问题 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/12/21/tesla-model-x</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/12/21/tesla-model-x"/>
-        <updated>2025-10-10T17:44:51.706Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年12月21日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/12/21/tesla-model-x">Tesla Model X的车门设计问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[图灵的光环 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/10/18/turing</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/10/18/turing"/>
-        <updated>2025-10-10T17:44:51.708Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年10月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/10/18/turing">图灵的光环</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对 Parser 的误解 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/09/19/parser</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/09/19/parser"/>
-        <updated>2025-10-10T17:44:51.709Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年09月19日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/09/19/parser">对 Parser 的误解</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[数学和编程 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/07/04/math</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/07/04/math"/>
-        <updated>2025-10-10T17:44:51.710Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年07月04日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/07/04/math">数学和编程</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈程序的正确性 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/07/02/program-correctness</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/07/02/program-correctness"/>
-        <updated>2025-10-10T17:44:51.712Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年07月02日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/07/02/program-correctness">谈程序的正确性</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRY原则的误区 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/06/14/dry-principle</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/06/14/dry-principle"/>
-        <updated>2025-10-10T17:44:51.713Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年06月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/06/14/dry-principle">DRY原则的误区</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所谓软件工程 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/06/07/software-engineering</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/06/07/software-engineering"/>
-        <updated>2025-10-10T17:44:51.714Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年06月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/06/07/software-engineering">所谓软件工程</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编程的宗派 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/04/03/paradigms</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/04/03/paradigms"/>
-        <updated>2025-10-10T17:44:51.715Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年04月03日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/04/03/paradigms">编程的宗派</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英语口音 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/21/accent</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/21/accent"/>
-        <updated>2025-10-10T17:44:51.717Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年03月21日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/03/21/accent">英语口音</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智商的圈套 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/20/trap-of-intelligence</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/20/trap-of-intelligence"/>
-        <updated>2025-10-10T17:44:51.718Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年03月20日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/03/20/trap-of-intelligence">智商的圈套</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[设计的重要性 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/17/design</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/17/design"/>
-        <updated>2025-10-10T17:44:51.719Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年03月17日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/03/17/design">设计的重要性</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于Git的礼节 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/11/git-etiquette</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/11/git-etiquette"/>
-        <updated>2025-10-10T17:44:51.724Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年03月11日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/03/11/git-etiquette">关于Git的礼节</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怎样尊重一个程序员 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/03/how-to-respect-a-programmer</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/03/03/how-to-respect-a-programmer"/>
-        <updated>2025-10-10T17:44:51.726Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年03月03日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/03/03/how-to-respect-a-programmer">怎样尊重一个程序员</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[所谓“人为错误” (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/02/24/human-errors</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/02/24/human-errors"/>
-        <updated>2025-10-10T17:44:51.727Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年02月24日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/02/24/human-errors">所谓“人为错误”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[其他人的BUG (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/02/20/other-peoples-bug</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/02/20/other-peoples-bug"/>
-        <updated>2025-10-10T17:44:51.730Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年02月20日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/02/20/other-peoples-bug">其他人的BUG</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创造者的思维方式 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/02/01/creative-thinking</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/02/01/creative-thinking"/>
-        <updated>2025-10-10T17:44:51.731Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年02月01日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/02/01/creative-thinking">创造者的思维方式</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小费和中国人的尊严 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/01/19/tips</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2015/01/19/tips"/>
-        <updated>2025-10-10T17:44:51.733Z</updated>
-        <content type="html"><![CDATA[<div class="date">2015年01月19日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2015/01/19/tips">小费和中国人的尊严</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[恶评《星际穿越》 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/11/12/interstellar</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/11/12/interstellar"/>
-        <updated>2025-10-10T17:44:51.734Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年11月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/11/12/interstellar">恶评《星际穿越》</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关系式模型的实质 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/04/24/relational</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/04/24/relational"/>
-        <updated>2025-10-10T17:44:51.735Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年04月24日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/04/24/relational">关系式模型的实质</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[对 Go 语言的综合评价 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/04/18/golang</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/04/18/golang"/>
-        <updated>2025-10-10T17:44:51.737Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年04月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/04/18/golang">对 Go 语言的综合评价</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个对 Dijkstra 的采访视频 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/02/18/dijkstra-interview</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/02/18/dijkstra-interview"/>
-        <updated>2025-10-10T17:44:51.738Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年02月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/02/18/dijkstra-interview">一个对 Dijkstra 的采访视频</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序员的心理疾病 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/02/09/programmer-mental</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/02/09/programmer-mental"/>
-        <updated>2025-10-10T17:44:51.739Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年02月09日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/02/09/programmer-mental">程序员的心理疾病</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序语言与它们的工具 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/02/04/pl-tool</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/02/04/pl-tool"/>
-        <updated>2025-10-10T17:44:51.740Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年02月04日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/02/04/pl-tool">程序语言与它们的工具</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RubySonar：一个 Ruby 静态分析器 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/01/28/rubysonar</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/01/28/rubysonar"/>
-        <updated>2025-10-10T17:44:51.742Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年01月28日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/01/28/rubysonar">RubySonar：一个 Ruby 静态分析器</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我和权威的故事 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/01/04/authority</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2014/01/04/authority"/>
-        <updated>2025-10-10T17:44:51.743Z</updated>
-        <content type="html"><![CDATA[<div class="date">2014年01月04日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2014/01/04/authority">我和权威的故事</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PySonar2 与 Sourcegraph 集成完毕 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/11/25/pysonar2-sg</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/11/25/pysonar2-sg"/>
-        <updated>2025-10-10T17:44:51.744Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年11月25日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/11/25/pysonar2-sg">PySonar2 与 Sourcegraph 集成完毕</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[丘奇和图灵 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/07/13/church-turing</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/07/13/church-turing"/>
-        <updated>2025-10-10T17:44:51.745Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年07月13日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/07/13/church-turing">丘奇和图灵</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pydiff Python结构化程序比较工具 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7"/>
-        <updated>2025-10-10T17:44:51.748Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年07月06日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7">Pydiff Python结构化程序比较工具</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原因与证明 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/26/reason-and-proof</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/26/reason-and-proof"/>
-        <updated>2025-10-10T17:44:51.749Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月26日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/26/reason-and-proof">原因与证明</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ydiff 结构化的程序比较 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83"/>
-        <updated>2025-10-10T17:44:51.750Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月21日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83">Ydiff 结构化的程序比较</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编辑器与IDE (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/20/editor-ide</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/20/editor-ide"/>
-        <updated>2025-10-10T17:44:51.752Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月20日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/20/editor-ide">编辑器与IDE</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序语言的常见设计错误(2) - 试图容纳世界 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/18/language-design-mistake2</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/18/language-design-mistake2"/>
-        <updated>2025-10-10T17:44:51.753Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/18/language-design-mistake2">程序语言的常见设计错误(2) - 试图容纳世界</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于语言的思考 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/17/languages</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/17/languages"/>
-        <updated>2025-10-10T17:44:51.754Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月17日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/17/languages">关于语言的思考</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yoda 表示法错在哪里 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/16/yoda-notation</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/16/yoda-notation"/>
-        <updated>2025-10-10T17:44:51.756Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月16日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/16/yoda-notation">Yoda 表示法错在哪里</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[几个超炫的专业词汇 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/15/terminology</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/15/terminology"/>
-        <updated>2025-10-10T17:44:51.761Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月15日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/15/terminology">几个超炫的专业词汇</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[标准化试卷标记语言 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/14/standard-exam-language</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/14/standard-exam-language"/>
-        <updated>2025-10-10T17:44:51.762Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/14/standard-exam-language">标准化试卷标记语言</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一种新的操作系统设计 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/14/os-design</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/14/os-design"/>
-        <updated>2025-10-10T17:44:51.764Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/14/os-design">一种新的操作系统设计</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Markdown 的一些问题 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/14/markdown</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/14/markdown"/>
-        <updated>2025-10-10T17:44:51.765Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月14日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/14/markdown">Markdown 的一些问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈程序的“通用性” (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/13/generality</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/13/generality"/>
-        <updated>2025-10-10T17:44:51.767Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月13日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/13/generality">谈程序的“通用性”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是启发 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/12/inspiration</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/12/inspiration"/>
-        <updated>2025-10-10T17:44:51.768Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/12/inspiration">什么是启发</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scheme 编程环境的设置 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/11/scheme-setup</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/11/scheme-setup"/>
-        <updated>2025-10-10T17:44:51.769Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月11日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/11/scheme-setup">Scheme 编程环境的设置</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我为什么离开 Cornell (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/10/cornell</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/10/cornell"/>
-        <updated>2025-10-10T17:44:51.770Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月10日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/10/cornell">我为什么离开 Cornell</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试驱动开发 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/07/test-driven-dev</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/07/test-driven-dev"/>
-        <updated>2025-10-10T17:44:51.772Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/07/test-driven-dev">测试驱动开发</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Currying 的局限性 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/02/currying</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/02/currying"/>
-        <updated>2025-10-10T17:44:51.773Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月02日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/02/currying">Currying 的局限性</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[惰性求值 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/01/lazy-evaluation</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/01/lazy-evaluation"/>
-        <updated>2025-10-10T17:44:51.774Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月01日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/01/lazy-evaluation">惰性求值</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hindley-Milner 类型系统的根本性错误 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/01/hindley-milner</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/04/01/hindley-milner"/>
-        <updated>2025-10-10T17:44:51.776Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年04月01日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/04/01/hindley-milner">Hindley-Milner 类型系统的根本性错误</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[函数式语言的宗教 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/31/purely-functional</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/31/purely-functional"/>
-        <updated>2025-10-10T17:44:51.777Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月31日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/31/purely-functional">函数式语言的宗教</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是“脚本语言” (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/29/scripting-language</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/29/scripting-language"/>
-        <updated>2025-10-10T17:44:51.778Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月29日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/29/scripting-language">什么是“脚本语言”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisp 已死，Lisp 万岁！ (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/26/lisp-dead-alive</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/26/lisp-dead-alive"/>
-        <updated>2025-10-10T17:44:51.780Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月26日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/26/lisp-dead-alive">Lisp 已死，Lisp 万岁！</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[论对东西的崇拜 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/24/tools</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/24/tools"/>
-        <updated>2025-10-10T17:44:51.781Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月24日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/24/tools">论对东西的崇拜</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“解决问题”与“消灭问题” (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/19/eliminate-problems</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/19/eliminate-problems"/>
-        <updated>2025-10-10T17:44:51.782Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月19日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/19/eliminate-problems">“解决问题”与“消灭问题”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[程序语言的常见设计错误(1) - 片面追求短小 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/15/language-design-mistake1</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/15/language-design-mistake1"/>
-        <updated>2025-10-10T17:44:51.784Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月15日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/15/language-design-mistake1">程序语言的常见设计错误(1) - 片面追求短小</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈语法 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/08/on-syntax</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/08/on-syntax"/>
-        <updated>2025-10-10T17:44:51.785Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月08日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/08/on-syntax">谈语法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oberon 操作系统：被忽略的珍宝 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/07/oberon</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/07/oberon"/>
-        <updated>2025-10-10T17:44:51.786Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/07/oberon">Oberon 操作系统：被忽略的珍宝</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谈 Linux，Windows 和 Mac (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/07/linux-windows-mac</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/07/linux-windows-mac"/>
-        <updated>2025-10-10T17:44:51.787Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/07/linux-windows-mac">谈 Linux，Windows 和 Mac</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解密“设计模式” (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/07/design-patterns</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/07/design-patterns"/>
-        <updated>2025-10-10T17:44:51.791Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月07日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/07/design-patterns">解密“设计模式”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Braid - 一个发人深思的游戏 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/04/braid</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2013/03/04/braid"/>
-        <updated>2025-10-10T17:44:51.792Z</updated>
-        <content type="html"><![CDATA[<div class="date">2013年03月04日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2013/03/04/braid">Braid - 一个发人深思的游戏</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是语义学 (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2012/07/25/semantics</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2012/07/25/semantics"/>
-        <updated>2025-10-10T17:44:51.793Z</updated>
-        <content type="html"><![CDATA[<div class="date">2012年07月25日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2012/07/25/semantics">什么是语义学</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我和 Google 的故事（2012 年原版） (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2012/07/12/google-story</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2012/07/12/google-story"/>
-        <updated>2025-10-10T17:44:51.795Z</updated>
-        <content type="html"><![CDATA[<div class="date">2012年07月12日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2012/07/12/google-story">我和 Google 的故事（2012 年原版）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么是“对用户友好” (当然我在扯淡)]]></title>
-        <id>https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2012/05/18/user-friendliness</id>
-        <link href="https://www.yinwang.org/pages/yinwang0/blog-cn/blog-cn/2012/05/18/user-friendliness"/>
-        <updated>2025-10-10T17:44:51.796Z</updated>
-        <content type="html"><![CDATA[<div class="date">2012年05月18日</div><br>
-            <a href="/pages/yinwang0/blog-cn/blog-cn/2012/05/18/user-friendliness">什么是“对用户友好”</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[为墨家正名 —兼谈功利主义 (中国:历史与未来)]]></title>
@@ -7494,7 +6470,7 @@ on
 ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7511,7 +6487,7 @@ on
 卸...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 26 天前</time>
+            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 27 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7574,7 +6550,7 @@ on
 乘坐东航上海直飞伊斯坦布尔，落地时间是上午，因为之前被伊斯坦布尔的机场地铁坑过，所以本次选择乘坐机场大...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-15T01:06:45+08:00">发布于 2月前</time>
+            <time itemprop="datePublished" datetime="2025-07-15T01:06:45+08:00">发布于 3月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -7808,7 +6784,7 @@ on
 						</a>
 					</div>			<header class="entry-header">
 				<h2 class="entry-title" itemprop="headline"><a href="https://iyzm.net/life/3796.html" rel="bookmark">两性关系之婚姻关系入门</a></h2>		<div class="entry-meta">
-			<span class="posted-on"><time class="updated" datetime="2025-10-08T22:25:08+08:00" itemprop="dateModified">2025年10月8日</time><time class="entry-date published" datetime="2024-02-14T22:14:17+08:00" itemprop="datePublished">2024年2月14日</time></span> 		</div>
+			<span class="posted-on"><time class="updated" datetime="2025-10-12T16:18:42+08:00" itemprop="dateModified">2025年10月12日</time><time class="entry-date published" datetime="2024-02-14T22:14:17+08:00" itemprop="datePublished">2024年2月14日</time></span> 		</div>
 					</header>
 			
 			<div class="entry-summary" itemprop="text">
@@ -7966,6 +6942,31 @@ on
 			<div class="entry-summary" itemprop="text">
 				<p>Motrix 是一款全功能下载工具软件，界面简洁易用，支持下载 HTTP(s)、FTP、BT、磁力链等资源，下载各类文件稳定可靠，速度优秀，非常适合作为一款日常 … <a title="Windows 平台优秀的全功能下载工具 Motrix" class="read-more" href="https://iyzm.net/windows/3237.html" aria-label="阅读 Windows 平台优秀的全功能下载工具 Motrix"> </a></p>
 			</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Premiere Elements 和 Premiere 的区别是什么 (牧羊人)]]></title>
+        <id>https://www.shephe.com/post/adobe-premiere-elements-vs-pr/</id>
+        <link href="https://www.shephe.com/post/adobe-premiere-elements-vs-pr/"/>
+        <updated>2025-10-12T17:45:38.433Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-premiere-elements-vs-pr/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Premiere Elements 和 Premiere 的区别是什么</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/shephe_com_07-17_15-56.webp 1200w, https://www.shephe.com/wp-content/uploads/2025/06/shephe_com_07-17_15-56-768x432.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-08T20:37:43+08:00">
+				10/08/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Premiere Elements 和 Premiere 的区别是什么</span></h2>						<p>在视频编辑领域，Adobe Premiere 系列软件一直是许多人选择的首选工具。无论是专业的电影制作人，还是爱好者或初学者，Adobe 都提供了不同版本的软件以满足他们的需求。在这些版本中，Adobe Premiere Elements …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/adobe-premiere-elements-vs-pr/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✨ 赶上潮流！部署开源网盘聚合工具 OpenList (牧羊人)]]></title>
@@ -8162,31 +7163,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>仿钟祖兵色调预设，纪实电影感婚礼照片 LR 预设</span></h2>						<p>在婚礼摄影中，调色的风格往往决定了作品的气质与灵魂。近年来，“钟祖兵风格”成为许多摄影师和新人喜欢的风格。这种以暗调电影感为核心的审美突破了传统明亮、饱和的婚礼影像，营造出如同电影场景般的氛围感，让婚礼影像不再只是记录，而是具有温度与情绪的…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/%e4%bb%bf%e9%92%9f%e7%a5%96%e5%85%b5%e9%a2%84%e8%ae%be/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye, Memos (牧羊人)]]></title>
-        <id>https://www.shephe.com/life/goodbye-memos/</id>
-        <link href="https://www.shephe.com/life/goodbye-memos/"/>
-        <updated>2025-10-07T17:44:39.054Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/life/goodbye-memos/" rel="bookmark" target="_blank"><span class="screen-reader-text">Goodbye, Memos</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2025/08/shephe.com_08-28_10-39-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-08-28T11:19:10+08:00">
-				08/28/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Goodbye, Memos</span></h2>						<p>我翻了翻自己在 Memos 上的第一条动态，是在 2024 年年中发的。那时候应该是看了五木大神的帖子「</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/goodbye-memos/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
