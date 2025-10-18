@@ -2,9 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.heartnn.com</id>
     <title>heartnn的自留地</title>
-    <updated>2025-10-17T17:46:12.878Z</updated>
+    <updated>2025-10-18T17:45:17.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.heartnn.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[doubanio反代]]></title>
+        <id>https://www.heartnn.com/2025/10/18/douban-reverse-proxy/</id>
+        <link href="https://www.heartnn.com/2025/10/18/douban-reverse-proxy/"/>
+        <updated>2025-10-18T17:44:37.790Z</updated>
+        <content type="html"><![CDATA[<header class="post-header"><h2 class="post-title"><a href="/2025/10/18/douban-reverse-proxy/">doubanio反代</a></h2></header><section class="post-excerpt"><p></p><p>因为一直都是用一个电影信息查询脚本来更新电影信息，都是豆瓣上的信息，海报也是豆瓣的，但是最近几天img9.doubanio.com开始抽风，说什么<code>错误代码：418 I'm a teapot</code>，完全不让白嫖了，好在现在AI强大，就撸了一个Cloudflare Workers的代码，但是这东西如果用超了毕竟是要收费的，好在VPS的流量足够多，就直接在VPS中反代就好了。</p><p>以前都是用<a href="https://github.com/nginx-proxy/nginx-proxy">nginx-proxy</a>和<a href="https://nginxproxymanager.com/">Nginx Proxy Manager</a>，最多用过<a href="https://github.com/lucaslorentz/caddy-docker-proxy">caddy-docker-proxy</a>，但是这几个东西的主要作用是代理本地的Docker容器，NPM凑合能用，但是搞不定Referer，AI问了一圈，最后自己撸Caddyfile才是王道（主要是Nginx需要自己搞定证书，有点繁琐）。</p><a class="read-more" href="/2025/10/18/douban-reverse-proxy/">»</a><p></p></section><footer class="post-meta"><img class="author-thumb nopin" src="/images/logo.png" alt="Author image">
+heartnn
+on
+<a href="https://www.heartnn.com/tags/docker/">#docker</a>
+<time class="post-date" datetime="2025-10-18T02:08:00+08:00">2025-10-18</time></footer>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[升级群晖到7.21]]></title>
         <id>https://www.heartnn.com/2024/12/15/update-synology-7.21/</id>
@@ -67,20 +78,5 @@ heartnn
 on
 <a href="https://www.heartnn.com/tags/synology/">#synology</a>
 <time class="post-date" datetime="2021-11-17T12:18:42+08:00">2021-11-17</time></footer>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudreve迁移到MySQL]]></title>
-        <id>https://www.heartnn.com/2021/11/02/cloudreve-config-mysql-and-redis/</id>
-        <link href="https://www.heartnn.com/2021/11/02/cloudreve-config-mysql-and-redis/"/>
-        <updated>2022-12-09T00:59:14.344Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h2 class="post-title"><a href="/2021/11/02/cloudreve-config-mysql-and-redis/">Cloudreve迁移到MySQL</a></h2></header><section class="post-excerpt"><p></p><h3 id="环境--起因">环境 &amp; 起因</h3><ul><li>系统：Debian 10</li><li>硬件：1 vCPU 512MB</li><li>Cloudreve软件版本：3.3.2 with SQLite</li></ul><p>随着文件数的增加，SQLite速度和稳定性都差一些，而且数据库文件越来越大，虽然网盘就我一个人在用，崩了可以重新装，但还是秉着一劳永逸的原则，开始了迁移工作。</p><a class="read-more" href="/2021/11/02/cloudreve-config-mysql-and-redis/">»</a><p></p></section><footer class="post-meta"><img class="author-thumb nopin" src="/images/logo.png" alt="Author image">
-heartnn
-on
-<a href="https://www.heartnn.com/tags/sqlite/">#sqlite</a>
-,
-<a href="https://www.heartnn.com/tags/mysql/">#mysql</a>
-,
-<a href="https://www.heartnn.com/tags/redis/">#redis</a>
-<time class="post-date" datetime="2021-11-02T07:46:23+08:00">2021-11-02</time></footer>]]></content>
     </entry>
 </feed>
