@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2025-10-19T05:47:10.609Z</updated>
+    <updated>2025-10-19T17:44:29.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[偶尔是深夜就好了]]></title>
+        <id>https://atpx.com/blog/sometimes-midnight-is-enough/</id>
+        <link href="https://atpx.com/blog/sometimes-midnight-is-enough/"/>
+        <updated>2025-10-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/sometimes-midnight-is-enough/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0125-sometimes-midnight-is-enough.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">偶尔是深夜就好了</h2>
+                            <div class="post-tile-description">白天太长了，偶尔是深夜就好了。</div>
+                        </div>
+                        <div class="post-tile-time">October 20, 2025</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新玩具 AirPods Pro 3]]></title>
         <id>https://atpx.com/blog/airpods-pro-3/</id>
@@ -245,33 +272,6 @@
                             <div class="post-tile-description">村上春树新书《小城与不确定性的墙》，与确定的想法。</div>
                         </div>
                         <div class="post-tile-time">November 3, 2024</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一只特立独行的猪]]></title>
-        <id>https://atpx.com/blog/a-unique-pig/</id>
-        <link href="https://atpx.com/blog/a-unique-pig/"/>
-        <updated>2025-04-18T00:26:24.478Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/a-unique-pig/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0115-a-unique-pig.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">一只特立独行的猪</h2>
-                            <div class="post-tile-description">一位朋友告诉我的关于一只特立独行的猪的故事。</div>
-                        </div>
-                        <div class="post-tile-time">October 29, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
