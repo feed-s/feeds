@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-10-22T17:46:50.327Z</updated>
+    <updated>2025-10-23T05:47:59.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
 ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-08T11:32:50+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2025-10-08T11:32:50+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -87,7 +87,7 @@
         </h2>
         <div class="block-snippet" itemprop="about">
             WordPress 主题 Jaguar
-最新版本为3.1.0，强烈建议使用最新版本的主题和WordPress。
+最新版本为3.1.1，强烈建议使用最新版本的主题和WordPress。
 又翻新了一个主题，之前的设计现在已经完...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
