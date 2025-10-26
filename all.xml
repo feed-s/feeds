@@ -2,8 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-26T05:46:53.807Z</updated>
+    <updated>2025-10-26T17:46:08.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
+        <id>https://www.heartnn.com/2025/10/21/deploy-hugo-on-vps/</id>
+        <link href="https://www.heartnn.com/2025/10/21/deploy-hugo-on-vps/"/>
+        <updated>2025-10-26T17:45:26.576Z</updated>
+        <content type="html"><![CDATA[<header class="post-header"><h2 class="post-title"><a href="/2025/10/21/deploy-hugo-on-vps/">把Hugo博客部署在自己的服务器上</a></h2></header><section class="post-excerpt"><p></p><p>按道理来说，没人会这么做，因为Github、Netlify、Vercel之类的能保存静态博客的地方太多了，所以网上也没什么教程，起因是我受够了Github，每次仓库Action，保存到Pages，然后main分支就会提醒我落后于gh-pages分支，两个分支又没法合并，而且Github Pages在国内的访问速度懂得都懂。还有一个原因是博客的评论系统从Valine切换到了Waline，保留了以前的所有数据，并且部署到了VPS，这样一来也有理由把博客整个放到VPS上了。</p><p>首先考虑要不要保留版本控制功能，如果不需要的话，大概下载一个Hugo的二进制程序，然后自己构建源码，再用一个Web服务器，顺便解决SSL证书，就完全没问题了，但是这样每次更新博客的时候需要ssh到Hugo源码目录编辑，就算是用WebDAV挂载源码目录或者Syncthing同步，也免不了，也需要在本地有hugo的二进制程序，而且出门在外的话，是没有办法很方便写博客的。</p><a class="read-more" href="/2025/10/21/deploy-hugo-on-vps/">»</a><p></p></section><footer class="post-meta"><img class="author-thumb nopin" src="/images/logo.png" alt="Author image">
+heartnn
+on
+<a href="https://www.heartnn.com/tags/docker/">#docker</a>
+,
+<a href="https://www.heartnn.com/tags/git/">#git</a>
+,
+<a href="https://www.heartnn.com/tags/caddy/">#caddy</a>
+<time class="post-date" datetime="2025-10-21T23:00:00+08:00">2025-10-21</time></footer>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[doubanio反代 (heartnn的自留地)]]></title>
         <id>https://www.heartnn.com/2025/10/18/douban-reverse-proxy/</id>
@@ -89,20 +104,6 @@ on
 ,
 <a href="https://www.heartnn.com/tags/redis/">#redis</a>
 <time class="post-date" datetime="2021-11-02T07:46:23+08:00">2021-11-02</time></footer>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自编译基于Python的钉钉内网穿透(ngrok) (heartnn的自留地)]]></title>
-        <id>https://www.heartnn.com/2021/10/29/dingtalk-python-ngrok/</id>
-        <link href="https://www.heartnn.com/2021/10/29/dingtalk-python-ngrok/"/>
-        <updated>2025-10-21T17:45:16.993Z</updated>
-        <content type="html"><![CDATA[<header class="post-header"><h2 class="post-title"><a href="/2021/10/29/dingtalk-python-ngrok/">自编译基于Python的钉钉内网穿透(ngrok)</a></h2></header><section class="post-excerpt"><p></p><p>源代码来自于<a href="https://github.com/hauntek/python-ngrok">hauntek/python-ngrok</a>，自己又从<code>dingtalk/ngrok</code>中提取了源码进行比对，然后用pyinstaller编译而来。</p><p>用起来还是相当稳定的，虽然似乎只能穿透http，但是能穿透一个群晖的DSM就足够了，建议应急的时候用一下。</p><p>下载地址：<a href="https://github.com/heartnn/dingtalk-ngrok/releases/latest">https://github.com/heartnn/dingtalk-ngrok/releases/latest</a>，包含Windows和Linux的版本。</p><p>更新日志：
-20220407：修复在群晖下的依赖问题</p><a class="read-more" href="/2021/10/29/dingtalk-python-ngrok/">»</a><p></p></section><footer class="post-meta"><img class="author-thumb nopin" src="/images/logo.png" alt="Author image">
-heartnn
-on
-<a href="https://www.heartnn.com/tags/python/">#python</a>
-,
-<a href="https://www.heartnn.com/tags/nat/">#nat</a>
-<time class="post-date" datetime="2021-10-29T15:32:16+08:00">2021-10-29</time></footer>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Comparing kubernetes yaml files (Tristram)]]></title>
@@ -6124,7 +6125,7 @@ on
 ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 19 天前</time>
+            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 20 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6598,6 +6599,31 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress 利用 PHP Exif 扩展实现图片元信息展示 (牧羊人)]]></title>
+        <id>https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/</id>
+        <link href="https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/"/>
+        <updated>2025-10-26T17:46:05.564Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/" rel="bookmark" target="_blank"><span class="screen-reader-text">WordPress 利用 PHP Exif 扩展实现图片元信息展示</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/05/Media2.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/05/Media2-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-26T09:51:12+08:00">
+				10/26/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>WordPress 利用 PHP Exif 扩展实现图片元信息展示</span></h2>						<p>作为一个摄影爱好者（伪），我一直希望能在博客上方便、快速地展示照片的 EXIF 信息。EXIF（Exchangeable Image File Format）是嵌入在数码照片文件中的一组元数据，它记录了拍摄时的关键信息，例如快门速度、光圈值…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[简单实现 WordPress 评论点赞、排序和前台编辑 (牧羊人)]]></title>
         <id>https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/</id>
         <link href="https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/"/>
@@ -6792,31 +6818,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Lightroom Classic 重磅更新：一键智能移除照片中的干扰人物</span></h2>						<p>在日常拍摄中，我们常常遇到这样的问题：好不容易捕捉到完美的构图，却总有“路人甲”闯入画面，破坏了整体氛围。过去，我们可能需要借助复杂的修图技巧才能抹掉这些背景人物。而现在，Lightroom Classic 带来了一项全新 AI 功能——「…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/lightroom-classic-distraction-removal-people/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe 账户的“生成式积分”是什么？怎么查余额 (牧羊人)]]></title>
-        <id>https://www.shephe.com/post/adobe-generative-credits-balance/</id>
-        <link href="https://www.shephe.com/post/adobe-generative-credits-balance/"/>
-        <updated>2025-09-30T05:47:35.771Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-generative-credits-balance/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe 账户的“生成式积分”是什么？怎么查余额</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/07/website-seo-optimize-title-and-description-tags.svg" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-09-08T23:52:09+08:00">
-				09/08/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe 账户的“生成式积分”是什么？怎么查余额</span></h2>						<p>Adobe 近几年在生成式 AI 上投入巨大，尤其是 Firefly 图像生成以及 Photoshop 的生成式填充功能，让很多用户体验到了 AI 在创作中的便利。但在使用时，不少人会遇到一个新概念——生成式积分。很多人一开始并不清楚，这个…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/adobe-generative-credits-balance/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
