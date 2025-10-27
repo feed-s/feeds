@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-10-26T17:46:08.578Z</updated>
+    <updated>2025-10-27T05:50:10.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6095,7 +6095,7 @@ on
 ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-08T11:32:50+08:00">发布于 18 天前</time>
+            <time itemprop="datePublished" datetime="2025-10-08T11:32:50+08:00">发布于 19 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6599,6 +6599,31 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用 Total Uninstall 强力卸载顽固软件 & 清理残留 (牧羊人)]]></title>
+        <id>https://www.shephe.com/post/total-uninstall-remove-clean-software/</id>
+        <link href="https://www.shephe.com/post/total-uninstall-remove-clean-software/"/>
+        <updated>2025-10-27T05:50:07.055Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/total-uninstall-remove-clean-software/" rel="bookmark" target="_blank"><span class="screen-reader-text">使用 Total Uninstall 强力卸载顽固软件 &amp; 清理残留</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/05/uninstall-removal.jpg 1200w, https://www.shephe.com/wp-content/uploads/2025/05/uninstall-removal-768x358.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-27T11:42:29+08:00">
+				10/27/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>使用 Total Uninstall 强力卸载顽固软件 &amp; 清理残留</span></h2>						<p>如果你想要找一款 Windows 平台的强力卸载工具，并尝试在网上搜索的话，通常会出现这么几个软件：Total Uninstall、Revo Uninstaller、Geek Uninstaller、IObit Uninstaller 等。…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/total-uninstall-remove-clean-software/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WordPress 利用 PHP Exif 扩展实现图片元信息展示 (牧羊人)]]></title>
         <id>https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/</id>
         <link href="https://www.shephe.com/tutorial/wordpress-php-exif-image-meta-display/"/>
@@ -6793,31 +6818,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>一次首页攻击的应对：宝塔 WAF 精准拦截实录</span></h2>						<p>最近这几天，我这个小博客又又又又又遭受了广泛攻击！前天突然发现网站页面显示异常，一看静态内容全都 404 了，原来是 CDN 停止访问了。进入</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/life/traffic-attack-protection-experience/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightroom Classic 重磅更新：一键智能移除照片中的干扰人物 (牧羊人)]]></title>
-        <id>https://www.shephe.com/tutorial/lightroom-classic-distraction-removal-people/</id>
-        <link href="https://www.shephe.com/tutorial/lightroom-classic-distraction-removal-people/"/>
-        <updated>2025-09-30T05:47:35.770Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/lightroom-classic-distraction-removal-people/" rel="bookmark" target="_blank"><span class="screen-reader-text">Lightroom Classic 重磅更新：一键智能移除照片中的干扰人物</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-09-10T12:00:57+08:00">
-				09/10/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Lightroom Classic 重磅更新：一键智能移除照片中的干扰人物</span></h2>						<p>在日常拍摄中，我们常常遇到这样的问题：好不容易捕捉到完美的构图，却总有“路人甲”闯入画面，破坏了整体氛围。过去，我们可能需要借助复杂的修图技巧才能抹掉这些背景人物。而现在，Lightroom Classic 带来了一项全新 AI 功能——「…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/lightroom-classic-distraction-removal-people/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
