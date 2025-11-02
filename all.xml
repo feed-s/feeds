@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-02T05:46:43.838Z</updated>
+    <updated>2025-11-02T17:44:18.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6125,7 +6125,7 @@ on
 ...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 26 天前</time>
+            <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 27 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6174,7 +6174,7 @@ on
             作为一款多年前的插件我推出之后就一直几乎没更新，最近有博友推出了开源版，鉴于本插件价格较为昂贵，本人直接做了个大版本...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 1月前</time>
+            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6783,7 +6783,7 @@ on
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Adobe-Photoshop-27.x.webp 1000w, https://www.shephe.com/wp-content/uploads/2025/06/Adobe-Photoshop-27.x-768x508.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop.jpg 1250w, https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop-768x435.jpg 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
