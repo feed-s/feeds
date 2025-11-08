@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-11-08T05:45:08.786Z</updated>
+    <updated>2025-11-08T17:45:28.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6236,7 +6236,7 @@ on
 从布达佩斯乘坐火车到维也纳，RegioJet 属于欧洲比较便宜的火车票了，商务座200块左右，行程时间不到3小时，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-11T21:59:24+08:00">发布于 3月前</time>
+            <time itemprop="datePublished" datetime="2025-07-11T21:59:24+08:00">发布于 4月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6599,6 +6599,31 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lightroom AI 移除功能不适用于所在地区？为什么 (牧羊人)]]></title>
+        <id>https://www.shephe.com/post/lightroom-ai-remove-region-error/</id>
+        <link href="https://www.shephe.com/post/lightroom-ai-remove-region-error/"/>
+        <updated>2025-11-08T17:45:25.078Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/lightroom-ai-remove-region-error/" rel="bookmark" target="_blank"><span class="screen-reader-text">Lightroom AI 移除功能不适用于所在地区？为什么</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-11-08T22:18:35+08:00">
+				11/08/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Lightroom AI 移除功能不适用于所在地区？为什么</span></h2>						<p>很多人打开 Lightroom 的 Remove（移除）工具，勾选“使用生成式 AI”后，却弹出“此功能在您所在地区不可用”或直接报错。你可能怀疑是软件出现了问题，或者自己的账号出现了异常，甚至以为自己被“区别对待”。但其实，这种情况并非单…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/lightroom-ai-remove-region-error/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[离了大谱！时隔五天我的车车又又双叒叕被撞了 (牧羊人)]]></title>
         <id>https://www.shephe.com/life/%e5%86%8d%e6%ac%a1%e8%a2%ab%e6%92%9e/</id>
         <link href="https://www.shephe.com/life/%e5%86%8d%e6%ac%a1%e8%a2%ab%e6%92%9e/"/>
@@ -6793,31 +6818,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>使用 Cloudflare R2 + Pages 搭建免费图床，并集成到 WordPress 评论系统</span></h2>						<p>在去年的博客年度更新日志中，我提到本站的评论框功能过于单薄，只能输入纯文本，我一直希望能为它加入更丰富的交互体验——比如支持加粗、斜体、删除线，能上传图片、添加 Emoji 符号等。 一年后的这个国庆假期，我终于抽时间把它完善了。最终实现的…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/wordpress-comment-image-upload-cloudflare/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Photoshop 2026 27.0 中文破解版下载（直装版 & 便携版长期更新） (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/adobe-photoshop/</id>
-        <link href="https://www.shephe.com/resources/adobe-photoshop/"/>
-        <updated>2025-10-30T17:48:31.231Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-photoshop/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Photoshop 2026 27.0 中文破解版下载（直装版 &amp; 便携版长期更新）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop.jpg 1250w, https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop-768x435.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-16T15:42:00+08:00">
-				10/16/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 27.0 中文破解版下载（直装版 &amp; 便携版长期更新）</span></h2>						<p>Photoshop 2026（桌面版版本号为 27.0）正式发布！作为全球最受欢迎的专业图像处理与照片设计工具，Adobe Photoshop 一直被广泛认可和使用，是 Adobe Creative Cloud 创意云套件中的核心产品之一。…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
