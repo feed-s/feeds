@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-11-10T17:45:03.306Z</updated>
+    <updated>2025-11-11T05:47:25.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[为何选择 Affinity：高性价比的图像与设计工具]]></title>
+        <id>https://www.shephe.com/resources/affinity/</id>
+        <link href="https://www.shephe.com/resources/affinity/"/>
+        <updated>2025-11-11T05:47:22.584Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/affinity/" rel="bookmark" target="_blank"><span class="screen-reader-text">为何选择 Affinity：高性价比的图像与设计工具</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/affinity.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/11/affinity-768x492.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-11-11T10:18:25+08:00">
+				11/11/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>为何选择 Affinity：高性价比的图像与设计工具</span></h2>						<p>Affinity 是一套专业的设计和图像编辑软件，包含 Affinity Designer、Affinity Photo 和 Affinity Publisher。它最初在苹果平台上非常流行，尤其是在 iPad 上，凭借其流畅的操作体验和强…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/affinity/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photoshop Harmonize 协调功能是什么？有什么用]]></title>
         <id>https://www.shephe.com/post/photoshop-harmonize-feature-guide/</id>
@@ -15,7 +40,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/Photoshop-AI.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/11/Photoshop-AI-768x512.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/draw-Design.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/11/draw-Design-768x512.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 2026 v15.0.0 LR 中文破解版下载（长期更新）</span></h2>						<p>Adobe Lightroom Classic 2026 终于来啦！新版提供全面的桌面编辑工具，助您将照片魅力发挥到极致。从提亮色彩、优化暗淡画面，到污点修复和镜头校正，无论是基础调整还是专业编辑，都游刃有余。简洁直观的界面方便您高效整理照…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-lightroom-classic/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简单实现 WordPress 评论点赞、排序和前台编辑]]></title>
-        <id>https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/</id>
-        <link href="https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/"/>
-        <updated>2025-10-19T17:44:26.019Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/" rel="bookmark" target="_blank"><span class="screen-reader-text">简单实现 WordPress 评论点赞、排序和前台编辑</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/05/WordPress-writing-content.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/05/WordPress-writing-content-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-19T14:41:33+08:00">
-				10/19/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>简单实现 WordPress 评论点赞、排序和前台编辑</span></h2>						<p>书接上回，上篇我记录了如何使用 Cloudflare R2 + Pages 搭建免费图床，并将其集成到 WordPress 评论系统 中。本文将继续分享我为 WordPress 评论功能增加 排序、点赞、前台删除与编辑 的实现过程和相关代码…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/website/wordpress-comment-like-system-with-front-edit/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
