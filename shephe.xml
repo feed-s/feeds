@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2025-11-25T17:50:55.006Z</updated>
+    <updated>2025-11-26T05:47:49.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -15,7 +15,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloaded" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w" style="background-image: url(&quot;https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-768x432.webp&quot;);"><picture style="display: none;"><source data-srcset="https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w" sizes="350px" srcset="https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -40,7 +40,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloaded" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana-768x429.webp 768w" style="background-image: url(&quot;https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana-768x429.webp&quot;);"><picture style="display: none;"><source data-srcset="https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana-768x429.webp 768w" sizes="350px" srcset="https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana-768x429.webp 768w"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/11/Photoshop_nano_banana-768x429.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
@@ -65,7 +65,7 @@
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyloaded" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc-768x512.webp 768w" style="background-image: url(&quot;https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc-768x512.webp&quot;);"><picture style="display: none;"><source data-srcset="https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc-768x512.webp 768w" sizes="350px" srcset="https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc-768x512.webp 768w"><img alt="" class="lazyautosizes lazyloaded ls-is-cached" data-sizes="auto" data-parent-fit="cover" sizes="350px"></picture></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/11/network-cloud-pc-768x512.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
