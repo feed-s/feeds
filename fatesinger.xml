@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-12-02T05:48:11.246Z</updated>
+    <updated>2025-12-02T17:51:13.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[罗马尼亚小逛]]></title>
+        <id>https://fatesinger.com/105178</id>
+        <link href="https://fatesinger.com/105178"/>
+        <updated>2025-12-02T17:50:55.368Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105178" aria-label="罗马尼亚小逛" title="罗马尼亚小逛">罗马尼亚小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            罗马尼亚是地处巴尔干半岛的欧盟国家，旅游资源并不丰富，是有一定旅行经历的人才会选择的国家。一方面巴尔干半岛的其他国家...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 9 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大阪行]]></title>
         <id>https://fatesinger.com/104598</id>
@@ -106,7 +121,7 @@
             作为一款多年前的插件我推出之后就一直几乎没更新，最近有博友推出了开源版，鉴于本插件价格较为昂贵，本人直接做了个大版本...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 2月前</time>
+            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 3月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -153,22 +168,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-07-13T22:24:37+08:00">发布于 4月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[文青的精神故乡]]></title>
-        <id>https://fatesinger.com/105370</id>
-        <link href="https://fatesinger.com/105370"/>
-        <updated>2025-07-11T17:48:23.268Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105370" aria-label="文青的精神故乡" title="文青的精神故乡">文青的精神故乡</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            维也纳中央车站
-从布达佩斯乘坐火车到维也纳，RegioJet 属于欧洲比较便宜的火车票了，商务座200块左右，行程时间不到3小时，...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-07-11T21:59:24+08:00">发布于 4月前</time>
         </div>]]></content>
     </entry>
 </feed>
