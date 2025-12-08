@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-08T05:50:35.133Z</updated>
+    <updated>2025-12-08T17:51:07.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6085,7 +6085,7 @@ on
             罗马尼亚是地处巴尔干半岛的欧盟国家，旅游资源并不丰富，是有一定旅行经历的人才会选择的国家。一方面巴尔干半岛的其他国家...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6598,6 +6598,31 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[屏幕截图录屏工具 FastStone Capture v11.2 便携版 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/faststone-capture/</id>
+        <link href="https://www.shephe.com/resources/faststone-capture/"/>
+        <updated>2025-12-08T17:51:04.503Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/faststone-capture/" rel="bookmark" target="_blank"><span class="screen-reader-text">屏幕截图录屏工具 FastStone Capture v11.2 便携版</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/05/Media2.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/05/Media2-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-12-08T22:44:43+08:00">
+				12/08/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>屏幕截图录屏工具 FastStone Capture v11.2 便携版</span></h2>						<p>前几天，我分享了图像浏览器 FastStone Image Viewer，这是个经典的、小巧的，深受大家喜欢的看图工具。说它“老而弥坚”一点不夸张：界面不花哨、启动快、功能却很实在，从日常浏览到简单编辑都能一把梭。很多朋友留言说用了好多年也…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/faststone-capture/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Irix HDR Pro 2.3.54，高级图像动态范围增强处理 (牧羊人)]]></title>
         <id>https://www.shephe.com/resources/irix-hdr-pro/</id>
         <link href="https://www.shephe.com/resources/irix-hdr-pro/"/>
@@ -6792,31 +6817,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop Harmonize 协调功能是什么？有什么用</span></h2>						<p>Adobe 在最新版本的 Photoshop 中正式引入了全新的 AI「协调（Harmonize）」功能，并进一步强化了与 Lightroom 的协同工作体验。这项功能可自动分析前景与背景的色彩与光线，使插入的对象自然融入画面，显著提升合成…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/photoshop-harmonize-feature-guide/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightroom AI 移除功能不适用于所在地区？为什么 (牧羊人)]]></title>
-        <id>https://www.shephe.com/post/lightroom-ai-remove-region-error/</id>
-        <link href="https://www.shephe.com/post/lightroom-ai-remove-region-error/"/>
-        <updated>2025-11-08T17:45:25.078Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/lightroom-ai-remove-region-error/" rel="bookmark" target="_blank"><span class="screen-reader-text">Lightroom AI 移除功能不适用于所在地区？为什么</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-11-08T22:18:35+08:00">
-				11/08/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Lightroom AI 移除功能不适用于所在地区？为什么</span></h2>						<p>很多人打开 Lightroom 的 Remove（移除）工具，勾选“使用生成式 AI”后，却弹出“此功能在您所在地区不可用”或直接报错。你可能怀疑是软件出现了问题，或者自己的账号出现了异常，甚至以为自己被“区别对待”。但其实，这种情况并非单…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/lightroom-ai-remove-region-error/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
