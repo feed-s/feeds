@@ -2,9 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2025-12-25T05:51:40.520Z</updated>
+    <updated>2025-12-25T17:46:57.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GR IV 简单体验]]></title>
+        <id>https://fatesinger.com/105146</id>
+        <link href="https://fatesinger.com/105146"/>
+        <updated>2025-12-25T17:46:39.912Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105146" aria-label="GR IV 简单体验" title="GR IV 简单体验">GR IV 简单体验</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            本次更新为日常迭代，手上旧款3x 快门数已经到达三万，在二手价值依然在七千的情况下选择了迭代一波，理光原价还是挺难抢的，...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-12-25T22:25:10+08:00">发布于 3 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雅典行]]></title>
+        <id>https://fatesinger.com/105671</id>
+        <link href="https://fatesinger.com/105671"/>
+        <updated>2025-12-25T17:46:39.912Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105671" aria-label="雅典行" title="雅典行">雅典行</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            宪法广场
+晚上的宪法广场
+雅典国家印刷局
+雅典
+雅典的红胖子
+雅典市立博物馆
+国家历史博物馆
+也被称为旧议会大厦，建筑前方是...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-12-25T22:23:43+08:00">发布于 3 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[布拉格]]></title>
+        <id>https://fatesinger.com/105675</id>
+        <link href="https://fatesinger.com/105675"/>
+        <updated>2025-12-25T17:46:39.912Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105675" aria-label="布拉格" title="布拉格">布拉格</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            在布拉格的开局并不是太顺利，我是从非申根区飞过来的，入境排队排了很久，在欧洲能充分的感受到猪肝红的低人一等，出了机场...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-12-25T22:22:39+08:00">发布于 3 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哥本哈根小逛]]></title>
         <id>https://fatesinger.com/105695</id>
@@ -19,7 +71,7 @@
 因为不飞廉航，加上法航金卡的加持，北欧游就选择了北欧航空...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-24T23:53:37+08:00">发布于 13 小时前</time>
+            <time itemprop="datePublished" datetime="2025-12-24T23:53:37+08:00">发布于 1 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -34,7 +86,7 @@
             一提到德国，很多去过或者生活在德国的人都会说无聊，对我来说柏林有一种独特的气质。乍一看可能是一个没有什么色彩的城市，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-23T23:49:04+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-23T23:49:04+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -50,7 +102,7 @@
 荷兰可能是我去过的最喜欢的国家，本次出行有机会再次小逛阿姆斯特丹，还是挺不错的。自以为已经对欧洲轻车熟...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-22T19:52:30+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-22T19:52:30+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -65,7 +117,7 @@
             罗马尼亚是地处巴尔干半岛的欧盟国家，旅游资源并不丰富，是有一定旅行经历的人才会选择的国家。一方面巴尔干半岛的其他国家...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 22 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 23 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -121,55 +173,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-10-06T20:55:44+08:00">发布于 2月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marker Pro 使用教程]]></title>
-        <id>https://fatesinger.com/105679</id>
-        <link href="https://fatesinger.com/105679"/>
-        <updated>2025-09-15T17:44:00.799Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105679" aria-label="Marker Pro 使用教程" title="Marker Pro 使用教程">Marker Pro 使用教程</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            本文仅为插件使用帮助，插件更新内容请关注站内另一篇文章。
-本轮更新已接近尾声，因为加了不少功能，干脆写一篇说明书。
-卸...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-15T19:58:28+08:00">发布于 3月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaguar 3.0]]></title>
-        <id>https://fatesinger.com/105389</id>
-        <link href="https://fatesinger.com/105389"/>
-        <updated>2025-09-06T17:44:00.296Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105389" aria-label="Jaguar 3.0" title="Jaguar 3.0">Jaguar 3.0</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            WordPress 主题 Jaguar
-最新版本为3.1.1，强烈建议使用最新版本的主题和WordPress。
-又翻新了一个主题，之前的设计现在已经完...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/themes" rel="category tag">WordPress 主题</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-06T21:24:44+08:00">发布于 3月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marker Pro 2.0]]></title>
-        <id>https://fatesinger.com/105387</id>
-        <link href="https://fatesinger.com/105387"/>
-        <updated>2025-09-03T17:44:14.409Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105387" aria-label="Marker Pro 2.0" title="Marker Pro 2.0">Marker Pro 2.0</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            作为一款多年前的插件我推出之后就一直几乎没更新，最近有博友推出了开源版，鉴于本插件价格较为昂贵，本人直接做了个大版本...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/plugins" rel="category tag">WordPress 插件</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-09-03T23:40:21+08:00">发布于 3月前</time>
         </div>]]></content>
     </entry>
 </feed>
