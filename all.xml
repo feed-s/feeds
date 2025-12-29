@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-12-29T05:55:31.390Z</updated>
+    <updated>2025-12-29T17:47:53.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6074,6 +6074,24 @@ on
           </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[巴黎散记 II (大发贱志)]]></title>
+        <id>https://fatesinger.com/105363</id>
+        <link href="https://fatesinger.com/105363"/>
+        <updated>2025-12-29T17:47:36.464Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105363" aria-label="巴黎散记 II" title="巴黎散记 II">巴黎散记 II</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            参观完巴黎圣母院，预估了一下时间，开始往卢浮宫出发，临时买票没买到最早场，只能买次早场。
+微小的圣诞氛围
+骑行
+卢浮宫东...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2025-12-29T15:51:37+08:00">发布于 9 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[巴黎散记 (大发贱志)]]></title>
         <id>https://fatesinger.com/105360</id>
         <link href="https://fatesinger.com/105360"/>
@@ -6086,7 +6104,7 @@ on
 巴黎作为顶级城市之一，来看一看总归是好的。初到戴高乐机场还是较为震惊的，到处都是中文标识。本次乘坐的法航，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-27T15:56:34+08:00">发布于 1 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-27T15:56:34+08:00">发布于 2 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6101,7 +6119,7 @@ on
             本次更新为日常迭代，手上旧款3x 快门数已经到达三万，在二手价值依然在七千的情况下选择了迭代一波，理光原价还是挺难抢的，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-25T22:25:10+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-25T22:25:10+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6123,7 +6141,7 @@ on
 也被称为旧议会大厦，建筑前方是...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-25T22:23:43+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-25T22:23:43+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6138,7 +6156,7 @@ on
             在布拉格的开局并不是太顺利，我是从非申根区飞过来的，入境排队排了很久，在欧洲能充分的感受到猪肝红的低人一等，出了机场...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-25T22:22:39+08:00">发布于 3 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-25T22:22:39+08:00">发布于 4 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6155,7 +6173,7 @@ on
 因为不飞廉航，加上法航金卡的加持，北欧游就选择了北欧航空...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-24T23:53:37+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-24T23:53:37+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6170,7 +6188,7 @@ on
             一提到德国，很多去过或者生活在德国的人都会说无聊，对我来说柏林有一种独特的气质。乍一看可能是一个没有什么色彩的城市，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-23T23:49:04+08:00">发布于 5 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-23T23:49:04+08:00">发布于 6 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6186,7 +6204,7 @@ on
 荷兰可能是我去过的最喜欢的国家，本次出行有机会再次小逛阿姆斯特丹，还是挺不错的。自以为已经对欧洲轻车熟...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-22T19:52:30+08:00">发布于 6 天前</time>
+            <time itemprop="datePublished" datetime="2025-12-22T19:52:30+08:00">发布于 7 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6201,32 +6219,7 @@ on
             罗马尼亚是地处巴尔干半岛的欧盟国家，旅游资源并不丰富，是有一定旅行经历的人才会选择的国家。一方面巴尔干半岛的其他国家...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 26 天前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大阪行 (大发贱志)]]></title>
-        <id>https://fatesinger.com/104598</id>
-        <link href="https://fatesinger.com/104598"/>
-        <updated>2025-10-08T05:45:33.859Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/104598" aria-label="大阪行" title="大阪行">大阪行</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            难波
-戎桥筋商店街，筋在大阪是南北向道路的意思。
-戎桥筋商店街
-路人
-灯牌
-街边小店
-法善寺
-经典日本元素
-游客很多
-道頓堀
-...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-10-08T11:32:50+08:00">发布于 2月前</time>
+            <time itemprop="datePublished" datetime="2025-12-02T16:06:08+08:00">发布于 27 天前</time>
         </div>]]></content>
     </entry>
     <entry>
