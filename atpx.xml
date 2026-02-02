@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2026-02-01T06:27:59.296Z</updated>
+    <updated>2026-02-02T06:41:56.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[听风的歌]]></title>
+        <id>https://atpx.com/blog/hear-the-wind-sing/</id>
+        <link href="https://atpx.com/blog/hear-the-wind-sing/"/>
+        <updated>2026-02-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/hear-the-wind-sing/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2026/0126-hear-the-wind-sing.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">听风的歌</h2>
+                            <div class="post-tile-description">偶尔听听风的歌，想想忘记的事。</div>
+                        </div>
+                        <div class="post-tile-time">February 1, 2026</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[偶尔是深夜就好了]]></title>
         <id>https://atpx.com/blog/sometimes-midnight-is-enough/</id>
@@ -245,33 +272,6 @@
                             <div class="post-tile-description">2024 年，数字生活降级的一年。</div>
                         </div>
                         <div class="post-tile-time">December 20, 2024</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小城与确定性的墙]]></title>
-        <id>https://atpx.com/blog/the-city-and-its-certain-walls/</id>
-        <link href="https://atpx.com/blog/the-city-and-its-certain-walls/"/>
-        <updated>2025-04-18T00:26:24.477Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/the-city-and-its-certain-walls/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0116-the-city-and-its-uncertain-walls.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">小城与确定性的墙</h2>
-                            <div class="post-tile-description">村上春树新书《小城与不确定性的墙》，与确定的想法。</div>
-                        </div>
-                        <div class="post-tile-time">November 3, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
