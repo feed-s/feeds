@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://szclsya.me/zh-cn/posts/</id>
     <title>Leo's Field</title>
-    <updated>2026-02-09T18:31:56.188Z</updated>
+    <updated>2026-02-10T06:45:50.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://szclsya.me/zh-cn/posts/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[回望 2025：赛博锅炉工]]></title>
+        <id>https://szclsya.me/zh-cn/posts/life/2025-recap/</id>
+        <link href="https://szclsya.me/zh-cn/posts/life/2025-recap/"/>
+        <updated>2026-02-10T06:45:38.023Z</updated>
+        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
+              <span class="item-preinfo">2026-02-07</span>
+              <div class="hide-on-wide" style="display: inline"></div>
+            </div>
+            <a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/life/2025-recap/">
+              <h1 class="item-title">回望 2025：赛博锅炉工</h1>
+              <p class="item-description">Status quo and Procrastination</p>
+              <div class="badge hide-on-narrowest"></div>
+            </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[回望 2024：漂泊]]></title>
         <id>https://szclsya.me/zh-cn/posts/life/2024-recap/</id>
@@ -137,21 +152,6 @@
             <a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/blog-story/mk2/use-cloudflare-pages/">
               <h1 class="item-title">将博客部署于 CloudFlare Pages 上</h1>
               <p class="item-description">Leo's Field, now hosted on CloudFlare data centers.</p>
-              <div class="badge hide-on-narrowest"><span>blog</span></div>
-            </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重新设计博客主题]]></title>
-        <id>https://szclsya.me/zh-cn/posts/blog-story/mk2/notes/</id>
-        <link href="https://szclsya.me/zh-cn/posts/blog-story/mk2/notes/"/>
-        <updated>2023-02-25T22:11:26.527Z</updated>
-        <content type="html"><![CDATA[<div class="item-pre" style="margin-top: .45em">
-              <span class="item-preinfo">2021-04-12</span>
-              <div class="hide-on-wide" style="display: inline"><span style="margin-right: .4em">blog</span></div>
-            </div>
-            <a class="item-content no-dot" href="https://szclsya.me/zh-cn/posts/blog-story/mk2/notes/">
-              <h1 class="item-title">重新设计博客主题</h1>
-              <p class="item-description">Leo's Field, mkII.</p>
               <div class="badge hide-on-narrowest"><span>blog</span></div>
             </a>]]></content>
     </entry>
