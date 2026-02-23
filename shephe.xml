@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-02-23T06:44:38.395Z</updated>
+    <updated>2026-02-23T18:38:16.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[删繁就简，重新出发 —— 关于启用新域名的说明]]></title>
+        <id>https://www.shephe.com/post/lyoo/</id>
+        <link href="https://www.shephe.com/post/lyoo/"/>
+        <updated>2026-02-23T18:38:13.186Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/lyoo/" rel="bookmark" target="_blank"><span class="screen-reader-text">删繁就简，重新出发 —— 关于启用新域名的说明</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/felix-irawan-street-photography-1600x1077-1.jpg 1551w, https://www.shephe.com/wp-content/uploads/2026/02/felix-irawan-street-photography-1600x1077-1-768x510.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-02-23T22:26:15+08:00">
+				02/23/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>删繁就简，重新出发 —— 关于启用新域名的说明</span></h2>						<p>首先，祝大家新年好。 时间过得很快，SHEPHE.COM 这个域名已经陪伴我走了很长一段路（2015 ~）。从最初单纯记录生活与摄影，到后来逐渐加入摄影教程、后期资源分享、WordPress 折腾笔记以及 VPS 运维记录，网站的内容在不断…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/lyoo/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件]]></title>
         <id>https://www.shephe.com/resources/dxo-photolab-elite/</id>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>21 种经典婚纱照拍摄姿势（婚纱照构图）</span></h2>						<p>最近在学习拍照，前行路上发现困难重重啊，发现自己不管是构图、光影还是后期都有太多的不足。之前整理笔记发现一套收藏已久的人像摆姿，细细看来觉得实用性很广，甚是经典，于是分享给大家。这会是一套系列文章，我将以翻译原文并结合自己理解的方式更新，前…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-weddings/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 种经典情侣（夫妻）照拍照姿势参考]]></title>
-        <id>https://www.shephe.com/photography/21-sample-poses-with-photographing-couples/</id>
-        <link href="https://www.shephe.com/photography/21-sample-poses-with-photographing-couples/"/>
-        <updated>2026-02-22T17:55:38.698Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-couples/" rel="bookmark" target="_blank"><span class="screen-reader-text">21 种经典情侣（夫妻）照拍照姿势参考</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2019/10/couple02.gif" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2019-10-14T19:27:01+08:00">
-				10/14/2019			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>21 种经典情侣（夫妻）照拍照姿势参考</span></h2>						<p>相对于个人拍摄更注重于个性来说，情侣或者夫妻的拍摄更注重于两人之间的交流与流露出的情感。总的来说，情侣之间的拍照会相对轻松一些，如果刚开始的时候他们感到害羞或者不知所措，没关系，告诉他们你想拍的感觉，让他们沉浸双方情感的环境里，就不难让他们…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-couples/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
