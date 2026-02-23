@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-22T17:55:41.928Z</updated>
+    <updated>2026-02-23T06:44:38.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -597,7 +597,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -615,7 +615,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -885,7 +885,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -903,7 +903,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -921,7 +921,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -939,7 +939,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -6590,6 +6590,81 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/dxo-photolab-elite/</id>
+        <link href="https://www.shephe.com/resources/dxo-photolab-elite/"/>
+        <updated>2026-02-23T06:44:34.971Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-photolab-elite/" rel="bookmark" target="_blank"><span class="screen-reader-text">DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/11/DxO-PhotoLab-8-Elite-01.webp 1920w, https://www.shephe.com/wp-content/uploads/2024/11/DxO-PhotoLab-8-Elite-01-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/11/DxO-PhotoLab-8-Elite-01-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-11-15T19:32:20+08:00">
+				11/15/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件</span></h2>						<p>DxO PhotoLab 是一款专业级 RAW 图像处理软件，专为摄影师和影像工作者打造。它不仅可以优化 RAW 和 JPEG 照片的质量，还提供了一整套智能校正工具，帮助用户在自动优化的基础上进行手动微调。软件具备丰富的编辑功能，如曝光调…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/dxo-photolab-elite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么叫景深合成？Photoshop 中如何合成景深 (牧羊人)]]></title>
+        <id>https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/</id>
+        <link href="https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/"/>
+        <updated>2026-02-23T06:44:34.973Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/" rel="bookmark" target="_blank"><span class="screen-reader-text">什么叫景深合成？Photoshop 中如何合成景深</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo.webp 1680w, https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo-768x384.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-14T13:00:00+08:00">
+				04/14/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>什么叫景深合成？Photoshop 中如何合成景深</span></h2>						<p>景深合成是一种摄影技术，用于在一张照片中同时保持前景和背景的清晰度。在拍摄过程中，摄影师通常会选择一个特定的光圈大小，以便使前景和背景都能够保持一定程度的清晰度。然而，有时候即使使用了较小的光圈，也无法完全保证前后景都清晰，特别是在被摄主体…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[魅态人像摆姿技巧:魅态摄影大师摆姿技巧与杰作(比利·皮格勒姆) (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/</id>
+        <link href="https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/"/>
+        <updated>2026-02-23T06:44:34.984Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/" rel="bookmark" target="_blank"><span class="screen-reader-text">魅态人像摆姿技巧:魅态摄影大师摆姿技巧与杰作(比利·皮格勒姆)</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/young-sex-lady-window-窗台美女.webp 1920w, https://www.shephe.com/wp-content/uploads/2026/02/young-sex-lady-window-窗台美女-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-28T15:28:00+08:00">
+				04/28/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>魅态人像摆姿技巧:魅态摄影大师摆姿技巧与杰作(比利·皮格勒姆)</span></h2>						<p>《魅态人像摆姿技巧》是由比利·皮格勒姆（Billy Pegram）撰写的一本专业书籍，专门为摄影师提供关于人像摄影摆姿的详细指导。这本书旨在帮助摄影师更好地掌握如何引导模特摆出自然、优雅和有吸引力的姿势，从而拍摄出令人惊艳的人像照片。 比利…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[婚礼与人像修图全流程解析：从原片到惊艳成品 (牧羊人)]]></title>
         <id>https://www.shephe.com/photography/photoshop-portrait-retouching/</id>
         <link href="https://www.shephe.com/photography/photoshop-portrait-retouching/"/>
@@ -6734,81 +6809,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>21 种经典情侣（夫妻）照拍照姿势参考</span></h2>						<p>相对于个人拍摄更注重于个性来说，情侣或者夫妻的拍摄更注重于两人之间的交流与流露出的情感。总的来说，情侣之间的拍照会相对轻松一些，如果刚开始的时候他们感到害羞或者不知所措，没关系，告诉他们你想拍的感觉，让他们沉浸双方情感的环境里，就不难让他们…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-couples/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 种经典儿童拍照姿势参考（儿童摄影） (牧羊人)]]></title>
-        <id>https://www.shephe.com/photography/21-sample-poses-with-photographing-children/</id>
-        <link href="https://www.shephe.com/photography/21-sample-poses-with-photographing-children/"/>
-        <updated>2026-02-22T17:55:38.700Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-children/" rel="bookmark" target="_blank"><span class="screen-reader-text">21 种经典儿童拍照姿势参考（儿童摄影）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2019/10/posing-guide-children-07.png" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2019-10-19T10:23:31+08:00">
-				10/19/2019			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>21 种经典儿童拍照姿势参考（儿童摄影）</span></h2>						<p>身为父母，总希望把孩子成长中的点点滴滴用照片的方式记录下来，虽然孩子真实的举止行为更为珍贵，但如果您还喜欢把这些天真的照片和亲人朋友一起分享，那么，建议您学习一下本文的 21 种经典儿童拍照姿势，有助于你把握最精彩的瞬间，更好地给孩子拍出值…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-children/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 种经典男士拍照姿势参考（男士摆姿） (牧羊人)]]></title>
-        <id>https://www.shephe.com/photography/21-sample-poses-with-photographing-men/</id>
-        <link href="https://www.shephe.com/photography/21-sample-poses-with-photographing-men/"/>
-        <updated>2026-02-22T17:55:38.701Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-men/" rel="bookmark" target="_blank"><span class="screen-reader-text">21 种经典男士拍照姿势参考（男士摆姿）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2019/10/posing-men-subjects01.png" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2019-10-19T17:45:52+08:00">
-				10/19/2019			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>21 种经典男士拍照姿势参考（男士摆姿）</span></h2>						<p>像素工坊 陆陆续续已经更新了四篇“经典”拍照摆姿的文章了，现在终于讲到男士人像和女士人像这两个摄影大类了，以下首先分享 21 种经典男士拍照姿势。相较而言男生拍照的机会不多而且能用的摆姿有限，甚至有很多时候拍照对男人来说是一种负担，站在镜头…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/21-sample-poses-with-photographing-men/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 种经典女士拍照姿势参考（人像摆姿） (牧羊人)]]></title>
-        <id>https://www.shephe.com/photography/21-sample-poses-photographing-female-models/</id>
-        <link href="https://www.shephe.com/photography/21-sample-poses-photographing-female-models/"/>
-        <updated>2026-02-22T17:55:38.703Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/21-sample-poses-photographing-female-models/" rel="bookmark" target="_blank"><span class="screen-reader-text">21 种经典女士拍照姿势参考（人像摆姿）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2019/10/posing-photographing-female-models21.png" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2019-10-20T09:55:28+08:00">
-				10/20/2019			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>21 种经典女士拍照姿势参考（人像摆姿）</span></h2>						<p>搞摄影缺了女模特（美女）是没有灵魂的！不论是拍摄商业产品、时尚杂志，还是单纯想拍出漂亮的个人照片，模特儿如何摆 POSE 是一个大学问。好的姿势不仅能让漂亮的女生锦上添花，也能为那些不那么出众的女生规避一些不足，以下是 21 个基本的模特摆…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/21-sample-poses-photographing-female-models/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
