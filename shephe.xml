@@ -2,9 +2,134 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-02-25T18:41:42.207Z</updated>
+    <updated>2026-02-26T06:38:10.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[修图先降噪还是调色？摄影后期的正确顺序解析]]></title>
+        <id>https://www.shephe.com/photography/edit-or-denoise-first-photo-editing-workflow/</id>
+        <link href="https://www.shephe.com/photography/edit-or-denoise-first-photo-editing-workflow/"/>
+        <updated>2026-02-26T06:38:07.112Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/edit-or-denoise-first-photo-editing-workflow/" rel="bookmark" target="_blank"><span class="screen-reader-text">修图先降噪还是调色？摄影后期的正确顺序解析</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/11/Bruce_Barnbaum_The_Art_of_Photography_1122_12-02-23.webp 1103w, https://www.shephe.com/wp-content/uploads/2025/11/Bruce_Barnbaum_The_Art_of_Photography_1122_12-02-23-621x768.webp 621w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-02-26T07:53:11+08:00">
+				02/26/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>修图先降噪还是调色？摄影后期的正确顺序解析</span></h2>						<p>在摄影后期中，“先降噪还是先调色”是一个长期存在的争议问题。很多人根据个人习惯给出不同答案，有人认为调色会放大噪点，所以必须先降噪；也有人认为应当先把整体色调和曝光结构确定，再根据实际情况决定降噪强度。表面上看这是一个顺序问题，但本质上，它…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/edit-or-denoise-first-photo-editing-workflow/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ON1 Photo RAW 2026 v20.3.0.18187 照片编辑管理器]]></title>
+        <id>https://www.shephe.com/resources/on1-photo-raw/</id>
+        <link href="https://www.shephe.com/resources/on1-photo-raw/"/>
+        <updated>2026-02-26T06:38:07.116Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/on1-photo-raw/" rel="bookmark" target="_blank"><span class="screen-reader-text">ON1 Photo RAW 2026 v20.3.0.18187 照片编辑管理器</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/10/on1-photo-raw-2026.webp 1200w, https://www.shephe.com/wp-content/uploads/2025/10/on1-photo-raw-2026-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-08-26T10:31:00+08:00">
+				08/26/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>ON1 Photo RAW 2026 v20.3.0.18187 照片编辑管理器</span></h2>						<p>又一款 RAW 照片编辑器分享给各位，它和 Lightroom、DxO PureRAW、DxO PhotoLab Elite、Adobe Camera Raw 类似，也是一款专业的 RAW 格式照片处理软件，俗称“转档插件”。对于摄影爱好者…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/on1-photo-raw/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JangaFX LiquiGen v1.0.5 实时液体特效生成工具]]></title>
+        <id>https://www.shephe.com/resources/jangafx-liquigen/</id>
+        <link href="https://www.shephe.com/resources/jangafx-liquigen/"/>
+        <updated>2026-02-26T06:38:07.116Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/jangafx-liquigen/" rel="bookmark" target="_blank"><span class="screen-reader-text">JangaFX LiquiGen v1.0.5 实时液体特效生成工具</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/JangaFX-LiquiGen.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/02/JangaFX-LiquiGen-768x417.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-02-25T23:40:28+08:00">
+				02/25/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>JangaFX LiquiGen v1.0.5 实时液体特效生成工具</span></h2>						<p>JangaFX LiquiGen 是 JangaFX 推出的一款面向实时渲染与特效制作的流体贴图生成工具，核心目标是把“看起来像真实液体在流动”的细节，用更轻量、更易用的方式打包成可直接用于引擎或材质系统的贴图数据。你可以把它理解为：不一定…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/jangafx-liquigen/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数字音频工作站 Fender Studio Pro 8 v8.0.1 优化版]]></title>
+        <id>https://www.shephe.com/resources/fender-studio-pro/</id>
+        <link href="https://www.shephe.com/resources/fender-studio-pro/"/>
+        <updated>2026-02-26T06:38:07.118Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/fender-studio-pro/" rel="bookmark" target="_blank"><span class="screen-reader-text">数字音频工作站 Fender Studio Pro 8 v8.0.1 优化版</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/Fender-Studio-Pro-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/02/Fender-Studio-Pro-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/02/Fender-Studio-Pro-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-02-25T23:24:32+08:00">
+				02/25/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>数字音频工作站 Fender Studio Pro 8 v8.0.1 优化版</span></h2>						<p>Fender Studio Pro 8 是一款面向吉他手与音乐创作者的数字音频工作站（DAW，Digital Audio Workstation）。作为 Fender 在数字音乐领域的重要产品，它不仅承载了传统录音软件的多轨编辑与混音能力，…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/fender-studio-pro/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfectly Clear WorkBench 5.0.2.3110 人工智能图像处理工具便携免安装版]]></title>
+        <id>https://www.shephe.com/resources/perfectly-clear-workbench/</id>
+        <link href="https://www.shephe.com/resources/perfectly-clear-workbench/"/>
+        <updated>2026-02-26T06:38:07.121Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/perfectly-clear-workbench/" rel="bookmark" target="_blank"><span class="screen-reader-text">Perfectly Clear WorkBench 5.0.2.3110 人工智能图像处理工具便携免安装版</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-19T14:07:00+08:00">
+				07/19/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Perfectly Clear WorkBench 5.0.2.3110 人工智能图像处理工具便携免安装版</span></h2>						<p>Perfectly Clear WorkBench 是一款用于图像处理的智能化工具，广泛应用于摄影和设计领域。它利用 AI 技术和高级算法自动优化图像，特别在人像修复和场景优化方面表现优异，能够为用户节省大量手动操作时间。它支持批量导入照片…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/perfectly-clear-workbench/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Photoshop 2026 27.4.0.15 中文破解版下载（直装版 & 便携版长期更新）]]></title>
         <id>https://www.shephe.com/resources/adobe-photoshop/</id>
@@ -100,131 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>删繁就简，重新出发 —— 关于启用新域名的说明</span></h2>						<p>首先，祝大家新年好。 时间过得很快，SHEPHE.COM 这个域名已经陪伴我走了很长一段路（2015 ~）。从最初单纯记录生活与摄影，到后来逐渐加入摄影教程、后期资源分享、WordPress 折腾笔记以及 VPS 运维记录，网站的内容在不断…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/lyoo/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件]]></title>
-        <id>https://www.shephe.com/resources/dxo-photolab-elite/</id>
-        <link href="https://www.shephe.com/resources/dxo-photolab-elite/"/>
-        <updated>2026-02-23T06:44:34.971Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-photolab-elite/" rel="bookmark" target="_blank"><span class="screen-reader-text">DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/11/DxO-PhotoLab-8-Elite-01.webp 1920w, https://www.shephe.com/wp-content/uploads/2024/11/DxO-PhotoLab-8-Elite-01-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/11/DxO-PhotoLab-8-Elite-01-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-11-15T19:32:20+08:00">
-				11/15/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DxO PhotoLab Elite 9.5.0 RAW 图像编辑处理软件</span></h2>						<p>DxO PhotoLab 是一款专业级 RAW 图像处理软件，专为摄影师和影像工作者打造。它不仅可以优化 RAW 和 JPEG 照片的质量，还提供了一整套智能校正工具，帮助用户在自动优化的基础上进行手动微调。软件具备丰富的编辑功能，如曝光调…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/dxo-photolab-elite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么叫景深合成？Photoshop 中如何合成景深]]></title>
-        <id>https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/</id>
-        <link href="https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/"/>
-        <updated>2026-02-23T06:44:34.973Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/" rel="bookmark" target="_blank"><span class="screen-reader-text">什么叫景深合成？Photoshop 中如何合成景深</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo.webp 1680w, https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo-768x384.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-14T13:00:00+08:00">
-				04/14/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>什么叫景深合成？Photoshop 中如何合成景深</span></h2>						<p>景深合成是一种摄影技术，用于在一张照片中同时保持前景和背景的清晰度。在拍摄过程中，摄影师通常会选择一个特定的光圈大小，以便使前景和背景都能够保持一定程度的清晰度。然而，有时候即使使用了较小的光圈，也无法完全保证前后景都清晰，特别是在被摄主体…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/%e6%99%af%e6%b7%b1%e5%90%88%e6%88%90/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魅态人像摆姿技巧:魅态摄影大师摆姿技巧与杰作(比利·皮格勒姆)]]></title>
-        <id>https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/</id>
-        <link href="https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/"/>
-        <updated>2026-02-23T06:44:34.984Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/" rel="bookmark" target="_blank"><span class="screen-reader-text">魅态人像摆姿技巧:魅态摄影大师摆姿技巧与杰作(比利·皮格勒姆)</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/young-sex-lady-window-窗台美女.webp 1920w, https://www.shephe.com/wp-content/uploads/2026/02/young-sex-lady-window-窗台美女-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-04-28T15:28:00+08:00">
-				04/28/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>魅态人像摆姿技巧:魅态摄影大师摆姿技巧与杰作(比利·皮格勒姆)</span></h2>						<p>《魅态人像摆姿技巧》是由比利·皮格勒姆（Billy Pegram）撰写的一本专业书籍，专门为摄影师提供关于人像摄影摆姿的详细指导。这本书旨在帮助摄影师更好地掌握如何引导模特摆出自然、优雅和有吸引力的姿势，从而拍摄出令人惊艳的人像照片。 比利…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/%e9%ad%85%e6%80%81%e4%ba%ba%e5%83%8f%e6%91%86%e5%a7%bf%e6%8a%80%e5%b7%a7/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[婚礼与人像修图全流程解析：从原片到惊艳成品]]></title>
-        <id>https://www.shephe.com/photography/photoshop-portrait-retouching/</id>
-        <link href="https://www.shephe.com/photography/photoshop-portrait-retouching/"/>
-        <updated>2026-02-22T17:55:38.689Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/photoshop-portrait-retouching/" rel="bookmark" target="_blank"><span class="screen-reader-text">婚礼与人像修图全流程解析：从原片到惊艳成品</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/06/Hotel-Irvine-Wedding-Photography.jpg 1200w, https://www.shephe.com/wp-content/uploads/2024/06/Hotel-Irvine-Wedding-Photography-768x512.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-12-01T11:48:34+08:00">
-				12/01/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>婚礼与人像修图全流程解析：从原片到惊艳成品</span></h2>						<p>以下是婚礼和人像大批量修图的高效处理流程。该流程涵盖了从基础调整到高级美化的步骤，适用于 Photoshop、Lightroom 等工具，并包含常用的磨皮和色调插件使用说明，便于处理大量照片，确保画面质量和效果的一致性。 这张图是从一个主播…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/photoshop-portrait-retouching/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[施特拉茨《世界女性人体美》全彩高清版下载]]></title>
-        <id>https://www.shephe.com/resources/ploss-stratz-the-beauty-of-the-female-body/</id>
-        <link href="https://www.shephe.com/resources/ploss-stratz-the-beauty-of-the-female-body/"/>
-        <updated>2026-02-22T17:55:38.690Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/ploss-stratz-the-beauty-of-the-female-body/" rel="bookmark" target="_blank"><span class="screen-reader-text">施特拉茨《世界女性人体美》全彩高清版下载</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/young-sex-lady-window-窗台美女.webp 1920w, https://www.shephe.com/wp-content/uploads/2026/02/young-sex-lady-window-窗台美女-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-10-17T19:04:10+08:00">
-				10/17/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>施特拉茨《世界女性人体美》全彩高清版下载</span></h2>						<p>《世界女性人体美》（Die Schönheit des Weiblichen Körpers，英语译名为 The Beauty of the Female Body）是由德国医学家兼人类学家赫尔曼·施特拉茨（Hermann Heinrich…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/ploss-stratz-the-beauty-of-the-female-body/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
