@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-02-27T06:30:15.908Z</updated>
+    <updated>2026-02-27T18:04:41.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6174,7 +6174,7 @@ on
 卢浮宫东...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-29T15:51:37+08:00">发布于 1月前</time>
+            <time itemprop="datePublished" datetime="2025-12-29T15:51:37+08:00">发布于 2月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6822,7 +6822,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/hear-the-wind-sing/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2026/0126-hear-the-wind-sing.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0126-hear-the-wind-sing.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -6849,7 +6849,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/sometimes-midnight-is-enough/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0125-sometimes-midnight-is-enough.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0125-sometimes-midnight-is-enough.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -6876,7 +6876,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/airpods-pro-3/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0124-airpods-pro-3.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0124-airpods-pro-3.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -6903,7 +6903,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/time-on-the-bus/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0123-time-on-the-bus.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0123-time-on-the-bus.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -6930,7 +6930,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/from-whois-to-rdap/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0122-whois-atpx-com.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0122-whois-atpx-com.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -6957,7 +6957,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/nfs-share-over-wireguard/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0121-nfs-share-over-wireguard.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0121-nfs-share-over-wireguard.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -6984,7 +6984,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/selfhosted-music-streaming-server/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0120-selfhosted-music-streaming-server.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0120-selfhosted-music-streaming-server.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -7011,7 +7011,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/i-stopped-exploring-the-fediverse/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2025/0119-give-up-fediverse.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0119-give-up-fediverse.jpg">
                         
                     </div>
                     <div class="post-tile-content">
@@ -7065,7 +7065,7 @@ on
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/my-digital-life-downgrade/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2024/0117-my-digital-downgrade.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2024/0117-my-digital-downgrade.jpg">
                         
                     </div>
                     <div class="post-tile-content">
