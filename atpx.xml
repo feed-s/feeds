@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2026-03-01T06:09:55.189Z</updated>
+    <updated>2026-03-01T17:52:33.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[自建 S3 兼容对象存储服务 Garage]]></title>
+        <id>https://atpx.com/blog/garage-s3/</id>
+        <link href="https://atpx.com/blog/garage-s3/"/>
+        <updated>2026-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/garage-s3/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2026/0127-garage-s3.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-blue">Tech</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">自建 S3 兼容对象存储服务 Garage</h2>
+                            <div class="post-tile-description">自建基于 Rust 开发的开源 S3 兼容分布式对象存储服务 Garage 流程。</div>
+                        </div>
+                        <div class="post-tile-time">March 1, 2026</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[听风的歌]]></title>
         <id>https://atpx.com/blog/hear-the-wind-sing/</id>
@@ -245,33 +272,6 @@
                             <div class="post-tile-description">网络扫描、引战、争吵，我们似乎已经对这些无处不在的互联网背景噪音无能为力了。</div>
                         </div>
                         <div class="post-tile-time">December 30, 2024</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的数字生活降级]]></title>
-        <id>https://atpx.com/blog/my-digital-life-downgrade/</id>
-        <link href="https://atpx.com/blog/my-digital-life-downgrade/"/>
-        <updated>2025-04-18T00:26:24.477Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/my-digital-life-downgrade/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2024/0117-my-digital-downgrade.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-orange">Nichijou</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">我的数字生活降级</h2>
-                            <div class="post-tile-description">2024 年，数字生活降级的一年。</div>
-                        </div>
-                        <div class="post-tile-time">December 20, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
