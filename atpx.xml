@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2026-03-03T06:29:06.422Z</updated>
+    <updated>2026-03-03T18:09:17.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/garage-s3/">
                     <div class="post-tile-media">
                     
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/media/images/blog/thumb/2026/0127-garage-s3.jpg">
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0127-garage-s3.jpg">
                         
                     </div>
                     <div class="post-tile-content">
