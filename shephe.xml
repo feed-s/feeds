@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-03-04T06:08:22.192Z</updated>
+    <updated>2026-03-04T18:07:46.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adobe Acrobat Pro v25.1.21265 PDF 文档处理软件]]></title>
+        <id>https://www.shephe.com/resources/adobe-acrobat-pro-dc/</id>
+        <link href="https://www.shephe.com/resources/adobe-acrobat-pro-dc/"/>
+        <updated>2026-03-04T18:07:42.853Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-acrobat-pro-dc/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Acrobat Pro v25.1.21265 PDF 文档处理软件</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/02/Adobe-Acrobat-Pro-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/02/Adobe-Acrobat-Pro-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2025/02/Adobe-Acrobat-Pro-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-02-18T15:40:00+08:00">
+				02/18/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Acrobat Pro v25.1.21265 PDF 文档处理软件</span></h2>						<p>本站分享了那么多的免费资源，其实绝大多数都是和图像处理、视频处理强相关的软件和资源，为什么要分享 Acrobat Pro DC 呢？因为它实在是太强了，不管你是做文档归档、资料编辑，还是企业内部的 PDF 审批流转，Acrobat Pro …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-acrobat-pro-dc/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源多功能截图工具 ShareX v19.0.2 分享 & 上手]]></title>
+        <id>https://www.shephe.com/resources/sharex/</id>
+        <link href="https://www.shephe.com/resources/sharex/"/>
+        <updated>2026-03-04T18:07:42.855Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/sharex/" rel="bookmark" target="_blank"><span class="screen-reader-text">&nbsp;开源多功能截图工具 ShareX v19.0.2 分享 &amp; 上手</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/ShareX-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/03/ShareX-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/03/ShareX-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-04T22:04:45+08:00">
+				03/04/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>&nbsp;开源多功能截图工具 ShareX v19.0.2 分享 &amp; 上手</span></h2>						<p>各位小伙伴，你现在用的是微信自带截图，还是 Windows 自带的截图工具？又或者是比较专业一点的 Snipaste？如果你已经觉得它们够用了，那今天这款工具可能会让你重新定义“截图”这件事。 这次要介绍的 ShareX，说它比同类工具强不…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/sharex/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免费！小巧强悍的数码照片浏览器 bkViewer v8.5d]]></title>
         <id>https://www.shephe.com/resources/bkviewer/</id>
@@ -175,56 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>12 个日出摄影技巧，助你拍出惊艳佳作</span></h2>						<p>要拍摄令人惊叹的日出照片，并不如想象中那么难，甚至能让专业摄影师都印象深刻。作为一名有多年日出摄影经验的摄影师，我逐步开发出了一套行之有效的技巧和窍门，帮助我每次都能捕捉到惊艳的画面。这些内容包括： 几乎不会出错的日出拍摄相机设置 日出摄影…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/capturing-sunrise-sunset-images/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳街头摄影相机设置，街拍参数一览]]></title>
-        <id>https://www.shephe.com/photography/best-street-photography-settings/</id>
-        <link href="https://www.shephe.com/photography/best-street-photography-settings/"/>
-        <updated>2026-03-02T18:07:26.536Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/best-street-photography-settings/" rel="bookmark" target="_blank"><span class="screen-reader-text">最佳街头摄影相机设置，街拍参数一览</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/09/focus-zone.webp 900w, https://www.shephe.com/wp-content/uploads/2024/09/focus-zone-768x432.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-10-21T15:54:29+08:00">
-				10/21/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>最佳街头摄影相机设置，街拍参数一览</span></h2>						<p>在街头摄影的过程中，选择最为合适的相机设置往往颇具难度。街头摄影里，精彩瞬间转瞬即逝，你根本没有充足的时间去调整光圈、快门速度以及 ISO。而且，应对快速变化的光线也绝非易事，正因如此，很多人都难以拍摄出精彩的照片。 好消息是，在我多年的街…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/best-street-photography-settings/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[屏幕截图录屏工具 FastStone Capture v11.2 便携版]]></title>
-        <id>https://www.shephe.com/resources/faststone-capture/</id>
-        <link href="https://www.shephe.com/resources/faststone-capture/"/>
-        <updated>2026-03-02T18:07:26.539Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/faststone-capture/" rel="bookmark" target="_blank"><span class="screen-reader-text">屏幕截图录屏工具 FastStone Capture v11.2 便携版</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/img-stitching.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/03/img-stitching-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-12-08T22:44:43+08:00">
-				12/08/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>屏幕截图录屏工具 FastStone Capture v11.2 便携版</span></h2>						<p>前几天，我分享了图像浏览器 FastStone Image Viewer，这是个经典的、小巧的，深受大家喜欢的看图工具。说它“老而弥坚”一点不夸张：界面不花哨、启动快、功能却很实在，从日常浏览到简单编辑都能一把梭。很多朋友留言说用了好多年也…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/faststone-capture/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
