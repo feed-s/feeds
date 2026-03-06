@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-03-06T06:08:40.187Z</updated>
+    <updated>2026-03-06T18:03:01.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -6590,86 +6590,61 @@ on
 			</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[宠物摄影指南：从器材选型到拍摄误区全面解析 (牧羊人)]]></title>
-        <id>https://www.shephe.com/photography/pet-photography-full-guide/</id>
-        <link href="https://www.shephe.com/photography/pet-photography-full-guide/"/>
-        <updated>2026-03-05T18:59:39.556Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/photography/pet-photography-full-guide/" rel="bookmark" target="_blank"><span class="screen-reader-text">宠物摄影指南：从器材选型到拍摄误区全面解析</span></a>
+        <title type="html"><![CDATA[DaVinci Resolve Studio v20.3.2 达芬奇中文优化版 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/davinci-resolve-studio/</id>
+        <link href="https://www.shephe.com/resources/davinci-resolve-studio/"/>
+        <updated>2026-03-06T18:02:58.165Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/davinci-resolve-studio/" rel="bookmark" target="_blank"><span class="screen-reader-text">DaVinci Resolve Studio v20.3.2 达芬奇中文优化版</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/girl-cats.webp 1920w, https://www.shephe.com/wp-content/uploads/2025/06/girl-cats-768x512.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/DaVinci-Resolve.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/06/DaVinci-Resolve-768x403.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-10T21:53:57+08:00">
-				06/10/2025			</time>
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-06-30T10:46:54+08:00">
+				06/30/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>宠物摄影指南：从器材选型到拍摄误区全面解析</span></h2>						<p>宠物摄影不仅是一门技术，更是一种记录爱与陪伴的艺术。无论是家里的猫狗还是其他小动物，宠物总能带给我们无尽的欢乐与感动。通过镜头捕捉它们灵动的瞬间，不仅能留下珍贵的回忆，还能分享给亲朋好友，传递这份美好。然而，宠物摄影并非易事，活泼好动的宠物…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/photography/pet-photography-full-guide/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DaVinci Resolve Studio v20.3.2 达芬奇中文优化版</span></h2>						<p>DaVinci Resolve 是一款集剪辑、调色、视觉特效、动态图形和音频后期制作于一体的专业软件，提供一站式视频与图片后期制作解决方案。其界面直观优雅，易学易用，适合新手快速上手，同时满足专业人士对高性能的需求。用户无需切换多款软件即可…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/davinci-resolve-studio/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cPicture：适合摄影师的简易照片浏览、管理工具 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/cpicture-windows-photo-explorer/</id>
-        <link href="https://www.shephe.com/resources/cpicture-windows-photo-explorer/"/>
-        <updated>2026-03-05T18:59:39.556Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/cpicture-windows-photo-explorer/" rel="bookmark" target="_blank"><span class="screen-reader-text">cPicture：适合摄影师的简易照片浏览、管理工具</span></a>
+        <title type="html"><![CDATA[Adobe Acrobat Pro v25.1.21265 PDF 文档处理软件 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/adobe-acrobat-pro/</id>
+        <link href="https://www.shephe.com/resources/adobe-acrobat-pro/"/>
+        <updated>2026-03-06T18:02:58.166Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-acrobat-pro/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Acrobat Pro v25.1.21265 PDF 文档处理软件</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/imageView.webp 1536w, https://www.shephe.com/wp-content/uploads/2026/03/imageView-768x512.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/02/Adobe-Acrobat-Pro-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/02/Adobe-Acrobat-Pro-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2025/02/Adobe-Acrobat-Pro-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-05T17:55:11+08:00">
-				03/05/2026			</time>
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-02-18T15:40:00+08:00">
+				02/18/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>cPicture：适合摄影师的简易照片浏览、管理工具</span></h2>						<p>继续分享一款图片浏览工具——cPicture。它和前几天介绍的国人开发、免费使用的 bkViewer 类似，主要用于浏览照片和 RAW 文件，同时具备简单的管理功能。cPicture 支持单文件运行，不会产生额外垃圾文件，非常轻量。 相比 …</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/cpicture-windows-photo-explorer/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Acrobat Pro v25.1.21265 PDF 文档处理软件</span></h2>						<p>本站分享了那么多的免费资源，其实绝大多数都是和图像处理、视频处理强相关的软件和资源，为什么要分享 Acrobat Pro DC 呢？因为它实在是太强了，不管你是做文档归档、资料编辑，还是企业内部的 PDF 审批流转，Acrobat Pro …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-acrobat-pro/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[开源多功能截图工具 ShareX v19.0.2 分享 & 上手 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/sharex/</id>
-        <link href="https://www.shephe.com/resources/sharex/"/>
-        <updated>2026-03-04T18:07:42.855Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/sharex/" rel="bookmark" target="_blank"><span class="screen-reader-text">开源多功能截图工具 ShareX v19.0.2 分享 &amp; 上手</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/ShareX-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/03/ShareX-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/03/ShareX-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-04T22:04:45+08:00">
-				03/04/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>开源多功能截图工具 ShareX v19.0.2 分享 &amp; 上手</span></h2>						<p>各位小伙伴，你现在用的是微信自带截图，还是 Windows 自带的截图工具？又或者是比较专业一点的 Snipaste？如果你已经觉得它们够用了，那今天这款工具可能会让你重新定义“截图”这件事。 这次要介绍的 ShareX，说它比同类工具强不…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/sharex/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portraiture 4.5 4501 人像磨皮插件中文破解版下载 (牧羊人)]]></title>
+        <title type="html"><![CDATA[Portraiture 4.5 4501 人像磨皮插件中文优化版下载 (牧羊人)]]></title>
         <id>https://www.shephe.com/resources/imagenomic-portraiture-download/</id>
         <link href="https://www.shephe.com/resources/imagenomic-portraiture-download/"/>
         <updated>2026-03-05T18:59:39.560Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/imagenomic-portraiture-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Portraiture 4.5 4501 人像磨皮插件中文破解版下载</span></a>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/imagenomic-portraiture-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Portraiture 4.5 4501 人像磨皮插件中文优化版下载</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
@@ -6682,7 +6657,7 @@ on
 				03/01/2024			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Portraiture 4.5 4501 人像磨皮插件中文破解版下载</span></h2>						<p>Portraiture 4 是一款强大的肖像修饰插件，它不仅可以用于 Photoshop，也能配合许多其他的图像处理软件。它能够自动识别人物肌肤，进行肌肤磨皮及肤质优化等更多人像修饰操作，实现专业级别的人像美颜效果，是众多专业摄影师和设计师…</p>					</div>
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Portraiture 4.5 4501 人像磨皮插件中文优化版下载</span></h2>						<p>Portraiture 4 是一款强大的肖像修饰插件，它不仅可以用于 Photoshop，也能配合许多其他的图像处理软件。它能够自动识别人物肌肤，进行肌肤磨皮及肤质优化等更多人像修饰操作，实现专业级别的人像美颜效果，是众多专业摄影师和设计师…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/imagenomic-portraiture-download/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
@@ -6690,86 +6665,36 @@ on
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Photoshop DRX AI Pro 人像后期磨皮美颜插件下载 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/drx-ai-pro-plugin/</id>
-        <link href="https://www.shephe.com/resources/drx-ai-pro-plugin/"/>
-        <updated>2026-03-05T18:59:39.562Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/drx-ai-pro-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop DRX AI Pro 人像后期磨皮美颜插件下载</span></a>
+        <title type="html"><![CDATA[Exposure X7 7.2.0.25 PS 调色增强滤镜优化版下载 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/exposure-x7/</id>
+        <link href="https://www.shephe.com/resources/exposure-x7/"/>
+        <updated>2026-03-06T18:02:58.168Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/exposure-x7/" rel="bookmark" target="_blank"><span class="screen-reader-text">Exposure X7 7.2.0.25 PS 调色增强滤镜优化版下载</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/07/Photoshop-blue-color.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/07/Photoshop-blue-color-768x512.webp 768w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/03/Exposure-X7.webp 1600w, https://www.shephe.com/wp-content/uploads/2024/03/Exposure-X7-768x403.webp 768w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-07-18T21:50:00+08:00">
-				07/18/2025			</time>
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-03-27T09:54:00+08:00">
+				03/27/2024			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop DRX AI Pro 人像后期磨皮美颜插件下载</span></h2>						<p>对于专业摄影师、修图师来说，Adobe Photoshop 已经是后期处理的标配工具，但在人像后期的实际工作中，磨皮、美颜、调光等操作往往极为耗时。即便经验丰富的修图师，也需要花费大量精力来手工调节，想做到高效率又保持画面一致性并不容易，尤…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/drx-ai-pro-plugin/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Exposure X7 7.2.0.25 PS 调色增强滤镜优化版下载</span></h2>						<p>Exposure X7 是由 Alien Skin Software 开发的一款专业级图像处理软件，它不仅可以处理和编辑 RAW 格式的照片，包括白平衡、曝光、饱和度和色温等，还提供多种滤镜和预设，提供丰富和各样化的图像效果。个人使用的 P…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/exposure-x7/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Specs v1.1.1 Photoshop 尺寸大小距离颜色标注插件 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/for-ps-specs-measures-marks/</id>
-        <link href="https://www.shephe.com/resources/for-ps-specs-measures-marks/"/>
-        <updated>2026-03-05T18:59:39.564Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/for-ps-specs-measures-marks/" rel="bookmark" target="_blank"><span class="screen-reader-text">Specs v1.1.1 Photoshop 尺寸大小距离颜色标注插件</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/01/Photoshop-Plugin.webp 1536w, https://www.shephe.com/wp-content/uploads/2024/01/Photoshop-Plugin-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-01-24T10:14:00+08:00">
-				01/24/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Specs v1.1.1 Photoshop 尺寸大小距离颜色标注插件</span></h2>						<p>Specs 插件可以轻松生成测量值（尺寸、距离）、信息和颜色样本。 一切都可以在外观上进行自定义，并且大多数设置都会实时更新。 您可以使用像素、英寸、毫米和厘米等不同单位进行测量，或将颜色显示为十六进制代码、RGB、CYMK 或 HSB。让…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/for-ps-specs-measures-marks/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retouch4me 13 合 1 人像修饰插件最新优化版使用 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/photoshop-retoch4me-download/</id>
-        <link href="https://www.shephe.com/resources/photoshop-retoch4me-download/"/>
-        <updated>2026-03-05T18:59:39.566Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-retoch4me-download/" rel="bookmark" target="_blank"><span class="screen-reader-text">Retouch4me 13 合 1 人像修饰插件最新优化版使用</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/03/Retouch4me-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2024/03/Retouch4me-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/03/Retouch4me-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-03-06T17:52:31+08:00">
-				03/06/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Retouch4me 13 合 1 人像修饰插件最新优化版使用</span></h2>						<p>Retouch4me 是一个专门为人像照片修饰而设计的插件，具有多种功能和优势。它可以修复瑕疵、痤疮和毛孔，通过 Dodge &amp; Burn 技术平滑皱纹和肌肤瑕疵。此外，该插件还能移除眼睛中的红血丝，并增强眼睛的亮度，为用户提供全面…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/photoshop-retoch4me-download/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Topaz DeNoise AI v3.7.2 降噪插件中文破解版下载 (牧羊人)]]></title>
+        <title type="html"><![CDATA[Topaz DeNoise AI v3.7.2 降噪插件中文优化版下载 (牧羊人)]]></title>
         <id>https://www.shephe.com/resources/topaz-denoise-ai/</id>
         <link href="https://www.shephe.com/resources/topaz-denoise-ai/"/>
         <updated>2026-03-03T18:09:14.377Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-denoise-ai/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz DeNoise AI v3.7.2 降噪插件中文破解版下载</span></a>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-denoise-ai/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz DeNoise AI v3.7.2 降噪插件中文优化版下载</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
@@ -6782,7 +6707,7 @@ on
 				04/07/2024			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz DeNoise AI v3.7.2 降噪插件中文破解版下载</span></h2>						<p>Topaz DeNoise AI v3.7.2 是一款功能强大且非常实用的专业级图片降噪软件。它基于先进的人工智能算法，只需简单调整基础参数，便能迅速识别并消除照片中的噪点，让画面更加纯净自然。在保留细节的同时优化画质，使图片层次更分明、纹…</p>					</div>
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz DeNoise AI v3.7.2 降噪插件中文优化版下载</span></h2>						<p>Topaz DeNoise AI v3.7.2 是一款功能强大且非常实用的专业级图片降噪软件。它基于先进的人工智能算法，只需简单调整基础参数，便能迅速识别并消除照片中的噪点，让画面更加纯净自然。在保留细节的同时优化画质，使图片层次更分明、纹…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/topaz-denoise-ai/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
@@ -6790,25 +6715,100 @@ on
 			</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Topaz Photo 1.3.1 便携版，易用的人工智能图像处理软件下载 & 体验 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/topaz-photo/</id>
-        <link href="https://www.shephe.com/resources/topaz-photo/"/>
-        <updated>2026-03-05T06:29:48.596Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-photo/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz Photo 1.3.1 便携版，易用的人工智能图像处理软件下载 &amp; 体验</span></a>
+        <title type="html"><![CDATA[Adobe Bridge 2026 16.0.2.23 照片资源管理软件中文优化版下载（长期更新） (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/adobe-bridge-cc/</id>
+        <link href="https://www.shephe.com/resources/adobe-bridge-cc/"/>
+        <updated>2026-03-06T18:02:58.177Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-bridge-cc/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Bridge 2026 16.0.2.23 照片资源管理软件中文优化版下载（长期更新）</span></a>
 
 					<div class="grve-post-media">
 				<div class="grve-media-inner grve-radius-none grve-shadow-none">
 					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/Topaz-Photo-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/03/Topaz-Photo-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/03/Topaz-Photo-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/06/adobe-logo.png 3840w, https://www.shephe.com/wp-content/uploads/2024/06/adobe-logo-768x432.png 768w, https://www.shephe.com/wp-content/uploads/2024/06/adobe-logo-1920x1080.png 1920w, https://www.shephe.com/wp-content/uploads/2024/06/adobe-logo-1390x782.png 1390w" data-sizes="auto"></div>					</div>
 				</div>
 			</div>
 		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-05T09:59:56+08:00">
-				03/05/2026			</time>
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-23T21:33:11+08:00">
+				05/23/2024			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz Photo 1.3.1 便携版，易用的人工智能图像处理软件下载 &amp; 体验</span></h2>						<p>Topaz 作为一家专注于 AI 图像增强技术的软件厂商，这几年在摄影圈和后期圈的存在感可以说越来越强。像素工坊里我其实已经分享过他们不少产品，从早期的 DeNoise AI，到后来的 Sharpen AI，再到整合型的 Photo AI，…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/topaz-photo/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Bridge 2026 16.0.2.23 照片资源管理软件中文优化版下载（长期更新）</span></h2>						<p>Adobe Bridge 是一款功能强大的数字资产管理软件，专为摄影师和创意专业人士设计。它提供了直观的用户界面，使用户能够轻松浏览、组织和管理各种类型的多媒体文件。通过 Bridge，用户可以快速查看和访问图像、视频、音频以及 Adobe…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-bridge-cc/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capture One Pro/Enterprise 16.7.2.3273 RAW 图像编辑处理软件学习版下载 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/capture-one-enterprise/</id>
+        <link href="https://www.shephe.com/resources/capture-one-enterprise/"/>
+        <updated>2026-03-06T18:02:58.179Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/capture-one-enterprise/" rel="bookmark" target="_blank"><span class="screen-reader-text">Capture One Pro/Enterprise&nbsp;16.7.2.3273 RAW 图像编辑处理软件学习版下载</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/06/Capture-One-Banner.jpg 1600w, https://www.shephe.com/wp-content/uploads/2024/06/Capture-One-Banner-768x403.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-05T22:27:00+08:00">
+				06/05/2024			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Capture One Pro/Enterprise&nbsp;16.7.2.3273 RAW 图像编辑处理软件学习版下载</span></h2>						<p>Capture One 是由 Phase One 开发的专业图像编辑软件，以其卓越的色彩处理和 RAW 文件转换功能而广受赞誉。它支持多种相机品牌的 RAW 文件格式，提供强大的色彩编辑工具、图层和蒙版功能，允许用户进行非破坏性编辑。其调整…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/capture-one-enterprise/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Character Animator 2026 26.0.0.50 中文优化版 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/adobe-character-animator/</id>
+        <link href="https://www.shephe.com/resources/adobe-character-animator/"/>
+        <updated>2026-03-06T18:02:58.181Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-character-animator/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Character Animator 2026 26.0.0.50 中文优化版</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/02/Adobe-Character-Animator-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/02/Adobe-Character-Animator-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/02/Adobe-Character-Animator-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-02-05T15:21:13+08:00">
+				02/05/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Character Animator 2026 26.0.0.50 中文优化版</span></h2>						<p>Adobe Character Animator 是 Adobe 旗下的一款 2D 角色动画与动作捕捉软件。它将实时性能捕捉与动画制作流程结合，为创作者提供了一种直观、快速创建富有表现力动画角色的方法。用户可以 通过摄像头和麦克风实时捕捉面…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-character-animator/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Photoshop 2026 27.4.0.15 中文优化版下载（直装版 & 便携版长期更新） (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/adobe-photoshop-cc/</id>
+        <link href="https://www.shephe.com/resources/adobe-photoshop-cc/"/>
+        <updated>2026-03-06T18:02:58.182Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-photoshop-cc/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Photoshop 2026 27.4.0.15 中文优化版下载（直装版 &amp; 便携版长期更新）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop.jpg 1250w, https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop-768x435.jpg 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-16T15:42:00+08:00">
+				10/16/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 27.4.0.15 中文优化版下载（直装版 &amp; 便携版长期更新）</span></h2>						<p>Photoshop 2026（桌面版版本号为 27.4）正式发布！作为全球最受欢迎的专业图像处理与照片设计工具，Adobe Photoshop 一直被广泛认可和使用，是 Adobe Creative Cloud 创意云套件中的核心产品之一。…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-cc/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
