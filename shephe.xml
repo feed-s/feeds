@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-03-14T17:56:17.381Z</updated>
+    <updated>2026-03-15T06:36:44.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[拯救高感废片！DxO PureRAW 降噪深度测试（+ 5.8.0 便携版）]]></title>
+        <id>https://www.shephe.com/resources/dxo-pureraw/</id>
+        <link href="https://www.shephe.com/resources/dxo-pureraw/"/>
+        <updated>2026-03-15T06:36:41.000Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/dxo-pureraw/" rel="bookmark" target="_blank"><span class="screen-reader-text">拯救高感废片！DxO PureRAW 降噪深度测试（+ 5.8.0 便携版）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/05/DxO-PureRAW-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/05/DxO-PureRAW-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2025/05/DxO-PureRAW-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-21T11:33:53+08:00">
+				05/21/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>拯救高感废片！DxO PureRAW 降噪深度测试（+ 5.8.0 便携版）</span></h2>						<p>随着摄影设备的普及与拍摄需求的提升，越来越多摄影爱好者开始以 RAW 格式记录画面，以便在后期处理中保留更多细节与动态范围。但随之而来的，是如何在繁琐的调色、降噪与镜头校正中找到平衡。DxO PureRAW 的出现，为这个问题提供了极具效率…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/dxo-pureraw/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全能扫描仪工具 VueScan 9.8.52 增强便携版 🖨️]]></title>
+        <id>https://www.shephe.com/resources/vuescan/</id>
+        <link href="https://www.shephe.com/resources/vuescan/"/>
+        <updated>2026-03-15T06:36:41.002Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/vuescan/" rel="bookmark" target="_blank"><span class="screen-reader-text">全能扫描仪工具 VueScan 9.8.52 增强便携版 🖨️</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom.webp 1900w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/04/document-paper-zoom-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-11-24T10:25:14+08:00">
+				11/24/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全能扫描仪工具 VueScan 9.8.52 增强便携版 🖨️</span></h2>						<p>家里有两台打印机，主力机是联想的经典多功能一体机 M7615DNA，已经使用多年，从未出现过故障，平时也比较省心，毕竟使用频率并不高。不过，它的驱动和软件系统显得有些过时，尤其是扫描部分，主要依赖于已经停止维护的 Control Cente…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/vuescan/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Topaz DeNoise AI v3.7.2 降噪插件中文优化版下载]]></title>
         <id>https://www.shephe.com/resources/topaz-denoise-ai/</id>
@@ -175,56 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>图像格式批量转换工具 reaConverter Pro v8.0.202 便携版免费下载</span></h2>						<p>前几天刷博客时，看到有博友提到网页图片格式转换的问题，说到不同格式之间的兼容性、压缩率以及批量处理效率。我一下子就想起之前分享过的一款自己一直在用的批处理软件 ——</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/reaconverter-pro/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfectly Clear WorkBench 5.0.4.3141 人工智能图像处理工具便携免安装版]]></title>
-        <id>https://www.shephe.com/resources/perfectly-clear-workbench-5/</id>
-        <link href="https://www.shephe.com/resources/perfectly-clear-workbench-5/"/>
-        <updated>2026-03-12T06:31:25.470Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/perfectly-clear-workbench-5/" rel="bookmark" target="_blank"><span class="screen-reader-text">Perfectly Clear WorkBench 5.0.4.3141 人工智能图像处理工具便携免安装版</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-19T14:07:00+08:00">
-				07/19/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Perfectly Clear WorkBench 5.0.4.3141 人工智能图像处理工具便携免安装版</span></h2>						<p>Perfectly Clear WorkBench 是一款用于图像处理的智能化工具，广泛应用于摄影和设计领域。它利用 AI 技术和高级算法自动优化图像，特别在人像修复和场景优化方面表现优异，能够为用户节省大量手动操作时间。它支持批量导入照片…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/perfectly-clear-workbench-5/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Photoshop 结婚登记照换装模板，PSD / PNG 登记照服装素材]]></title>
-        <id>https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/</id>
-        <link href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/"/>
-        <updated>2026-03-11T18:31:41.060Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 结婚登记照换装模板，PSD / PNG 登记照服装素材</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/06/Marriott-Marina-Del-Rey-Wedding-Photos.jpg 1200w, https://www.shephe.com/wp-content/uploads/2024/06/Marriott-Marina-Del-Rey-Wedding-Photos-768x512.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-05-27T22:29:00+08:00">
-				05/27/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 结婚登记照换装模板，PSD / PNG 登记照服装素材</span></h2>						<p>近期 Kevin's 发布分享了不少证件照换装、换头发的免费资源，需要使用这些模板无非是因为客户预算低，不想换衣服……Well，有些客户拍婚纱登记证其实也想省省不麻烦，比如结婚登记照完全也可以拍几个人脸，衣服全靠换也不是不行嘛。 在现代社会…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/marriage-registration-photo-cloth-teamplates/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
