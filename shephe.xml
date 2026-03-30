@@ -2,9 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-03-29T18:00:33.607Z</updated>
+    <updated>2026-03-30T07:09:30.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adobe Lightroom Classic 2026 15.2.1 更新日志 & 实测体验（附中文优化版）]]></title>
+        <id>https://www.shephe.com/resources/adobe-lightroom-classic-15/</id>
+        <link href="https://www.shephe.com/resources/adobe-lightroom-classic-15/"/>
+        <updated>2026-03-30T07:09:26.972Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-lightroom-classic-15/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom Classic 2026 15.2.1 更新日志 &amp; 实测体验（附中文优化版）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/10/adobe-lr-lightroom-banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/10/adobe-lr-lightroom-banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2025/10/adobe-lr-lightroom-banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-10-23T16:13:00+08:00">
+				10/23/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 2026 15.2.1 更新日志 &amp; 实测体验（附中文优化版）</span></h2>						<p>Adobe Lightroom Classic 2026 正式更新，这次 15.2.1 版本不只是常规迭代，而是围绕「AI 智能筛选 + 照片后期效率」做了一次比较明显的升级。对于日常需要处理大量照片的用户来说，这一版本的实用价值还是很高的…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-lightroom-classic-15/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop 使用生成式 AI 提示：我们遇到了问题，目前无法完成您的请求]]></title>
+        <id>https://www.shephe.com/tutorial/photoshop-generative-ai-cannot-complete-request-fix/</id>
+        <link href="https://www.shephe.com/tutorial/photoshop-generative-ai-cannot-complete-request-fix/"/>
+        <updated>2026-03-30T07:09:26.981Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/photoshop-generative-ai-cannot-complete-request-fix/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 使用生成式 AI 提示：我们遇到了问题，目前无法完成您的请求</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/photoshop-2026-ai-remove-not-available-in-your-region-fix.webp 1376w, https://www.shephe.com/wp-content/uploads/2026/03/photoshop-2026-ai-remove-not-available-in-your-region-fix-768x429.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-30T11:41:45+08:00">
+				03/30/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 使用生成式 AI 提示：我们遇到了问题，目前无法完成您的请求</span></h2>						<p>在使用 Adobe Photoshop 的生成式 AI 功能（例如生成式填充、AI 移除等）时，不少用户都会遇到这样一个提示：“我们遇到了问题，目前无法完成您的请求，请重试”。看起来像是一个很笼统的报错，但实际上这个问题在国内使用环境下非常…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/photoshop-generative-ai-cannot-complete-request-fix/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Photoshop 2026 Beta 27.0.1.3255 中文优化便携版免费下载（永久使用）]]></title>
+        <id>https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/</id>
+        <link href="https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/"/>
+        <updated>2026-03-30T07:09:26.981Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Photoshop 2026 Beta 27.0.1.3255 中文优化便携版免费下载（永久使用）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo.webp 1680w, https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo-768x384.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-08-26T17:17:00+08:00">
+				08/26/2025			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 Beta 27.0.1.3255 中文优化便携版免费下载（永久使用）</span></h2>						<p>Adobe Photoshop 是全球最受欢迎的图像编辑软件之一，无论是专业设计师、摄影师还是普通用户，都几乎离不开它。作为 Adobe Creative Cloud 系列的核心产品，Photoshop 拥有强大的图像处理、修复、绘画、排版…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Lightroom Classic 15.2.1 更新了什么？实测体验（附下载方式）]]></title>
+        <id>https://www.shephe.com/post/adobe-lightroom-classic-15-2-1/</id>
+        <link href="https://www.shephe.com/post/adobe-lightroom-classic-15-2-1/"/>
+        <updated>2026-03-30T07:09:26.984Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-lightroom-classic-15-2-1/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom Classic 15.2.1 更新了什么？实测体验（附下载方式）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/lightroom-icon.webp 1200w, https://www.shephe.com/wp-content/uploads/2024/04/lightroom-icon-768x432.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-30T08:38:05+08:00">
+				03/30/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 15.2.1 更新了什么？实测体验（附下载方式）</span></h2>						<p>Adobe Lightroom Classic 15.2.1 于 2026 年 3 月中旬正式发布。相比以往几个大版本更新，这一次并没有带来明显的新功能或界面变化，整体属于一次偏“稳”的版本升级。很多用户在更新后第一反应都是：这次到底更新了…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/adobe-lightroom-classic-15-2-1/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[婚礼蛋糕怎么拍？构图、光线与参数全流程详解]]></title>
         <id>https://www.shephe.com/photography/tips-for-beautiful-wedding-cake-pictures/</id>
@@ -125,106 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>全能扫描仪工具 VueScan 9.8.53 增强便携版 🖨️</span></h2>						<p>家里有两台打印机，主力机是联想的经典多功能一体机 M7615DNA，已经使用多年，从未出现过故障，平时也比较省心，毕竟使用频率并不高。不过，它的驱动和软件系统显得有些过时，尤其是扫描部分，主要依赖于已经停止维护的 Control Cente…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/vuescan-9/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么 Adobe 提示“您所在国家 / 地区不支持此购买”？原因、限制与解决办法]]></title>
-        <id>https://www.shephe.com/tutorial/adobe-your-country-or-region-is-not-supported-for-this-purchase/</id>
-        <link href="https://www.shephe.com/tutorial/adobe-your-country-or-region-is-not-supported-for-this-purchase/"/>
-        <updated>2026-03-29T06:45:34.479Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/adobe-your-country-or-region-is-not-supported-for-this-purchase/" rel="bookmark" target="_blank"><span class="screen-reader-text">为什么 Adobe 提示“您所在国家 / 地区不支持此购买”？原因、限制与解决办法</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/adobe-your-country-or-region-is-not-supported-for-this-purchase.webp 1376w, https://www.shephe.com/wp-content/uploads/2026/03/adobe-your-country-or-region-is-not-supported-for-this-purchase-768x429.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-15T11:23:46+08:00">
-				03/15/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>为什么 Adobe 提示“您所在国家 / 地区不支持此购买”？原因、限制与解决办法</span></h2>						<p>很多人第一次遇到 Adobe 弹窗提示“您所在国家/地区不支持此购买”，都会以为是网络问题，甚至已经能正常登录、正常更新软件了，为什么一到“购买”或“升级订阅”就被拦住。其实它更像是“商业与合规校验”在起作用，和你能不能打开官网不是一回事。…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/adobe-your-country-or-region-is-not-supported-for-this-purchase/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capture One Pro/Enterprise 16.7.4.3394 RAW 图像编辑处理软件学习版下载]]></title>
-        <id>https://www.shephe.com/resources/capture-one-enterprise/</id>
-        <link href="https://www.shephe.com/resources/capture-one-enterprise/"/>
-        <updated>2026-03-28T17:59:05.641Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/capture-one-enterprise/" rel="bookmark" target="_blank"><span class="screen-reader-text">Capture One Pro/Enterprise&nbsp;16.7.4.3394 RAW 图像编辑处理软件学习版下载</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/06/Capture-One-Banner.jpg 1600w, https://www.shephe.com/wp-content/uploads/2024/06/Capture-One-Banner-768x403.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-06-05T22:27:00+08:00">
-				06/05/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Capture One Pro/Enterprise&nbsp;16.7.4.3394 RAW 图像编辑处理软件学习版下载</span></h2>						<p>Capture One 是由 Phase One 开发的专业图像编辑软件，以其卓越的色彩处理和 RAW 文件转换功能而广受赞誉。它支持多种相机品牌的 RAW 文件格式，提供强大的色彩编辑工具、图层和蒙版功能，允许用户进行非破坏性编辑。其调整…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/capture-one-enterprise/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Photoshop CS6 精简版免费下载（便携版）]]></title>
-        <id>https://www.shephe.com/resources/adobe-photoshop-cs6-protable/</id>
-        <link href="https://www.shephe.com/resources/adobe-photoshop-cs6-protable/"/>
-        <updated>2026-03-28T17:59:05.642Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-photoshop-cs6-protable/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Photoshop CS6 精简版免费下载（便携版）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop.jpg 1250w, https://www.shephe.com/wp-content/uploads/2024/04/Adobe-Photoshop-768x435.jpg 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-30T08:45:37+08:00">
-				05/30/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop CS6 精简版免费下载（便携版）</span></h2>						<p>Adobe Photoshop CS6 是 Adobe 于 2012 年推出的一代里程碑版本，也是最后一款支持永久授权的 Photoshop。在这一代中，全新 Mercury 图形引擎显著提升了处理速度，新增的内容识别移动工具、视频剪辑功能…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-cs6-protable/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfectly Clear WorkBench 5.0.4.3155 人工智能图像处理工具便携免安装版]]></title>
-        <id>https://www.shephe.com/resources/perfectly-clear-workbench-5/</id>
-        <link href="https://www.shephe.com/resources/perfectly-clear-workbench-5/"/>
-        <updated>2026-03-28T06:36:23.023Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/perfectly-clear-workbench-5/" rel="bookmark" target="_blank"><span class="screen-reader-text">Perfectly Clear WorkBench 5.0.4.3155 人工智能图像处理工具便携免安装版</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2024/07/Perfectly-Clear-WorkBench-banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2024-07-19T14:07:00+08:00">
-				07/19/2024			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Perfectly Clear WorkBench 5.0.4.3155 人工智能图像处理工具便携免安装版</span></h2>						<p>Perfectly Clear WorkBench 是一款用于图像处理的智能化工具，广泛应用于摄影和设计领域。它利用 AI 技术和高级算法自动优化图像，特别在人像修复和场景优化方面表现优异，能够为用户节省大量手动操作时间。它支持批量导入照片…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/perfectly-clear-workbench-5/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
