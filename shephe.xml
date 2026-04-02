@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-04-02T06:52:33.464Z</updated>
+    <updated>2026-04-02T18:32:25.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
     <entry>
@@ -23,8 +23,33 @@
 				10/16/2025			</time>
 			</div>
 				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 27.5.0.13 新功能介绍：全面支持 Nano Banana（附激活版）</span></h2>						<p>Photoshop 2026（桌面版版本号为 27.4）正式发布！作为全球最受欢迎的专业图像处理与照片设计工具，Adobe Photoshop 一直被广泛认可和使用，是 Adobe Creative Cloud 创意云套件中的核心产品之一。…</p>					</div>
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 27.5.0.13 新功能介绍：全面支持 Nano Banana（附激活版）</span></h2>						<p>Photoshop 2026（桌面版版本号为 27.5）正式发布！作为全球最受欢迎的专业图像处理与照片设计工具，Adobe Photoshop 一直被广泛认可和使用，是 Adobe Creative Cloud 创意云套件中的核心产品之一。…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-27/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop 安装插件提示“未经正确签署”？原因分析与解决方法]]></title>
+        <id>https://www.shephe.com/tutorial/extension-not-properly-signed/</id>
+        <link href="https://www.shephe.com/tutorial/extension-not-properly-signed/"/>
+        <updated>2026-04-02T18:32:22.057Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/extension-not-properly-signed/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 安装插件提示“未经正确签署”？原因分析与解决方法</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2024/01/Photoshop-Plugin.webp 1536w, https://www.shephe.com/wp-content/uploads/2024/01/Photoshop-Plugin-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-02T21:20:54+08:00">
+				04/02/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 安装插件提示“未经正确签署”？原因分析与解决方法</span></h2>						<p>刚才在录制</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/extension-not-properly-signed/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 使用生成式 AI 提示：我们遇到了问题，目前无法完成您的请求</span></h2>						<p>在使用 Adobe Photoshop 的生成式 AI 功能（例如生成式填充、AI 移除等）时，不少用户都会遇到这样一个提示：“我们遇到了问题，目前无法完成您的请求，请重试”。看起来像是一个很笼统的报错，但实际上这个问题在国内使用环境下非常…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/photoshop-generative-ai-cannot-complete-request-fix/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Photoshop 2026 Beta 27.0.1.3255 中文优化便携版免费下载（永久使用）]]></title>
-        <id>https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/</id>
-        <link href="https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/"/>
-        <updated>2026-03-30T07:09:26.981Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Photoshop 2026 Beta 27.0.1.3255 中文优化便携版免费下载（永久使用）</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo.webp 1680w, https://www.shephe.com/wp-content/uploads/2025/10/photoshop-beta-app-logo-768x384.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-08-26T17:17:00+08:00">
-				08/26/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 Beta 27.0.1.3255 中文优化便携版免费下载（永久使用）</span></h2>						<p>Adobe Photoshop 是全球最受欢迎的图像编辑软件之一，无论是专业设计师、摄影师还是普通用户，都几乎离不开它。作为 Adobe Creative Cloud 系列的核心产品，Photoshop 拥有强大的图像处理、修复、绘画、排版…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-27-beta-lite/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
