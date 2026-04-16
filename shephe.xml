@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-04-16T07:11:16.562Z</updated>
+    <updated>2026-04-16T18:45:56.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能]]></title>
+        <id>https://www.shephe.com/post/davinci-resolve-studio-21-release/</id>
+        <link href="https://www.shephe.com/post/davinci-resolve-studio-21-release/"/>
+        <updated>2026-04-15T18:44:24.514Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/davinci-resolve-studio-21-release/" rel="bookmark" target="_blank"><span class="screen-reader-text">DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/04/davinci-resolve-studio-21-release.webp 1536w, https://www.shephe.com/wp-content/uploads/2026/04/davinci-resolve-studio-21-release-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-15T22:48:36+08:00">
+				04/15/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能</span></h2>						<p>不同于 Adobe 系列产品几乎按月频繁更新，达芬奇（DaVinci Resolve）的版本迭代显得更为克制与稳重。但也正因为如此，每一次大版本更新往往都意味着功能层面的明显跃迁与工作流的实质优化。从剪辑、调色到音频与特效，Blackmag…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/davinci-resolve-studio-21-release/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Adobe Acrobat Pro 2026 PDF 编辑软件上手体验（附 26.001.21411 特别版下载）]]></title>
         <id>https://www.shephe.com/resources/adobe-acrobat-pro-2026/</id>
@@ -50,31 +75,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Image Extend：简易的 Photoshop 本地扩图插件 ↔️</span></h2>						<p>就像标题写的，这是个简易的、“有点年代感”的 Photoshop 扩展插件 —— Image Extend。整体体积非常小，压缩包甚至不到 0.5MB，本质上就是由几段简单的 JavaScript 脚本构成，没有复杂依赖，也不需要额外环境配…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/image-extend-photoshop/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能]]></title>
-        <id>https://www.shephe.com/post/davinci-resolve-studio-21-release/</id>
-        <link href="https://www.shephe.com/post/davinci-resolve-studio-21-release/"/>
-        <updated>2026-04-15T18:44:24.514Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/davinci-resolve-studio-21-release/" rel="bookmark" target="_blank"><span class="screen-reader-text">DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/04/davinci-resolve-studio-21-release.webp 1536w, https://www.shephe.com/wp-content/uploads/2026/04/davinci-resolve-studio-21-release-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-15T22:48:36+08:00">
-				04/15/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能</span></h2>						<p>不同于 Adobe 系列产品几乎按月频繁更新，达芬奇（DaVinci Resolve）的版本迭代显得更为克制与稳重。但也正因为如此，每一次大版本更新往往都意味着功能层面的明显跃迁与工作流的实质优化。从剪辑、调色到音频与特效，Blackmag…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/davinci-resolve-studio-21-release/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
