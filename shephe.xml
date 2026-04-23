@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-04-22T18:42:46.086Z</updated>
+    <updated>2026-04-23T07:15:49.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adobe Speech to Text 2.2.5 for Premiere Pro 2026 PR 语音识别转字幕工具]]></title>
+        <id>https://www.shephe.com/resources/adobe-speech-to-text-2/</id>
+        <link href="https://www.shephe.com/resources/adobe-speech-to-text-2/"/>
+        <updated>2026-04-23T07:15:46.381Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/adobe-speech-to-text-2/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Speech to Text 2.2.5 for Premiere Pro 2026 PR 语音识别转字幕工具</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/07/video-in-premiere-pro.webp 1920w, https://www.shephe.com/wp-content/uploads/2025/07/video-in-premiere-pro-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-23T08:51:04+08:00">
+				04/23/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Speech to Text 2.2.5 for Premiere Pro 2026 PR 语音识别转字幕工具</span></h2>						<p>Adobe Speech to Text 是 Adobe 官方在 Premiere Pro 中提供的一项语音识别与字幕生成功能，基于其自研的语音识别技术，可以将视频中的语音内容自动转写为文本，并进一步生成可编辑的字幕轨道。根据 Adobe …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-speech-to-text-2/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Lightroom Classic 15.3.0 更新了什么：升级变化、兼容性与安装建议]]></title>
+        <id>https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/</id>
+        <link href="https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/"/>
+        <updated>2026-04-22T18:42:43.150Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom Classic 15.3.0 更新了什么：升级变化、兼容性与安装建议</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue.webp 1536w, https://www.shephe.com/wp-content/uploads/2025/06/Lightroom-blue-768x512.webp 768w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-22T17:29:04+08:00">
+				04/22/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 15.3.0 更新了什么：升级变化、兼容性与安装建议</span></h2>						<p>春夏之际，Adobe 官方发布了 Lightroom Classic 15.3.0 正式版，这次更新带来了多项重要功能提升和修复，尤其在图像处理速度和 AI 功能上有了显著优化。对于广大摄影师和后期编辑人员来说，这个版本将大大提高他们的工作…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capture One Pro/Enterprise 16.7.7.3470 RAW 图像编辑处理软件学习版下载]]></title>
         <id>https://www.shephe.com/resources/capture-one-enterprise/</id>
@@ -50,25 +100,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Premiere Pro 2026 26.2.0.65 新功能简介 &amp; 简单测试（+ PR 中文优化版）</span></h2>						<p>Adobe Premiere Pro 2026（简称 PR）的到来，再一次让无数视频创作者充满期待。它被视为视频编辑爱好者和专业人士不可或缺的核心工具，不仅易学、高效、精确，还能显著提升创作能力与自由度。对于剪辑师、内容创作者和影视工作者而…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-premiere-pro-26/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adobe Lightroom Classic 15.3.0 更新了什么：升级变化、兼容性与安装建议]]></title>
-        <id>https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/</id>
-        <link href="https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/"/>
-        <updated>2026-04-22T18:42:43.150Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/" rel="bookmark" target="_blank"><span class="screen-reader-text">Adobe Lightroom Classic 15.3.0 更新了什么：升级变化、兼容性与安装建议</span></a>
-
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-22T17:29:04+08:00">
-				04/22/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Lightroom Classic 15.3.0 更新了什么：升级变化、兼容性与安装建议</span></h2>						<p>春夏之际，Adobe 官方发布了 Lightroom Classic 15.3.0 正式版，这次更新带来了多项重要功能提升和修复，尤其在图像处理速度和 AI 功能上有了显著优化。对于广大摄影师和后期编辑人员来说，这个版本将大大提高他们的工作…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/adobe-lightroom-classic-15-3-0/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -194,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2025 26.6.1.16 茶末余香增强版 💿</span></h2>						<p>Adobe Photoshop 是什么，相信大家已经非常熟悉了。作为 Adobe 旗下最核心的图像处理软件之一，PS 几乎已经成为“修图”的代名词。从基础的图片裁剪、调色，到专业级的合成、绘画、UI 设计甚至 AI 图像生成，它在设计、摄影…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-2025-cmyx/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能]]></title>
-        <id>https://www.shephe.com/post/davinci-resolve-studio-21-release/</id>
-        <link href="https://www.shephe.com/post/davinci-resolve-studio-21-release/"/>
-        <updated>2026-04-15T18:44:24.514Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/post/davinci-resolve-studio-21-release/" rel="bookmark" target="_blank"><span class="screen-reader-text">DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/04/davinci-resolve-studio-21-release.webp 1536w, https://www.shephe.com/wp-content/uploads/2026/04/davinci-resolve-studio-21-release-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-04-15T22:48:36+08:00">
-				04/15/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>DaVinci Resolve Studio 21 正式发布，新增照片调色等多个新功能</span></h2>						<p>不同于 Adobe 系列产品几乎按月频繁更新，达芬奇（DaVinci Resolve）的版本迭代显得更为克制与稳重。但也正因为如此，每一次大版本更新往往都意味着功能层面的明显跃迁与工作流的实质优化。从剪辑、调色到音频与特效，Blackmag…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/davinci-resolve-studio-21-release/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
