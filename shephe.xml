@@ -2,9 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.shephe.com/</id>
     <title>牧羊人</title>
-    <updated>2026-05-04T19:06:37.740Z</updated>
+    <updated>2026-05-05T07:34:57.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.shephe.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GuideGuide：简易但好用的 Photoshop 辅助线插件]]></title>
+        <id>https://www.shephe.com/resources/guideguide-photoshop-grid/</id>
+        <link href="https://www.shephe.com/resources/guideguide-photoshop-grid/"/>
+        <updated>2026-05-04T19:06:34.575Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/guideguide-photoshop-grid/" rel="bookmark" target="_blank"><span class="screen-reader-text">GuideGuide：简易但好用的 Photoshop 辅助线插件</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/05/guideguide-photoshop-grid.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/05/guideguide-photoshop-grid-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/05/guideguide-photoshop-grid-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-05-04T12:37:42+08:00">
+				05/04/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>GuideGuide：简易但好用的 Photoshop 辅助线插件</span></h2>						<p>GuideGuide 是一款专为 Photoshop（以及 Illustrator 等设计工具）设计的辅助线插件，它通过自动生成参考线和网格系统来增强原生参考线工具的能力。在 Photoshop 的默认参考线功能中，设计师通常需要手动拖动标…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/guideguide-photoshop-grid/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Store HEVC 视频扩展离线版免费下载 📽]]></title>
+        <id>https://www.shephe.com/resources/microsoft-store-hevc-plugin/</id>
+        <link href="https://www.shephe.com/resources/microsoft-store-hevc-plugin/"/>
+        <updated>2026-05-05T07:34:54.248Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/microsoft-store-hevc-plugin/" rel="bookmark" target="_blank"><span class="screen-reader-text">Microsoft Store HEVC 视频扩展离线版免费下载 📽</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/05/microsoft-store-hevc-plugin2.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/05/microsoft-store-hevc-plugin2-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/05/microsoft-store-hevc-plugin2-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-05-05T07:37:21+08:00">
+				05/05/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Microsoft Store HEVC 视频扩展离线版免费下载 📽</span></h2>						<p>在 Windows 电脑上用系统自带的“电影和电视”或新版“媒体播放器”播放某些视频时，很多人都遇到过同一种情况：视频打不开，系统弹出提示，要求安装 HEVC 相关扩展。常见的触发格式包括 .hevc、.h265、采用 H.265 编码的 …</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/microsoft-store-hevc-plugin/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Photoshop 27.6.0.11 深度体验：AI 功能到底有没有进步？值不值得更新]]></title>
         <id>https://www.shephe.com/post/photoshop-27-6-0-11/</id>
@@ -50,31 +100,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>PS 图层清理功能：自动删除空白和重命名图层</span></h2>						<p>在最新版本的 Adobe Photoshop 中，推出了一个名为“图层清理”的新功能。这个功能旨在帮助用户简化复杂的图层管理，尤其是在处理包含大量图层的设计文件时。随着图层数量的增加，设计师常常会遇到难以管理和维护的情况，尤其是在图层嵌套和…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/post/photoshop-layer-cleanup/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GuideGuide：简易但好用的 Photoshop 辅助线插件]]></title>
-        <id>https://www.shephe.com/resources/guideguide-photoshop-grid/</id>
-        <link href="https://www.shephe.com/resources/guideguide-photoshop-grid/"/>
-        <updated>2026-05-04T19:06:34.575Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/guideguide-photoshop-grid/" rel="bookmark" target="_blank"><span class="screen-reader-text">GuideGuide：简易但好用的 Photoshop 辅助线插件</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/05/guideguide-photoshop-grid.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/05/guideguide-photoshop-grid-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/05/guideguide-photoshop-grid-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-05-04T12:37:42+08:00">
-				05/04/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>GuideGuide：简易但好用的 Photoshop 辅助线插件</span></h2>						<p>GuideGuide 是一款专为 Photoshop（以及 Illustrator 等设计工具）设计的辅助线插件，它通过自动生成参考线和网格系统来增强原生参考线工具的能力。在 Photoshop 的默认参考线功能中，设计师通常需要手动拖动标…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/guideguide-photoshop-grid/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
@@ -200,31 +225,6 @@
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Photoshop 2026 27.6.0.11 更新日志：AI 工具持续增强（附特别版下载）</span></h2>						<p>Photoshop 2026（桌面版版本号为 27.6）已正式发布，这一版本延续了 Photoshop 作为全球领先图像处理软件的地位，同时在生成式 AI、图像清理与创意控制方面带来了实质性的进步。与以往版本相比，Photoshop 27.…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/adobe-photoshop-27/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一键旋转对象还能自动补背景？实测 Photoshop 生成式 AI 新功能]]></title>
-        <id>https://www.shephe.com/tutorial/photoshop-rotate-objects/</id>
-        <link href="https://www.shephe.com/tutorial/photoshop-rotate-objects/"/>
-        <updated>2026-05-03T18:34:14.771Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/photoshop-rotate-objects/" rel="bookmark" target="_blank"><span class="screen-reader-text">一键旋转对象还能自动补背景？实测 Photoshop 生成式 AI 新功能</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/05/xietiao.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/05/xietiao-768x512.webp 768w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-05-03T15:08:56+08:00">
-				05/03/2026			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>一键旋转对象还能自动补背景？实测 Photoshop 生成式 AI 新功能</span></h2>						<p>在过去的 Photoshop 修图流程中，对人物或物体进行角度调整一直是一个相对“高成本”的操作。无论是简单的旋转人物姿态，还是调整产品展示角度，往往都需要配合抠图、背景修补、仿制图章等多种工具组合完成，流程繁琐且对细节处理要求较高。 随着…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/photoshop-rotate-objects/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
