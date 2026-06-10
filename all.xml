@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-09T19:35:54.634Z</updated>
+    <updated>2026-06-10T09:06:12.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[把Hugo博客部署在自己的服务器上 (heartnn的自留地)]]></title>
@@ -597,7 +597,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -615,7 +615,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -885,7 +885,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -903,7 +903,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -921,7 +921,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -939,7 +939,7 @@ on
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -6410,6 +6410,56 @@ on
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Topaz Photo：易用的人工智能图像处理软件使用体验（含 1.6.1 汉化附件） (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/topaz-photo-1/</id>
+        <link href="https://www.shephe.com/resources/topaz-photo-1/"/>
+        <updated>2026-06-10T09:06:09.986Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/topaz-photo-1/" rel="bookmark" target="_blank"><span class="screen-reader-text">Topaz Photo：易用的人工智能图像处理软件使用体验（含 1.6.1 汉化附件）</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/03/Topaz-Photo-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/03/Topaz-Photo-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/03/Topaz-Photo-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-03-05T09:59:56+08:00">
+				03/05/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Topaz Photo：易用的人工智能图像处理软件使用体验（含 1.6.1 汉化附件）</span></h2>						<p>Topaz 作为一家专注于 AI 图像增强技术的软件厂商，这几年在摄影圈和后期圈的存在感可以说越来越强。像素工坊里我其实已经分享过他们不少产品，从早期的 Gigapixel AI、DeNoise AI，到后来的 Sharpen AI，再到整…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/topaz-photo-1/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Photoshop 2026 27.6.0.11 便携免安装版体验 & 获取 (牧羊人)]]></title>
+        <id>https://www.shephe.com/resources/photoshop-2026-27-protable/</id>
+        <link href="https://www.shephe.com/resources/photoshop-2026-27-protable/"/>
+        <updated>2026-06-10T09:06:09.989Z</updated>
+        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/photoshop-2026-27-protable/" rel="bookmark" target="_blank"><span class="screen-reader-text">Photoshop 2026 27.6.0.11 便携免安装版体验 &amp; 获取</span></a>
+
+					<div class="grve-post-media">
+				<div class="grve-media-inner grve-radius-none grve-shadow-none">
+					<div class="grve-background-wrapper">
+						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2026/05/photoshop-2026-27-protable.webp 1600w, https://www.shephe.com/wp-content/uploads/2026/05/photoshop-2026-27-protable-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2026/05/photoshop-2026-27-protable-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
+				</div>
+			</div>
+		
+				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2026-05-22T11:22:26+08:00">
+				05/22/2026			</time>
+			</div>
+				<div class="grve-post-content">
+			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Photoshop 2026 27.6.0.11 便携免安装版体验 &amp; 获取</span></h2>						<p>像素工坊已经有一段时间没有分享 Photoshop 的便携免安装版本了，主要原因还是近年来 Photoshop 的功能体量越来越庞大，集成的 AI 能力、插件生态以及系统依赖也随之提升，导致便携版在精简和兼容之间很难做到完全平衡。在实际测试…</p>					</div>
+		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/photoshop-2026-27-protable/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
+					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
+					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
+				</svg>
+			</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PS AI 需要什么账号？Creative Cloud、Firefly、生成式积分一次讲清 (牧羊人)]]></title>
         <id>https://www.shephe.com/post/ps-ai-account-guide/</id>
         <link href="https://www.shephe.com/post/ps-ai-account-guide/"/>
@@ -6579,56 +6629,6 @@ on
 				<div class="grve-post-content">
 			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>Adobe Creative Cloud Pro 订阅号手把手使用教程💡</span></h2>						<p>现在 A 家的产品体系已经越来越完整、规范，几乎所有 Adobe 软件的安装、更新、授权管理，都会统一通过 Adobe Creative Cloud（简称 CC）完成。你可以把它理解成 Adobe 官方的软件商店 + 账号管理中心，Phot…</p>					</div>
 		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/adobe-creative-cloud-pro-setup/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解决“此功能不适用于您所在地区”问题 | Adobe Photoshop AI 正版订阅 (牧羊人)]]></title>
-        <id>https://www.shephe.com/tutorial/photoshop-service-not-available-in-your-region/</id>
-        <link href="https://www.shephe.com/tutorial/photoshop-service-not-available-in-your-region/"/>
-        <updated>2026-06-06T18:51:06.952Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/tutorial/photoshop-service-not-available-in-your-region/" rel="bookmark" target="_blank"><span class="screen-reader-text">解决“此功能不适用于您所在地区”问题 | Adobe Photoshop AI 正版订阅</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/08/Photoshop-AI.png 1101w, https://www.shephe.com/wp-content/uploads/2025/08/Photoshop-AI-768x575.png 768w, https://www.shephe.com/wp-content/uploads/2025/08/Photoshop-AI-900x675.png 900w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-05-20T15:25:00+08:00">
-				05/20/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>解决“此功能不适用于您所在地区”问题 | Adobe Photoshop AI 正版订阅</span></h2>						<p>Adobe Firefly 是近几年 Photoshop 软件中引入的一项创新功能，基于人工智能技术，旨在提升图像编辑的智能化程度。通过集成的 AI 工具，用户可以更便捷地进行图像生成、内容填充、修复和增强等操作，极大地提高了设计效率和创作…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/tutorial/photoshop-service-not-available-in-your-region/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
-					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
-					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
-				</svg>
-			</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[利用 3D LUT Creator 插件制作专业 .LUT 调色滤镜 (牧羊人)]]></title>
-        <id>https://www.shephe.com/resources/3d-lut-creator-for-color-grading/</id>
-        <link href="https://www.shephe.com/resources/3d-lut-creator-for-color-grading/"/>
-        <updated>2026-06-06T08:09:29.645Z</updated>
-        <content type="html"><![CDATA[<a class="grve-item-url" href="https://www.shephe.com/resources/3d-lut-creator-for-color-grading/" rel="bookmark" target="_blank"><span class="screen-reader-text">利用 3D LUT Creator 插件制作专业 .LUT 调色滤镜</span></a>
-
-					<div class="grve-post-media">
-				<div class="grve-media-inner grve-radius-none grve-shadow-none">
-					<div class="grve-background-wrapper">
-						<div class="grve-bg-image lazyload" data-bgset="https://www.shephe.com/wp-content/uploads/2025/09/3D-Lut-Creator-Banner.webp 1600w, https://www.shephe.com/wp-content/uploads/2025/09/3D-Lut-Creator-Banner-768x432.webp 768w, https://www.shephe.com/wp-content/uploads/2025/09/3D-Lut-Creator-Banner-1390x782.webp 1390w" data-sizes="auto"></div>					</div>
-				</div>
-			</div>
-		
-				<div class="grve-post-date grve-h5 grve-heading-color">			<time datetime="2025-09-24T16:17:34+08:00">
-				09/24/2025			</time>
-			</div>
-				<div class="grve-post-content">
-			<h2 class="grve-post-title grve-heading-color grve-h3" itemprop="headline"><span>利用 3D LUT Creator 插件制作专业 .LUT 调色滤镜</span></h2>						<p>在摄影后期中，调色往往决定了一张作品的最终氛围和表现力。即便是同一张照片，通过不同的色彩处理，也能传递完全不同的情绪：清新的绿色让人联想到自然与活力，温暖的橙色能营造出舒适与怀旧的气息，而冷调的蓝色则容易带来理性与沉静的感觉。调色不仅仅是修…</p>					</div>
-		<a class="grve-read-more grve-link-text" href="https://www.shephe.com/resources/3d-lut-creator-for-color-grading/"><span>查看全文</span>				<svg width="40px" height="16px" viewBox="0 0 40 16">
 					<polygon class="grve-arrow-line" points="0 7 38 7 38 9 0 9"></polygon>
 					<polygon class="grve-arrow-point" points="31.3481912 0 40 8 31.3481912 16 30 14.5816219 37.1 8 30 1.41837809"></polygon>
 				</svg>
