@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-07-23T07:59:22.859Z</updated>
+    <updated>2026-07-23T18:48:12.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Comparing kubernetes yaml files (Tristram)]]></title>
@@ -496,7 +496,7 @@
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-2/">
-            <div>2000<hanla></hanla>块搭建家庭网络——国际流量转发</div>
+            <div>2000块搭建家庭网络——国际流量转发</div>
         </a>
     </div>]]></content>
     </entry>
@@ -514,7 +514,7 @@
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/family-network-1/">
-            <div>2000<hanla></hanla>块搭建家庭网络——前言</div>
+            <div>2000块搭建家庭网络——前言</div>
         </a>
     </div>]]></content>
     </entry>
@@ -784,7 +784,7 @@
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/stackexchange-redis-timeout/">
-            <div>处理<hanla></hanla>dotnet core Redis<hanla></hanla>超时异常</div>
+            <div>处理dotnet core Redis超时异常</div>
         </a>
     </div>]]></content>
     </entry>
@@ -802,7 +802,7 @@
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-eclipse/">
-            <div>在<hanla></hanla>Eclipse<hanla></hanla>中调用<hanla></hanla>Algs4<hanla></hanla>库</div>
+            <div>在Eclipse中调用Algs4库</div>
         </a>
     </div>]]></content>
     </entry>
@@ -820,7 +820,7 @@
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/algs4-windows/">
-            <div>在<hanla></hanla>Windows<hanla></hanla>上安装「算法 第四版」组件</div>
+            <div>在Windows上安装「算法 第四版」组件</div>
         </a>
     </div>]]></content>
     </entry>
@@ -838,7 +838,7 @@
     </div>
     <div class="post-item-title grid-cell">
         <a href="/posts/ant-algs-based-on-csharp/">
-            <div>基于<hanla></hanla>C#的蚁群算法实现</div>
+            <div>基于C#的蚁群算法实现</div>
         </a>
     </div>]]></content>
     </entry>
@@ -5924,7 +5924,7 @@
             本次更新为日常迭代，手上旧款3x 快门数已经到达三万，在二手价值依然在七千的情况下选择了迭代一波，理光原价还是挺难抢的，...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-25T22:25:10+08:00">发布于 6月前</time>
+            <time itemprop="datePublished" datetime="2025-12-25T22:25:10+08:00">发布于 7月前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -5946,7 +5946,7 @@
 也被称为旧议会大厦，建筑前方是...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-25T22:23:43+08:00">发布于 6月前</time>
+            <time itemprop="datePublished" datetime="2025-12-25T22:23:43+08:00">发布于 7月前</time>
         </div>]]></content>
     </entry>
     <entry>
