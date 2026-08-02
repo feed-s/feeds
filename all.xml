@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-02T07:51:34.975Z</updated>
+    <updated>2026-08-02T18:36:54.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Comparing kubernetes yaml files (Tristram)]]></title>
@@ -843,6 +843,162 @@
     </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[毛泽东时代中国社会民主主义的覆亡和再度孕生 (中国:历史与未来)]]></title>
+        <id>https://www.chinese-future.org/articles/xtnb74agzyyt4y7327w6w9mwg3cyes</id>
+        <link href="https://www.chinese-future.org/articles/xtnb74agzyyt4y7327w6w9mwg3cyes"/>
+        <updated>2026-08-02T18:36:28.542Z</updated>
+        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+<!-- Timestamp -->
+<time class="summary-metadata-item summary-metadata-item--date" datetime="2026-08-02">August 2, 2026</time>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+              
+              <div class="summary-title">
+                <a href="/articles/xtnb74agzyyt4y7327w6w9mwg3cyes" class="summary-title-link">
+                  毛泽东时代中国社会民主主义的覆亡和再度孕生
+                </a>
+              </div>
+            
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+<!-- Timestamp -->
+<time class="summary-metadata-item summary-metadata-item--date" datetime="2026-08-02">August 2, 2026</time>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+            
+              
+            
+            
+              
+              
+              
+                
+                <a href="/articles/xtnb74agzyyt4y7327w6w9mwg3cyes" class="summary-read-more-link">Read more →</a>
+              
+            
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+
+
+<!-- Timestamp -->
+<time class="summary-metadata-item summary-metadata-item--date" datetime="2026-08-02">August 2, 2026</time>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+          </div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[20世纪上半叶中国社会民主主义的勃兴和突然衰落 (中国:历史与未来)]]></title>
         <id>https://www.chinese-future.org/articles/lpln1uk4h8ooau9cbdns6rpm425qiq</id>
         <link href="https://www.chinese-future.org/articles/lpln1uk4h8ooau9cbdns6rpm425qiq"/>
@@ -1377,7 +1533,7 @@
 
 
 <!-- Categories -->
-<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -1392,7 +1548,7 @@
             
               
               <div class="summary-title">
-                <a href="/articles/j9xhew6e9acwnmjnyg5rhn3jhlbfah" class="summary-title-link">
+                <a href="/articles/j9xhew6e9acwnmjnyg5rhn3jhlbfah" class="summary-title-link" tabindex="-1">
                   论中共政权的脆断
                 </a>
               </div>
@@ -1431,7 +1587,7 @@
 
 
 <!-- Categories -->
-<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -1451,7 +1607,7 @@
               
               
                 
-                <a href="/articles/j9xhew6e9acwnmjnyg5rhn3jhlbfah" class="summary-read-more-link">Read more →</a>
+                <a href="/articles/j9xhew6e9acwnmjnyg5rhn3jhlbfah" class="summary-read-more-link" tabindex="-1">Read more →</a>
               
             
             
@@ -1488,7 +1644,7 @@
 
 
 <!-- Categories -->
-<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB">政治</a></span>
+<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E6%94%BF%E6%B2%BB" tabindex="-1">政治</a></span>
 
 
 
@@ -5614,171 +5770,6 @@
 
 <!-- Categories -->
 <span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8F%B0%E6%B8%AF%E6%BE%B3%E8%97%8F%E7%96%86" tabindex="-1">台港澳藏疆</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-          </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为“中华盖楼”而努力——烽火中的华盖建筑师 (中国:历史与未来)]]></title>
-        <id>https://www.chinese-future.org/articles/93ll95ca66x9c2dzk6ccyfcpsa272t</id>
-        <link href="https://www.chinese-future.org/articles/93ll95ca66x9c2dzk6ccyfcpsa272t"/>
-        <updated>2025-07-02T17:48:42.318Z</updated>
-        <content type="html"><![CDATA[<div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
-            
-            <div class="summary-metadata-container summary-metadata-container--above-title">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-
-
-<!-- Timestamp -->
-<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-16">January 16, 2022</time>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-
-
-
-
-
-
-<!-- Categories -->
-<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-            
-              
-              <div class="summary-title">
-                <a href="/articles/93ll95ca66x9c2dzk6ccyfcpsa272t" class="summary-title-link" tabindex="-1">
-                  为“中华盖楼”而努力——烽火中的华盖建筑师
-                </a>
-              </div>
-            
-            
-            <div class="summary-metadata-container summary-metadata-container--below-title">
-            
-              <div class="summary-metadata summary-metadata--primary">
-
-
-
-<!-- Timestamp -->
-<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-16">January 16, 2022</time>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-
-
-
-
-
-
-<!-- Categories -->
-<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
-
-
-
-
-
-
-
-
-
-</div>
-            </div>
-            
-              
-            
-            
-              
-              
-              
-                
-                <a href="/articles/93ll95ca66x9c2dzk6ccyfcpsa272t" class="summary-read-more-link" tabindex="-1">Read more →</a>
-              
-            
-            
-            <div class="summary-metadata-container summary-metadata-container--below-content">
-              
-              <div class="summary-metadata summary-metadata--primary">
-
-
-
-<!-- Timestamp -->
-<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-16">January 16, 2022</time>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-              
-              <div class="summary-metadata summary-metadata--secondary">
-
-
-
-
-
-
-
-<!-- Categories -->
-<span class="summary-metadata-item summary-metadata-item--cats"><a href="/articles?category=%E5%8E%86%E5%8F%B2" tabindex="-1">历史</a></span>
 
 
 
