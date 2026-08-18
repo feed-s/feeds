@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-08-18T05:59:19.139Z</updated>
+    <updated>2026-08-18T18:02:28.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Comparing kubernetes yaml files (Tristram)]]></title>
