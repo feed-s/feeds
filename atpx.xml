@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2026-10-01T21:59:54.534Z</updated>
+    <updated>2026-10-02T11:19:41.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[西北三日游]]></title>
+        <id>https://atpx.com/blog/northwest-china-tour/</id>
+        <link href="https://atpx.com/blog/northwest-china-tour/"/>
+        <updated>2026-10-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/northwest-china-tour/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0128-fly-to-the-northwest.jpg">
+                        
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-orange">Nichijou</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">西北三日游</h2>
+                            <div class="post-tile-description">一次简单的兰州、西宁三日游。</div>
+                        </div>
+                        <div class="post-tile-time">October 2, 2026</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自建 S3 兼容对象存储服务 Garage]]></title>
         <id>https://atpx.com/blog/garage-s3/</id>
@@ -245,33 +272,6 @@
                             <div class="post-tile-description">我选择放弃自建 Fediverse 服务器，并停止探索，回归一个单纯的用户。</div>
                         </div>
                         <div class="post-tile-time">February 23, 2025</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[互联网背景噪音]]></title>
-        <id>https://atpx.com/blog/the-internet-background-noise/</id>
-        <link href="https://atpx.com/blog/the-internet-background-noise/"/>
-        <updated>2025-04-18T00:26:24.466Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/the-internet-background-noise/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg">
-                    
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">互联网背景噪音</h2>
-                            <div class="post-tile-description">网络扫描、引战、争吵，我们似乎已经对这些无处不在的互联网背景噪音无能为力了。</div>
-                        </div>
-                        <div class="post-tile-time">December 30, 2024</div> 
                     </div>
                 </a>]]></content>
     </entry>
