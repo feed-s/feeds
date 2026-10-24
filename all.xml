@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feed-s.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-10-24T09:46:31.226Z</updated>
+    <updated>2026-10-24T19:44:48.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Comparing kubernetes yaml files (Tristram)]]></title>
@@ -5805,7 +5805,7 @@
             预售的时候还需要抢，只抢到了套餐2，觉得太贵不划算，就没付定金，估计实在是过于小众，过几天就放货了，还是标配，就下单了...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/reviews" rel="category tag">Reviews</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-10-09T19:22:03+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2026-10-09T19:22:03+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -5834,7 +5834,7 @@
 东京...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-10-09T19:21:28+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2026-10-09T19:21:28+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -5854,7 +5854,7 @@
 机场...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-10-09T19:15:09+08:00">发布于 14 天前</time>
+            <time itemprop="datePublished" datetime="2026-10-09T19:15:09+08:00">发布于 15 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -6321,6 +6321,33 @@
 			</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[堆栈溢出的一周 (ATP)]]></title>
+        <id>https://atpx.com/blog/week-of-stack-overflow/</id>
+        <link href="https://atpx.com/blog/week-of-stack-overflow/"/>
+        <updated>2026-10-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/week-of-stack-overflow/">
+                    <div class="post-tile-media">
+                    
+                        <img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg">
+                    
+                    </div>
+                    <div class="post-tile-content">
+                        <div class="post-tile-head">
+                            
+                            <div class="post-tile-categories">
+                                
+                                <span class="c-purple">Thoughts</span>
+                                
+                            </div>
+                            
+                            <h2 class="post-tile-title">堆栈溢出的一周</h2>
+                            <div class="post-tile-description">懂归懂，失落归失落，好坏都得继续。</div>
+                        </div>
+                        <div class="post-tile-time">October 24, 2026</div> 
+                    </div>
+                </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[西北三日游 (ATP)]]></title>
         <id>https://atpx.com/blog/northwest-china-tour/</id>
         <link href="https://atpx.com/blog/northwest-china-tour/"/>
@@ -6560,33 +6587,6 @@
                             <div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div>
                         </div>
                         <div class="post-tile-time">March 28, 2025</div> 
-                    </div>
-                </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我停止了探索 Fediverse (ATP)]]></title>
-        <id>https://atpx.com/blog/i-stopped-exploring-the-fediverse/</id>
-        <link href="https://atpx.com/blog/i-stopped-exploring-the-fediverse/"/>
-        <updated>2025-04-18T00:26:24.465Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/i-stopped-exploring-the-fediverse/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0119-give-up-fediverse.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">我停止了探索 Fediverse</h2>
-                            <div class="post-tile-description">我选择放弃自建 Fediverse 服务器，并停止探索，回归一个单纯的用户。</div>
-                        </div>
-                        <div class="post-tile-time">February 23, 2025</div> 
                     </div>
                 </a>]]></content>
     </entry>
