@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2026-10-26T11:30:56.888Z</updated>
+    <updated>2026-10-26T21:50:35.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
     <entry>
@@ -10,269 +10,69 @@
         <id>https://atpx.com/blog/week-of-stack-overflow/</id>
         <link href="https://atpx.com/blog/week-of-stack-overflow/"/>
         <updated>2026-10-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/week-of-stack-overflow/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg">
-                    
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">堆栈溢出的一周</h2>
-                            <div class="post-tile-description">懂归懂，失落归失落，好坏都得继续。</div>
-                        </div>
-                        <div class="post-tile-time">October 24, 2026</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/week-of-stack-overflow/"><div class="post-tile-media"><img class="post-tile-thumb" src="/static/images/post-thumb-default.jpg"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-purple">Thoughts</span></div><h2 class="post-tile-title">堆栈溢出的一周</h2><div class="post-tile-description">懂归懂，失落归失落，好坏都得继续。</div></div><div class="post-tile-time">October 24, 2026</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[西北三日游]]></title>
         <id>https://atpx.com/blog/northwest-china-tour/</id>
         <link href="https://atpx.com/blog/northwest-china-tour/"/>
         <updated>2026-10-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/northwest-china-tour/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0128-fly-to-the-northwest.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-orange">Nichijou</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">西北三日游</h2>
-                            <div class="post-tile-description">一次简单的兰州、西宁三日游。</div>
-                        </div>
-                        <div class="post-tile-time">October 2, 2026</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/northwest-china-tour/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0128-fly-to-the-northwest.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-orange">Nichijou</span></div><h2 class="post-tile-title">西北三日游</h2><div class="post-tile-description">一次简单的兰州、西宁三日游。</div></div><div class="post-tile-time">October 2, 2026</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自建 S3 兼容对象存储服务 Garage]]></title>
         <id>https://atpx.com/blog/garage-s3/</id>
         <link href="https://atpx.com/blog/garage-s3/"/>
         <updated>2026-03-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/garage-s3/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0127-garage-s3.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-blue">Tech</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">自建 S3 兼容对象存储服务 Garage</h2>
-                            <div class="post-tile-description">自建基于 Rust 开发的开源 S3 兼容分布式对象存储服务 Garage 流程。</div>
-                        </div>
-                        <div class="post-tile-time">March 1, 2026</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/garage-s3/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0127-garage-s3.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-blue">Tech</span></div><h2 class="post-tile-title">自建 S3 兼容对象存储服务 Garage</h2><div class="post-tile-description">自建基于 Rust 开发的开源 S3 兼容分布式对象存储服务 Garage 流程。</div></div><div class="post-tile-time">March 1, 2026</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[听风的歌]]></title>
         <id>https://atpx.com/blog/hear-the-wind-sing/</id>
         <link href="https://atpx.com/blog/hear-the-wind-sing/"/>
         <updated>2026-02-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/hear-the-wind-sing/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0126-hear-the-wind-sing.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">听风的歌</h2>
-                            <div class="post-tile-description">偶尔听听风的歌，想想忘记的事。</div>
-                        </div>
-                        <div class="post-tile-time">February 1, 2026</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/hear-the-wind-sing/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0126-hear-the-wind-sing.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-purple">Thoughts</span></div><h2 class="post-tile-title">听风的歌</h2><div class="post-tile-description">偶尔听听风的歌，想想忘记的事。</div></div><div class="post-tile-time">February 1, 2026</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[偶尔是深夜就好了]]></title>
         <id>https://atpx.com/blog/sometimes-midnight-is-enough/</id>
         <link href="https://atpx.com/blog/sometimes-midnight-is-enough/"/>
         <updated>2025-10-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/sometimes-midnight-is-enough/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0125-sometimes-midnight-is-enough.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-purple">Thoughts</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">偶尔是深夜就好了</h2>
-                            <div class="post-tile-description">白天太长了，偶尔是深夜就好了。</div>
-                        </div>
-                        <div class="post-tile-time">October 20, 2025</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/sometimes-midnight-is-enough/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0125-sometimes-midnight-is-enough.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-purple">Thoughts</span></div><h2 class="post-tile-title">偶尔是深夜就好了</h2><div class="post-tile-description">白天太长了，偶尔是深夜就好了。</div></div><div class="post-tile-time">October 20, 2025</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新玩具 AirPods Pro 3]]></title>
         <id>https://atpx.com/blog/airpods-pro-3/</id>
         <link href="https://atpx.com/blog/airpods-pro-3/"/>
         <updated>2025-09-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/airpods-pro-3/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0124-airpods-pro-3.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-orange">Nichijou</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">新玩具 AirPods Pro 3</h2>
-                            <div class="post-tile-description">出于降噪需求，新入手 AirPods Pro 3 体验。</div>
-                        </div>
-                        <div class="post-tile-time">September 23, 2025</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/airpods-pro-3/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0124-airpods-pro-3.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-orange">Nichijou</span></div><h2 class="post-tile-title">新玩具 AirPods Pro 3</h2><div class="post-tile-description">出于降噪需求，新入手 AirPods Pro 3 体验。</div></div><div class="post-tile-time">September 23, 2025</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[公交车上的时间]]></title>
         <id>https://atpx.com/blog/time-on-the-bus/</id>
         <link href="https://atpx.com/blog/time-on-the-bus/"/>
         <updated>2025-09-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/time-on-the-bus/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0123-time-on-the-bus.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-orange">Nichijou</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">公交车上的时间</h2>
-                            <div class="post-tile-description">长时间的公交车通勤，该做什么好呢？写于公交车上的时间。</div>
-                        </div>
-                        <div class="post-tile-time">September 15, 2025</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/time-on-the-bus/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0123-time-on-the-bus.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-orange">Nichijou</span></div><h2 class="post-tile-title">公交车上的时间</h2><div class="post-tile-description">长时间的公交车通勤，该做什么好呢？写于公交车上的时间。</div></div><div class="post-tile-time">September 15, 2025</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[从 WHOIS 到 RDAP]]></title>
         <id>https://atpx.com/blog/from-whois-to-rdap/</id>
         <link href="https://atpx.com/blog/from-whois-to-rdap/"/>
         <updated>2025-05-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/from-whois-to-rdap/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0122-whois-atpx-com.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-blue">Tech</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">从 WHOIS 到 RDAP</h2>
-                            <div class="post-tile-description">ICANN 于 2025 年正式终止了 WHOIS 协议支持，用更现代的 RDAP 协议作为替代。</div>
-                        </div>
-                        <div class="post-tile-time">May 12, 2025</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/from-whois-to-rdap/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0122-whois-atpx-com.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-blue">Tech</span></div><h2 class="post-tile-title">从 WHOIS 到 RDAP</h2><div class="post-tile-description">ICANN 于 2025 年正式终止了 WHOIS 协议支持，用更现代的 RDAP 协议作为替代。</div></div><div class="post-tile-time">May 12, 2025</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过 WireGuard 访问 NFS 共享文件]]></title>
         <id>https://atpx.com/blog/nfs-share-over-wireguard/</id>
         <link href="https://atpx.com/blog/nfs-share-over-wireguard/"/>
         <updated>2025-05-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/nfs-share-over-wireguard/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0121-nfs-share-over-wireguard.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-blue">Tech</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">通过 WireGuard 访问 NFS 共享文件</h2>
-                            <div class="post-tile-description">通过 WireGuard 协议，安全快速的访问 NFS 挂载的另一台服务器上的共享文件。</div>
-                        </div>
-                        <div class="post-tile-time">May 8, 2025</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/nfs-share-over-wireguard/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0121-nfs-share-over-wireguard.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-blue">Tech</span></div><h2 class="post-tile-title">通过 WireGuard 访问 NFS 共享文件</h2><div class="post-tile-description">通过 WireGuard 协议，安全快速的访问 NFS 挂载的另一台服务器上的共享文件。</div></div><div class="post-tile-time">May 8, 2025</div></div></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[自建音乐串流服务探索]]></title>
         <id>https://atpx.com/blog/selfhosted-music-streaming-server/</id>
         <link href="https://atpx.com/blog/selfhosted-music-streaming-server/"/>
         <updated>2025-04-18T00:26:24.463Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/selfhosted-music-streaming-server/">
-                    <div class="post-tile-media">
-                    
-                        <img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0120-selfhosted-music-streaming-server.jpg">
-                        
-                    </div>
-                    <div class="post-tile-content">
-                        <div class="post-tile-head">
-                            
-                            <div class="post-tile-categories">
-                                
-                                <span class="c-blue">Tech</span>
-                                
-                            </div>
-                            
-                            <h2 class="post-tile-title">自建音乐串流服务探索</h2>
-                            <div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div>
-                        </div>
-                        <div class="post-tile-time">March 28, 2025</div> 
-                    </div>
-                </a>]]></content>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/selfhosted-music-streaming-server/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0120-selfhosted-music-streaming-server.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-blue">Tech</span></div><h2 class="post-tile-title">自建音乐串流服务探索</h2><div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div></div><div class="post-tile-time">March 28, 2025</div></div></a>]]></content>
     </entry>
 </feed>
