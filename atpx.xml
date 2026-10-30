@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://atpx.com/blog/</id>
     <title>ATP</title>
-    <updated>2026-10-30T11:35:38.987Z</updated>
+    <updated>2026-10-30T21:41:44.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://atpx.com/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[新玩具 Apple Watch Series 12]]></title>
+        <id>https://atpx.com/blog/apple-watch-series-12/</id>
+        <link href="https://atpx.com/blog/apple-watch-series-12/"/>
+        <updated>2026-10-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/apple-watch-series-12/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2026/0130-01.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-orange">Nichijou</span></div><h2 class="post-tile-title">新玩具 Apple Watch Series 12</h2><div class="post-tile-description">Apple Watch Series 12 使用一个月简单体验。</div></div><div class="post-tile-time">October 30, 2026</div></div></a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[堆栈溢出的一周]]></title>
         <id>https://atpx.com/blog/week-of-stack-overflow/</id>
@@ -67,12 +74,5 @@
         <link href="https://atpx.com/blog/nfs-share-over-wireguard/"/>
         <updated>2025-05-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/nfs-share-over-wireguard/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0121-nfs-share-over-wireguard.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-blue">Tech</span></div><h2 class="post-tile-title">通过 WireGuard 访问 NFS 共享文件</h2><div class="post-tile-description">通过 WireGuard 协议，安全快速的访问 NFS 挂载的另一台服务器上的共享文件。</div></div><div class="post-tile-time">May 8, 2025</div></div></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自建音乐串流服务探索]]></title>
-        <id>https://atpx.com/blog/selfhosted-music-streaming-server/</id>
-        <link href="https://atpx.com/blog/selfhosted-music-streaming-server/"/>
-        <updated>2025-04-18T00:26:24.463Z</updated>
-        <content type="html"><![CDATA[<a class="post-tile-url no-underline" href="https://atpx.com/blog/selfhosted-music-streaming-server/"><div class="post-tile-media"><img class="post-tile-thumb" src="https://s2.atpx.com/images/blog/thumb/2025/0120-selfhosted-music-streaming-server.jpg" loading="lazy" decoding="async"></div><div class="post-tile-content"><div class="post-tile-head"><div class="post-tile-categories"><span class="c-blue">Tech</span></div><h2 class="post-tile-title">自建音乐串流服务探索</h2><div class="post-tile-description">过去一年里，我的自建音乐串流服务方案探索。</div></div><div class="post-tile-time">March 28, 2025</div></div></a>]]></content>
     </entry>
 </feed>
