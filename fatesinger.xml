@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2026-11-06T13:11:52.053Z</updated>
+    <updated>2026-11-06T22:21:10.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[正定访古]]></title>
+        <id>https://fatesinger.com/106533</id>
+        <link href="https://fatesinger.com/106533"/>
+        <updated>2026-11-06T22:20:53.097Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/106533" aria-label="正定访古" title="正定访古">正定访古</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            红墙上的扇面花鸟画，双鸟停栖于梅枝与竹石之间，为寺院添了几分清雅生趣。
+五月份的时候去了一趟石家庄，抽了一些时间去了趟...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2026-11-07T00:47:34+08:00">发布于 5 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GR IV Monochrome 简单上手体验]]></title>
         <id>https://fatesinger.com/106453</id>
@@ -153,24 +169,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-12-30T17:01:12+08:00">发布于 10月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴黎散记 II]]></title>
-        <id>https://fatesinger.com/105363</id>
-        <link href="https://fatesinger.com/105363"/>
-        <updated>2025-12-29T17:47:36.464Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105363" aria-label="巴黎散记 II" title="巴黎散记 II">巴黎散记 II</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            参观完巴黎圣母院，预估了一下时间，开始往卢浮宫出发，临时买票没买到最早场，只能买次早场。
-微小的圣诞氛围
-骑行
-卢浮宫东...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-29T15:51:37+08:00">发布于 10月前</time>
         </div>]]></content>
     </entry>
 </feed>
