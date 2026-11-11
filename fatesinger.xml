@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2026-11-11T12:56:25.106Z</updated>
+    <updated>2026-11-11T23:42:16.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[琅勃拉邦小逛]]></title>
+        <id>https://fatesinger.com/105693</id>
+        <link href="https://fatesinger.com/105693"/>
+        <updated>2026-11-11T23:41:59.865Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/105693" aria-label="琅勃拉邦小逛" title="琅勃拉邦小逛">琅勃拉邦小逛</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            西双版纳站
+对面站台的绿皮车
+磨丁站
+磨丁站
+磨丁站免税店
+琅勃拉邦站
+古城街道
+南康河老铁桥。桥面挺窄，摩托车倒是照样来来...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2026-11-11T22:18:59+08:00">发布于 9 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[保加利亚小逛 III]]></title>
         <id>https://fatesinger.com/106647</id>
@@ -50,7 +72,7 @@
 五月份的时候去了一趟石家庄，抽了一些时间去了趟...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-11-07T00:47:34+08:00">发布于 4 天前</time>
+            <time itemprop="datePublished" datetime="2026-11-07T00:47:34+08:00">发布于 5 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -150,25 +172,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2025-12-31T10:42:38+08:00">发布于 10月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴黎散记 IV]]></title>
-        <id>https://fatesinger.com/105571</id>
-        <link href="https://fatesinger.com/105571"/>
-        <updated>2025-12-31T05:52:36.402Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105571" aria-label="巴黎散记 IV" title="巴黎散记 IV">巴黎散记 IV</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            运气不好，早上醒来发现下雨了，而且很冷，但是身在巴黎是按秒计费的，还是要坚持city walk。
-雨后
-拉菲特路
-卡尼尔歌剧院
-老...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-31T10:26:55+08:00">发布于 10月前</time>
         </div>]]></content>
     </entry>
 </feed>
