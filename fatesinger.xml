@@ -2,9 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fatesinger.com/</id>
     <title>大发贱志</title>
-    <updated>2026-11-14T12:29:13.657Z</updated>
+    <updated>2026-11-14T21:40:43.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://fatesinger.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[斯洛伐克打卡]]></title>
+        <id>https://fatesinger.com/106569</id>
+        <link href="https://fatesinger.com/106569"/>
+        <updated>2026-11-14T21:40:25.156Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/106569" aria-label="斯洛伐克打卡" title="斯洛伐克打卡">斯洛伐克打卡</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            布拉迪斯拉发
+非常非常热
+电车轨道
+纪念品店
+中国人无处不在
+布拉迪斯拉发火车站
+        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2026-11-14T23:13:57+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法兰克福散记]]></title>
+        <id>https://fatesinger.com/106579</id>
+        <link href="https://fatesinger.com/106579"/>
+        <updated>2026-11-14T21:40:25.157Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/106579" aria-label="法兰克福散记" title="法兰克福散记">法兰克福散记</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            法兰克福机场
+机场 A 区登机口
+这个路口够宽，斑马线都分了两段。
+街边座位
+Hauptwache 站口
+14 路电车，车身贴的是去土耳其...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/travel" rel="category tag">足迹</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2026-11-14T23:08:21+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苏黎世的一天]]></title>
+        <id>https://fatesinger.com/106558</id>
+        <link href="https://fatesinger.com/106558"/>
+        <updated>2026-11-14T21:40:25.159Z</updated>
+        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
+            <a href="https://fatesinger.com/106558" aria-label="苏黎世的一天" title="苏黎世的一天">苏黎世的一天</a>
+        </h2>
+        <div class="block-snippet" itemprop="about">
+            初到苏黎世，和想象中的完全不一样，路边的大麻味一度以为自己在荷兰。
+Zürich
+天还没全黑，站台已经亮灯了。刚好一辆白车从...        </div>
+        <div class="block-postMeta">
+            <a href="https://fatesinger.com/still-walking" rel="category tag">步履不停</a>            <span class="middotDivider"></span>
+            <time itemprop="datePublished" datetime="2026-11-14T23:06:19+08:00">发布于 6 小时前</time>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[琅勃拉邦小逛]]></title>
         <id>https://fatesinger.com/105693</id>
@@ -24,7 +82,7 @@
 南康河老铁桥。桥面挺窄，摩托车倒是照样来来...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-11-11T22:18:59+08:00">发布于 2 天前</time>
+            <time itemprop="datePublished" datetime="2026-11-11T22:18:59+08:00">发布于 3 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -72,7 +130,7 @@
 五月份的时候去了一趟石家庄，抽了一些时间去了趟...        </div>
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-11-07T00:47:34+08:00">发布于 7 天前</time>
+            <time itemprop="datePublished" datetime="2026-11-07T00:47:34+08:00">发布于 8 天前</time>
         </div>]]></content>
     </entry>
     <entry>
@@ -117,61 +175,6 @@
         <div class="block-postMeta">
             <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
             <time itemprop="datePublished" datetime="2026-10-09T19:21:28+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保加利亚小逛]]></title>
-        <id>https://fatesinger.com/106571</id>
-        <link href="https://fatesinger.com/106571"/>
-        <updated>2026-10-09T12:05:07.720Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/106571" aria-label="保加利亚小逛" title="保加利亚小逛">保加利亚小逛</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            索菲亚机场
-索菲亚机场大厅里的旅客与 ATM
-机场大厅一侧的休息区和租车柜台
-航站楼外等候的出租车
-索菲亚机场地铁站入口
-机场...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2026-10-09T19:15:09+08:00">发布于 1月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[请回答 2025]]></title>
-        <id>https://fatesinger.com/105438</id>
-        <link href="https://fatesinger.com/105438"/>
-        <updated>2025-12-31T17:46:48.267Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105438" aria-label="请回答 2025" title="请回答 2025">请回答 2025</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            2026
-按照惯例，每年这个时候我都会写一篇跨年博客来大谈特谈，今年是第十四年，是不再跨年的第一年。
-其实从去年开始我就已...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/mankind" rel="category tag">人世间</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-31T17:14:49+08:00">发布于 10月前</time>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[布拉格 II]]></title>
-        <id>https://fatesinger.com/105683</id>
-        <link href="https://fatesinger.com/105683"/>
-        <updated>2025-12-31T05:52:36.401Z</updated>
-        <content type="html"><![CDATA[<h2 class="block-title" itemprop="headline">
-            <a href="https://fatesinger.com/105683" aria-label="布拉格 II" title="布拉格 II">布拉格 II</a>
-        </h2>
-        <div class="block-snippet" itemprop="about">
-            布拉格不大，但真的是一座很漂亮的城市，还是比较推荐的，但是冬天天气太差，换个季节来会好很多。
-布拉格
-斯特拉霍夫修道院
-...        </div>
-        <div class="block-postMeta">
-            <a href="https://fatesinger.com/getaway" rel="category tag">逍遥游</a>            <span class="middotDivider"></span>
-            <time itemprop="datePublished" datetime="2025-12-31T10:42:38+08:00">发布于 10月前</time>
         </div>]]></content>
     </entry>
 </feed>
